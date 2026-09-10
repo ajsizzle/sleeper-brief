@@ -1,0 +1,9 @@
+# Cached slice of Sleeper's player file; restored between runs, not committed.
+players_trim.json
+
+# Python
+__pycache__/
+*.py[cod]
+
+# macOS
+.DS_Store

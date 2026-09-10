@@ -1,0 +1,68 @@
+name: league state
+
+# Runs on a schedule and on demand only. Fork-triggered events are
+# deliberately absent so that no outside contributor can start a run
+# that has access to the repository secrets.
+on:
+  schedule:
+    # 11:00 UTC daily. That is 7am during EDT and 6am during EST, since
+    # GitHub cron has no notion of local time and never shifts.
+    - cron: "0 11 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: league-state
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # The trimmed player file is restored between runs so the 5MB
+      # upstream players endpoint is polled at most once a day, which is
+      # what Sleeper asks for. The date in the key rolls the cache over.
+      - name: Restore the player cache
+        uses: actions/cache@v4
+        with:
+          path: players_trim.json
+          key: players-trim-${{ github.run_id }}
+          restore-keys: |
+            players-trim-
+
+      # The suite asserts that no identifier can reach the output. It runs
+      # before the script so a leaking edit stops the job here, while the
+      # working tree is still untouched.
+      - name: Run the leak-guard test suite
+        run: python -m unittest -v test_sleeper_brief
+
+      - name: Build the league state
+        env:
+          LEAGUE_ID: ${{ secrets.LEAGUE_ID }}
+          SLEEPER_USERNAME: ${{ secrets.SLEEPER_USERNAME }}
+        run: python sleeper_brief.py
+
+      - name: Commit the refreshed files
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add league.md league.json
+          if git diff --staged --quiet; then
+            echo "League state is unchanged; nothing to commit."
+            exit 0
+          fi
+          git commit -m "Refresh league state for $(date -u +'%Y-%m-%d')"
+          git push
