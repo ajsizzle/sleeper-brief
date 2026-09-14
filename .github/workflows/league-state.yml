@@ -1,14 +1,15 @@
-name: league state
+name: league-state
 
-# Runs on a schedule and on demand only. Fork-triggered events are
-# deliberately absent so that no outside contributor can start a run
-# that has access to the repository secrets.
 on:
-  schedule:
-    # 11:00 UTC daily. That is 7am during EDT and 6am during EST, since
-    # GitHub cron has no notion of local time and never shifts.
-    - cron: "0 11 * * *"
   workflow_dispatch:
+  schedule:
+    # GitHub cron is UTC. These are 7:15 am, 11:15 am, and 6:45 pm Eastern
+    # during daylight time, about 45 minutes ahead of each brief run.
+    # After clocks change on Nov 1 they land an hour earlier in ET,
+    # which is still ahead of the brief, so no edit is needed.
+    - cron: "15 11 * * *"
+    - cron: "15 15 * * *"
+    - cron: "45 22 * * *"
 
 permissions:
   contents: write
@@ -18,51 +19,51 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  refresh:
+  build:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
-
     steps:
-      - name: Check out the repository
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
+      - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
 
-      # The trimmed player file is restored between runs so the 5MB
-      # upstream players endpoint is polled at most once a day, which is
-      # what Sleeper asks for. The date in the key rolls the cache over.
-      - name: Restore the player cache
-        uses: actions/cache@v4
-        with:
-          path: players_trim.json
-          key: players-trim-${{ github.run_id }}
-          restore-keys: |
-            players-trim-
+      - name: Run tests (leak checks included)
+        run: python -m unittest -v
 
-      # The suite asserts that no identifier can reach the output. It runs
-      # before the script so a leaking edit stops the job here, while the
-      # working tree is still untouched.
-      - name: Run the leak-guard test suite
-        run: python -m unittest -v test_sleeper_brief
-
-      - name: Build the league state
+      - name: Pull league state from Sleeper
+        # Stored as secrets, not variables, so GitHub masks them in the
+        # public workflow logs.
         env:
           LEAGUE_ID: ${{ secrets.LEAGUE_ID }}
           SLEEPER_USERNAME: ${{ secrets.SLEEPER_USERNAME }}
         run: python sleeper_brief.py
 
-      - name: Commit the refreshed files
+      - name: Leak scan of generated files
+        # Second, independent guard. The script already refuses to write
+        # identifiers; this step fails the job if anything slipped through.
+        # Secret values are masked by GitHub if they ever print.
+        env:
+          LEAGUE_ID: ${{ secrets.LEAGUE_ID }}
+          SLEEPER_USERNAME: ${{ secrets.SLEEPER_USERNAME }}
         run: |
-          set -euo pipefail
+          set -e
+          for f in league.md league.json players_trim.json; do
+            [ -f "$f" ] || { echo "missing $f"; exit 1; }
+            if grep -qF -- "$LEAGUE_ID" "$f"; then echo "league id found in $f"; exit 1; fi
+            if grep -qiF -- "$SLEEPER_USERNAME" "$f"; then echo "username found in $f"; exit 1; fi
+            if grep -qE '[0-9]{15,}' "$f"; then echo "long numeric id found in $f"; exit 1; fi
+          done
+          echo "leak scan clean"
+
+      - name: Commit if anything changed
+        run: |
           git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add league.md league.json
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add league.md league.json players_trim.json
           if git diff --staged --quiet; then
-            echo "League state is unchanged; nothing to commit."
-            exit 0
+            echo "No changes."
+          else
+            git commit -m "league state $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
           fi
-          git commit -m "Refresh league state for $(date -u +'%Y-%m-%d')"
-          git push

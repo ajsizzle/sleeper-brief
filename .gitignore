@@ -1,5 +1,6 @@
-# Cached slice of Sleeper's player file; restored between runs, not committed.
-players_trim.json
+# players_trim.json is intentionally committed: it is how the 24-hour
+# player cache survives between ephemeral runners, and the workflow's
+# leak scan checks it alongside the generated files.
 
 # Python
 __pycache__/
