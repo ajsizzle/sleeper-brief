@@ -243,12 +243,31 @@ class TestFailuresDoNotLeak(Harness):
             SPEC.loader.exec_module(sb)
         self.assert_no_canaries(str(cm.exception))
 
+    def test_handle_used_as_team_name_is_allowed(self):
+        """A member whose team name equals their handle must not trip the guard."""
+        self.api[f"/league/{LEAGUE_ID}/users"][1]["metadata"] = {"team_name": OTHER_DISPLAY}
+        out, err, exc = self.run_script()
+        self.assertIsNone(exc, f"unexpected failure: {exc}")
+        self.assertIn(OTHER_DISPLAY, sb.OUT_MD.read_text())   # as a team name, on purpose
+        # everything else stays clean
+        text = self.observable(out, err, exc)
+        for c in (LEAGUE_ID, USERNAME, MY_UID, OTHER_UID, MY_DISPLAY, AVATAR):
+            self.assertNotIn(c, text)
+
+    def test_handle_not_used_as_team_name_still_trips(self):
+        """Same handle, but leaking through a different path, must still trip."""
+        self.api[f"/league/{LEAGUE_ID}"]["name"] = f"League of {OTHER_DISPLAY}"
+        out, err, exc = self.run_script()
+        self.assertIsInstance(exc, RuntimeError)
+        self.assertIn("member handle", str(exc))
+        self.assertFalse(sb.OUT_MD.exists())
+
     def test_leak_guard_blocks_a_bad_edit(self):
         """Simulate a future bug that puts a user ID into a team name."""
         self.api[f"/league/{LEAGUE_ID}/users"][1]["metadata"] = {"team_name": f"Team {OTHER_UID}"}
         out, err, exc = self.run_script()
         self.assertIsInstance(exc, RuntimeError)
-        self.assertIn("leak guard", str(exc))
+        self.assertIn("Sleeper user id", str(exc))
         self.assertFalse(sb.OUT_MD.exists(), "guard must fire before files are written")
         self.assert_no_canaries(self.observable(out, err, exc))
 

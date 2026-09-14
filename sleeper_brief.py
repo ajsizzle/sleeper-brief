@@ -108,10 +108,12 @@ SNOWFLAKE = re.compile(r"\d{15,}")
 def assert_clean(text, sensitive):
     """Raise if any identifier or any 15+ digit number (Sleeper user and
     league IDs are 18-digit snowflakes; player IDs are under 6 digits)
-    appears in the output. The message never repeats the value."""
-    for value in sensitive:
-        if value and len(str(value)) >= 3 and str(value) in text:
-            raise RuntimeError("leak guard tripped: an identifier reached the output")
+    appears in the output. `sensitive` maps a category label to a set of
+    values. The message names the category only, never the value."""
+    for category, values in sensitive.items():
+        for value in values:
+            if value and len(str(value)) >= 3 and str(value) in text:
+                raise RuntimeError(f"leak guard tripped: {category} reached the output")
     if SNOWFLAKE.search(text):
         raise RuntimeError("leak guard tripped: a long numeric ID reached the output")
 
@@ -377,9 +379,24 @@ def main():
     }, indent=2)
 
     # Leak guard: refuse to write anything that carries an identifier.
-    sensitive = {league_id, username, my_uid} | set(users_by_id) | {
-        u.get("display_name") for u in users if u.get("display_name")
-    } | {u.get("username") for u in users if u.get("username")}
+    # Display names are excluded when a member has made their team name
+    # identical to their handle; that string is going in the file as a
+    # team name by their own choice, and the guard must not block the run.
+    team_names_lower = {
+        ((u.get("metadata") or {}).get("team_name") or "").lower() for u in users
+    }
+    handles = set()
+    for u in users:
+        for key in ("display_name", "username"):
+            h = u.get(key)
+            if h and h.lower() not in team_names_lower:
+                handles.add(h)
+    sensitive = {
+        "the league id": {league_id},
+        "the configured user secret": {username},
+        "a Sleeper user id": {my_uid} | set(users_by_id),
+        "a member handle": handles,
+    }
     assert_clean(md_text + json_text, sensitive)
 
     OUT_MD.write_text(md_text)
