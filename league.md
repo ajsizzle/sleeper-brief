@@ -1,5 +1,5 @@
 # Sleeper league state
-Generated Sunday September 13, 2026 09:18 PM ET · Season 2026 · NFL week 1
+Generated Monday September 14, 2026 12:56 PM ET · Season 2026 · NFL week 1
 League: The Dudes Will Roll · 12 teams · waivers: FAAB (budget $200) · lineup: QB, RB, RB, WR, WR, TE, FLEX, K, DEF
 
 ## My team: THE ACE OF SPADES (roster 11)
@@ -106,30 +106,30 @@ Bench: Jalen Coker (WR, CAR); Aaron Jones (RB, MIN); Tony Pollard (RB, TEN); Mic
 - Week 1 · free_agent · complete · Sun Sep 06 08:57 AM · Thoroughbred Cheesehead · added: Roschon Johnson (RB, CHI) to Thoroughbred Cheesehead · dropped: Kenyon Sadiq (TE, NYJ) from Thoroughbred Cheesehead
 
 ## Trending adds across Sleeper, last 24 hours
-- Michael Mayer (TE, LV) · 415,926 adds · rostered by Whiskey Sippin Kings
-- Devaughn Vele (WR, NO) · 408,898 adds · AVAILABLE in my league
-- Mike Gesicki (TE, CIN) · 160,356 adds · AVAILABLE in my league
-- Kaelon Black (RB, SF) · 154,420 adds · AVAILABLE in my league
-- Bryce Young (QB, CAR) · 131,508 adds · AVAILABLE in my league
-- Malachi Fields (WR, NYG) · 122,905 adds · AVAILABLE in my league
-- Caleb Douglas (WR, MIA) · 116,640 adds · AVAILABLE in my league
-- Dontayvion Wicks (WR, PHI) · 112,641 adds · AVAILABLE in my league
-- Carson Wentz (QB, MIN) · 107,988 adds · AVAILABLE in my league
-- Chris Bell (WR, MIA) · 95,571 adds · rostered by Team 9
-- Darnell Mooney (WR, NYG) · 91,161 adds · AVAILABLE in my league
-- Tyler Shough (QB, NO) · 85,152 adds · AVAILABLE in my league
-- Demarcus Robinson (WR, SF) · 75,048 adds · AVAILABLE in my league
-- Tre Tucker (WR, LV) · 66,732 adds · AVAILABLE in my league
-- Las Vegas Raiders (DEF, LV) · 63,006 adds · rostered by Holla
-- Odell Beckham (WR, NYG) · 62,867 adds · AVAILABLE in my league
-- Tampa Bay Buccaneers (DEF, TB) · 55,905 adds · AVAILABLE in my league
-- Kenyon Sadiq (TE, NYJ) · 51,426 adds · AVAILABLE in my league
-- Keaton Mitchell (RB, LAC) · 51,120 adds · AVAILABLE in my league
-- Darren Waller (TE, CAR) · 48,492 adds · AVAILABLE in my league
-- Jalen Coker (WR, CAR) · 46,696 adds · rostered by Young Blood
-- Matt Gay (K, LV) · 38,730 adds · AVAILABLE in my league
-- San Francisco 49ers (DEF, SF) · 38,544 adds · AVAILABLE in my league
-- Kyle Monangai (RB, CHI) · 38,004 adds · rostered by Team 8
-- Cole Kmet (TE, CHI) · 36,954 adds · AVAILABLE in my league
+- Devaughn Vele (WR, NO) · 871,801 adds · AVAILABLE in my league
+- Caleb Douglas (WR, MIA) · 293,928 adds · AVAILABLE in my league
+- Mike Gesicki (TE, CIN) · 292,024 adds · AVAILABLE in my league
+- Carson Wentz (QB, MIN) · 252,768 adds · AVAILABLE in my league
+- Bryce Young (QB, CAR) · 232,452 adds · AVAILABLE in my league
+- Kaelon Black (RB, SF) · 225,568 adds · AVAILABLE in my league
+- Devin Singletary (RB, NYG) · 224,910 adds · AVAILABLE in my league
+- Michael Mayer (TE, LV) · 219,231 adds · rostered by Whiskey Sippin Kings
+- Dontayvion Wicks (WR, PHI) · 163,437 adds · AVAILABLE in my league
+- Tampa Bay Buccaneers (DEF, TB) · 146,985 adds · AVAILABLE in my league
+- Tyler Shough (QB, NO) · 138,072 adds · AVAILABLE in my league
+- San Francisco 49ers (DEF, SF) · 114,600 adds · AVAILABLE in my league
+- Malachi Fields (WR, NYG) · 92,110 adds · AVAILABLE in my league
+- Jalen Coker (WR, CAR) · 85,205 adds · rostered by Young Blood
+- Kenyon Sadiq (TE, NYJ) · 78,129 adds · AVAILABLE in my league
+- Kyle Monangai (RB, CHI) · 70,578 adds · rostered by Team 8
+- Demarcus Robinson (WR, SF) · 68,412 adds · AVAILABLE in my league
+- Kalif Raymond (WR, CHI) · 64,000 adds · AVAILABLE in my league
+- Kendrick Bourne (WR, ARI) · 55,782 adds · AVAILABLE in my league
+- Darnell Mooney (WR, NYG) · 55,323 adds · AVAILABLE in my league
+- Cole Kmet (TE, CHI) · 51,741 adds · AVAILABLE in my league
+- Emmett Johnson (RB, KC) · 40,410 adds · on my roster
+- Chris Bell (WR, MIA) · 38,780 adds · rostered by Team 9
+- Odell Beckham (WR, NYG) · 37,856 adds · AVAILABLE in my league
+- Kirk Cousins (QB, LV) · 37,392 adds · AVAILABLE in my league
 
 Data from the Sleeper API (sleeper.com). Injury tags in brackets are Sleeper's designations and may lag official reports.
