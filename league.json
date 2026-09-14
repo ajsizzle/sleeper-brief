@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-13T21:11:35.767498-04:00",
+  "generated": "2026-09-13T21:18:51.584492-04:00",
   "season": "2026",
   "week": 1,
   "league": {
@@ -172,7 +172,7 @@
       "bench": [
         "Chris Rodriguez (RB, JAX)",
         "Bo Nix (QB, DEN)",
-        "Unknown player 12530",
+        "Travis Hunter (WR, JAX)",
         "Carnell Tate (WR, TEN)",
         "Dallas Goedert (TE, PHI)",
         "Josh Downs (WR, IND)"
@@ -473,7 +473,7 @@
   ],
   "transactions": [
     "Week 1 \u00b7 free_agent \u00b7 complete \u00b7 Sun Sep 13 08:11 AM \u00b7 Team 9 \u00b7 added: Chris Bell (WR, MIA) to Team 9 \u00b7 dropped: Malik Davis (RB, DAL) [IR] from Team 9",
-    "Week 1 \u00b7 free_agent \u00b7 complete \u00b7 Thu Sep 10 04:21 PM \u00b7 Drunk To Taste This CHX \u00b7 added: Unknown player 12530 to Drunk To Taste This CHX",
+    "Week 1 \u00b7 free_agent \u00b7 complete \u00b7 Thu Sep 10 04:21 PM \u00b7 Drunk To Taste This CHX \u00b7 added: Travis Hunter (WR, JAX) to Drunk To Taste This CHX",
     "Week 1 \u00b7 free_agent \u00b7 complete \u00b7 Thu Sep 10 04:18 PM \u00b7 Drunk To Taste This CHX \u00b7 dropped: Mason Taylor (TE, NYJ) from Drunk To Taste This CHX",
     "Week 1 \u00b7 free_agent \u00b7 complete \u00b7 Wed Sep 09 08:08 PM \u00b7 Holla \u00b7 added: Las Vegas Raiders (DEF, LV) to Holla \u00b7 dropped: Kansas City Chiefs (DEF, KC) from Holla",
     "Week 1 \u00b7 free_agent \u00b7 complete \u00b7 Wed Sep 09 07:59 PM \u00b7 Whiskey Sippin Kings \u00b7 added: Michael Mayer (TE, LV) to Whiskey Sippin Kings \u00b7 dropped: Tyrone Tracy (RB, NYG) from Whiskey Sippin Kings",
@@ -487,127 +487,127 @@
   "trending_adds": [
     {
       "player": "Michael Mayer (TE, LV)",
-      "adds": 415053,
+      "adds": 415926,
       "rostered_by": 1
     },
     {
       "player": "Devaughn Vele (WR, NO)",
-      "adds": 402766,
+      "adds": 408898,
       "rostered_by": null
     },
     {
       "player": "Mike Gesicki (TE, CIN)",
-      "adds": 158152,
+      "adds": 160356,
       "rostered_by": null
     },
     {
       "player": "Kaelon Black (RB, SF)",
-      "adds": 152950,
+      "adds": 154420,
       "rostered_by": null
     },
     {
       "player": "Bryce Young (QB, CAR)",
-      "adds": 129708,
+      "adds": 131508,
       "rostered_by": null
     },
     {
       "player": "Malachi Fields (WR, NYG)",
-      "adds": 122830,
+      "adds": 122905,
       "rostered_by": null
     },
     {
       "player": "Caleb Douglas (WR, MIA)",
-      "adds": 114736,
+      "adds": 116640,
       "rostered_by": null
     },
     {
       "player": "Dontayvion Wicks (WR, PHI)",
-      "adds": 111660,
+      "adds": 112641,
       "rostered_by": null
     },
     {
       "player": "Carson Wentz (QB, MIN)",
-      "adds": 105672,
+      "adds": 107988,
       "rostered_by": null
     },
     {
       "player": "Chris Bell (WR, MIA)",
-      "adds": 95515,
+      "adds": 95571,
       "rostered_by": 9
     },
     {
       "player": "Darnell Mooney (WR, NYG)",
-      "adds": 91134,
+      "adds": 91161,
       "rostered_by": null
     },
     {
       "player": "Tyler Shough (QB, NO)",
-      "adds": 84168,
+      "adds": 85152,
       "rostered_by": null
     },
     {
       "player": "Demarcus Robinson (WR, SF)",
-      "adds": 74640,
+      "adds": 75048,
       "rostered_by": null
     },
     {
       "player": "Tre Tucker (WR, LV)",
-      "adds": 66618,
+      "adds": 66732,
       "rostered_by": null
     },
     {
       "player": "Las Vegas Raiders (DEF, LV)",
-      "adds": 62874,
+      "adds": 63006,
       "rostered_by": 2
     },
     {
       "player": "Odell Beckham (WR, NYG)",
-      "adds": 62811,
+      "adds": 62867,
       "rostered_by": null
     },
     {
       "player": "Tampa Bay Buccaneers (DEF, TB)",
-      "adds": 54905,
-      "rostered_by": null
-    },
-    {
-      "player": "Keaton Mitchell (RB, LAC)",
-      "adds": 51075,
+      "adds": 55905,
       "rostered_by": null
     },
     {
       "player": "Kenyon Sadiq (TE, NYJ)",
-      "adds": 50985,
+      "adds": 51426,
+      "rostered_by": null
+    },
+    {
+      "player": "Keaton Mitchell (RB, LAC)",
+      "adds": 51120,
       "rostered_by": null
     },
     {
       "player": "Darren Waller (TE, CAR)",
-      "adds": 48375,
+      "adds": 48492,
       "rostered_by": null
     },
     {
       "player": "Jalen Coker (WR, CAR)",
-      "adds": 46137,
+      "adds": 46696,
       "rostered_by": 12
     },
     {
       "player": "Matt Gay (K, LV)",
-      "adds": 38645,
+      "adds": 38730,
       "rostered_by": null
     },
     {
       "player": "San Francisco 49ers (DEF, SF)",
-      "adds": 37617,
+      "adds": 38544,
       "rostered_by": null
     },
     {
       "player": "Kyle Monangai (RB, CHI)",
-      "adds": 37446,
+      "adds": 38004,
       "rostered_by": 8
     },
     {
       "player": "Cole Kmet (TE, CHI)",
-      "adds": 36702,
+      "adds": 36954,
       "rostered_by": null
     }
   ]

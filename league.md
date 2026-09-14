@@ -1,5 +1,5 @@
 # Sleeper league state
-Generated Sunday September 13, 2026 09:11 PM ET · Season 2026 · NFL week 1
+Generated Sunday September 13, 2026 09:18 PM ET · Season 2026 · NFL week 1
 League: The Dudes Will Roll · 12 teams · waivers: FAAB (budget $200) · lineup: QB, RB, RB, WR, WR, TE, FLEX, K, DEF
 
 ## My team: THE ACE OF SPADES (roster 11)
@@ -52,7 +52,7 @@ Bench: Braelon Allen (RB, NYJ); Hunter Henry (TE, NE); Patrick Mahomes (QB, KC);
 
 ### Drunk To Taste This CHX · 0-0 · 0.0 pts · waiver priority 6
 Starters: Jalen Hurts (QB, PHI); Derrick Henry (RB, BAL); Kyren Williams (RB, LAR); Ladd McConkey (WR, LAC) [Questionable]; Garrett Wilson (WR, NYJ); Travis Kelce (TE, KC); Jameson Williams (WR, DET); Harrison Butker (K, KC); Los Angeles Rams (DEF, LAR)
-Bench: Chris Rodriguez (RB, JAX); Bo Nix (QB, DEN); Unknown player 12530; Carnell Tate (WR, TEN); Dallas Goedert (TE, PHI); Josh Downs (WR, IND)
+Bench: Chris Rodriguez (RB, JAX); Bo Nix (QB, DEN); Travis Hunter (WR, JAX); Carnell Tate (WR, TEN); Dallas Goedert (TE, PHI); Josh Downs (WR, IND)
 
 ### Thoroughbred Cheesehead · 0-0 · 0.0 pts · waiver priority 9
 Starters: Joe Burrow (QB, CIN); James Cook (RB, BUF); Bucky Irving (RB, TB); Amon-Ra St. Brown (WR, DET); Christian Watson (WR, GB); Dalton Kincaid (TE, BUF); J.K. Dobbins (RB, DEN); Trey Smack (K, GB); Jacksonville Jaguars (DEF, JAX)
@@ -94,7 +94,7 @@ Bench: Jalen Coker (WR, CAR); Aaron Jones (RB, MIN); Tony Pollard (RB, TEN); Mic
 
 ## Transactions, weeks 1 to 1, newest first
 - Week 1 · free_agent · complete · Sun Sep 13 08:11 AM · Team 9 · added: Chris Bell (WR, MIA) to Team 9 · dropped: Malik Davis (RB, DAL) [IR] from Team 9
-- Week 1 · free_agent · complete · Thu Sep 10 04:21 PM · Drunk To Taste This CHX · added: Unknown player 12530 to Drunk To Taste This CHX
+- Week 1 · free_agent · complete · Thu Sep 10 04:21 PM · Drunk To Taste This CHX · added: Travis Hunter (WR, JAX) to Drunk To Taste This CHX
 - Week 1 · free_agent · complete · Thu Sep 10 04:18 PM · Drunk To Taste This CHX · dropped: Mason Taylor (TE, NYJ) from Drunk To Taste This CHX
 - Week 1 · free_agent · complete · Wed Sep 09 08:08 PM · Holla · added: Las Vegas Raiders (DEF, LV) to Holla · dropped: Kansas City Chiefs (DEF, KC) from Holla
 - Week 1 · free_agent · complete · Wed Sep 09 07:59 PM · Whiskey Sippin Kings · added: Michael Mayer (TE, LV) to Whiskey Sippin Kings · dropped: Tyrone Tracy (RB, NYG) from Whiskey Sippin Kings
@@ -106,30 +106,30 @@ Bench: Jalen Coker (WR, CAR); Aaron Jones (RB, MIN); Tony Pollard (RB, TEN); Mic
 - Week 1 · free_agent · complete · Sun Sep 06 08:57 AM · Thoroughbred Cheesehead · added: Roschon Johnson (RB, CHI) to Thoroughbred Cheesehead · dropped: Kenyon Sadiq (TE, NYJ) from Thoroughbred Cheesehead
 
 ## Trending adds across Sleeper, last 24 hours
-- Michael Mayer (TE, LV) · 415,053 adds · rostered by Whiskey Sippin Kings
-- Devaughn Vele (WR, NO) · 402,766 adds · AVAILABLE in my league
-- Mike Gesicki (TE, CIN) · 158,152 adds · AVAILABLE in my league
-- Kaelon Black (RB, SF) · 152,950 adds · AVAILABLE in my league
-- Bryce Young (QB, CAR) · 129,708 adds · AVAILABLE in my league
-- Malachi Fields (WR, NYG) · 122,830 adds · AVAILABLE in my league
-- Caleb Douglas (WR, MIA) · 114,736 adds · AVAILABLE in my league
-- Dontayvion Wicks (WR, PHI) · 111,660 adds · AVAILABLE in my league
-- Carson Wentz (QB, MIN) · 105,672 adds · AVAILABLE in my league
-- Chris Bell (WR, MIA) · 95,515 adds · rostered by Team 9
-- Darnell Mooney (WR, NYG) · 91,134 adds · AVAILABLE in my league
-- Tyler Shough (QB, NO) · 84,168 adds · AVAILABLE in my league
-- Demarcus Robinson (WR, SF) · 74,640 adds · AVAILABLE in my league
-- Tre Tucker (WR, LV) · 66,618 adds · AVAILABLE in my league
-- Las Vegas Raiders (DEF, LV) · 62,874 adds · rostered by Holla
-- Odell Beckham (WR, NYG) · 62,811 adds · AVAILABLE in my league
-- Tampa Bay Buccaneers (DEF, TB) · 54,905 adds · AVAILABLE in my league
-- Keaton Mitchell (RB, LAC) · 51,075 adds · AVAILABLE in my league
-- Kenyon Sadiq (TE, NYJ) · 50,985 adds · AVAILABLE in my league
-- Darren Waller (TE, CAR) · 48,375 adds · AVAILABLE in my league
-- Jalen Coker (WR, CAR) · 46,137 adds · rostered by Young Blood
-- Matt Gay (K, LV) · 38,645 adds · AVAILABLE in my league
-- San Francisco 49ers (DEF, SF) · 37,617 adds · AVAILABLE in my league
-- Kyle Monangai (RB, CHI) · 37,446 adds · rostered by Team 8
-- Cole Kmet (TE, CHI) · 36,702 adds · AVAILABLE in my league
+- Michael Mayer (TE, LV) · 415,926 adds · rostered by Whiskey Sippin Kings
+- Devaughn Vele (WR, NO) · 408,898 adds · AVAILABLE in my league
+- Mike Gesicki (TE, CIN) · 160,356 adds · AVAILABLE in my league
+- Kaelon Black (RB, SF) · 154,420 adds · AVAILABLE in my league
+- Bryce Young (QB, CAR) · 131,508 adds · AVAILABLE in my league
+- Malachi Fields (WR, NYG) · 122,905 adds · AVAILABLE in my league
+- Caleb Douglas (WR, MIA) · 116,640 adds · AVAILABLE in my league
+- Dontayvion Wicks (WR, PHI) · 112,641 adds · AVAILABLE in my league
+- Carson Wentz (QB, MIN) · 107,988 adds · AVAILABLE in my league
+- Chris Bell (WR, MIA) · 95,571 adds · rostered by Team 9
+- Darnell Mooney (WR, NYG) · 91,161 adds · AVAILABLE in my league
+- Tyler Shough (QB, NO) · 85,152 adds · AVAILABLE in my league
+- Demarcus Robinson (WR, SF) · 75,048 adds · AVAILABLE in my league
+- Tre Tucker (WR, LV) · 66,732 adds · AVAILABLE in my league
+- Las Vegas Raiders (DEF, LV) · 63,006 adds · rostered by Holla
+- Odell Beckham (WR, NYG) · 62,867 adds · AVAILABLE in my league
+- Tampa Bay Buccaneers (DEF, TB) · 55,905 adds · AVAILABLE in my league
+- Kenyon Sadiq (TE, NYJ) · 51,426 adds · AVAILABLE in my league
+- Keaton Mitchell (RB, LAC) · 51,120 adds · AVAILABLE in my league
+- Darren Waller (TE, CAR) · 48,492 adds · AVAILABLE in my league
+- Jalen Coker (WR, CAR) · 46,696 adds · rostered by Young Blood
+- Matt Gay (K, LV) · 38,730 adds · AVAILABLE in my league
+- San Francisco 49ers (DEF, SF) · 38,544 adds · AVAILABLE in my league
+- Kyle Monangai (RB, CHI) · 38,004 adds · rostered by Team 8
+- Cole Kmet (TE, CHI) · 36,954 adds · AVAILABLE in my league
 
 Data from the Sleeper API (sleeper.com). Injury tags in brackets are Sleeper's designations and may lag official reports.
