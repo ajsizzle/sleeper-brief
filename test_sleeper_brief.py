@@ -47,6 +47,13 @@ def fake_api():
     players["HOU"] = {"position": "DEF", "first_name": "Houston", "last_name": "Texans", "team": "HOU"}
     players["DET"] = {"position": "DEF", "first_name": "Detroit", "last_name": "Lions", "team": "DET"}
     players["500"] = {"position": "OL", "full_name": "Not Fantasy Relevant"}
+    # Rostered but outside KEEP_POS by primary position. "600" is a two-way
+    # player Sleeper files under a defensive position (Travis Hunter is a DB
+    # there and a WR on a bench); "700" is genuinely not a fantasy position.
+    players["600"] = {"position": "DB", "full_name": "Two Way Player",
+                      "fantasy_positions": ["DB", "WR"], "team": "JAX"}
+    players["700"] = {"position": "LS", "full_name": "Long Snapper",
+                      "fantasy_positions": ["LS"], "team": "KC"}
     return {
         "/state/nfl": {"week": 3, "season": "2026"},
         f"/league/{LEAGUE_ID}": {
@@ -57,13 +64,13 @@ def fake_api():
         f"/league/{LEAGUE_ID}/rosters": [
             {"roster_id": 1, "owner_id": MY_UID, "co_owners": None,
              "starters": ["11", "12", "13", "14", "15", "16", "17", "18", "HOU"],
-             "players": ["11", "12", "13", "14", "15", "16", "17", "18", "HOU", "19"],
+             "players": ["11", "12", "13", "14", "15", "16", "17", "18", "HOU", "19", "600"],
              "reserve": ["20"],
              "settings": {"wins": 2, "losses": 0, "fpts": 210, "fpts_decimal": 50,
                           "waiver_position": 4, "waiver_budget_used": 0}},
             {"roster_id": 2, "owner_id": OTHER_UID, "co_owners": None,
              "starters": ["21", "22", "0", "24", "25", "26", "27", "28", "DET"],
-             "players": ["21", "22", "24", "25", "26", "27", "28", "DET", "30"],
+             "players": ["21", "22", "24", "25", "26", "27", "28", "DET", "30", "700"],
              "reserve": [],
              "settings": {"wins": 0, "losses": 2, "fpts": 150, "fpts_decimal": 0,
                           "waiver_position": 1, "waiver_budget_used": 12}},
@@ -207,6 +214,46 @@ class TestOutputIsClean(Harness):
         self.run_script()
         self.assertEqual(first, 1)
         self.assertEqual(self.calls.count("/players/nfl"), 0)
+
+    def test_filtered_position_does_not_defeat_the_cache(self):
+        """A rostered id whose position is dropped on purpose ("700", a long
+        snapper) is absent from the cached players map by design. A fresh
+        cache must still be reused, or the 5MB file is re-pulled every run."""
+        self.run_script()
+        cache = json.loads(sb.CACHE.read_text())
+        self.assertNotIn("700", cache["players"])     # filtered, as intended
+        self.assertIn("700", cache["_skipped"])       # but known upstream
+        self.calls.clear()
+        self.run_script()
+        self.assertEqual(self.calls.count("/players/nfl"), 0,
+                         "a deliberately filtered id forced a refetch")
+
+    def test_genuinely_new_id_still_refreshes(self):
+        """The other half of the contract: an id Sleeper had not heard of
+        when the cache was written must still trigger a refresh."""
+        self.run_script()
+        self.calls.clear()
+        self.api[f"/league/{LEAGUE_ID}/rosters"][0]["players"].append("9999")
+        self.api["/players/nfl"]["9999"] = {"position": "WR", "full_name": "Brand New",
+                                            "team": "SF"}
+        self.run_script()
+        self.assertEqual(self.calls.count("/players/nfl"), 1)
+        self.assertIn("Brand New (WR, SF)", sb.OUT_MD.read_text())
+
+    def test_two_way_player_resolves_by_fantasy_position(self):
+        """Sleeper files a two-way player under their primary NFL position.
+        Filtering on that alone drops a player their owner rosters as a WR."""
+        self.run_script()
+        md = sb.OUT_MD.read_text()
+        self.assertIn("Two Way Player (WR, JAX)", md)
+        self.assertNotIn("Unknown player 600", md)
+
+    def test_filtered_player_renders_as_unlisted_not_unknown(self):
+        """A known-but-filtered id should not read like a data bug."""
+        self.run_script()
+        md = sb.OUT_MD.read_text()
+        self.assertIn("Unlisted player 700 (position not tracked)", md)
+        self.assertNotIn("Unknown player", md)
 
 
 class TestScorecard(Harness):

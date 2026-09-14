@@ -85,25 +85,55 @@ def get(path):
         raise RuntimeError(f"Could not reach Sleeper ({e.reason})") from None
 
 
+def fantasy_pos(p):
+    """The position to file a player under, or None to leave them out.
+
+    Sleeper's `position` is the primary NFL position, which for a two-way
+    player is not the one their fantasy owner cares about: Travis Hunter
+    is a DB there and a WR on a bench. `fantasy_positions` carries the
+    rest, so a player counts if either field says so, and we file them
+    under the fantasy position so the brief reads the way the roster does.
+    """
+    pos = p.get("position")
+    if pos in KEEP_POS:
+        return pos
+    for alt in p.get("fantasy_positions") or ():
+        if alt in KEEP_POS:
+            return alt
+    return None
+
+
 def load_players(needed_ids):
-    """Return {player_id: {name, pos, team, inj}} from cache, refreshing
-    the cache if it is missing, older than 24h, or lacks an id we need."""
+    """Return ({player_id: {name, pos, team, inj}}, skipped_ids) from the
+    cache, refreshing it if it is missing, older than 24h, or lacks an id
+    we need.
+
+    The cache deliberately holds fantasy positions only, so an id that is
+    absent because we filtered it is not evidence of a stale cache. The
+    `_skipped` list records the ids Sleeper did know about and we dropped,
+    which leaves "missing" meaning what it should: an id upstream had not
+    heard of when the cache was written. Without that distinction one
+    rostered long snapper defeats the cache and re-pulls 5MB on every run.
+    """
     if CACHE.exists():
         try:
             cache = json.loads(CACHE.read_text())
             age_h = (time.time() - cache.get("_fetched", 0)) / 3600
             players = cache.get("players", {})
-            missing = [i for i in needed_ids if i not in players]
+            skipped = set(cache.get("_skipped") or ())
+            missing = [i for i in needed_ids
+                       if i not in players and i not in skipped]
             if age_h < 24 and not missing:
-                return players
+                return players, skipped
         except (ValueError, KeyError):
             pass
 
     raw = get("/players/nfl") or {}
-    players = {}
+    players, skipped = {}, set()
     for pid, p in raw.items():
-        pos = p.get("position")
-        if pos not in KEEP_POS:
+        pos = fantasy_pos(p)
+        if pos is None:
+            skipped.add(pid)
             continue
         name = p.get("full_name") or " ".join(
             x for x in (p.get("first_name"), p.get("last_name")) if x
@@ -115,10 +145,11 @@ def load_players(needed_ids):
             "inj": p.get("injury_status") or "",
         }
     CACHE.write_text(
-        json.dumps({"_fetched": time.time(), "players": players},
+        json.dumps({"_fetched": time.time(), "_skipped": sorted(skipped),
+                    "players": players},
                    separators=(",", ":"))
     )
-    return players
+    return players, skipped
 
 
 SNOWFLAKE = re.compile(r"\d{15,}")
@@ -251,11 +282,13 @@ def build_scorecard(league_id, week, mine, rosters_by_id, users_by_id, slot_labe
     return "\n".join(md) + "\n", rows
 
 
-def fmt(pid, players):
+def fmt(pid, players, skipped=()):
     if pid in (None, "0", ""):
         return "(empty)"
     p = players.get(pid)
     if not p:
+        if pid in skipped:
+            return f"Unlisted player {pid} (position not tracked)"
         return f"Unknown player {pid}"
     inj = f" [{p['inj']}]" if p["inj"] else ""
     return f"{p['name']} ({p['pos']}, {p['team']}){inj}"
@@ -316,7 +349,7 @@ def main():
         needed.update((t.get("adds") or {}).keys())
         needed.update((t.get("drops") or {}).keys())
     needed.discard("0")
-    players = load_players(needed)
+    players, skipped = load_players(needed)
 
     # My roster (owner or co-owner)
     mine = next(
@@ -354,17 +387,17 @@ def main():
         lines = []
         for i, pid in enumerate(starters):
             label = slot_labels[i] if i < len(slot_labels) else "SLOT"
-            lines.append(f"- {label}: {fmt(pid, players)}")
+            lines.append(f"- {label}: {fmt(pid, players, skipped)}")
         return lines
 
     def bench_list(roster):
         starters = set(roster.get("starters") or [])
         reserve = set(roster.get("reserve") or [])
-        return [fmt(p, players) for p in (roster.get("players") or [])
+        return [fmt(p, players, skipped) for p in (roster.get("players") or [])
                 if p not in starters and p not in reserve]
 
     def ir_list(roster):
-        return [fmt(p, players) for p in (roster.get("reserve") or [])]
+        return [fmt(p, players, skipped) for p in (roster.get("reserve") or [])]
 
     now = now_et()
     md = []
@@ -423,7 +456,7 @@ def main():
         rs = r.get("settings") or {}
         tag = " (me)" if r["roster_id"] == mine["roster_id"] else ""
         md.append(f"### {tname}{tag} · {w}-{l} · {pts:.1f} pts · waiver priority {rs.get('waiver_position', '?')}")
-        md.append("Starters: " + "; ".join(fmt(p, players) for p in (r.get("starters") or [])))
+        md.append("Starters: " + "; ".join(fmt(p, players, skipped) for p in (r.get("starters") or [])))
         b = bench_list(r)
         md.append("Bench: " + ("; ".join(b) if b else "(none)"))
         irx = ir_list(r)
@@ -441,11 +474,11 @@ def main():
             for rid in (tx.get("roster_ids") or []) if rid in rosters_by_id
         )
         adds = ", ".join(
-            f"{fmt(pid, players)} to {team_label(rosters_by_id[rid], users_by_id)}"
+            f"{fmt(pid, players, skipped)} to {team_label(rosters_by_id[rid], users_by_id)}"
             for pid, rid in (tx.get("adds") or {}).items() if rid in rosters_by_id
         )
         drops = ", ".join(
-            f"{fmt(pid, players)} from {team_label(rosters_by_id[rid], users_by_id)}"
+            f"{fmt(pid, players, skipped)} from {team_label(rosters_by_id[rid], users_by_id)}"
             for pid, rid in (tx.get("drops") or {}).items() if rid in rosters_by_id
         )
         bid = (tx.get("settings") or {}).get("waiver_bid")
@@ -477,7 +510,7 @@ def main():
             avail = "on my roster"
         else:
             avail = f"rostered by {team_label(rosters_by_id[rid], users_by_id)}"
-        md.append(f"- {fmt(pid, players)} · {t.get('count', 0):,} adds · {avail}")
+        md.append(f"- {fmt(pid, players, skipped)} · {t.get('count', 0):,} adds · {avail}")
     md.append("")
     md.append("Data from the Sleeper API (sleeper.com). Injury tags in brackets are Sleeper's designations and may lag official reports.")
 
@@ -492,7 +525,7 @@ def main():
             "record": {"wins": w, "losses": l, "ties": t, "points": pts},
             "waiver_position": (r.get("settings") or {}).get("waiver_position"),
             "faab_used": (r.get("settings") or {}).get("waiver_budget_used"),
-            "starters": [fmt(p, players) for p in (r.get("starters") or [])],
+            "starters": [fmt(p, players, skipped) for p in (r.get("starters") or [])],
             "bench": bench_list(r), "ir": ir_list(r),
         }
 
@@ -506,7 +539,7 @@ def main():
         "teams": [roster_json(r) for r in ordered],
         "transactions": [ln[2:] for ln in tx_lines],
         "trending_adds": [
-            {"player": fmt(t["player_id"], players), "adds": t.get("count", 0),
+            {"player": fmt(t["player_id"], players, skipped), "adds": t.get("count", 0),
              "rostered_by": rostered.get(t["player_id"])} for t in trending
         ],
     }, indent=2)

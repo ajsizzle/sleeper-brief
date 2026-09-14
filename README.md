@@ -14,7 +14,7 @@ No server, no keys, no cost. Sleeper's API is public and read-only.
 - All waiver claims, pickups, and trades from this week and last, with FAAB bids and failure notes
 - The 25 most added players across Sleeper in the last 24 hours, each marked available in your league, on your roster, or rostered by whom
 
-`league.json` holds the same data for a future app. `players_trim.json` is the ID-to-name cache, refreshed at most once a day.
+`league.json` holds the same data for a future app. `players_trim.json` is the ID-to-name cache, refreshed at most once a day. It keeps the fantasy positions only, plus a `_skipped` list of the IDs Sleeper knew about and the trim dropped, so a rostered long snapper cannot pass for a stale cache and re-pull the 5MB file on every run.
 
 ## Setup, about 15 minutes
 
@@ -61,7 +61,7 @@ If you ever paste a league ID or username into the code, a commit, or a workflow
 
 Three layers, each independent of the others:
 
-1. **`test_sleeper_brief.py`** (16 tests, standard library, `python -m unittest -v`). Feeds the script fake league data seeded with canary values for the league ID, username, Sleeper user IDs, display names, and avatar hashes, then asserts none of them appear in `league.md`, `league.json`, the player cache, stdout, stderr, or any error message. It also covers every failure path (missing secrets, wrong league, wrong user, HTTP 500, network down), checks that a deliberately injected user ID trips the guard before any file is written, and statically checks that the workflow uses secrets rather than variables and that no `print` or `sys.exit` line interpolates a secret. The workflow runs the suite first and stops if anything fails.
+1. **`test_sleeper_brief.py`** (20 tests, standard library, `python -m unittest -v`). Feeds the script fake league data seeded with canary values for the league ID, username, Sleeper user IDs, display names, and avatar hashes, then asserts none of them appear in `league.md`, `league.json`, the player cache, stdout, stderr, or any error message. It also covers every failure path (missing secrets, wrong league, wrong user, HTTP 500, network down), checks that a deliberately injected user ID trips the guard before any file is written, and statically checks that the workflow uses secrets rather than variables and that no `print` or `sys.exit` line interpolates a secret. The workflow runs the suite first and stops if anything fails.
 2. **In-script leak guard.** Before writing, the script scans its own output for the league ID, the configured user secret, every Sleeper user ID it saw, every member handle, and any 15-digit-or-longer number, and refuses to write if it finds one. The failure message names the category that tripped, never the value. One deliberate exception: a member who has set their team name to their own handle has chosen to publish it as a team name, so that string is allowed through as a team name only.
 3. **Workflow leak scan.** After the script runs, a shell step greps the three generated files for the secret values and for long numeric IDs, and fails the job before the commit step.
 
@@ -74,6 +74,7 @@ Run the tests locally any time you change the script: `python -m unittest -v` fr
 - **Schedule drift.** GitHub cron can run a few minutes late under load. The 45-minute gap ahead of each brief covers it.
 - **Sixty-day rule.** GitHub pauses scheduled workflows in a repo with no activity for 60 days. The bot's own commits should keep it alive; if the brief ever reports a stale file, open the Actions tab and re-enable the workflow.
 - **Week number.** The script uses Sleeper's own current week, which flips to the next week early in the week, so Tuesday runs already show next week's matchup. That is what you want for waivers.
+- **Two-way players.** Sleeper's `position` is the primary NFL position, so a player like Travis Hunter is filed under DB even when his owner rosters him as a WR. The trim keeps anyone whose `fantasy_positions` include a position the brief tracks, and files them under that one. A player outside those positions entirely renders as `Unlisted player <id>` rather than a name.
 - **Injury tags** come from Sleeper's player file and can lag the official report by hours. The brief's own news search is the authority; the tag is a hint.
 - **Read only.** Nothing here can set a lineup, submit a claim, or send a trade. You still tap those in Sleeper.
 
