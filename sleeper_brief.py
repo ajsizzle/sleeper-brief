@@ -5,8 +5,14 @@ sleeper_brief.py
 Pulls the current state of one Sleeper league and writes two files the
 morning brief can fetch:
 
-  league.md    human-readable, names resolved, what the brief reads
-  league.json  same data, machine-readable, for a future app
+  league.md     human-readable, names resolved, what the brief reads
+  league.json   same data, machine-readable, for a future app
+  scorecard.md  season-to-date record of how the team and the process
+                performed week by week: result, points, optimal lineup,
+                points left on the bench, waiver outcomes, trades
+  history/week-NN-lineup.md  the league file as it stood on Sunday
+                morning before the 1:00 pm lock, one per week, so there
+                is a record of what was actually started
 
 Standard library only. Configuration comes from two environment variables:
 
@@ -42,10 +48,23 @@ ROOT = Path(__file__).resolve().parent
 CACHE = ROOT / "players_trim.json"
 OUT_MD = ROOT / "league.md"
 OUT_JSON = ROOT / "league.json"
+OUT_SCORE = ROOT / "scorecard.md"
+HISTORY = ROOT / "history"
 
 KEEP_POS = {"QB", "RB", "WR", "TE", "K", "DEF"}
 ET = ZoneInfo("America/New_York")
 WAIVER_TYPES = {0: "rolling priority", 1: "reverse standings", 2: "FAAB"}
+FLEX_ELIGIBLE = {
+    "FLEX": {"RB", "WR", "TE"},
+    "SUPER_FLEX": {"QB", "RB", "WR", "TE"},
+    "REC_FLEX": {"WR", "TE"},
+    "WRRB_FLEX": {"RB", "WR"},
+}
+
+
+def now_et():
+    """Wrapped so tests can pin the clock."""
+    return datetime.now(ET)
 
 
 # ---------------------------------------------------------------- helpers
@@ -116,6 +135,120 @@ def assert_clean(text, sensitive):
                 raise RuntimeError(f"leak guard tripped: {category} reached the output")
     if SNOWFLAKE.search(text):
         raise RuntimeError("leak guard tripped: a long numeric ID reached the output")
+
+
+def optimal_points(slot_labels, player_ids, points_by_id, players):
+    """Best possible score from a roster given the lineup slots.
+    Fixed slots are filled greedily by position, then flex slots from
+    what remains. Exact for a single flex, near-exact otherwise."""
+    pool = {pid: points_by_id.get(pid, 0.0) for pid in player_ids}
+    pos_of = {pid: (players.get(pid) or {}).get("pos") for pid in pool}
+    used, total = set(), 0.0
+    fixed = [x for x in slot_labels if x not in FLEX_ELIGIBLE]
+    flex = [x for x in slot_labels if x in FLEX_ELIGIBLE]
+    for slot in fixed:
+        best = max((pid for pid in pool if pid not in used and pos_of[pid] == slot),
+                   key=lambda pid: pool[pid], default=None)
+        if best:
+            used.add(best)
+            total += pool[best]
+    for slot in flex:
+        elig = FLEX_ELIGIBLE[slot]
+        best = max((pid for pid in pool if pid not in used and pos_of[pid] in elig),
+                   key=lambda pid: pool[pid], default=None)
+        if best:
+            used.add(best)
+            total += pool[best]
+    return round(total, 2)
+
+
+def build_scorecard(league_id, week, mine, rosters_by_id, users_by_id, slot_labels,
+                    players, waiver_type):
+    """Season-to-date weekly record for my team. Re-derived from the API on
+    every run, so it needs no stored state and self-heals if a week was
+    missed. Returns (markdown, rows)."""
+    my_rid = mine["roster_id"]
+    n_teams = len(rosters_by_id)
+    today = now_et()
+    rows = []
+    for w in range(1, week + 1):
+        # The current week only counts once its games are over.
+        if w == week and today.strftime("%a") not in ("Tue", "Wed"):
+            continue
+        matchups = get(f"/league/{league_id}/matchups/{w}") or []
+        by_rid = {m["roster_id"]: m for m in matchups}
+        me = by_rid.get(my_rid)
+        if not me or not (me.get("points") or 0):
+            continue
+        opp = next((m for m in matchups
+                    if m.get("matchup_id") == me.get("matchup_id")
+                    and m["roster_id"] != my_rid), None)
+        my_pts = round(me.get("points") or 0, 2)
+        opp_pts = round((opp or {}).get("points") or 0, 2)
+        result = "W" if my_pts > opp_pts else "L" if my_pts < opp_pts else "T"
+        opt = optimal_points(slot_labels, me.get("players") or [],
+                             me.get("players_points") or {}, players)
+        left = round(max(opt - my_pts, 0), 2)
+        all_pts = sorted((m.get("points") or 0 for m in matchups), reverse=True)
+        rank = all_pts.index(me.get("points") or 0) + 1 if all_pts else 0
+        opp_name = team_label(rosters_by_id[opp["roster_id"]], users_by_id) \
+            if opp and opp["roster_id"] in rosters_by_id else "bye"
+
+        won = lost = 0
+        spent = 0
+        trades = 0
+        for tx in get(f"/league/{league_id}/transactions/{w}") or []:
+            if my_rid not in (tx.get("roster_ids") or []):
+                continue
+            if tx.get("type") == "waiver":
+                if tx.get("status") == "complete":
+                    won += 1
+                    spent += (tx.get("settings") or {}).get("waiver_bid") or 0
+                else:
+                    lost += 1
+            elif tx.get("type") == "trade" and tx.get("status") == "complete":
+                trades += 1
+        rows.append({
+            "week": w, "result": result, "my": my_pts, "opp": opp_pts,
+            "opp_name": opp_name, "optimal": opt, "left": left,
+            "rank": rank, "won": won, "lost": lost, "spent": spent, "trades": trades,
+        })
+
+    md = ["# Scorecard: season to date",
+          f"Updated {today.strftime('%A %B %d, %Y %I:%M %p ET')}. Rebuilt from Sleeper every run.",
+          ""]
+    if not rows:
+        md.append("No completed weeks yet.")
+        return "\n".join(md) + "\n", rows
+
+    wins = sum(r["result"] == "W" for r in rows)
+    losses = sum(r["result"] == "L" for r in rows)
+    ties = sum(r["result"] == "T" for r in rows)
+    tot_my = sum(r["my"] for r in rows)
+    tot_opt = sum(r["optimal"] for r in rows)
+    eff = round(100 * tot_my / tot_opt, 1) if tot_opt else 0
+    claims = sum(r["won"] for r in rows) + sum(r["lost"] for r in rows)
+    hit = f"{sum(r['won'] for r in rows)}/{claims}" if claims else "0/0"
+    md.append(f"Record {wins}-{losses}" + (f"-{ties}" if ties else "")
+              + f" · {tot_my:.1f} pts scored · {tot_opt:.1f} optimal"
+              + f" · lineup efficiency {eff}%"
+              + f" · avg left on bench {sum(r['left'] for r in rows) / len(rows):.1f}"
+              + f" · waiver claims won {hit}"
+              + (f" · FAAB spent ${sum(r['spent'] for r in rows)}" if waiver_type == "FAAB" else "")
+              + f" · trades {sum(r['trades'] for r in rows)}")
+    md.append("")
+    md.append(f"| Week | Result | Me | Opponent | Optimal | Left on bench | Pts rank (of {n_teams}) | Waivers won/lost | Trades |")
+    md.append("|---|---|---|---|---|---|---|---|---|")
+    for r in rows:
+        md.append(f"| {r['week']} | {r['result']} vs {r['opp_name']} | {r['my']} | {r['opp']} | "
+                  f"{r['optimal']} | {r['left']} | {r['rank']} | {r['won']}/{r['lost']}"
+                  + (f" (${r['spent']})" if waiver_type == "FAAB" and r['won'] else "")
+                  + f" | {r['trades']} |")
+    md.append("")
+    md.append("Left on bench is optimal minus actual: the cost of start/sit calls that week. "
+              "Lineup efficiency is actual divided by optimal for the season. "
+              "Points rank is where my score landed among all teams that week.")
+    return "\n".join(md) + "\n", rows
 
 
 def fmt(pid, players):
@@ -233,7 +366,7 @@ def main():
     def ir_list(roster):
         return [fmt(p, players) for p in (roster.get("reserve") or [])]
 
-    now = datetime.now(ET)
+    now = now_et()
     md = []
     md.append("# Sleeper league state")
     md.append(
@@ -378,6 +511,9 @@ def main():
         ],
     }, indent=2)
 
+    score_text, _ = build_scorecard(league_id, week, mine, rosters_by_id, users_by_id,
+                                    slot_labels, players, waiver_type)
+
     # Leak guard: refuse to write anything that carries an identifier.
     # Display names are excluded when a member has made their team name
     # identical to their handle; that string is going in the file as a
@@ -397,11 +533,18 @@ def main():
         "a Sleeper user id": {my_uid} | set(users_by_id),
         "a member handle": handles,
     }
-    assert_clean(md_text + json_text, sensitive)
+    assert_clean(md_text + json_text + score_text, sensitive)
 
     OUT_MD.write_text(md_text)
     OUT_JSON.write_text(json_text)
-    print(f"Wrote {OUT_MD.name} and {OUT_JSON.name} for week {week}.")
+    OUT_SCORE.write_text(score_text)
+
+    # Sunday-morning snapshot: the last look at the lineup before 1:00 pm lock.
+    if now.strftime("%a") == "Sun" and now.hour < 13:
+        HISTORY.mkdir(exist_ok=True)
+        (HISTORY / f"week-{week:02d}-lineup.md").write_text(md_text)
+
+    print(f"Wrote {OUT_MD.name}, {OUT_JSON.name}, and {OUT_SCORE.name} for week {week}.")
 
 
 if __name__ == "__main__":

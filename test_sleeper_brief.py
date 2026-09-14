@@ -11,6 +11,7 @@ the test suite fails and the workflow stops before anything is committed.
 """
 
 import contextlib
+import datetime as dt
 import importlib.util
 import io
 import json
@@ -73,6 +74,21 @@ def fake_api():
             {"user_id": OTHER_UID, "username": "rival_user", "display_name": OTHER_DISPLAY,
              "avatar": AVATAR, "metadata": {}},   # no team name: must render as "Team 2"
         ],
+        f"/league/{LEAGUE_ID}/matchups/1": [
+            {"roster_id": 1, "matchup_id": 1, "points": 50.5,
+             "players": ["11", "12", "13", "14", "15", "16", "17", "18", "HOU", "19", "20"],
+             "starters": ["11", "12", "13", "14", "15", "16", "17", "18", "HOU"],
+             "players_points": {"11": 10, "13": 8, "15": 20, "12": 5, "14": 6, "16": 12,
+                                "17": 7, "18": 9, "HOU": 4, "19": 3, "20": 0}},
+            {"roster_id": 2, "matchup_id": 1, "points": 40.0, "players": [], "starters": [],
+             "players_points": {}},
+        ],
+        f"/league/{LEAGUE_ID}/matchups/2": [
+            {"roster_id": 1, "matchup_id": 1, "points": 30.0,
+             "players": ["11", "12"], "starters": ["11"], "players_points": {"11": 30, "12": 0}},
+            {"roster_id": 2, "matchup_id": 1, "points": 45.0, "players": [], "starters": [],
+             "players_points": {}},
+        ],
         f"/league/{LEAGUE_ID}/matchups/3": [
             {"roster_id": 1, "matchup_id": 7, "starters": [], "players": []},
             {"roster_id": 2, "matchup_id": 7, "starters": [], "players": []},
@@ -112,6 +128,9 @@ class Harness(unittest.TestCase):
         sb.OUT_MD, sb.OUT_JSON = root / "league.md", root / "league.json"
         self.api = fake_api()
         self.calls = []
+        sb.HISTORY = root / "history"
+        sb.OUT_SCORE = root / "scorecard.md"
+        sb.now_et = lambda: dt.datetime(2026, 9, 15, 10, 0, tzinfo=sb.ET)   # a Tuesday
         os.environ["LEAGUE_ID"] = LEAGUE_ID
         os.environ["SLEEPER_USERNAME"] = USERNAME
 
@@ -136,8 +155,11 @@ class Harness(unittest.TestCase):
 
     def observable(self, out, err, exc):
         parts = [out, err, str(exc) if exc else "", repr(exc) if exc else ""]
-        for f in (sb.OUT_MD, sb.OUT_JSON):
+        for f in (sb.OUT_MD, sb.OUT_JSON, sb.OUT_SCORE):
             if f.exists():
+                parts.append(f.read_text())
+        if sb.HISTORY.exists():
+            for f in sb.HISTORY.iterdir():
                 parts.append(f.read_text())
         return "\n".join(parts)
 
@@ -185,6 +207,46 @@ class TestOutputIsClean(Harness):
         self.run_script()
         self.assertEqual(first, 1)
         self.assertEqual(self.calls.count("/players/nfl"), 0)
+
+
+class TestScorecard(Harness):
+
+    def test_optimal_lineup_is_greedy_by_slot(self):
+        players = {p: {"pos": pos} for p, pos in
+                   {"a": "RB", "b": "RB", "c": "RB", "d": "WR", "e": "WR", "f": "TE", "g": "DEF"}.items()}
+        pts = {"a": 20, "b": 10, "c": 8, "d": 12, "e": 9, "f": 5, "g": 4}
+        slots = ["RB", "RB", "WR", "WR", "TE", "FLEX", "DEF"]
+        # RB 20+10, WR 12+9, TE 5, FLEX best leftover RB/WR/TE = c(8), DEF 4
+        self.assertEqual(sb.optimal_points(slots, list(pts), pts, players), 68.0)
+
+    def test_scorecard_rows_and_summary(self):
+        self.run_script()
+        sc = sb.OUT_SCORE.read_text()
+        self.assertIn("Record 1-1", sc)
+        self.assertIn("| 1 | W vs Team 2 | 50.5 | 40.0 | 63.0 | 12.5 | 1 | 0/0 | 0 |", sc)
+        self.assertIn("| 2 | L vs Team 2 | 30.0 | 45.0 | 30.0 | 0.0 | 2 | 0/0 | 1 |", sc)
+        self.assertIn("lineup efficiency 86.6%", sc)      # 80.5 / 93.0
+        self.assertNotIn("| 3 |", sc)                     # in-progress week skipped
+
+    def test_scorecard_is_clean(self):
+        out, err, exc = self.run_script()
+        self.assertIsNone(exc)
+        self.assert_no_canaries(sb.OUT_SCORE.read_text())
+
+    def test_sunday_morning_snapshot_is_written(self):
+        sb.now_et = lambda: dt.datetime(2026, 9, 20, 11, 15, tzinfo=sb.ET)   # Sunday 11:15 am
+        self.run_script()
+        snap = sb.HISTORY / "week-03-lineup.md"
+        self.assertTrue(snap.exists())
+        self.assert_no_canaries(snap.read_text())
+
+    def test_no_snapshot_after_lock_or_on_other_days(self):
+        sb.now_et = lambda: dt.datetime(2026, 9, 20, 14, 0, tzinfo=sb.ET)    # Sunday 2:00 pm
+        self.run_script()
+        self.assertFalse(sb.HISTORY.exists())
+        sb.now_et = lambda: dt.datetime(2026, 9, 21, 11, 0, tzinfo=sb.ET)    # Monday morning
+        self.run_script()
+        self.assertFalse(sb.HISTORY.exists())
 
 
 class TestFailuresDoNotLeak(Harness):
