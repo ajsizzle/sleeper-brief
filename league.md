@@ -1,5 +1,5 @@
 # Sleeper league state
-Generated Sunday September 13, 2026 08:41 PM ET · Season 2026 · NFL week 1
+Generated Sunday September 13, 2026 09:11 PM ET · Season 2026 · NFL week 1
 League: The Dudes Will Roll · 12 teams · waivers: FAAB (budget $200) · lineup: QB, RB, RB, WR, WR, TE, FLEX, K, DEF
 
 ## My team: THE ACE OF SPADES (roster 11)
@@ -106,30 +106,30 @@ Bench: Jalen Coker (WR, CAR); Aaron Jones (RB, MIN); Tony Pollard (RB, TEN); Mic
 - Week 1 · free_agent · complete · Sun Sep 06 08:57 AM · Thoroughbred Cheesehead · added: Roschon Johnson (RB, CHI) to Thoroughbred Cheesehead · dropped: Kenyon Sadiq (TE, NYJ) from Thoroughbred Cheesehead
 
 ## Trending adds across Sleeper, last 24 hours
-- Michael Mayer (TE, LV) · 411,921 adds · rostered by Whiskey Sippin Kings
-- Devaughn Vele (WR, NO) · 380,247 adds · AVAILABLE in my league
-- Mike Gesicki (TE, CIN) · 150,268 adds · AVAILABLE in my league
-- Kaelon Black (RB, SF) · 147,952 adds · AVAILABLE in my league
-- Bryce Young (QB, CAR) · 123,508 adds · AVAILABLE in my league
-- Malachi Fields (WR, NYG) · 122,520 adds · AVAILABLE in my league
-- Caleb Douglas (WR, MIA) · 108,416 adds · AVAILABLE in my league
-- Dontayvion Wicks (WR, PHI) · 108,390 adds · AVAILABLE in my league
-- Carson Wentz (QB, MIN) · 97,584 adds · AVAILABLE in my league
-- Chris Bell (WR, MIA) · 95,410 adds · rostered by Team 9
-- Darnell Mooney (WR, NYG) · 90,990 adds · AVAILABLE in my league
-- Tyler Shough (QB, NO) · 80,408 adds · AVAILABLE in my league
-- Demarcus Robinson (WR, SF) · 72,918 adds · AVAILABLE in my league
-- Tre Tucker (WR, LV) · 66,366 adds · AVAILABLE in my league
-- Las Vegas Raiders (DEF, LV) · 62,286 adds · rostered by Holla
-- Odell Beckham (WR, NYG) · 61,502 adds · AVAILABLE in my league
-- Tampa Bay Buccaneers (DEF, TB) · 51,240 adds · AVAILABLE in my league
-- Keaton Mitchell (RB, LAC) · 50,868 adds · AVAILABLE in my league
-- Kenyon Sadiq (TE, NYJ) · 49,545 adds · AVAILABLE in my league
-- Darren Waller (TE, CAR) · 48,168 adds · AVAILABLE in my league
-- Jalen Coker (WR, CAR) · 43,974 adds · rostered by Young Blood
-- Matt Gay (K, LV) · 38,290 adds · AVAILABLE in my league
-- Kirk Cousins (QB, LV) · 35,768 adds · AVAILABLE in my league
-- Cole Kmet (TE, CHI) · 35,550 adds · AVAILABLE in my league
-- Kyle Monangai (RB, CHI) · 35,304 adds · rostered by Team 8
+- Michael Mayer (TE, LV) · 415,053 adds · rostered by Whiskey Sippin Kings
+- Devaughn Vele (WR, NO) · 402,766 adds · AVAILABLE in my league
+- Mike Gesicki (TE, CIN) · 158,152 adds · AVAILABLE in my league
+- Kaelon Black (RB, SF) · 152,950 adds · AVAILABLE in my league
+- Bryce Young (QB, CAR) · 129,708 adds · AVAILABLE in my league
+- Malachi Fields (WR, NYG) · 122,830 adds · AVAILABLE in my league
+- Caleb Douglas (WR, MIA) · 114,736 adds · AVAILABLE in my league
+- Dontayvion Wicks (WR, PHI) · 111,660 adds · AVAILABLE in my league
+- Carson Wentz (QB, MIN) · 105,672 adds · AVAILABLE in my league
+- Chris Bell (WR, MIA) · 95,515 adds · rostered by Team 9
+- Darnell Mooney (WR, NYG) · 91,134 adds · AVAILABLE in my league
+- Tyler Shough (QB, NO) · 84,168 adds · AVAILABLE in my league
+- Demarcus Robinson (WR, SF) · 74,640 adds · AVAILABLE in my league
+- Tre Tucker (WR, LV) · 66,618 adds · AVAILABLE in my league
+- Las Vegas Raiders (DEF, LV) · 62,874 adds · rostered by Holla
+- Odell Beckham (WR, NYG) · 62,811 adds · AVAILABLE in my league
+- Tampa Bay Buccaneers (DEF, TB) · 54,905 adds · AVAILABLE in my league
+- Keaton Mitchell (RB, LAC) · 51,075 adds · AVAILABLE in my league
+- Kenyon Sadiq (TE, NYJ) · 50,985 adds · AVAILABLE in my league
+- Darren Waller (TE, CAR) · 48,375 adds · AVAILABLE in my league
+- Jalen Coker (WR, CAR) · 46,137 adds · rostered by Young Blood
+- Matt Gay (K, LV) · 38,645 adds · AVAILABLE in my league
+- San Francisco 49ers (DEF, SF) · 37,617 adds · AVAILABLE in my league
+- Kyle Monangai (RB, CHI) · 37,446 adds · rostered by Team 8
+- Cole Kmet (TE, CHI) · 36,702 adds · AVAILABLE in my league
 
 Data from the Sleeper API (sleeper.com). Injury tags in brackets are Sleeper's designations and may lag official reports.
