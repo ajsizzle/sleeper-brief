@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-15T11:33:02.127992-04:00",
+  "generated": "2026-09-15T14:56:46.743287-04:00",
   "season": "2026",
   "week": 2,
   "league": {
@@ -489,128 +489,128 @@
   "trending_adds": [
     {
       "player": "Devaughn Vele (WR, NO)",
-      "adds": 1869721,
+      "adds": 2284100,
       "rostered_by": null
     },
     {
       "player": "Caleb Douglas (WR, MIA)",
-      "adds": 1105952,
+      "adds": 1359720,
       "rostered_by": null
     },
     {
       "player": "Devin Singletary (RB, NYG)",
-      "adds": 913950,
+      "adds": 1126530,
       "rostered_by": null
     },
     {
       "player": "Tampa Bay Buccaneers (DEF, TB)",
-      "adds": 737100,
+      "adds": 999505,
       "rostered_by": null
     },
     {
       "player": "Kaelon Black (RB, SF)",
-      "adds": 652596,
-      "rostered_by": null
-    },
-    {
-      "player": "Carson Wentz (QB, MIN)",
-      "adds": 472800,
+      "adds": 834785,
       "rostered_by": null
     },
     {
       "player": "San Francisco 49ers (DEF, SF)",
-      "adds": 438201,
+      "adds": 571626,
+      "rostered_by": null
+    },
+    {
+      "player": "Carson Wentz (QB, MIN)",
+      "adds": 554682,
       "rostered_by": null
     },
     {
       "player": "Mike Gesicki (TE, CIN)",
-      "adds": 319616,
+      "adds": 362080,
       "rostered_by": null
     },
     {
       "player": "Pat Bryant (WR, DEN)",
-      "adds": 261816,
-      "rostered_by": null
-    },
-    {
-      "player": "Bryce Young (QB, CAR)",
-      "adds": 257376,
-      "rostered_by": null
-    },
-    {
-      "player": "Dontayvion Wicks (WR, PHI)",
-      "adds": 210360,
+      "adds": 323224,
       "rostered_by": null
     },
     {
       "player": "Raheim Sanders (RB, CLE)",
-      "adds": 207200,
+      "adds": 297264,
       "rostered_by": null
     },
     {
-      "player": "Tyler Shough (QB, NO)",
-      "adds": 185616,
+      "player": "Bryce Young (QB, CAR)",
+      "adds": 293608,
+      "rostered_by": null
+    },
+    {
+      "player": "Dontayvion Wicks (WR, PHI)",
+      "adds": 247605,
       "rostered_by": null
     },
     {
       "player": "Emmett Johnson (RB, KC)",
-      "adds": 179532,
+      "adds": 225531,
       "rostered_by": 11
     },
     {
-      "player": "Evan Engram (TE, DEN)",
-      "adds": 159904,
+      "player": "Tyler Shough (QB, NO)",
+      "adds": 209712,
       "rostered_by": null
     },
     {
-      "player": "Kendrick Bourne (WR, ARI)",
-      "adds": 148719,
+      "player": "Evan Engram (TE, DEN)",
+      "adds": 206136,
       "rostered_by": null
     },
     {
       "player": "Demarcus Robinson (WR, SF)",
-      "adds": 147360,
+      "adds": 200178,
+      "rostered_by": null
+    },
+    {
+      "player": "Kendrick Bourne (WR, ARI)",
+      "adds": 175482,
       "rostered_by": null
     },
     {
       "player": "Mack Hollins (WR, NE)",
-      "adds": 123378,
-      "rostered_by": null
-    },
-    {
-      "player": "Kalif Raymond (WR, CHI)",
-      "adds": 120750,
+      "adds": 173925,
       "rostered_by": null
     },
     {
       "player": "Matthew Golden (WR, GB)",
-      "adds": 120624,
+      "adds": 154700,
       "rostered_by": 6
     },
     {
-      "player": "Jalen Coker (WR, CAR) [Questionable]",
-      "adds": 105112,
-      "rostered_by": 12
-    },
-    {
-      "player": "Kenyon Sadiq (TE, NYJ)",
-      "adds": 100845,
+      "player": "Kalif Raymond (WR, CHI)",
+      "adds": 146916,
       "rostered_by": null
     },
     {
+      "player": "Kenyon Sadiq (TE, NYJ)",
+      "adds": 122886,
+      "rostered_by": null
+    },
+    {
+      "player": "Jalen Coker (WR, CAR) [Questionable]",
+      "adds": 119839,
+      "rostered_by": 12
+    },
+    {
       "player": "Jacory Croskey-Merritt (RB, WAS)",
-      "adds": 87174,
+      "adds": 114156,
       "rostered_by": 4
     },
     {
       "player": "Kyle Monangai (RB, CHI)",
-      "adds": 79710,
+      "adds": 87780,
       "rostered_by": 8
     },
     {
-      "player": "Tyler Loop (K, BAL)",
-      "adds": 60816,
-      "rostered_by": 8
+      "player": "Cairo Santos (K, CHI)",
+      "adds": 78015,
+      "rostered_by": null
     }
   ]
 }
