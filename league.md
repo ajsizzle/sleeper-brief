@@ -1,5 +1,5 @@
 # Sleeper league state
-Generated Monday September 14, 2026 03:49 PM ET · Season 2026 · NFL week 1
+Generated Monday September 14, 2026 08:54 PM ET · Season 2026 · NFL week 1
 League: The Dudes Will Roll · 12 teams · waivers: FAAB (budget $200) · lineup: QB, RB, RB, WR, WR, TE, FLEX, K, DEF
 
 ## My team: THE ACE OF SPADES (roster 11)
@@ -106,30 +106,30 @@ Bench: Jalen Coker (WR, CAR); Aaron Jones (RB, MIN); Tony Pollard (RB, TEN); Mic
 - Week 1 · free_agent · complete · Sun Sep 06 08:57 AM · Thoroughbred Cheesehead · added: Roschon Johnson (RB, CHI) to Thoroughbred Cheesehead · dropped: Kenyon Sadiq (TE, NYJ) from Thoroughbred Cheesehead
 
 ## Trending adds across Sleeper, last 24 hours
-- Devaughn Vele (WR, NO) · 976,969 adds · AVAILABLE in my league
-- Caleb Douglas (WR, MIA) · 359,008 adds · AVAILABLE in my league
-- Carson Wentz (QB, MIN) · 288,162 adds · AVAILABLE in my league
-- Devin Singletary (RB, NYG) · 277,245 adds · AVAILABLE in my league
-- Mike Gesicki (TE, CIN) · 272,208 adds · AVAILABLE in my league
-- Kaelon Black (RB, SF) · 232,176 adds · AVAILABLE in my league
-- Bryce Young (QB, CAR) · 228,028 adds · AVAILABLE in my league
-- Dontayvion Wicks (WR, PHI) · 174,738 adds · AVAILABLE in my league
-- Tampa Bay Buccaneers (DEF, TB) · 162,460 adds · AVAILABLE in my league
-- Tyler Shough (QB, NO) · 148,024 adds · AVAILABLE in my league
-- San Francisco 49ers (DEF, SF) · 130,401 adds · AVAILABLE in my league
-- Michael Mayer (TE, LV) · 115,875 adds · rostered by Whiskey Sippin Kings
-- Jalen Coker (WR, CAR) · 84,934 adds · rostered by Young Blood
-- Kyle Monangai (RB, CHI) · 76,446 adds · rostered by Team 8
-- Kalif Raymond (WR, CHI) · 68,596 adds · AVAILABLE in my league
-- Malachi Fields (WR, NYG) · 65,670 adds · AVAILABLE in my league
-- Kendrick Bourne (WR, ARI) · 62,949 adds · AVAILABLE in my league
-- Demarcus Robinson (WR, SF) · 59,262 adds · AVAILABLE in my league
-- Kenyon Sadiq (TE, NYJ) · 56,025 adds · AVAILABLE in my league
-- Emmett Johnson (RB, KC) · 42,750 adds · on my roster
-- Cole Kmet (TE, CHI) · 41,400 adds · AVAILABLE in my league
-- Matthew Golden (WR, GB) · 39,998 adds · rostered by FuelTheJET
-- Dalton Kincaid (TE, BUF) · 36,477 adds · rostered by Thoroughbred Cheesehead
-- Pat Bryant (WR, DEN) · 35,712 adds · AVAILABLE in my league
-- Darnell Mooney (WR, NYG) · 33,138 adds · AVAILABLE in my league
+- Devaughn Vele (WR, NO) · 831,670 adds · AVAILABLE in my league
+- Caleb Douglas (WR, MIA) · 392,040 adds · AVAILABLE in my league
+- Devin Singletary (RB, NYG) · 375,624 adds · AVAILABLE in my league
+- Carson Wentz (QB, MIN) · 252,264 adds · AVAILABLE in my league
+- Kaelon Black (RB, SF) · 234,024 adds · AVAILABLE in my league
+- Mike Gesicki (TE, CIN) · 211,624 adds · AVAILABLE in my league
+- Tampa Bay Buccaneers (DEF, TB) · 164,180 adds · AVAILABLE in my league
+- Bryce Young (QB, CAR) · 160,884 adds · AVAILABLE in my league
+- San Francisco 49ers (DEF, SF) · 133,923 adds · AVAILABLE in my league
+- Pat Bryant (WR, DEN) · 114,792 adds · AVAILABLE in my league
+- Tyler Shough (QB, NO) · 110,112 adds · AVAILABLE in my league
+- Dontayvion Wicks (WR, PHI) · 104,028 adds · AVAILABLE in my league
+- Jalen Coker (WR, CAR) · 64,591 adds · rostered by Young Blood
+- Kendrick Bourne (WR, ARI) · 60,564 adds · AVAILABLE in my league
+- Kalif Raymond (WR, CHI) · 58,484 adds · AVAILABLE in my league
+- Michael Mayer (TE, LV) · 55,512 adds · rostered by Whiskey Sippin Kings
+- Kyle Monangai (RB, CHI) · 54,096 adds · rostered by Team 8
+- Kenyon Sadiq (TE, NYJ) · 50,238 adds · AVAILABLE in my league
+- Emmett Johnson (RB, KC) · 49,383 adds · on my roster
+- Demarcus Robinson (WR, SF) · 46,542 adds · AVAILABLE in my league
+- Matthew Golden (WR, GB) · 42,644 adds · rostered by FuelTheJET
+- Evan Engram (TE, DEN) · 29,904 adds · AVAILABLE in my league
+- Cole Kmet (TE, CHI) · 28,341 adds · AVAILABLE in my league
+- Tyler Loop (K, BAL) · 27,930 adds · rostered by Team 8
+- Raheim Sanders (RB, CLE) · 26,488 adds · AVAILABLE in my league
 
 Data from the Sleeper API (sleeper.com). Injury tags in brackets are Sleeper's designations and may lag official reports.

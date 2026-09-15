@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-14T15:49:54.209400-04:00",
+  "generated": "2026-09-14T20:54:58.260746-04:00",
   "season": "2026",
   "week": 1,
   "league": {
@@ -487,127 +487,127 @@
   "trending_adds": [
     {
       "player": "Devaughn Vele (WR, NO)",
-      "adds": 976969,
+      "adds": 831670,
       "rostered_by": null
     },
     {
       "player": "Caleb Douglas (WR, MIA)",
-      "adds": 359008,
-      "rostered_by": null
-    },
-    {
-      "player": "Carson Wentz (QB, MIN)",
-      "adds": 288162,
+      "adds": 392040,
       "rostered_by": null
     },
     {
       "player": "Devin Singletary (RB, NYG)",
-      "adds": 277245,
+      "adds": 375624,
       "rostered_by": null
     },
     {
-      "player": "Mike Gesicki (TE, CIN)",
-      "adds": 272208,
+      "player": "Carson Wentz (QB, MIN)",
+      "adds": 252264,
       "rostered_by": null
     },
     {
       "player": "Kaelon Black (RB, SF)",
-      "adds": 232176,
+      "adds": 234024,
       "rostered_by": null
     },
     {
-      "player": "Bryce Young (QB, CAR)",
-      "adds": 228028,
-      "rostered_by": null
-    },
-    {
-      "player": "Dontayvion Wicks (WR, PHI)",
-      "adds": 174738,
+      "player": "Mike Gesicki (TE, CIN)",
+      "adds": 211624,
       "rostered_by": null
     },
     {
       "player": "Tampa Bay Buccaneers (DEF, TB)",
-      "adds": 162460,
+      "adds": 164180,
       "rostered_by": null
     },
     {
-      "player": "Tyler Shough (QB, NO)",
-      "adds": 148024,
+      "player": "Bryce Young (QB, CAR)",
+      "adds": 160884,
       "rostered_by": null
     },
     {
       "player": "San Francisco 49ers (DEF, SF)",
-      "adds": 130401,
+      "adds": 133923,
+      "rostered_by": null
+    },
+    {
+      "player": "Pat Bryant (WR, DEN)",
+      "adds": 114792,
+      "rostered_by": null
+    },
+    {
+      "player": "Tyler Shough (QB, NO)",
+      "adds": 110112,
+      "rostered_by": null
+    },
+    {
+      "player": "Dontayvion Wicks (WR, PHI)",
+      "adds": 104028,
+      "rostered_by": null
+    },
+    {
+      "player": "Jalen Coker (WR, CAR)",
+      "adds": 64591,
+      "rostered_by": 12
+    },
+    {
+      "player": "Kendrick Bourne (WR, ARI)",
+      "adds": 60564,
+      "rostered_by": null
+    },
+    {
+      "player": "Kalif Raymond (WR, CHI)",
+      "adds": 58484,
       "rostered_by": null
     },
     {
       "player": "Michael Mayer (TE, LV)",
-      "adds": 115875,
+      "adds": 55512,
       "rostered_by": 1
     },
     {
-      "player": "Jalen Coker (WR, CAR)",
-      "adds": 84934,
-      "rostered_by": 12
-    },
-    {
       "player": "Kyle Monangai (RB, CHI)",
-      "adds": 76446,
+      "adds": 54096,
       "rostered_by": 8
     },
     {
-      "player": "Kalif Raymond (WR, CHI)",
-      "adds": 68596,
-      "rostered_by": null
-    },
-    {
-      "player": "Malachi Fields (WR, NYG)",
-      "adds": 65670,
-      "rostered_by": null
-    },
-    {
-      "player": "Kendrick Bourne (WR, ARI)",
-      "adds": 62949,
-      "rostered_by": null
-    },
-    {
-      "player": "Demarcus Robinson (WR, SF)",
-      "adds": 59262,
-      "rostered_by": null
-    },
-    {
       "player": "Kenyon Sadiq (TE, NYJ)",
-      "adds": 56025,
+      "adds": 50238,
       "rostered_by": null
     },
     {
       "player": "Emmett Johnson (RB, KC)",
-      "adds": 42750,
+      "adds": 49383,
       "rostered_by": 11
     },
     {
-      "player": "Cole Kmet (TE, CHI)",
-      "adds": 41400,
+      "player": "Demarcus Robinson (WR, SF)",
+      "adds": 46542,
       "rostered_by": null
     },
     {
       "player": "Matthew Golden (WR, GB)",
-      "adds": 39998,
+      "adds": 42644,
       "rostered_by": 6
     },
     {
-      "player": "Dalton Kincaid (TE, BUF)",
-      "adds": 36477,
-      "rostered_by": 4
-    },
-    {
-      "player": "Pat Bryant (WR, DEN)",
-      "adds": 35712,
+      "player": "Evan Engram (TE, DEN)",
+      "adds": 29904,
       "rostered_by": null
     },
     {
-      "player": "Darnell Mooney (WR, NYG)",
-      "adds": 33138,
+      "player": "Cole Kmet (TE, CHI)",
+      "adds": 28341,
+      "rostered_by": null
+    },
+    {
+      "player": "Tyler Loop (K, BAL)",
+      "adds": 27930,
+      "rostered_by": 8
+    },
+    {
+      "player": "Raheim Sanders (RB, CLE)",
+      "adds": 26488,
       "rostered_by": null
     }
   ]
