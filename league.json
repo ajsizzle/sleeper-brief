@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-14T20:54:58.260746-04:00",
+  "generated": "2026-09-15T11:33:02.127992-04:00",
   "season": "2026",
-  "week": 1,
+  "week": 2,
   "league": {
     "name": "The Dudes Will Roll",
     "waivers": "FAAB",
@@ -23,9 +23,9 @@
     "team": "THE ACE OF SPADES",
     "record": {
       "wins": 0,
-      "losses": 0,
+      "losses": 1,
       "ties": 0,
-      "points": 0.0
+      "points": 91.4
     },
     "waiver_position": 2,
     "faab_used": 0,
@@ -33,7 +33,7 @@
       "Drake Maye (QB, NE)",
       "Chase Brown (RB, CIN)",
       "Kenneth Walker (RB, KC)",
-      "A.J. Brown (WR, NE) [IR]",
+      "Rome Odunze (WR, CHI)",
       "Mike Evans (WR, SF)",
       "Mark Andrews (TE, BAL)",
       "Rhamondre Stevenson (RB, NE)",
@@ -41,141 +41,78 @@
       "Houston Texans (DEF, HOU)"
     ],
     "bench": [
-      "Rome Odunze (WR, CHI)",
       "Xavier Worthy (WR, KC)",
       "Tahj Brooks (RB, CIN)",
       "Mike Washington (RB, LV)",
       "Emmett Johnson (RB, KC)",
       "George Kittle (TE, SF)"
     ],
-    "ir": []
+    "ir": [
+      "A.J. Brown (WR, NE) [IR]"
+    ]
   },
   "opponent": {
-    "roster_id": 12,
-    "team": "Young Blood",
+    "roster_id": 9,
+    "team": "Team 9",
     "record": {
       "wins": 0,
-      "losses": 0,
+      "losses": 1,
       "ties": 0,
-      "points": 0.0
+      "points": 60.85
     },
-    "waiver_position": 10,
+    "waiver_position": 8,
     "faab_used": 0,
     "starters": [
-      "Justin Herbert (QB, LAC)",
-      "Jonathan Taylor (RB, IND)",
-      "D'Andre Swift (RB, CHI)",
-      "Justin Jefferson (WR, MIN)",
-      "George Pickens (WR, DAL)",
-      "Kyle Pitts (TE, ATL)",
-      "Davante Adams (WR, LAR)",
-      "Jason Myers (K, SEA)",
-      "Detroit Lions (DEF, DET)"
+      "Dak Prescott (QB, DAL)",
+      "Tyler Allgeier (RB, ARI)",
+      "RJ Harvey (RB, DEN)",
+      "Puka Nacua (WR, LAR)",
+      "Jaylen Waddle (WR, DEN)",
+      "Colston Loveland (TE, CHI)",
+      "Jeremiyah Love (RB, ARI)",
+      "Andy Borregales (K, NE)",
+      "Denver Broncos (DEF, DEN)"
     ],
     "bench": [
-      "Jalen Coker (WR, CAR)",
-      "Aaron Jones (RB, MIN)",
-      "Tony Pollard (RB, TEN)",
-      "Michael Pittman (WR, PIT)",
-      "Romeo Doubs (WR, NE)",
-      "Khalil Shakir (WR, BUF)"
+      "Oronde Gadsden (TE, LAC)",
+      "Chris Bell (WR, MIA)",
+      "Alvin Kamara (RB, NO) [Out]",
+      "DJ Moore (WR, BUF)",
+      "Kenny Gainwell (RB, TB)",
+      "Brock Purdy (QB, SF)"
     ],
     "ir": []
   },
   "teams": [
     {
-      "roster_id": 1,
-      "team": "Whiskey Sippin Kings",
+      "roster_id": 6,
+      "team": "FuelTheJET",
       "record": {
-        "wins": 0,
+        "wins": 1,
         "losses": 0,
         "ties": 0,
-        "points": 0.0
+        "points": 147.2
       },
-      "waiver_position": 4,
+      "waiver_position": 12,
       "faab_used": 0,
       "starters": [
-        "Baker Mayfield (QB, TB)",
-        "Saquon Barkley (RB, PHI)",
-        "Ashton Jeanty (RB, LV)",
-        "Chris Olave (WR, NO)",
-        "Emeka Egbuka (WR, TB)",
-        "Harold Fannin (TE, CLE)",
-        "Quinshon Judkins (RB, CLE)",
-        "Chris Boswell (K, PIT)",
-        "New England Patriots (DEF, NE)"
+        "Lamar Jackson (QB, BAL)",
+        "Jahmyr Gibbs (RB, DET)",
+        "Blake Corum (RB, LAR)",
+        "Malik Nabers (WR, NYG)",
+        "DeVonta Smith (WR, PHI)",
+        "Trey McBride (TE, ARI)",
+        "Parker Washington (WR, JAX)",
+        "Cam Little (K, JAX)",
+        "Seattle Seahawks (DEF, SEA)"
       ],
       "bench": [
-        "Denzel Boston (WR, CLE)",
-        "Courtland Sutton (WR, DEN)",
-        "Jordan Love (QB, GB)",
-        "Chuba Hubbard (RB, CAR)",
-        "Michael Mayer (TE, LV)",
-        "Jordan Addison (WR, MIN)"
-      ],
-      "ir": []
-    },
-    {
-      "roster_id": 2,
-      "team": "Holla",
-      "record": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "points": 0.0
-      },
-      "waiver_position": 7,
-      "faab_used": 0,
-      "starters": [
-        "Caleb Williams (QB, CHI)",
-        "Christian McCaffrey (RB, SF)",
-        "Breece Hall (RB, NYJ)",
-        "Ja'Marr Chase (WR, CIN)",
-        "Zay Flowers (WR, BAL) [Out]",
-        "Tucker Kraft (TE, GB)",
-        "Cam Skattebo (RB, NYG)",
-        "Harrison Mevis (K, LAR)",
-        "Las Vegas Raiders (DEF, LV)"
-      ],
-      "bench": [
-        "Braelon Allen (RB, NYJ)",
-        "Hunter Henry (TE, NE)",
-        "Patrick Mahomes (QB, KC)",
-        "Alec Pierce (WR, IND) [Questionable]",
-        "Jordan Mason (RB, MIN)",
-        "Quentin Johnston (WR, LAC)"
-      ],
-      "ir": []
-    },
-    {
-      "roster_id": 3,
-      "team": "Drunk To Taste This CHX",
-      "record": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "points": 0.0
-      },
-      "waiver_position": 6,
-      "faab_used": 0,
-      "starters": [
-        "Jalen Hurts (QB, PHI)",
-        "Derrick Henry (RB, BAL)",
-        "Kyren Williams (RB, LAR)",
-        "Ladd McConkey (WR, LAC) [Questionable]",
-        "Garrett Wilson (WR, NYJ)",
-        "Travis Kelce (TE, KC)",
-        "Jameson Williams (WR, DET)",
-        "Harrison Butker (K, KC)",
-        "Los Angeles Rams (DEF, LAR)"
-      ],
-      "bench": [
-        "Chris Rodriguez (RB, JAX)",
-        "Bo Nix (QB, DEN)",
-        "Travis Hunter (WR, JAX)",
-        "Carnell Tate (WR, TEN)",
-        "Dallas Goedert (TE, PHI)",
-        "Josh Downs (WR, IND)"
+        "Woody Marks (RB, HOU)",
+        "Matthew Golden (WR, GB)",
+        "Jonah Coleman (RB, DEN)",
+        "De'Zhaun Stribling (WR, SF) [Out]",
+        "Rashid Shaheed (WR, SEA)",
+        "Tank Bigsby (RB, PHI)"
       ],
       "ir": []
     },
@@ -183,10 +120,10 @@
       "roster_id": 4,
       "team": "Thoroughbred Cheesehead",
       "record": {
-        "wins": 0,
+        "wins": 1,
         "losses": 0,
         "ties": 0,
-        "points": 0.0
+        "points": 136.9
       },
       "waiver_position": 9,
       "faab_used": 0,
@@ -214,13 +151,77 @@
       ]
     },
     {
+      "roster_id": 3,
+      "team": "Drunk To Taste This CHX",
+      "record": {
+        "wins": 1,
+        "losses": 0,
+        "ties": 0,
+        "points": 132.25
+      },
+      "waiver_position": 6,
+      "faab_used": 0,
+      "starters": [
+        "Jalen Hurts (QB, PHI)",
+        "Derrick Henry (RB, BAL)",
+        "Kyren Williams (RB, LAR)",
+        "Ladd McConkey (WR, LAC) [Questionable]",
+        "Garrett Wilson (WR, NYJ)",
+        "Travis Kelce (TE, KC)",
+        "Jameson Williams (WR, DET)",
+        "Harrison Butker (K, KC)",
+        "Los Angeles Rams (DEF, LAR)"
+      ],
+      "bench": [
+        "Chris Rodriguez (RB, JAX)",
+        "Bo Nix (QB, DEN)",
+        "Travis Hunter (WR, JAX)",
+        "Carnell Tate (WR, TEN)",
+        "Dallas Goedert (TE, PHI)",
+        "Josh Downs (WR, IND)"
+      ],
+      "ir": []
+    },
+    {
+      "roster_id": 12,
+      "team": "Young Blood",
+      "record": {
+        "wins": 1,
+        "losses": 0,
+        "ties": 0,
+        "points": 121.45
+      },
+      "waiver_position": 10,
+      "faab_used": 0,
+      "starters": [
+        "Justin Herbert (QB, LAC)",
+        "Jonathan Taylor (RB, IND)",
+        "D'Andre Swift (RB, CHI)",
+        "Justin Jefferson (WR, MIN)",
+        "George Pickens (WR, DAL)",
+        "Kyle Pitts (TE, ATL)",
+        "Davante Adams (WR, LAR)",
+        "Jason Myers (K, SEA)",
+        "Detroit Lions (DEF, DET)"
+      ],
+      "bench": [
+        "Jalen Coker (WR, CAR) [Questionable]",
+        "Aaron Jones (RB, MIN)",
+        "Tony Pollard (RB, TEN)",
+        "Michael Pittman (WR, PIT)",
+        "Romeo Doubs (WR, NE)",
+        "Khalil Shakir (WR, BUF)"
+      ],
+      "ir": []
+    },
+    {
       "roster_id": 5,
       "team": "Springfield Atoms",
       "record": {
-        "wins": 0,
+        "wins": 1,
         "losses": 0,
         "ties": 0,
-        "points": 0.0
+        "points": 118.3
       },
       "waiver_position": 3,
       "faab_used": 0,
@@ -247,77 +248,13 @@
       ]
     },
     {
-      "roster_id": 6,
-      "team": "FuelTheJET",
-      "record": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "points": 0.0
-      },
-      "waiver_position": 12,
-      "faab_used": 0,
-      "starters": [
-        "Lamar Jackson (QB, BAL)",
-        "Jahmyr Gibbs (RB, DET)",
-        "Blake Corum (RB, LAR)",
-        "Malik Nabers (WR, NYG)",
-        "DeVonta Smith (WR, PHI)",
-        "Trey McBride (TE, ARI)",
-        "Parker Washington (WR, JAX)",
-        "Cam Little (K, JAX)",
-        "Seattle Seahawks (DEF, SEA)"
-      ],
-      "bench": [
-        "Woody Marks (RB, HOU)",
-        "Matthew Golden (WR, GB)",
-        "Jonah Coleman (RB, DEN)",
-        "De'Zhaun Stribling (WR, SF) [Out]",
-        "Rashid Shaheed (WR, SEA)",
-        "Tank Bigsby (RB, PHI)"
-      ],
-      "ir": []
-    },
-    {
-      "roster_id": 7,
-      "team": "Make Miami Great Again",
-      "record": {
-        "wins": 0,
-        "losses": 0,
-        "ties": 0,
-        "points": 0.0
-      },
-      "waiver_position": 5,
-      "faab_used": 0,
-      "starters": [
-        "Matthew Stafford (QB, LAR)",
-        "De'Von Achane (RB, MIA)",
-        "MarShawn Lloyd (RB, GB)",
-        "Nico Collins (WR, HOU)",
-        "DK Metcalf (WR, PIT)",
-        "Juwan Johnson (TE, NO)",
-        "Bhayshul Tuten (RB, JAX)",
-        "Ka'imi Fairbairn (K, HOU)",
-        "Pittsburgh Steelers (DEF, PIT)"
-      ],
-      "bench": [
-        "Brock Bowers (TE, LV) [Out]",
-        "Jaylen Wright (RB, MIA)",
-        "Luther Burden (WR, CHI)",
-        "Jordyn Tyson (WR, NO) [IR]",
-        "Josh Jacobs (RB, GB) [NA]",
-        "Brian Robinson (RB, ATL)"
-      ],
-      "ir": []
-    },
-    {
       "roster_id": 8,
       "team": "Team 8",
       "record": {
-        "wins": 0,
+        "wins": 1,
         "losses": 0,
         "ties": 0,
-        "points": 0.0
+        "points": 115.5
       },
       "waiver_position": 11,
       "faab_used": 0,
@@ -343,34 +280,34 @@
       "ir": []
     },
     {
-      "roster_id": 9,
-      "team": "Team 9",
+      "roster_id": 2,
+      "team": "Holla",
       "record": {
         "wins": 0,
-        "losses": 0,
+        "losses": 1,
         "ties": 0,
-        "points": 0.0
+        "points": 141.35
       },
-      "waiver_position": 8,
+      "waiver_position": 7,
       "faab_used": 0,
       "starters": [
-        "Dak Prescott (QB, DAL)",
-        "Tyler Allgeier (RB, ARI)",
-        "RJ Harvey (RB, DEN)",
-        "Puka Nacua (WR, LAR)",
-        "Jaylen Waddle (WR, DEN)",
-        "Colston Loveland (TE, CHI)",
-        "Jeremiyah Love (RB, ARI)",
-        "Andy Borregales (K, NE)",
-        "Denver Broncos (DEF, DEN)"
+        "Caleb Williams (QB, CHI)",
+        "Christian McCaffrey (RB, SF)",
+        "Breece Hall (RB, NYJ)",
+        "Ja'Marr Chase (WR, CIN)",
+        "Zay Flowers (WR, BAL) [Out]",
+        "Tucker Kraft (TE, GB)",
+        "Cam Skattebo (RB, NYG)",
+        "Harrison Mevis (K, LAR)",
+        "Las Vegas Raiders (DEF, LV)"
       ],
       "bench": [
-        "Oronde Gadsden (TE, LAC)",
-        "Chris Bell (WR, MIA)",
-        "Alvin Kamara (RB, NO) [Out]",
-        "DJ Moore (WR, BUF)",
-        "Kenny Gainwell (RB, TB)",
-        "Brock Purdy (QB, SF)"
+        "Braelon Allen (RB, NYJ)",
+        "Hunter Henry (TE, NE)",
+        "Patrick Mahomes (QB, KC)",
+        "Alec Pierce (WR, IND) [Questionable]",
+        "Jordan Mason (RB, MIN) [Questionable]",
+        "Quentin Johnston (WR, LAC)"
       ],
       "ir": []
     },
@@ -379,9 +316,9 @@
       "team": "Strokin My Ditka",
       "record": {
         "wins": 0,
-        "losses": 0,
+        "losses": 1,
         "ties": 0,
-        "points": 0.0
+        "points": 99.2
       },
       "waiver_position": 1,
       "faab_used": 0,
@@ -407,13 +344,45 @@
       "ir": []
     },
     {
+      "roster_id": 1,
+      "team": "Whiskey Sippin Kings",
+      "record": {
+        "wins": 0,
+        "losses": 1,
+        "ties": 0,
+        "points": 99.1
+      },
+      "waiver_position": 4,
+      "faab_used": 0,
+      "starters": [
+        "Baker Mayfield (QB, TB)",
+        "Saquon Barkley (RB, PHI)",
+        "Ashton Jeanty (RB, LV)",
+        "Chris Olave (WR, NO)",
+        "Emeka Egbuka (WR, TB)",
+        "Harold Fannin (TE, CLE)",
+        "Quinshon Judkins (RB, CLE)",
+        "Chris Boswell (K, PIT)",
+        "New England Patriots (DEF, NE)"
+      ],
+      "bench": [
+        "Denzel Boston (WR, CLE)",
+        "Courtland Sutton (WR, DEN)",
+        "Jordan Love (QB, GB)",
+        "Chuba Hubbard (RB, CAR)",
+        "Michael Mayer (TE, LV)",
+        "Jordan Addison (WR, MIN)"
+      ],
+      "ir": []
+    },
+    {
       "roster_id": 11,
       "team": "THE ACE OF SPADES",
       "record": {
         "wins": 0,
-        "losses": 0,
+        "losses": 1,
         "ties": 0,
-        "points": 0.0
+        "points": 91.4
       },
       "waiver_position": 2,
       "faab_used": 0,
@@ -421,7 +390,7 @@
         "Drake Maye (QB, NE)",
         "Chase Brown (RB, CIN)",
         "Kenneth Walker (RB, KC)",
-        "A.J. Brown (WR, NE) [IR]",
+        "Rome Odunze (WR, CHI)",
         "Mike Evans (WR, SF)",
         "Mark Andrews (TE, BAL)",
         "Rhamondre Stevenson (RB, NE)",
@@ -429,44 +398,77 @@
         "Houston Texans (DEF, HOU)"
       ],
       "bench": [
-        "Rome Odunze (WR, CHI)",
         "Xavier Worthy (WR, KC)",
         "Tahj Brooks (RB, CIN)",
         "Mike Washington (RB, LV)",
         "Emmett Johnson (RB, KC)",
         "George Kittle (TE, SF)"
       ],
+      "ir": [
+        "A.J. Brown (WR, NE) [IR]"
+      ]
+    },
+    {
+      "roster_id": 7,
+      "team": "Make Miami Great Again",
+      "record": {
+        "wins": 0,
+        "losses": 1,
+        "ties": 0,
+        "points": 89.35
+      },
+      "waiver_position": 5,
+      "faab_used": 0,
+      "starters": [
+        "Matthew Stafford (QB, LAR)",
+        "De'Von Achane (RB, MIA)",
+        "MarShawn Lloyd (RB, GB)",
+        "Nico Collins (WR, HOU)",
+        "DK Metcalf (WR, PIT)",
+        "Juwan Johnson (TE, NO)",
+        "Bhayshul Tuten (RB, JAX)",
+        "Ka'imi Fairbairn (K, HOU)",
+        "Pittsburgh Steelers (DEF, PIT)"
+      ],
+      "bench": [
+        "Brock Bowers (TE, LV) [Out]",
+        "Jaylen Wright (RB, MIA)",
+        "Luther Burden (WR, CHI)",
+        "Jordyn Tyson (WR, NO) [IR]",
+        "Josh Jacobs (RB, GB) [NA]",
+        "Brian Robinson (RB, ATL)"
+      ],
       "ir": []
     },
     {
-      "roster_id": 12,
-      "team": "Young Blood",
+      "roster_id": 9,
+      "team": "Team 9",
       "record": {
         "wins": 0,
-        "losses": 0,
+        "losses": 1,
         "ties": 0,
-        "points": 0.0
+        "points": 60.85
       },
-      "waiver_position": 10,
+      "waiver_position": 8,
       "faab_used": 0,
       "starters": [
-        "Justin Herbert (QB, LAC)",
-        "Jonathan Taylor (RB, IND)",
-        "D'Andre Swift (RB, CHI)",
-        "Justin Jefferson (WR, MIN)",
-        "George Pickens (WR, DAL)",
-        "Kyle Pitts (TE, ATL)",
-        "Davante Adams (WR, LAR)",
-        "Jason Myers (K, SEA)",
-        "Detroit Lions (DEF, DET)"
+        "Dak Prescott (QB, DAL)",
+        "Tyler Allgeier (RB, ARI)",
+        "RJ Harvey (RB, DEN)",
+        "Puka Nacua (WR, LAR)",
+        "Jaylen Waddle (WR, DEN)",
+        "Colston Loveland (TE, CHI)",
+        "Jeremiyah Love (RB, ARI)",
+        "Andy Borregales (K, NE)",
+        "Denver Broncos (DEF, DEN)"
       ],
       "bench": [
-        "Jalen Coker (WR, CAR)",
-        "Aaron Jones (RB, MIN)",
-        "Tony Pollard (RB, TEN)",
-        "Michael Pittman (WR, PIT)",
-        "Romeo Doubs (WR, NE)",
-        "Khalil Shakir (WR, BUF)"
+        "Oronde Gadsden (TE, LAC)",
+        "Chris Bell (WR, MIA)",
+        "Alvin Kamara (RB, NO) [Out]",
+        "DJ Moore (WR, BUF)",
+        "Kenny Gainwell (RB, TB)",
+        "Brock Purdy (QB, SF)"
       ],
       "ir": []
     }
@@ -487,128 +489,128 @@
   "trending_adds": [
     {
       "player": "Devaughn Vele (WR, NO)",
-      "adds": 831670,
+      "adds": 1869721,
       "rostered_by": null
     },
     {
       "player": "Caleb Douglas (WR, MIA)",
-      "adds": 392040,
+      "adds": 1105952,
       "rostered_by": null
     },
     {
       "player": "Devin Singletary (RB, NYG)",
-      "adds": 375624,
-      "rostered_by": null
-    },
-    {
-      "player": "Carson Wentz (QB, MIN)",
-      "adds": 252264,
-      "rostered_by": null
-    },
-    {
-      "player": "Kaelon Black (RB, SF)",
-      "adds": 234024,
-      "rostered_by": null
-    },
-    {
-      "player": "Mike Gesicki (TE, CIN)",
-      "adds": 211624,
+      "adds": 913950,
       "rostered_by": null
     },
     {
       "player": "Tampa Bay Buccaneers (DEF, TB)",
-      "adds": 164180,
+      "adds": 737100,
       "rostered_by": null
     },
     {
-      "player": "Bryce Young (QB, CAR)",
-      "adds": 160884,
+      "player": "Kaelon Black (RB, SF)",
+      "adds": 652596,
+      "rostered_by": null
+    },
+    {
+      "player": "Carson Wentz (QB, MIN)",
+      "adds": 472800,
       "rostered_by": null
     },
     {
       "player": "San Francisco 49ers (DEF, SF)",
-      "adds": 133923,
+      "adds": 438201,
+      "rostered_by": null
+    },
+    {
+      "player": "Mike Gesicki (TE, CIN)",
+      "adds": 319616,
       "rostered_by": null
     },
     {
       "player": "Pat Bryant (WR, DEN)",
-      "adds": 114792,
+      "adds": 261816,
       "rostered_by": null
     },
     {
-      "player": "Tyler Shough (QB, NO)",
-      "adds": 110112,
+      "player": "Bryce Young (QB, CAR)",
+      "adds": 257376,
       "rostered_by": null
     },
     {
       "player": "Dontayvion Wicks (WR, PHI)",
-      "adds": 104028,
+      "adds": 210360,
       "rostered_by": null
     },
     {
-      "player": "Jalen Coker (WR, CAR)",
-      "adds": 64591,
-      "rostered_by": 12
-    },
-    {
-      "player": "Kendrick Bourne (WR, ARI)",
-      "adds": 60564,
+      "player": "Raheim Sanders (RB, CLE)",
+      "adds": 207200,
       "rostered_by": null
     },
     {
-      "player": "Kalif Raymond (WR, CHI)",
-      "adds": 58484,
-      "rostered_by": null
-    },
-    {
-      "player": "Michael Mayer (TE, LV)",
-      "adds": 55512,
-      "rostered_by": 1
-    },
-    {
-      "player": "Kyle Monangai (RB, CHI)",
-      "adds": 54096,
-      "rostered_by": 8
-    },
-    {
-      "player": "Kenyon Sadiq (TE, NYJ)",
-      "adds": 50238,
+      "player": "Tyler Shough (QB, NO)",
+      "adds": 185616,
       "rostered_by": null
     },
     {
       "player": "Emmett Johnson (RB, KC)",
-      "adds": 49383,
+      "adds": 179532,
       "rostered_by": 11
     },
     {
+      "player": "Evan Engram (TE, DEN)",
+      "adds": 159904,
+      "rostered_by": null
+    },
+    {
+      "player": "Kendrick Bourne (WR, ARI)",
+      "adds": 148719,
+      "rostered_by": null
+    },
+    {
       "player": "Demarcus Robinson (WR, SF)",
-      "adds": 46542,
+      "adds": 147360,
+      "rostered_by": null
+    },
+    {
+      "player": "Mack Hollins (WR, NE)",
+      "adds": 123378,
+      "rostered_by": null
+    },
+    {
+      "player": "Kalif Raymond (WR, CHI)",
+      "adds": 120750,
       "rostered_by": null
     },
     {
       "player": "Matthew Golden (WR, GB)",
-      "adds": 42644,
+      "adds": 120624,
       "rostered_by": 6
     },
     {
-      "player": "Evan Engram (TE, DEN)",
-      "adds": 29904,
+      "player": "Jalen Coker (WR, CAR) [Questionable]",
+      "adds": 105112,
+      "rostered_by": 12
+    },
+    {
+      "player": "Kenyon Sadiq (TE, NYJ)",
+      "adds": 100845,
       "rostered_by": null
     },
     {
-      "player": "Cole Kmet (TE, CHI)",
-      "adds": 28341,
-      "rostered_by": null
+      "player": "Jacory Croskey-Merritt (RB, WAS)",
+      "adds": 87174,
+      "rostered_by": 4
     },
     {
-      "player": "Tyler Loop (K, BAL)",
-      "adds": 27930,
+      "player": "Kyle Monangai (RB, CHI)",
+      "adds": 79710,
       "rostered_by": 8
     },
     {
-      "player": "Raheim Sanders (RB, CLE)",
-      "adds": 26488,
-      "rostered_by": null
+      "player": "Tyler Loop (K, BAL)",
+      "adds": 60816,
+      "rostered_by": 8
     }
   ]
 }
