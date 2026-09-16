@@ -3,13 +3,9 @@ name: league-state
 on:
   workflow_dispatch:
   schedule:
-    # GitHub cron is UTC. These are 7:15 am, 11:15 am, and 6:45 pm Eastern
-    # during daylight time, about 45 minutes ahead of each brief run.
-    # After clocks change on Nov 1 they land an hour earlier in ET,
-    # which is still ahead of the brief, so no edit is needed.
-    - cron: "15 11 * * *"
-    - cron: "15 15 * * *"
-    - cron: "45 22 * * *"
+    # Hourly at 20 past. GitHub cron is UTC, but an hourly schedule is
+    # unaffected by clock changes, so no edit is needed at DST.
+    - cron: "20 * * * *"
 
 permissions:
   contents: write
