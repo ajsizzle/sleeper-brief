@@ -48,13 +48,33 @@ jobs:
           SLEEPER_USERNAME: ${{ secrets.SLEEPER_USERNAME }}
         run: |
           set -e
-          for f in league.md league.json scorecard.md players_trim.json; do
-            [ -f "$f" ] || { echo "missing $f"; exit 1; }
+          scan() {
+            f="$1"
             if grep -qF -- "$LEAGUE_ID" "$f"; then echo "league id found in $f"; exit 1; fi
             if grep -qiF -- "$SLEEPER_USERNAME" "$f"; then echo "username found in $f"; exit 1; fi
             if grep -qE '[0-9]{15,}' "$f"; then echo "long numeric id found in $f"; exit 1; fi
+          }
+
+          for f in league.md league.json scorecard.md players_trim.json; do
+            [ -f "$f" ] || { echo "missing $f"; exit 1; }
+            scan "$f"
           done
-          echo "leak scan clean"
+
+          # The Sunday snapshot is committed alongside them, so it has to be
+          # scanned too. The commit step stages history/ wholesale, so match
+          # that exactly rather than one filename pattern: every regular file
+          # under history/, at any depth. find keeps this independent of the
+          # runner's bash version and tolerates the directory being absent,
+          # which it is on every non-Sunday run. Feed the loop by process
+          # substitution, not a pipe: a pipe would run it in a subshell where
+          # scan's exit 1 would end the subshell and let the job continue.
+          snaps=0
+          while IFS= read -r -d "" f; do
+            scan "$f"
+            snaps=$((snaps + 1))
+          done < <(find history -type f -print0 2>/dev/null)
+
+          echo "leak scan clean (4 generated files, $snaps snapshot(s))"
 
       - name: Commit if anything changed
         run: |
