@@ -1,8 +1,10 @@
 # sleeper-brief
 
-A one-script data pipe, about 400 lines. Three times a day, ahead of each brief run, a GitHub Actions cron pulls the current state of your Sleeper league, resolves player IDs to names, and commits the refreshed files. The brief fetches that file first, then does its research.
+A one-script data pipe that keeps an AI fantasy football desk current.
 
-No server, no keys, no cost. Sleeper's API is public and read-only.
+The desk is a Claude scheduled task that runs three times a day and reports on one Sleeper team: lineup, injuries, waivers, trades. A scheduled task can't call the Sleeper API itself, so this repo does it instead. Three times a day, ahead of each desk run, a GitHub Actions cron pulls the current state of the league, resolves player IDs to names, and commits the refreshed files. The desk fetches `league.md` first, then does its research.
+
+Python 3.12, standard library only, about 400 lines. No server, no keys, no cost. Sleeper's API is public and read-only.
 
 ## What it produces
 
@@ -14,11 +16,11 @@ No server, no keys, no cost. Sleeper's API is public and read-only.
 - All waiver claims, pickups, and trades from this week and last, with FAAB bids and failure notes
 - The 25 most added players across Sleeper in the last 24 hours, each marked available in your league, on your roster, or rostered by whom
 
-`league.json` holds the same data for a future app. `players_trim.json` is the ID-to-name cache, refreshed at most once a day. It keeps the fantasy positions only, plus a `_skipped` list of the IDs Sleeper knew about and the trim dropped, so a rostered long snapper cannot pass for a stale cache and re-pull the 5MB file on every run.
+`league.json` holds the same data for a future app. `scorecard.md` is a season-to-date record of results, rebuilt every run. `players_trim.json` is the ID-to-name cache, refreshed at most once a day. It keeps the fantasy positions only, plus a `_skipped` list of the IDs Sleeper knew about and the trim dropped, so a rostered long snapper cannot pass for a stale cache and re-pull the 5MB file on every run.
 
 ## Setup, about 15 minutes
 
-1. **Create the repo.** Public, named `sleeper-brief`, under `~/Developer/` so it commits as your personal account. Public matters: the brief fetches the raw file URL, and raw URLs on private repos need a token the scheduled task can't hold. See "What is and isn't exposed" below before you decide.
+1. **Create the repo.** Public, named `sleeper-brief`. Public matters: the desk fetches the raw file URL, and raw URLs on private repos need a token the scheduled task can't hold. See "What is and isn't exposed" below before you decide.
 
 2. **Add the files** from this folder: `sleeper_brief.py`, `test_sleeper_brief.py`, `.github/workflows/league-state.yml`, and this README, plus a `.gitignore` for `__pycache__` and `.DS_Store`. Commit and push.
 
@@ -28,17 +30,15 @@ No server, no keys, no cost. Sleeper's API is public and read-only.
 
 4. **Run it once by hand.** Actions tab, select `league-state`, click Run workflow. The first run pulls the 5MB players file and takes about a minute. When it finishes, `league.md` should be in the repo with real names in it. Open it and confirm your roster is the one under "My team."
 
-5. **Point the brief at it.** In the scheduled task prompt in Cowork, replace the roster line with the block below and leave everything else as is.
+5. **Point the desk at it.** In the scheduled task prompt, replace the roster line with the block below. Swap in your own GitHub handle and your own roster in the fallback, and leave everything else as is.
 
-## The line for the brief prompt
+## The line for the desk prompt
 
 ```
-League data: before any research, fetch
-https://raw.githubusercontent.com/ajsizzle/sleeper-brief/main/league.md
-That file is the source of truth for my current roster, my opponent this week, every other team's roster, this week's waiver and trade activity, and which trending players are actually available in my league. Use it instead of any roster written in this prompt. Include my opponent's starters in the news search. When suggesting waiver targets, only name players the file marks as available. When suggesting a trade, name the specific team, what they need based on their roster, and what I would send. If the fetch fails, say so in one line and fall back to this roster: QB Drake Maye. RB Chase Brown, Kenneth Walker III, Rhamondre Stevenson, Emmett Johnson, Mike Washington Jr., Tahj Brooks. WR A.J. Brown, Mike Evans, Rome Odunze, Xavier Worthy. TE George Kittle, Mark Andrews. K Cameron Dicker. DST Houston.
+League data: before any research, fetch https://raw.githubusercontent.com/<your-github-handle>/sleeper-brief/main/league.md with a cache-busting query string made from the current date and time (for example league.md?t=202609161201), because the plain URL can return a cached copy that is days old. Read the Generated line at the top of the file; if it is more than 8 hours old, fetch once more with a new query value, and if it is still old, say the file is stale and give its timestamp. That file is the source of truth for my current roster and starters, my opponent this week, every other team's roster, this week's waiver and trade activity, and which trending players are actually available in my league. Use it instead of any roster written here. Include my opponent's starters in the news search. When suggesting waiver targets, only name players the file marks AVAILABLE. When suggesting a trade, name the specific team, what they need based on their roster, and what I would send. If the fetch fails, say so in one line and fall back to this roster: <your roster, by position>.
 ```
 
-The fallback roster line is the only thing left to maintain by hand, and only matters if GitHub is down at 8am.
+The fallback roster is the only thing left to maintain by hand, and it only matters if the fetch fails.
 
 ## What is and isn't exposed
 
@@ -63,7 +63,7 @@ Three layers, each independent of the others:
 
 1. **`test_sleeper_brief.py`** (20 tests, standard library, `python -m unittest -v`). Feeds the script fake league data seeded with canary values for the league ID, username, Sleeper user IDs, display names, and avatar hashes, then asserts none of them appear in `league.md`, `league.json`, the player cache, stdout, stderr, or any error message. It also covers every failure path (missing secrets, wrong league, wrong user, HTTP 500, network down), checks that a deliberately injected user ID trips the guard before any file is written, and statically checks that the workflow uses secrets rather than variables and that no `print` or `sys.exit` line interpolates a secret. The workflow runs the suite first and stops if anything fails.
 2. **In-script leak guard.** Before writing, the script scans its own output for the league ID, the configured user secret, every Sleeper user ID it saw, every member handle, and any 15-digit-or-longer number, and refuses to write if it finds one. The failure message names the category that tripped, never the value. One deliberate exception: a member who has set their team name to their own handle has chosen to publish it as a team name, so that string is allowed through as a team name only.
-3. **Workflow leak scan.** After the script runs, a shell step greps the three generated files for the secret values and for long numeric IDs, and fails the job before the commit step.
+3. **Workflow leak scan.** After the script runs, a shell step greps the generated files for the secret values and for long numeric IDs, and fails the job before the commit step.
 
 Run the tests locally any time you change the script: `python -m unittest -v` from the repo root.
 
@@ -71,13 +71,18 @@ Run the tests locally any time you change the script: `python -m unittest -v` fr
 
 ## Known limits
 
-- **Schedule drift.** GitHub cron can run a few minutes late under load. The 45-minute gap ahead of each brief covers it.
-- **Sixty-day rule.** GitHub pauses scheduled workflows in a repo with no activity for 60 days. The bot's own commits should keep it alive; if the brief ever reports a stale file, open the Actions tab and re-enable the workflow.
+- **Cached fetches.** The raw file URL, and the fetch tool in front of it, can both serve a cached copy. In testing, the plain URL returned a two-day-old `league.md` while the repo itself was current. Always fetch with a throwaway query string (`?t=<timestamp>`) and check the Generated line at the top of the file before trusting it. The prompt block above does both.
+- **Schedule drift.** GitHub cron can run a few minutes late under load, sometimes a couple of hours. The 45-minute gap ahead of each desk run covers the usual case; the Generated line tells the desk when it didn't.
+- **Sixty-day rule.** GitHub pauses scheduled workflows in a repo with no activity for 60 days. The bot's own commits should keep it alive; if the desk ever reports a stale file, open the Actions tab and re-enable the workflow.
 - **Week number.** The script uses Sleeper's own current week, which flips to the next week early in the week, so Tuesday runs already show next week's matchup. That is what you want for waivers.
-- **Two-way players.** Sleeper's `position` is the primary NFL position, so a player like Travis Hunter is filed under DB even when his owner rosters him as a WR. The trim keeps anyone whose `fantasy_positions` include a position the brief tracks, and files them under that one. A player outside those positions entirely renders as `Unlisted player <id>` rather than a name.
-- **Injury tags** come from Sleeper's player file and can lag the official report by hours. The brief's own news search is the authority; the tag is a hint.
+- **Two-way players.** Sleeper's `position` is the primary NFL position, so a player like Travis Hunter is filed under DB even when his owner rosters him as a WR. The trim keeps anyone whose `fantasy_positions` include a position the desk tracks, and files them under that one. A player outside those positions entirely renders as `Unlisted player <id>` rather than a name.
+- **Injury tags** come from Sleeper's player file and can lag the official report by hours. The desk's own news search is the authority; the tag is a hint.
 - **Read only.** Nothing here can set a lineup, submit a claim, or send a trade. You still tap those in Sleeper.
 
 ## Later, if you build the app
 
 `league.json` is already the shape a backend would want. The script becomes a Supabase Edge Function or stays exactly where it is and the app reads the JSON from the same raw URL.
+
+## License
+
+MIT. See `LICENSE`.
