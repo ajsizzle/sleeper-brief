@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-15T14:56:46.743287-04:00",
+  "generated": "2026-09-15T20:48:56.987560-04:00",
   "season": "2026",
   "week": 2,
   "league": {
@@ -489,127 +489,127 @@
   "trending_adds": [
     {
       "player": "Devaughn Vele (WR, NO)",
-      "adds": 2284100,
+      "adds": 2822855,
       "rostered_by": null
     },
     {
       "player": "Caleb Douglas (WR, MIA)",
-      "adds": 1359720,
+      "adds": 1732944,
       "rostered_by": null
     },
     {
       "player": "Devin Singletary (RB, NYG)",
-      "adds": 1126530,
+      "adds": 1409202,
       "rostered_by": null
     },
     {
       "player": "Tampa Bay Buccaneers (DEF, TB)",
-      "adds": 999505,
+      "adds": 1343490,
       "rostered_by": null
     },
     {
       "player": "Kaelon Black (RB, SF)",
-      "adds": 834785,
+      "adds": 1109682,
       "rostered_by": null
     },
     {
       "player": "San Francisco 49ers (DEF, SF)",
-      "adds": 571626,
+      "adds": 761046,
       "rostered_by": null
     },
     {
       "player": "Carson Wentz (QB, MIN)",
-      "adds": 554682,
-      "rostered_by": null
-    },
-    {
-      "player": "Mike Gesicki (TE, CIN)",
-      "adds": 362080,
-      "rostered_by": null
-    },
-    {
-      "player": "Pat Bryant (WR, DEN)",
-      "adds": 323224,
+      "adds": 688938,
       "rostered_by": null
     },
     {
       "player": "Raheim Sanders (RB, CLE)",
-      "adds": 297264,
+      "adds": 538376,
+      "rostered_by": null
+    },
+    {
+      "player": "Pat Bryant (WR, DEN)",
+      "adds": 436400,
+      "rostered_by": null
+    },
+    {
+      "player": "Mike Gesicki (TE, CIN)",
+      "adds": 413860,
       "rostered_by": null
     },
     {
       "player": "Bryce Young (QB, CAR)",
-      "adds": 293608,
-      "rostered_by": null
-    },
-    {
-      "player": "Dontayvion Wicks (WR, PHI)",
-      "adds": 247605,
+      "adds": 333028,
       "rostered_by": null
     },
     {
       "player": "Emmett Johnson (RB, KC)",
-      "adds": 225531,
+      "adds": 322794,
       "rostered_by": 11
     },
     {
-      "player": "Tyler Shough (QB, NO)",
-      "adds": 209712,
-      "rostered_by": null
-    },
-    {
-      "player": "Evan Engram (TE, DEN)",
-      "adds": 206136,
+      "player": "Dontayvion Wicks (WR, PHI)",
+      "adds": 309660,
       "rostered_by": null
     },
     {
       "player": "Demarcus Robinson (WR, SF)",
-      "adds": 200178,
+      "adds": 300264,
       "rostered_by": null
     },
     {
-      "player": "Kendrick Bourne (WR, ARI)",
-      "adds": 175482,
+      "player": "Evan Engram (TE, DEN)",
+      "adds": 265608,
       "rostered_by": null
     },
     {
       "player": "Mack Hollins (WR, NE)",
-      "adds": 173925,
+      "adds": 253734,
+      "rostered_by": null
+    },
+    {
+      "player": "Tyler Shough (QB, NO)",
+      "adds": 243520,
+      "rostered_by": null
+    },
+    {
+      "player": "Kendrick Bourne (WR, ARI)",
+      "adds": 214818,
       "rostered_by": null
     },
     {
       "player": "Matthew Golden (WR, GB)",
-      "adds": 154700,
+      "adds": 199899,
       "rostered_by": 6
     },
     {
       "player": "Kalif Raymond (WR, CHI)",
-      "adds": 146916,
+      "adds": 188762,
       "rostered_by": null
     },
     {
       "player": "Kenyon Sadiq (TE, NYJ)",
-      "adds": 122886,
+      "adds": 180711,
       "rostered_by": null
     },
     {
-      "player": "Jalen Coker (WR, CAR) [Questionable]",
-      "adds": 119839,
-      "rostered_by": 12
-    },
-    {
       "player": "Jacory Croskey-Merritt (RB, WAS)",
-      "adds": 114156,
+      "adds": 146997,
       "rostered_by": 4
     },
     {
-      "player": "Kyle Monangai (RB, CHI)",
-      "adds": 87780,
-      "rostered_by": 8
+      "player": "Jalen Coker (WR, CAR) [Questionable]",
+      "adds": 140926,
+      "rostered_by": 12
     },
     {
       "player": "Cairo Santos (K, CHI)",
-      "adds": 78015,
+      "adds": 109956,
+      "rostered_by": null
+    },
+    {
+      "player": "Roman Wilson (WR, PIT)",
+      "adds": 109926,
       "rostered_by": null
     }
   ]
