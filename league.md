@@ -1,5 +1,5 @@
 # Sleeper league state
-Generated Thursday September 17, 2026 04:23 PM ET · Season 2026 · NFL week 2
+Generated Thursday September 17, 2026 07:34 PM ET · Season 2026 · NFL week 2
 League: The Dudes Will Roll · 12 teams · waivers: FAAB (budget $200) · lineup: QB, RB, RB, WR, WR, TE, FLEX, K, DEF
 
 ## My team: THE ACE OF SPADES (roster 11)
@@ -67,8 +67,8 @@ Bench: Jayden Reed (WR, GB); Jonathon Brooks (RB, CAR); Brian Thomas (WR, JAX) [
 IR: Trey Benson (RB, ARI) [IR]
 
 ### Team 8 · 1-0 · 115.5 pts · waiver priority 9
-Starters: Jaxson Dart (QB, NYG); Bijan Robinson (RB, ATL); Javonte Williams (RB, DAL); Drake London (WR, ATL); Tee Higgins (WR, CIN); Jake Ferguson (TE, DAL); Rico Dowdle (RB, PIT); Tyler Loop (K, BAL); Minnesota Vikings (DEF, MIN)
-Bench: Rashee Rice (WR, KC); Michael Wilson (WR, ARI); Kyle Monangai (RB, CHI) [Questionable]; Dalton Schultz (TE, HOU); Trevor Lawrence (QB, JAX); Wan'Dale Robinson (WR, TEN)
+Starters: Trevor Lawrence (QB, JAX); Bijan Robinson (RB, ATL); Javonte Williams (RB, DAL); Drake London (WR, ATL); Tee Higgins (WR, CIN); Jake Ferguson (TE, DAL); Rico Dowdle (RB, PIT); Tyler Loop (K, BAL); Minnesota Vikings (DEF, MIN)
+Bench: Rashee Rice (WR, KC); Michael Wilson (WR, ARI); Jaxson Dart (QB, NYG); Kyle Monangai (RB, CHI) [Questionable]; Dalton Schultz (TE, HOU); Wan'Dale Robinson (WR, TEN)
 
 ### Holla · 0-1 · 141.3 pts · waiver priority 6
 Starters: Caleb Williams (QB, CHI); Christian McCaffrey (RB, SF); Breece Hall (RB, NYJ); Ja'Marr Chase (WR, CIN); Zay Flowers (WR, BAL) [Questionable]; Tucker Kraft (TE, GB); Cam Skattebo (RB, NYG); Harrison Mevis (K, LAR); Las Vegas Raiders (DEF, LV)
@@ -121,30 +121,30 @@ Bench: Oronde Gadsden (TE, LAC); Dak Prescott (QB, DAL); Alvin Kamara (RB, NO); 
 - Week 1 · free_agent · complete · Sun Sep 06 08:57 AM · Thoroughbred Cheesehead · added: Roschon Johnson (RB, CHI) to Thoroughbred Cheesehead · dropped: Kenyon Sadiq (TE, NYJ) from Thoroughbred Cheesehead
 
 ## Trending adds across Sleeper, last 24 hours
-- Devin Singletary (RB, NYG) · 558,414 adds · rostered by Holla
-- Caleb Douglas (WR, MIA) · 377,520 adds · AVAILABLE in my league
-- Tampa Bay Buccaneers (DEF, TB) · 296,060 adds · rostered by Team 9
-- Raheim Sanders (RB, CLE) · 262,640 adds · AVAILABLE in my league
-- Devaughn Vele (WR, NO) · 229,537 adds · rostered by FuelTheJET
-- Demarcus Robinson (WR, SF) · 198,282 adds · AVAILABLE in my league
-- Carson Wentz (QB, MIN) · 187,320 adds · AVAILABLE in my league
-- Kaelon Black (RB, SF) · 169,785 adds · rostered by FuelTheJET
-- San Francisco 49ers (DEF, SF) · 153,051 adds · rostered by Young Blood
-- Emmett Johnson (RB, KC) · 145,710 adds · on my roster
-- Xavier Hutchinson (WR, HOU) · 136,913 adds · AVAILABLE in my league
-- Mack Hollins (WR, NE) · 127,545 adds · AVAILABLE in my league
-- Cairo Santos (K, CHI) · 121,772 adds · AVAILABLE in my league
-- Pat Bryant (WR, DEN) · 113,896 adds · AVAILABLE in my league
-- Aaron Jones (RB, MIN) · 112,779 adds · rostered by Young Blood
-- Sione Vaki (RB, DET) · 106,169 adds · AVAILABLE in my league
-- Alvin Kamara (RB, NO) · 104,960 adds · rostered by Team 9
-- Mike Gesicki (TE, CIN) · 104,020 adds · rostered by Young Blood
-- Kenyon Sadiq (TE, NYJ) · 103,842 adds · AVAILABLE in my league
-- Khalil Shakir (WR, BUF) · 92,196 adds · rostered by Young Blood
-- Bryce Young (QB, CAR) · 88,216 adds · AVAILABLE in my league
-- Malik Washington (WR, MIA) · 87,160 adds · AVAILABLE in my league
-- MarShawn Lloyd (RB, GB) · 83,520 adds · rostered by Make Miami Great Again
-- Demond Claiborne (RB, MIN) · 83,490 adds · AVAILABLE in my league
-- DeeJay Dallas (RB, MIN) · 76,452 adds · AVAILABLE in my league
+- Devin Singletary (RB, NYG) · 485,280 adds · rostered by Holla
+- Caleb Douglas (WR, MIA) · 301,032 adds · AVAILABLE in my league
+- Tampa Bay Buccaneers (DEF, TB) · 251,760 adds · rostered by Team 9
+- Raheim Sanders (RB, CLE) · 216,176 adds · AVAILABLE in my league
+- Devaughn Vele (WR, NO) · 164,871 adds · rostered by FuelTheJET
+- Demarcus Robinson (WR, SF) · 155,418 adds · AVAILABLE in my league
+- Xavier Hutchinson (WR, HOU) · 152,943 adds · AVAILABLE in my league
+- Carson Wentz (QB, MIN) · 148,038 adds · AVAILABLE in my league
+- San Francisco 49ers (DEF, SF) · 130,005 adds · rostered by Young Blood
+- Kaelon Black (RB, SF) · 121,485 adds · rostered by FuelTheJET
+- Cairo Santos (K, CHI) · 112,280 adds · AVAILABLE in my league
+- Emmett Johnson (RB, KC) · 102,348 adds · on my roster
+- Mack Hollins (WR, NE) · 101,670 adds · AVAILABLE in my league
+- Sione Vaki (RB, DET) · 89,166 adds · AVAILABLE in my league
+- Alvin Kamara (RB, NO) · 88,616 adds · rostered by Team 9
+- Mike Gesicki (TE, CIN) · 87,848 adds · rostered by Young Blood
+- Khalil Shakir (WR, BUF) · 85,653 adds · rostered by Young Blood
+- Kenyon Sadiq (TE, NYJ) · 82,836 adds · AVAILABLE in my league
+- Aaron Jones (RB, MIN) · 77,799 adds · rostered by Young Blood
+- Malik Washington (WR, MIA) · 77,760 adds · AVAILABLE in my league
+- Pat Bryant (WR, DEN) · 74,656 adds · AVAILABLE in my league
+- MarShawn Lloyd (RB, GB) · 72,828 adds · rostered by Make Miami Great Again
+- DeeJay Dallas (RB, MIN) · 69,792 adds · AVAILABLE in my league
+- Bryce Young (QB, CAR) · 69,596 adds · AVAILABLE in my league
+- Matthew Golden (WR, GB) · 63,245 adds · rostered by FuelTheJET
 
 Data from the Sleeper API (sleeper.com). Injury tags in brackets are Sleeper's designations and may lag official reports.
