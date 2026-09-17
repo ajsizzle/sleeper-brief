@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-16T20:38:55.532798-04:00",
+  "generated": "2026-09-17T02:11:56.900295-04:00",
   "season": "2026",
   "week": 2,
   "league": {
@@ -502,129 +502,129 @@
   ],
   "trending_adds": [
     {
-      "player": "Devaughn Vele (WR, NO)",
-      "adds": 1614242,
-      "rostered_by": 6
+      "player": "Devin Singletary (RB, NYG)",
+      "adds": 850464,
+      "rostered_by": 2
     },
     {
       "player": "Caleb Douglas (WR, MIA)",
-      "adds": 1457416,
+      "adds": 821352,
       "rostered_by": null
     },
     {
       "player": "Tampa Bay Buccaneers (DEF, TB)",
-      "adds": 1262140,
+      "adds": 814095,
       "rostered_by": 9
     },
     {
-      "player": "Devin Singletary (RB, NYG)",
-      "adds": 1233333,
-      "rostered_by": 2
-    },
-    {
-      "player": "Kaelon Black (RB, SF)",
-      "adds": 857640,
+      "player": "Devaughn Vele (WR, NO)",
+      "adds": 669977,
       "rostered_by": 6
     },
     {
       "player": "Raheim Sanders (RB, CLE)",
-      "adds": 745616,
-      "rostered_by": null
-    },
-    {
-      "player": "Carson Wentz (QB, MIN)",
-      "adds": 742782,
+      "adds": 443872,
       "rostered_by": null
     },
     {
       "player": "San Francisco 49ers (DEF, SF)",
-      "adds": 697062,
+      "adds": 426708,
       "rostered_by": 12
     },
     {
+      "player": "Carson Wentz (QB, MIN)",
+      "adds": 412602,
+      "rostered_by": null
+    },
+    {
+      "player": "Kaelon Black (RB, SF)",
+      "adds": 411180,
+      "rostered_by": 6
+    },
+    {
       "player": "Emmett Johnson (RB, KC)",
-      "adds": 425763,
+      "adds": 283860,
       "rostered_by": 11
     },
     {
       "player": "Demarcus Robinson (WR, SF)",
-      "adds": 387978,
+      "adds": 271812,
       "rostered_by": null
     },
     {
       "player": "Pat Bryant (WR, DEN)",
-      "adds": 385328,
+      "adds": 241192,
       "rostered_by": null
     },
     {
       "player": "Mack Hollins (WR, NE)",
-      "adds": 323715,
+      "adds": 221781,
       "rostered_by": null
     },
     {
       "player": "Mike Gesicki (TE, CIN)",
-      "adds": 286140,
+      "adds": 193064,
       "rostered_by": 12
     },
     {
-      "player": "Kenyon Sadiq (TE, NYJ)",
-      "adds": 262359,
+      "player": "Cairo Santos (K, CHI)",
+      "adds": 191233,
       "rostered_by": null
     },
     {
-      "player": "Dontayvion Wicks (WR, PHI)",
-      "adds": 256926,
-      "rostered_by": 11
-    },
-    {
-      "player": "Sione Vaki (RB, DET)",
-      "adds": 228536,
+      "player": "Kenyon Sadiq (TE, NYJ)",
+      "adds": 180612,
       "rostered_by": null
     },
     {
       "player": "Bryce Young (QB, CAR)",
-      "adds": 227468,
+      "adds": 160936,
       "rostered_by": null
     },
     {
-      "player": "Cairo Santos (K, CHI)",
-      "adds": 210378,
+      "player": "Sione Vaki (RB, DET)",
+      "adds": 160531,
       "rostered_by": null
+    },
+    {
+      "player": "Dontayvion Wicks (WR, PHI)",
+      "adds": 156114,
+      "rostered_by": 11
     },
     {
       "player": "Evan Engram (TE, DEN)",
-      "adds": 201728,
-      "rostered_by": null
-    },
-    {
-      "player": "Tyler Shough (QB, NO)",
-      "adds": 200064,
+      "adds": 139512,
       "rostered_by": null
     },
     {
       "player": "Matthew Golden (WR, GB)",
-      "adds": 194628,
+      "adds": 137557,
       "rostered_by": 6
     },
     {
-      "player": "Kendrick Bourne (WR, ARI)",
-      "adds": 164640,
-      "rostered_by": null
+      "player": "Aaron Jones (RB, MIN)",
+      "adds": 137103,
+      "rostered_by": 12
     },
     {
-      "player": "Kalif Raymond (WR, CHI)",
-      "adds": 164176,
+      "player": "Tyler Shough (QB, NO)",
+      "adds": 130304,
       "rostered_by": null
-    },
-    {
-      "player": "Jacory Croskey-Merritt (RB, WAS)",
-      "adds": 153045,
-      "rostered_by": 4
     },
     {
       "player": "Khalil Shakir (WR, BUF)",
-      "adds": 131805,
+      "adds": 124920,
       "rostered_by": 12
+    },
+    {
+      "player": "Jacory Croskey-Merritt (RB, WAS)",
+      "adds": 119151,
+      "rostered_by": 4
+    },
+    {
+      "player": "Alvin Kamara (RB, NO) [Questionable]",
+      "adds": 112752,
+      "rostered_by": 9
     }
   ]
 }
