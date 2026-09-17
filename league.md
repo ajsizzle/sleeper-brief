@@ -1,5 +1,5 @@
 # Sleeper league state
-Generated Wednesday September 16, 2026 06:13 PM ET · Season 2026 · NFL week 2
+Generated Wednesday September 16, 2026 08:38 PM ET · Season 2026 · NFL week 2
 League: The Dudes Will Roll · 12 teams · waivers: FAAB (budget $200) · lineup: QB, RB, RB, WR, WR, TE, FLEX, K, DEF
 
 ## My team: THE ACE OF SPADES (roster 11)
@@ -121,30 +121,30 @@ Bench: Oronde Gadsden (TE, LAC); Dak Prescott (QB, DAL); Alvin Kamara (RB, NO) [
 - Week 1 · free_agent · complete · Sun Sep 06 08:57 AM · Thoroughbred Cheesehead · added: Roschon Johnson (RB, CHI) to Thoroughbred Cheesehead · dropped: Kenyon Sadiq (TE, NYJ) from Thoroughbred Cheesehead
 
 ## Trending adds across Sleeper, last 24 hours
-- Devaughn Vele (WR, NO) · 1,827,777 adds · rostered by FuelTheJET
-- Caleb Douglas (WR, MIA) · 1,581,008 adds · AVAILABLE in my league
-- Tampa Bay Buccaneers (DEF, TB) · 1,351,880 adds · rostered by Team 9
-- Devin Singletary (RB, NYG) · 1,294,731 adds · rostered by Holla
-- Kaelon Black (RB, SF) · 951,622 adds · rostered by FuelTheJET
-- Raheim Sanders (RB, CLE) · 794,944 adds · AVAILABLE in my league
-- Carson Wentz (QB, MIN) · 783,990 adds · AVAILABLE in my league
-- San Francisco 49ers (DEF, SF) · 752,190 adds · rostered by Young Blood
-- Emmett Johnson (RB, KC) · 444,357 adds · on my roster
-- Pat Bryant (WR, DEN) · 411,120 adds · AVAILABLE in my league
-- Demarcus Robinson (WR, SF) · 401,046 adds · AVAILABLE in my league
-- Mack Hollins (WR, NE) · 336,249 adds · AVAILABLE in my league
-- Mike Gesicki (TE, CIN) · 301,096 adds · rostered by Young Blood
-- Dontayvion Wicks (WR, PHI) · 276,324 adds · on my roster
-- Kenyon Sadiq (TE, NYJ) · 274,428 adds · AVAILABLE in my league
-- Bryce Young (QB, CAR) · 238,600 adds · AVAILABLE in my league
-- Sione Vaki (RB, DET) · 234,248 adds · AVAILABLE in my league
-- Evan Engram (TE, DEN) · 212,024 adds · AVAILABLE in my league
-- Tyler Shough (QB, NO) · 211,976 adds · AVAILABLE in my league
-- Matthew Golden (WR, GB) · 204,589 adds · rostered by FuelTheJET
-- Cairo Santos (K, CHI) · 204,176 adds · AVAILABLE in my league
-- Kendrick Bourne (WR, ARI) · 177,141 adds · AVAILABLE in my league
-- Kalif Raymond (WR, CHI) · 176,258 adds · AVAILABLE in my league
-- Jacory Croskey-Merritt (RB, WAS) · 157,293 adds · rostered by Thoroughbred Cheesehead
-- Roman Wilson (WR, PIT) · 137,061 adds · AVAILABLE in my league
+- Devaughn Vele (WR, NO) · 1,614,242 adds · rostered by FuelTheJET
+- Caleb Douglas (WR, MIA) · 1,457,416 adds · AVAILABLE in my league
+- Tampa Bay Buccaneers (DEF, TB) · 1,262,140 adds · rostered by Team 9
+- Devin Singletary (RB, NYG) · 1,233,333 adds · rostered by Holla
+- Kaelon Black (RB, SF) · 857,640 adds · rostered by FuelTheJET
+- Raheim Sanders (RB, CLE) · 745,616 adds · AVAILABLE in my league
+- Carson Wentz (QB, MIN) · 742,782 adds · AVAILABLE in my league
+- San Francisco 49ers (DEF, SF) · 697,062 adds · rostered by Young Blood
+- Emmett Johnson (RB, KC) · 425,763 adds · on my roster
+- Demarcus Robinson (WR, SF) · 387,978 adds · AVAILABLE in my league
+- Pat Bryant (WR, DEN) · 385,328 adds · AVAILABLE in my league
+- Mack Hollins (WR, NE) · 323,715 adds · AVAILABLE in my league
+- Mike Gesicki (TE, CIN) · 286,140 adds · rostered by Young Blood
+- Kenyon Sadiq (TE, NYJ) · 262,359 adds · AVAILABLE in my league
+- Dontayvion Wicks (WR, PHI) · 256,926 adds · on my roster
+- Sione Vaki (RB, DET) · 228,536 adds · AVAILABLE in my league
+- Bryce Young (QB, CAR) · 227,468 adds · AVAILABLE in my league
+- Cairo Santos (K, CHI) · 210,378 adds · AVAILABLE in my league
+- Evan Engram (TE, DEN) · 201,728 adds · AVAILABLE in my league
+- Tyler Shough (QB, NO) · 200,064 adds · AVAILABLE in my league
+- Matthew Golden (WR, GB) · 194,628 adds · rostered by FuelTheJET
+- Kendrick Bourne (WR, ARI) · 164,640 adds · AVAILABLE in my league
+- Kalif Raymond (WR, CHI) · 164,176 adds · AVAILABLE in my league
+- Jacory Croskey-Merritt (RB, WAS) · 153,045 adds · rostered by Thoroughbred Cheesehead
+- Khalil Shakir (WR, BUF) · 131,805 adds · rostered by Young Blood
 
 Data from the Sleeper API (sleeper.com). Injury tags in brackets are Sleeper's designations and may lag official reports.
