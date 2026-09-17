@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-17T02:11:56.900295-04:00",
+  "generated": "2026-09-17T07:51:45.636535-04:00",
   "season": "2026",
   "week": 2,
   "league": {
@@ -503,128 +503,128 @@
   "trending_adds": [
     {
       "player": "Devin Singletary (RB, NYG)",
-      "adds": 850464,
+      "adds": 701523,
       "rostered_by": 2
     },
     {
       "player": "Caleb Douglas (WR, MIA)",
-      "adds": 821352,
+      "adds": 581408,
       "rostered_by": null
     },
     {
       "player": "Tampa Bay Buccaneers (DEF, TB)",
-      "adds": 814095,
+      "adds": 542675,
       "rostered_by": 9
     },
     {
       "player": "Devaughn Vele (WR, NO)",
-      "adds": 669977,
+      "adds": 424088,
       "rostered_by": 6
     },
     {
       "player": "Raheim Sanders (RB, CLE)",
-      "adds": 443872,
+      "adds": 351384,
+      "rostered_by": null
+    },
+    {
+      "player": "Carson Wentz (QB, MIN)",
+      "adds": 291828,
       "rostered_by": null
     },
     {
       "player": "San Francisco 49ers (DEF, SF)",
-      "adds": 426708,
+      "adds": 283170,
       "rostered_by": 12
     },
     {
-      "player": "Carson Wentz (QB, MIN)",
-      "adds": 412602,
-      "rostered_by": null
-    },
-    {
       "player": "Kaelon Black (RB, SF)",
-      "adds": 411180,
+      "adds": 281050,
       "rostered_by": 6
     },
     {
-      "player": "Emmett Johnson (RB, KC)",
-      "adds": 283860,
-      "rostered_by": 11
-    },
-    {
       "player": "Demarcus Robinson (WR, SF)",
-      "adds": 271812,
+      "adds": 232002,
       "rostered_by": null
     },
     {
+      "player": "Emmett Johnson (RB, KC)",
+      "adds": 219411,
+      "rostered_by": 11
+    },
+    {
       "player": "Pat Bryant (WR, DEN)",
-      "adds": 241192,
+      "adds": 183128,
       "rostered_by": null
     },
     {
       "player": "Mack Hollins (WR, NE)",
-      "adds": 221781,
+      "adds": 178272,
+      "rostered_by": null
+    },
+    {
+      "player": "Cairo Santos (K, CHI)",
+      "adds": 155708,
       "rostered_by": null
     },
     {
       "player": "Mike Gesicki (TE, CIN)",
-      "adds": 193064,
+      "adds": 149808,
       "rostered_by": 12
     },
     {
-      "player": "Cairo Santos (K, CHI)",
-      "adds": 191233,
+      "player": "Kenyon Sadiq (TE, NYJ)",
+      "adds": 142434,
       "rostered_by": null
     },
     {
-      "player": "Kenyon Sadiq (TE, NYJ)",
-      "adds": 180612,
+      "player": "Aaron Jones (RB, MIN)",
+      "adds": 135411,
+      "rostered_by": 12
+    },
+    {
+      "player": "Sione Vaki (RB, DET)",
+      "adds": 135317,
       "rostered_by": null
     },
     {
       "player": "Bryce Young (QB, CAR)",
-      "adds": 160936,
-      "rostered_by": null
-    },
-    {
-      "player": "Sione Vaki (RB, DET)",
-      "adds": 160531,
+      "adds": 124968,
       "rostered_by": null
     },
     {
       "player": "Dontayvion Wicks (WR, PHI)",
-      "adds": 156114,
+      "adds": 114228,
       "rostered_by": 11
     },
     {
-      "player": "Evan Engram (TE, DEN)",
-      "adds": 139512,
-      "rostered_by": null
-    },
-    {
-      "player": "Matthew Golden (WR, GB)",
-      "adds": 137557,
-      "rostered_by": 6
-    },
-    {
-      "player": "Aaron Jones (RB, MIN)",
-      "adds": 137103,
-      "rostered_by": 12
-    },
-    {
-      "player": "Tyler Shough (QB, NO)",
-      "adds": 130304,
-      "rostered_by": null
-    },
-    {
       "player": "Khalil Shakir (WR, BUF)",
-      "adds": 124920,
+      "adds": 108792,
       "rostered_by": 12
     },
     {
-      "player": "Jacory Croskey-Merritt (RB, WAS)",
-      "adds": 119151,
-      "rostered_by": 4
+      "player": "Evan Engram (TE, DEN)",
+      "adds": 108096,
+      "rostered_by": null
     },
     {
       "player": "Alvin Kamara (RB, NO) [Questionable]",
-      "adds": 112752,
+      "adds": 105104,
       "rostered_by": 9
+    },
+    {
+      "player": "Matthew Golden (WR, GB)",
+      "adds": 104496,
+      "rostered_by": 6
+    },
+    {
+      "player": "Demond Claiborne (RB, MIN)",
+      "adds": 99897,
+      "rostered_by": null
+    },
+    {
+      "player": "Tyler Shough (QB, NO)",
+      "adds": 97096,
+      "rostered_by": null
     }
   ]
 }
