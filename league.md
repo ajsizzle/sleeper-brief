@@ -1,5 +1,5 @@
 # Sleeper league state
-Generated Thursday September 17, 2026 07:51 AM ET · Season 2026 · NFL week 2
+Generated Thursday September 17, 2026 01:08 PM ET · Season 2026 · NFL week 2
 League: The Dudes Will Roll · 12 teams · waivers: FAAB (budget $200) · lineup: QB, RB, RB, WR, WR, TE, FLEX, K, DEF
 
 ## My team: THE ACE OF SPADES (roster 11)
@@ -58,12 +58,12 @@ Starters: Jalen Hurts (QB, PHI); Derrick Henry (RB, BAL); Kyren Williams (RB, LA
 Bench: Chris Rodriguez (RB, JAX); Bo Nix (QB, DEN); Travis Hunter (WR, JAX); Carnell Tate (WR, TEN); Dallas Goedert (TE, PHI); Josh Downs (WR, IND)
 
 ### Young Blood · 1-0 · 121.5 pts · waiver priority 12
-Starters: Justin Herbert (QB, LAC); Jonathan Taylor (RB, IND); D'Andre Swift (RB, CHI); Justin Jefferson (WR, MIN); George Pickens (WR, DAL); Mike Gesicki (TE, CIN); Davante Adams (WR, LAR); Jason Myers (K, SEA); San Francisco 49ers (DEF, SF)
-Bench: Jalen Coker (WR, CAR) [Questionable]; Aaron Jones (RB, MIN); Tony Pollard (RB, TEN); Michael Pittman (WR, PIT); Khalil Shakir (WR, BUF); Detroit Lions (DEF, DET)
+Starters: Justin Herbert (QB, LAC); Jonathan Taylor (RB, IND); D'Andre Swift (RB, CHI); Justin Jefferson (WR, MIN); George Pickens (WR, DAL); Mike Gesicki (TE, CIN); Aaron Jones (RB, MIN); Jason Myers (K, SEA); San Francisco 49ers (DEF, SF)
+Bench: Jalen Coker (WR, CAR) [Questionable]; Davante Adams (WR, LAR); Tony Pollard (RB, TEN); Michael Pittman (WR, PIT); Khalil Shakir (WR, BUF); Detroit Lions (DEF, DET)
 
 ### Springfield Atoms · 1-0 · 118.3 pts · waiver priority 2
-Starters: Josh Allen (QB, BUF); Travis Etienne (RB, NO); David Montgomery (RB, HOU); CeeDee Lamb (WR, DAL); Terry McLaurin (WR, WAS); Sam LaPorta (TE, DET); Brian Thomas (WR, JAX) [Questionable]; Brandon Aubrey (K, DAL); Baltimore Ravens (DEF, BAL)
-Bench: Jayden Reed (WR, GB); Jonathon Brooks (RB, CAR); Makai Lemon (WR, PHI); Jared Goff (QB, DET); Isaiah Likely (TE, NYG)
+Starters: Josh Allen (QB, BUF); Travis Etienne (RB, NO); David Montgomery (RB, HOU); CeeDee Lamb (WR, DAL); Terry McLaurin (WR, WAS); Sam LaPorta (TE, DET); Isaiah Likely (TE, NYG); Brandon Aubrey (K, DAL); Baltimore Ravens (DEF, BAL)
+Bench: Jayden Reed (WR, GB); Jonathon Brooks (RB, CAR); Brian Thomas (WR, JAX) [Questionable]; Makai Lemon (WR, PHI); Jared Goff (QB, DET)
 IR: Trey Benson (RB, ARI) [IR]
 
 ### Team 8 · 1-0 · 115.5 pts · waiver priority 9
@@ -121,30 +121,30 @@ Bench: Oronde Gadsden (TE, LAC); Dak Prescott (QB, DAL); Alvin Kamara (RB, NO) [
 - Week 1 · free_agent · complete · Sun Sep 06 08:57 AM · Thoroughbred Cheesehead · added: Roschon Johnson (RB, CHI) to Thoroughbred Cheesehead · dropped: Kenyon Sadiq (TE, NYJ) from Thoroughbred Cheesehead
 
 ## Trending adds across Sleeper, last 24 hours
-- Devin Singletary (RB, NYG) · 701,523 adds · rostered by Holla
-- Caleb Douglas (WR, MIA) · 581,408 adds · AVAILABLE in my league
-- Tampa Bay Buccaneers (DEF, TB) · 542,675 adds · rostered by Team 9
-- Devaughn Vele (WR, NO) · 424,088 adds · rostered by FuelTheJET
-- Raheim Sanders (RB, CLE) · 351,384 adds · AVAILABLE in my league
-- Carson Wentz (QB, MIN) · 291,828 adds · AVAILABLE in my league
-- San Francisco 49ers (DEF, SF) · 283,170 adds · rostered by Young Blood
-- Kaelon Black (RB, SF) · 281,050 adds · rostered by FuelTheJET
-- Demarcus Robinson (WR, SF) · 232,002 adds · AVAILABLE in my league
-- Emmett Johnson (RB, KC) · 219,411 adds · on my roster
-- Pat Bryant (WR, DEN) · 183,128 adds · AVAILABLE in my league
-- Mack Hollins (WR, NE) · 178,272 adds · AVAILABLE in my league
-- Cairo Santos (K, CHI) · 155,708 adds · AVAILABLE in my league
-- Mike Gesicki (TE, CIN) · 149,808 adds · rostered by Young Blood
-- Kenyon Sadiq (TE, NYJ) · 142,434 adds · AVAILABLE in my league
-- Aaron Jones (RB, MIN) · 135,411 adds · rostered by Young Blood
-- Sione Vaki (RB, DET) · 135,317 adds · AVAILABLE in my league
-- Bryce Young (QB, CAR) · 124,968 adds · AVAILABLE in my league
-- Dontayvion Wicks (WR, PHI) · 114,228 adds · on my roster
-- Khalil Shakir (WR, BUF) · 108,792 adds · rostered by Young Blood
-- Evan Engram (TE, DEN) · 108,096 adds · AVAILABLE in my league
-- Alvin Kamara (RB, NO) [Questionable] · 105,104 adds · rostered by Team 9
-- Matthew Golden (WR, GB) · 104,496 adds · rostered by FuelTheJET
-- Demond Claiborne (RB, MIN) · 99,897 adds · AVAILABLE in my league
-- Tyler Shough (QB, NO) · 97,096 adds · AVAILABLE in my league
+- Devin Singletary (RB, NYG) · 628,974 adds · rostered by Holla
+- Caleb Douglas (WR, MIA) · 438,304 adds · AVAILABLE in my league
+- Tampa Bay Buccaneers (DEF, TB) · 341,435 adds · rostered by Team 9
+- Raheim Sanders (RB, CLE) · 301,128 adds · AVAILABLE in my league
+- Devaughn Vele (WR, NO) · 283,444 adds · rostered by FuelTheJET
+- Carson Wentz (QB, MIN) · 214,380 adds · AVAILABLE in my league
+- Demarcus Robinson (WR, SF) · 212,100 adds · AVAILABLE in my league
+- Kaelon Black (RB, SF) · 210,938 adds · rostered by FuelTheJET
+- Emmett Johnson (RB, KC) · 177,210 adds · on my roster
+- San Francisco 49ers (DEF, SF) · 176,976 adds · rostered by Young Blood
+- Mack Hollins (WR, NE) · 145,974 adds · AVAILABLE in my league
+- Aaron Jones (RB, MIN) · 141,510 adds · rostered by Young Blood
+- Pat Bryant (WR, DEN) · 137,864 adds · AVAILABLE in my league
+- Cairo Santos (K, CHI) · 127,736 adds · AVAILABLE in my league
+- Sione Vaki (RB, DET) · 121,240 adds · AVAILABLE in my league
+- Mike Gesicki (TE, CIN) · 117,852 adds · rostered by Young Blood
+- Xavier Hutchinson (WR, HOU) · 117,460 adds · AVAILABLE in my league
+- Kenyon Sadiq (TE, NYJ) · 115,425 adds · AVAILABLE in my league
+- Demond Claiborne (RB, MIN) · 110,130 adds · AVAILABLE in my league
+- Alvin Kamara (RB, NO) [Questionable] · 107,288 adds · rostered by Team 9
+- Bryce Young (QB, CAR) · 98,408 adds · AVAILABLE in my league
+- Khalil Shakir (WR, BUF) · 96,660 adds · rostered by Young Blood
+- MarShawn Lloyd (RB, GB) · 89,280 adds · rostered by Make Miami Great Again
+- Malik Washington (WR, MIA) · 89,144 adds · AVAILABLE in my league
+- Dontayvion Wicks (WR, PHI) · 85,803 adds · on my roster
 
 Data from the Sleeper API (sleeper.com). Injury tags in brackets are Sleeper's designations and may lag official reports.
