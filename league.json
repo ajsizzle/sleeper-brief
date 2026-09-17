@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-17T13:08:11.181525-04:00",
+  "generated": "2026-09-17T16:23:27.350769-04:00",
   "season": "2026",
   "week": 2,
   "league": {
@@ -44,7 +44,7 @@
       "Xavier Worthy (WR, KC)",
       "Tahj Brooks (RB, CIN)",
       "Emmett Johnson (RB, KC)",
-      "George Kittle (TE, SF)",
+      "George Kittle (TE, SF) [Questionable]",
       "Dontayvion Wicks (WR, PHI)",
       "Houston Texans (DEF, HOU)"
     ],
@@ -66,7 +66,7 @@
     "starters": [
       "Brock Purdy (QB, SF)",
       "Jeremiyah Love (RB, ARI)",
-      "RJ Harvey (RB, DEN)",
+      "RJ Harvey (RB, DEN) [Questionable]",
       "Puka Nacua (WR, LAR)",
       "Jaylen Waddle (WR, DEN)",
       "Colston Loveland (TE, CHI)",
@@ -77,7 +77,7 @@
     "bench": [
       "Oronde Gadsden (TE, LAC)",
       "Dak Prescott (QB, DAL)",
-      "Alvin Kamara (RB, NO) [Questionable]",
+      "Alvin Kamara (RB, NO)",
       "Kenny Gainwell (RB, TB)",
       "Tyler Allgeier (RB, ARI)",
       "Denver Broncos (DEF, DEN)"
@@ -129,7 +129,7 @@
       "waiver_position": 8,
       "faab_used": 0,
       "starters": [
-        "Joe Burrow (QB, CIN)",
+        "Joe Burrow (QB, CIN) [Questionable]",
         "James Cook (RB, BUF)",
         "Bucky Irving (RB, TB)",
         "Amon-Ra St. Brown (WR, DET)",
@@ -197,7 +197,7 @@
       "starters": [
         "Justin Herbert (QB, LAC)",
         "Jonathan Taylor (RB, IND)",
-        "D'Andre Swift (RB, CHI)",
+        "D'Andre Swift (RB, CHI) [Questionable]",
         "Justin Jefferson (WR, MIN)",
         "George Pickens (WR, DAL)",
         "Mike Gesicki (TE, CIN)",
@@ -209,7 +209,7 @@
         "Jalen Coker (WR, CAR) [Questionable]",
         "Davante Adams (WR, LAR)",
         "Tony Pollard (RB, TEN)",
-        "Michael Pittman (WR, PIT)",
+        "Michael Pittman (WR, PIT) [Questionable]",
         "Khalil Shakir (WR, BUF)",
         "Detroit Lions (DEF, DET)"
       ],
@@ -273,7 +273,7 @@
       "bench": [
         "Rashee Rice (WR, KC)",
         "Michael Wilson (WR, ARI)",
-        "Kyle Monangai (RB, CHI)",
+        "Kyle Monangai (RB, CHI) [Questionable]",
         "Dalton Schultz (TE, HOU)",
         "Trevor Lawrence (QB, JAX)",
         "Wan'Dale Robinson (WR, TEN)"
@@ -307,7 +307,7 @@
         "Patrick Mahomes (QB, KC)",
         "Devin Singletary (RB, NYG)",
         "Alec Pierce (WR, IND) [Questionable]",
-        "Jordan Mason (RB, MIN) [Questionable]",
+        "Jordan Mason (RB, MIN) [IR]",
         "Quentin Johnston (WR, LAC)"
       ],
       "ir": []
@@ -335,9 +335,9 @@
         "Philadelphia Eagles (DEF, PHI)"
       ],
       "bench": [
-        "TreVeyon Henderson (RB, NE) [Questionable]",
+        "TreVeyon Henderson (RB, NE)",
         "Stefon Diggs (WR, WAS)",
-        "Jakobi Meyers (WR, JAX)",
+        "Jakobi Meyers (WR, JAX) [Questionable]",
         "Rachaad White (RB, WAS)",
         "Malik Willis (QB, MIA)",
         "Brenton Strange (TE, JAX)"
@@ -402,7 +402,7 @@
         "Xavier Worthy (WR, KC)",
         "Tahj Brooks (RB, CIN)",
         "Emmett Johnson (RB, KC)",
-        "George Kittle (TE, SF)",
+        "George Kittle (TE, SF) [Questionable]",
         "Dontayvion Wicks (WR, PHI)",
         "Houston Texans (DEF, HOU)"
       ],
@@ -425,9 +425,9 @@
         "Matthew Stafford (QB, LAR)",
         "De'Von Achane (RB, MIA)",
         "MarShawn Lloyd (RB, GB)",
-        "Nico Collins (WR, HOU)",
+        "Nico Collins (WR, HOU) [Questionable]",
         "DK Metcalf (WR, PIT)",
-        "Juwan Johnson (TE, NO)",
+        "Juwan Johnson (TE, NO) [Questionable]",
         "Bhayshul Tuten (RB, JAX)",
         "Ka'imi Fairbairn (K, HOU)",
         "Pittsburgh Steelers (DEF, PIT)"
@@ -456,7 +456,7 @@
       "starters": [
         "Brock Purdy (QB, SF)",
         "Jeremiyah Love (RB, ARI)",
-        "RJ Harvey (RB, DEN)",
+        "RJ Harvey (RB, DEN) [Questionable]",
         "Puka Nacua (WR, LAR)",
         "Jaylen Waddle (WR, DEN)",
         "Colston Loveland (TE, CHI)",
@@ -467,7 +467,7 @@
       "bench": [
         "Oronde Gadsden (TE, LAC)",
         "Dak Prescott (QB, DAL)",
-        "Alvin Kamara (RB, NO) [Questionable]",
+        "Alvin Kamara (RB, NO)",
         "Kenny Gainwell (RB, TB)",
         "Tyler Allgeier (RB, ARI)",
         "Denver Broncos (DEF, DEN)"
@@ -480,7 +480,7 @@
     "Week 2 \u00b7 free_agent \u00b7 complete \u00b7 Wed Sep 16 12:02 PM \u00b7 Team 9 \u00b7 added: Tampa Bay Buccaneers (DEF, TB) to Team 9 \u00b7 dropped: Chris Bell (WR, MIA) from Team 9",
     "Week 2 \u00b7 free_agent \u00b7 complete \u00b7 Wed Sep 16 07:58 AM \u00b7 Holla \u00b7 added: Devin Singletary (RB, NYG) to Holla \u00b7 dropped: Braelon Allen (RB, NYJ) from Holla",
     "Week 1 \u00b7 waiver \u00b7 complete \u00b7 Tue Sep 15 11:02 PM \u00b7 FuelTheJET \u00b7 added: Kaelon Black (RB, SF) to FuelTheJET \u00b7 dropped: Rashid Shaheed (WR, SEA) from FuelTheJET \u00b7 bid $31 \u00b7 note: Your waiver claim was processed successfully!",
-    "Week 1 \u00b7 waiver \u00b7 complete \u00b7 Tue Sep 15 11:00 PM \u00b7 FuelTheJET \u00b7 added: Devaughn Vele (WR, NO) to FuelTheJET \u00b7 dropped: De'Zhaun Stribling (WR, SF) [Doubtful] from FuelTheJET \u00b7 bid $40 \u00b7 note: Your waiver claim was processed successfully!",
+    "Week 1 \u00b7 waiver \u00b7 complete \u00b7 Tue Sep 15 11:00 PM \u00b7 FuelTheJET \u00b7 added: Devaughn Vele (WR, NO) to FuelTheJET \u00b7 dropped: De'Zhaun Stribling (WR, SF) [Out] from FuelTheJET \u00b7 bid $40 \u00b7 note: Your waiver claim was processed successfully!",
     "Week 1 \u00b7 waiver \u00b7 complete \u00b7 Tue Sep 15 09:01 PM \u00b7 Young Blood \u00b7 added: San Francisco 49ers (DEF, SF) to Young Blood \u00b7 dropped: Romeo Doubs (WR, NE) from Young Blood \u00b7 bid $6 \u00b7 note: Your waiver claim was processed successfully!",
     "Week 1 \u00b7 waiver \u00b7 complete \u00b7 Tue Sep 15 08:59 PM \u00b7 Young Blood \u00b7 added: Mike Gesicki (TE, CIN) to Young Blood \u00b7 dropped: Kyle Pitts (TE, ATL) from Young Blood \u00b7 bid $4 \u00b7 note: Your waiver claim was processed successfully!",
     "Week 1 \u00b7 waiver \u00b7 failed \u00b7 Tue Sep 15 07:53 PM \u00b7 THE ACE OF SPADES \u00b7 added: Devaughn Vele (WR, NO) to THE ACE OF SPADES \u00b7 bid $2 \u00b7 note: This player was claimed by another owner.",
@@ -503,128 +503,128 @@
   "trending_adds": [
     {
       "player": "Devin Singletary (RB, NYG)",
-      "adds": 628974,
+      "adds": 558414,
       "rostered_by": 2
     },
     {
       "player": "Caleb Douglas (WR, MIA)",
-      "adds": 438304,
+      "adds": 377520,
       "rostered_by": null
     },
     {
       "player": "Tampa Bay Buccaneers (DEF, TB)",
-      "adds": 341435,
+      "adds": 296060,
       "rostered_by": 9
     },
     {
       "player": "Raheim Sanders (RB, CLE)",
-      "adds": 301128,
+      "adds": 262640,
       "rostered_by": null
     },
     {
       "player": "Devaughn Vele (WR, NO)",
-      "adds": 283444,
+      "adds": 229537,
       "rostered_by": 6
     },
     {
-      "player": "Carson Wentz (QB, MIN)",
-      "adds": 214380,
+      "player": "Demarcus Robinson (WR, SF)",
+      "adds": 198282,
       "rostered_by": null
     },
     {
-      "player": "Demarcus Robinson (WR, SF)",
-      "adds": 212100,
+      "player": "Carson Wentz (QB, MIN)",
+      "adds": 187320,
       "rostered_by": null
     },
     {
       "player": "Kaelon Black (RB, SF)",
-      "adds": 210938,
+      "adds": 169785,
       "rostered_by": 6
     },
     {
+      "player": "San Francisco 49ers (DEF, SF)",
+      "adds": 153051,
+      "rostered_by": 12
+    },
+    {
       "player": "Emmett Johnson (RB, KC)",
-      "adds": 177210,
+      "adds": 145710,
       "rostered_by": 11
     },
     {
-      "player": "San Francisco 49ers (DEF, SF)",
-      "adds": 176976,
-      "rostered_by": 12
-    },
-    {
-      "player": "Mack Hollins (WR, NE)",
-      "adds": 145974,
+      "player": "Xavier Hutchinson (WR, HOU)",
+      "adds": 136913,
       "rostered_by": null
     },
     {
-      "player": "Aaron Jones (RB, MIN)",
-      "adds": 141510,
-      "rostered_by": 12
-    },
-    {
-      "player": "Pat Bryant (WR, DEN)",
-      "adds": 137864,
+      "player": "Mack Hollins (WR, NE)",
+      "adds": 127545,
       "rostered_by": null
     },
     {
       "player": "Cairo Santos (K, CHI)",
-      "adds": 127736,
+      "adds": 121772,
       "rostered_by": null
     },
     {
-      "player": "Sione Vaki (RB, DET)",
-      "adds": 121240,
+      "player": "Pat Bryant (WR, DEN)",
+      "adds": 113896,
       "rostered_by": null
     },
     {
-      "player": "Mike Gesicki (TE, CIN)",
-      "adds": 117852,
+      "player": "Aaron Jones (RB, MIN)",
+      "adds": 112779,
       "rostered_by": 12
     },
     {
-      "player": "Xavier Hutchinson (WR, HOU)",
-      "adds": 117460,
+      "player": "Sione Vaki (RB, DET)",
+      "adds": 106169,
       "rostered_by": null
     },
     {
-      "player": "Kenyon Sadiq (TE, NYJ)",
-      "adds": 115425,
-      "rostered_by": null
-    },
-    {
-      "player": "Demond Claiborne (RB, MIN)",
-      "adds": 110130,
-      "rostered_by": null
-    },
-    {
-      "player": "Alvin Kamara (RB, NO) [Questionable]",
-      "adds": 107288,
+      "player": "Alvin Kamara (RB, NO)",
+      "adds": 104960,
       "rostered_by": 9
     },
     {
-      "player": "Bryce Young (QB, CAR)",
-      "adds": 98408,
+      "player": "Mike Gesicki (TE, CIN)",
+      "adds": 104020,
+      "rostered_by": 12
+    },
+    {
+      "player": "Kenyon Sadiq (TE, NYJ)",
+      "adds": 103842,
       "rostered_by": null
     },
     {
       "player": "Khalil Shakir (WR, BUF)",
-      "adds": 96660,
+      "adds": 92196,
       "rostered_by": 12
     },
     {
-      "player": "MarShawn Lloyd (RB, GB)",
-      "adds": 89280,
-      "rostered_by": 7
-    },
-    {
-      "player": "Malik Washington (WR, MIA)",
-      "adds": 89144,
+      "player": "Bryce Young (QB, CAR)",
+      "adds": 88216,
       "rostered_by": null
     },
     {
-      "player": "Dontayvion Wicks (WR, PHI)",
-      "adds": 85803,
-      "rostered_by": 11
+      "player": "Malik Washington (WR, MIA)",
+      "adds": 87160,
+      "rostered_by": null
+    },
+    {
+      "player": "MarShawn Lloyd (RB, GB)",
+      "adds": 83520,
+      "rostered_by": 7
+    },
+    {
+      "player": "Demond Claiborne (RB, MIN)",
+      "adds": 83490,
+      "rostered_by": null
+    },
+    {
+      "player": "DeeJay Dallas (RB, MIN)",
+      "adds": 76452,
+      "rostered_by": null
     }
   ]
 }
