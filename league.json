@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-17T19:34:38.764999-04:00",
+  "generated": "2026-09-18T00:53:35.070085-04:00",
   "season": "2026",
   "week": 2,
   "league": {
@@ -129,7 +129,7 @@
       "waiver_position": 8,
       "faab_used": 0,
       "starters": [
-        "Joe Burrow (QB, CIN) [Questionable]",
+        "Tyler Shough (QB, NO)",
         "James Cook (RB, BUF)",
         "Bucky Irving (RB, TB)",
         "Amon-Ra St. Brown (WR, DET)",
@@ -140,12 +140,12 @@
         "Jacksonville Jaguars (DEF, JAX)"
       ],
       "bench": [
-        "Roschon Johnson (RB, CHI)",
         "Marvin Harrison (WR, ARI)",
         "Jacory Croskey-Merritt (RB, WAS)",
         "Jadarian Price (RB, SEA)",
         "KC Concepcion (WR, CLE)",
-        "Deebo Samuel (WR, SF)"
+        "Deebo Samuel (WR, SF)",
+        "Joe Burrow (QB, CIN) [Questionable]"
       ],
       "ir": [
         "Tank Dell (WR, HOU) [IR]"
@@ -476,6 +476,7 @@
     }
   ],
   "transactions": [
+    "Week 2 \u00b7 free_agent \u00b7 complete \u00b7 Fri Sep 18 12:47 AM \u00b7 Thoroughbred Cheesehead \u00b7 added: Tyler Shough (QB, NO) to Thoroughbred Cheesehead \u00b7 dropped: Roschon Johnson (RB, CHI) from Thoroughbred Cheesehead",
     "Week 2 \u00b7 free_agent \u00b7 complete \u00b7 Wed Sep 16 12:48 PM \u00b7 THE ACE OF SPADES \u00b7 added: Los Angeles Chargers (DEF, LAC) to THE ACE OF SPADES",
     "Week 2 \u00b7 free_agent \u00b7 complete \u00b7 Wed Sep 16 12:02 PM \u00b7 Team 9 \u00b7 added: Tampa Bay Buccaneers (DEF, TB) to Team 9 \u00b7 dropped: Chris Bell (WR, MIA) from Team 9",
     "Week 2 \u00b7 free_agent \u00b7 complete \u00b7 Wed Sep 16 07:58 AM \u00b7 Holla \u00b7 added: Devin Singletary (RB, NYG) to Holla \u00b7 dropped: Braelon Allen (RB, NYJ) from Holla",
@@ -503,128 +504,128 @@
   "trending_adds": [
     {
       "player": "Devin Singletary (RB, NYG)",
-      "adds": 485280,
+      "adds": 520245,
       "rostered_by": 2
     },
     {
       "player": "Caleb Douglas (WR, MIA)",
-      "adds": 301032,
+      "adds": 272824,
       "rostered_by": null
     },
     {
       "player": "Tampa Bay Buccaneers (DEF, TB)",
-      "adds": 251760,
+      "adds": 232150,
       "rostered_by": 9
     },
     {
       "player": "Raheim Sanders (RB, CLE)",
-      "adds": 216176,
-      "rostered_by": null
-    },
-    {
-      "player": "Devaughn Vele (WR, NO)",
-      "adds": 164871,
-      "rostered_by": 6
-    },
-    {
-      "player": "Demarcus Robinson (WR, SF)",
-      "adds": 155418,
+      "adds": 201152,
       "rostered_by": null
     },
     {
       "player": "Xavier Hutchinson (WR, HOU)",
-      "adds": 152943,
+      "adds": 153013,
+      "rostered_by": null
+    },
+    {
+      "player": "Demarcus Robinson (WR, SF)",
+      "adds": 151926,
       "rostered_by": null
     },
     {
       "player": "Carson Wentz (QB, MIN)",
-      "adds": 148038,
+      "adds": 133374,
       "rostered_by": null
     },
     {
-      "player": "San Francisco 49ers (DEF, SF)",
-      "adds": 130005,
-      "rostered_by": 12
-    },
-    {
-      "player": "Kaelon Black (RB, SF)",
-      "adds": 121485,
+      "player": "Devaughn Vele (WR, NO)",
+      "adds": 132426,
       "rostered_by": 6
     },
     {
-      "player": "Cairo Santos (K, CHI)",
-      "adds": 112280,
+      "player": "Keon Coleman (WR, BUF)",
+      "adds": 127179,
       "rostered_by": null
     },
     {
-      "player": "Emmett Johnson (RB, KC)",
-      "adds": 102348,
-      "rostered_by": 11
+      "player": "Khalil Shakir (WR, BUF)",
+      "adds": 120195,
+      "rostered_by": 12
+    },
+    {
+      "player": "San Francisco 49ers (DEF, SF)",
+      "adds": 118497,
+      "rostered_by": 12
+    },
+    {
+      "player": "Cairo Santos (K, CHI)",
+      "adds": 115157,
+      "rostered_by": null
     },
     {
       "player": "Mack Hollins (WR, NE)",
-      "adds": 101670,
+      "adds": 91170,
       "rostered_by": null
     },
     {
-      "player": "Sione Vaki (RB, DET)",
-      "adds": 89166,
-      "rostered_by": null
+      "player": "Kaelon Black (RB, SF)",
+      "adds": 90587,
+      "rostered_by": 6
     },
     {
       "player": "Alvin Kamara (RB, NO)",
-      "adds": 88616,
+      "adds": 88560,
       "rostered_by": 9
     },
     {
       "player": "Mike Gesicki (TE, CIN)",
-      "adds": 87848,
+      "adds": 88524,
       "rostered_by": 12
     },
     {
-      "player": "Khalil Shakir (WR, BUF)",
-      "adds": 85653,
-      "rostered_by": 12
+      "player": "Emmett Johnson (RB, KC)",
+      "adds": 85779,
+      "rostered_by": 11
     },
     {
-      "player": "Kenyon Sadiq (TE, NYJ)",
-      "adds": 82836,
+      "player": "Sione Vaki (RB, DET)",
+      "adds": 84210,
       "rostered_by": null
-    },
-    {
-      "player": "Aaron Jones (RB, MIN)",
-      "adds": 77799,
-      "rostered_by": 12
     },
     {
       "player": "Malik Washington (WR, MIA)",
-      "adds": 77760,
+      "adds": 77080,
       "rostered_by": null
     },
     {
-      "player": "Pat Bryant (WR, DEN)",
-      "adds": 74656,
+      "player": "Kenyon Sadiq (TE, NYJ)",
+      "adds": 75645,
       "rostered_by": null
     },
     {
       "player": "MarShawn Lloyd (RB, GB)",
-      "adds": 72828,
+      "adds": 73098,
       "rostered_by": 7
     },
     {
-      "player": "DeeJay Dallas (RB, MIN)",
-      "adds": 69792,
-      "rostered_by": null
+      "player": "Aaron Jones (RB, MIN)",
+      "adds": 67779,
+      "rostered_by": 12
     },
     {
       "player": "Bryce Young (QB, CAR)",
-      "adds": 69596,
+      "adds": 66916,
       "rostered_by": null
     },
     {
       "player": "Matthew Golden (WR, GB)",
-      "adds": 63245,
+      "adds": 66493,
       "rostered_by": 6
+    },
+    {
+      "player": "DeeJay Dallas (RB, MIN)",
+      "adds": 61020,
+      "rostered_by": null
     }
   ]
 }

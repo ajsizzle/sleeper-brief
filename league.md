@@ -1,5 +1,5 @@
 # Sleeper league state
-Generated Thursday September 17, 2026 07:34 PM ET · Season 2026 · NFL week 2
+Generated Friday September 18, 2026 12:53 AM ET · Season 2026 · NFL week 2
 League: The Dudes Will Roll · 12 teams · waivers: FAAB (budget $200) · lineup: QB, RB, RB, WR, WR, TE, FLEX, K, DEF
 
 ## My team: THE ACE OF SPADES (roster 11)
@@ -49,8 +49,8 @@ Starters: Lamar Jackson (QB, BAL); Jahmyr Gibbs (RB, DET); Blake Corum (RB, LAR)
 Bench: Devaughn Vele (WR, NO); Woody Marks (RB, HOU); Matthew Golden (WR, GB); Jonah Coleman (RB, DEN); Kaelon Black (RB, SF); Tank Bigsby (RB, PHI)
 
 ### Thoroughbred Cheesehead · 1-0 · 136.9 pts · waiver priority 8
-Starters: Joe Burrow (QB, CIN) [Questionable]; James Cook (RB, BUF); Bucky Irving (RB, TB); Amon-Ra St. Brown (WR, DET); Christian Watson (WR, GB); Dalton Kincaid (TE, BUF); J.K. Dobbins (RB, DEN); Trey Smack (K, GB); Jacksonville Jaguars (DEF, JAX)
-Bench: Roschon Johnson (RB, CHI); Marvin Harrison (WR, ARI); Jacory Croskey-Merritt (RB, WAS); Jadarian Price (RB, SEA); KC Concepcion (WR, CLE); Deebo Samuel (WR, SF)
+Starters: Tyler Shough (QB, NO); James Cook (RB, BUF); Bucky Irving (RB, TB); Amon-Ra St. Brown (WR, DET); Christian Watson (WR, GB); Dalton Kincaid (TE, BUF); J.K. Dobbins (RB, DEN); Trey Smack (K, GB); Jacksonville Jaguars (DEF, JAX)
+Bench: Marvin Harrison (WR, ARI); Jacory Croskey-Merritt (RB, WAS); Jadarian Price (RB, SEA); KC Concepcion (WR, CLE); Deebo Samuel (WR, SF); Joe Burrow (QB, CIN) [Questionable]
 IR: Tank Dell (WR, HOU) [IR]
 
 ### Drunk To Taste This CHX · 1-0 · 132.2 pts · waiver priority 5
@@ -96,6 +96,7 @@ Starters: Brock Purdy (QB, SF); Jeremiyah Love (RB, ARI); RJ Harvey (RB, DEN) [Q
 Bench: Oronde Gadsden (TE, LAC); Dak Prescott (QB, DAL); Alvin Kamara (RB, NO); Kenny Gainwell (RB, TB); Tyler Allgeier (RB, ARI); Denver Broncos (DEF, DEN)
 
 ## Transactions, weeks 1 to 2, newest first
+- Week 2 · free_agent · complete · Fri Sep 18 12:47 AM · Thoroughbred Cheesehead · added: Tyler Shough (QB, NO) to Thoroughbred Cheesehead · dropped: Roschon Johnson (RB, CHI) from Thoroughbred Cheesehead
 - Week 2 · free_agent · complete · Wed Sep 16 12:48 PM · THE ACE OF SPADES · added: Los Angeles Chargers (DEF, LAC) to THE ACE OF SPADES
 - Week 2 · free_agent · complete · Wed Sep 16 12:02 PM · Team 9 · added: Tampa Bay Buccaneers (DEF, TB) to Team 9 · dropped: Chris Bell (WR, MIA) from Team 9
 - Week 2 · free_agent · complete · Wed Sep 16 07:58 AM · Holla · added: Devin Singletary (RB, NYG) to Holla · dropped: Braelon Allen (RB, NYJ) from Holla
@@ -121,30 +122,30 @@ Bench: Oronde Gadsden (TE, LAC); Dak Prescott (QB, DAL); Alvin Kamara (RB, NO); 
 - Week 1 · free_agent · complete · Sun Sep 06 08:57 AM · Thoroughbred Cheesehead · added: Roschon Johnson (RB, CHI) to Thoroughbred Cheesehead · dropped: Kenyon Sadiq (TE, NYJ) from Thoroughbred Cheesehead
 
 ## Trending adds across Sleeper, last 24 hours
-- Devin Singletary (RB, NYG) · 485,280 adds · rostered by Holla
-- Caleb Douglas (WR, MIA) · 301,032 adds · AVAILABLE in my league
-- Tampa Bay Buccaneers (DEF, TB) · 251,760 adds · rostered by Team 9
-- Raheim Sanders (RB, CLE) · 216,176 adds · AVAILABLE in my league
-- Devaughn Vele (WR, NO) · 164,871 adds · rostered by FuelTheJET
-- Demarcus Robinson (WR, SF) · 155,418 adds · AVAILABLE in my league
-- Xavier Hutchinson (WR, HOU) · 152,943 adds · AVAILABLE in my league
-- Carson Wentz (QB, MIN) · 148,038 adds · AVAILABLE in my league
-- San Francisco 49ers (DEF, SF) · 130,005 adds · rostered by Young Blood
-- Kaelon Black (RB, SF) · 121,485 adds · rostered by FuelTheJET
-- Cairo Santos (K, CHI) · 112,280 adds · AVAILABLE in my league
-- Emmett Johnson (RB, KC) · 102,348 adds · on my roster
-- Mack Hollins (WR, NE) · 101,670 adds · AVAILABLE in my league
-- Sione Vaki (RB, DET) · 89,166 adds · AVAILABLE in my league
-- Alvin Kamara (RB, NO) · 88,616 adds · rostered by Team 9
-- Mike Gesicki (TE, CIN) · 87,848 adds · rostered by Young Blood
-- Khalil Shakir (WR, BUF) · 85,653 adds · rostered by Young Blood
-- Kenyon Sadiq (TE, NYJ) · 82,836 adds · AVAILABLE in my league
-- Aaron Jones (RB, MIN) · 77,799 adds · rostered by Young Blood
-- Malik Washington (WR, MIA) · 77,760 adds · AVAILABLE in my league
-- Pat Bryant (WR, DEN) · 74,656 adds · AVAILABLE in my league
-- MarShawn Lloyd (RB, GB) · 72,828 adds · rostered by Make Miami Great Again
-- DeeJay Dallas (RB, MIN) · 69,792 adds · AVAILABLE in my league
-- Bryce Young (QB, CAR) · 69,596 adds · AVAILABLE in my league
-- Matthew Golden (WR, GB) · 63,245 adds · rostered by FuelTheJET
+- Devin Singletary (RB, NYG) · 520,245 adds · rostered by Holla
+- Caleb Douglas (WR, MIA) · 272,824 adds · AVAILABLE in my league
+- Tampa Bay Buccaneers (DEF, TB) · 232,150 adds · rostered by Team 9
+- Raheim Sanders (RB, CLE) · 201,152 adds · AVAILABLE in my league
+- Xavier Hutchinson (WR, HOU) · 153,013 adds · AVAILABLE in my league
+- Demarcus Robinson (WR, SF) · 151,926 adds · AVAILABLE in my league
+- Carson Wentz (QB, MIN) · 133,374 adds · AVAILABLE in my league
+- Devaughn Vele (WR, NO) · 132,426 adds · rostered by FuelTheJET
+- Keon Coleman (WR, BUF) · 127,179 adds · AVAILABLE in my league
+- Khalil Shakir (WR, BUF) · 120,195 adds · rostered by Young Blood
+- San Francisco 49ers (DEF, SF) · 118,497 adds · rostered by Young Blood
+- Cairo Santos (K, CHI) · 115,157 adds · AVAILABLE in my league
+- Mack Hollins (WR, NE) · 91,170 adds · AVAILABLE in my league
+- Kaelon Black (RB, SF) · 90,587 adds · rostered by FuelTheJET
+- Alvin Kamara (RB, NO) · 88,560 adds · rostered by Team 9
+- Mike Gesicki (TE, CIN) · 88,524 adds · rostered by Young Blood
+- Emmett Johnson (RB, KC) · 85,779 adds · on my roster
+- Sione Vaki (RB, DET) · 84,210 adds · AVAILABLE in my league
+- Malik Washington (WR, MIA) · 77,080 adds · AVAILABLE in my league
+- Kenyon Sadiq (TE, NYJ) · 75,645 adds · AVAILABLE in my league
+- MarShawn Lloyd (RB, GB) · 73,098 adds · rostered by Make Miami Great Again
+- Aaron Jones (RB, MIN) · 67,779 adds · rostered by Young Blood
+- Bryce Young (QB, CAR) · 66,916 adds · AVAILABLE in my league
+- Matthew Golden (WR, GB) · 66,493 adds · rostered by FuelTheJET
+- DeeJay Dallas (RB, MIN) · 61,020 adds · AVAILABLE in my league
 
 Data from the Sleeper API (sleeper.com). Injury tags in brackets are Sleeper's designations and may lag official reports.
