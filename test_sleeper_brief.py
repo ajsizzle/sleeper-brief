@@ -256,6 +256,49 @@ class TestOutputIsClean(Harness):
         self.assertNotIn("Unknown player", md)
 
 
+class TestRecentDrops(Harness):
+
+    def test_only_recent_unrostered_drops_are_listed(self):
+        """Clock is Tue Sep 15 10:00 am ET. The fixture league sets no
+        waiver_clear_days, so the 2-day assumption applies."""
+        def ms(month, day, hour, minute=0):
+            return int(dt.datetime(2026, month, day, hour, minute, tzinfo=sb.ET).timestamp() * 1000)
+
+        def fa(adds, drops, when, roster_id, tx_type="free_agent"):
+            return {"type": tx_type, "status": "complete", "roster_ids": [roster_id],
+                    "creator": MY_UID if roster_id == 1 else OTHER_UID,
+                    "consenter_ids": [roster_id], "adds": adds, "drops": drops,
+                    "settings": None, "metadata": None, "leg": 3,
+                    "created": when, "status_updated": when, "draft_picks": []}
+
+        self.api[f"/league/{LEAGUE_ID}/transactions/3"] += [
+            # Dropped last night and nobody has claimed him: listed.
+            fa(None, {"31": 2}, ms(9, 14, 20, 30), 2),
+            # Dropped, then picked back up; "24" is on roster 2 now: not listed.
+            fa(None, {"24": 2}, ms(9, 12, 9), 2),
+            fa({"24": 2}, None, ms(9, 13, 9), 2),
+            # Unrostered, but dropped 20 days ago: not listed.
+            fa({"19": 1}, {"32": 1}, ms(8, 26, 12), 1, tx_type="waiver"),
+        ]
+        out, err, exc = self.run_script()
+        self.assertIsNone(exc, f"unexpected failure: {exc}")
+
+        md = sb.OUT_MD.read_text()
+        section = md.split("## Dropped in the last 14 days, still unrostered\n", 1)[1].split("\n\n", 1)[0]
+        self.assertEqual(
+            section,
+            "- Player 31 (RB, KC) · dropped by Team 2 on Mon Sep 14, 8:30 PM ET"
+            " · on waivers until Wed Sep 16, 8:30 PM ET")
+        self.assertLess(md.index("## Transactions"), md.index("## Dropped in the last 14 days"))
+        self.assertLess(md.index("## Dropped in the last 14 days"), md.index("## Trending adds"))
+
+        dropped = json.loads(sb.OUT_JSON.read_text())["dropped_unrostered"]
+        self.assertEqual([d["player"] for d in dropped], ["Player 31 (RB, KC)"])
+        self.assertEqual(dropped[0]["dropped_by"], "Team 2")
+        self.assertEqual(dropped[0]["waiver_status"], "on waivers until Wed Sep 16, 8:30 PM ET")
+        self.assert_no_canaries(self.observable(out, err, exc))
+
+
 class TestScorecard(Harness):
 
     def test_optimal_lineup_is_greedy_by_slot(self):

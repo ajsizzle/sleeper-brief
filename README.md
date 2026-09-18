@@ -14,6 +14,7 @@ Python 3.12, standard library only, about 400 lines. No server, no keys, no cost
 - This week's opponent, their starters and bench
 - Every other team, ordered by record, with waiver priority
 - All waiver claims, pickups, and trades from this week and last, with FAAB bids and failure notes
+- Every player dropped in the last 14 days who is still unrostered, newest first, with who dropped them and whether they are on waivers (and until when) or already a free agent
 - The 25 most added players across Sleeper in the last 24 hours, each marked available in your league, on your roster, or rostered by whom
 
 `league.json` holds the same data for a future app. `scorecard.md` is a season-to-date record of results, rebuilt every run. `players_trim.json` is the ID-to-name cache, refreshed at most once a day. It keeps the fantasy positions only, plus a `_skipped` list of the IDs Sleeper knew about and the trim dropped, so a rostered long snapper cannot pass for a stale cache and re-pull the 5MB file on every run.

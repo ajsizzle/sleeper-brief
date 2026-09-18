@@ -294,6 +294,13 @@ def fmt(pid, players, skipped=()):
     return f"{p['name']} ({p['pos']}, {p['team']}){inj}"
 
 
+def et_stamp(ms):
+    """Epoch milliseconds as 'Wed Sep 16, 8:30 PM ET'. Built by hand because
+    strftime's no-padding flags differ between platforms."""
+    d = datetime.fromtimestamp(ms / 1000, ET)
+    return f"{d:%a %b} {d.day}, {d.hour % 12 or 12}:{d:%M %p} ET"
+
+
 def team_label(roster, users_by_id):
     """Team name only. Falls back to 'Team N' rather than the owner's
     display name so no personal handles land in the public output."""
@@ -499,6 +506,49 @@ def main():
     md += tx_lines or ["- none"]
     md.append("")
 
+    # ---- recent drops nobody has picked back up
+    clear_days = settings.get("waiver_clear_days")
+    if clear_days is None:
+        # Assumption: the league object did not say how long a dropped
+        # player sits on waivers, so treat it as 2 days.
+        clear_days = 2
+    on_a_roster = set()
+    for r in rosters:
+        for key in ("players", "reserve", "taxi"):
+            on_a_roster.update(r.get(key) or [])
+    now_ms = now.timestamp() * 1000
+    last_drop = {}   # player id -> (drop time in ms, roster id that dropped them)
+    for tx in transactions:
+        # A failed claim or rejected trade still lists its drops, but nobody
+        # was actually dropped.
+        if tx.get("type") not in ("waiver", "free_agent", "trade") or tx.get("status") != "complete":
+            continue
+        # status_updated is when the move went through; created is when a
+        # waiver claim or trade offer was first entered.
+        when_ms = tx.get("status_updated") or tx.get("created") or 0
+        for pid, rid in (tx.get("drops") or {}).items():
+            if pid not in last_drop or when_ms > last_drop[pid][0]:
+                last_drop[pid] = (when_ms, rid)
+    drop_lines, drop_json = [], []
+    for pid, (when_ms, rid) in sorted(last_drop.items(), key=lambda kv: kv[1][0], reverse=True):
+        if pid in on_a_roster or when_ms < now_ms - 14 * 86400 * 1000:
+            continue
+        by = team_label(rosters_by_id.get(rid) or {"roster_id": rid}, users_by_id)
+        clears_ms = when_ms + clear_days * 86400 * 1000
+        on_waivers = clears_ms > now_ms
+        status = f"on waivers until {et_stamp(clears_ms)}" if on_waivers else "free agent now"
+        drop_lines.append(f"- {fmt(pid, players, skipped)} · dropped by {by} on {et_stamp(when_ms)} · {status}")
+        drop_json.append({
+            "player": fmt(pid, players, skipped), "dropped_by": by,
+            "dropped_at": datetime.fromtimestamp(when_ms / 1000, ET).isoformat(),
+            "on_waivers_until": datetime.fromtimestamp(clears_ms / 1000, ET).isoformat()
+                                if on_waivers else None,
+            "waiver_status": status,
+        })
+    md.append("## Dropped in the last 14 days, still unrostered")
+    md += drop_lines or ["- (none)"]
+    md.append("")
+
     # ---- trending adds
     md.append("## Trending adds across Sleeper, last 24 hours")
     for t in trending:
@@ -538,6 +588,7 @@ def main():
         "opponent": roster_json(opponent) if opponent else None,
         "teams": [roster_json(r) for r in ordered],
         "transactions": [ln[2:] for ln in tx_lines],
+        "dropped_unrostered": drop_json,
         "trending_adds": [
             {"player": fmt(t["player_id"], players, skipped), "adds": t.get("count", 0),
              "rostered_by": rostered.get(t["player_id"])} for t in trending
