@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-18T00:53:35.070085-04:00",
+  "generated": "2026-09-18T05:53:05.029029-04:00",
   "season": "2026",
   "week": 2,
   "league": {
@@ -361,18 +361,18 @@
         "Ashton Jeanty (RB, LV)",
         "Chris Olave (WR, NO)",
         "Emeka Egbuka (WR, TB)",
-        "Harold Fannin (TE, CLE)",
+        "Kenyon Sadiq (TE, NYJ)",
         "Quinshon Judkins (RB, CLE)",
-        "Chris Boswell (K, PIT)",
+        "Evan McPherson (K, CIN)",
         "New England Patriots (DEF, NE)"
       ],
       "bench": [
+        "Harold Fannin (TE, CLE)",
+        "Caleb Douglas (WR, MIA)",
         "Denzel Boston (WR, CLE)",
         "Courtland Sutton (WR, DEN)",
-        "Jordan Love (QB, GB)",
         "Chuba Hubbard (RB, CAR)",
-        "Michael Mayer (TE, LV)",
-        "Jordan Addison (WR, MIN)"
+        "Bryce Young (QB, CAR)"
       ],
       "ir": []
     },
@@ -476,6 +476,10 @@
     }
   ],
   "transactions": [
+    "Week 2 \u00b7 free_agent \u00b7 complete \u00b7 Fri Sep 18 02:49 AM \u00b7 Whiskey Sippin Kings \u00b7 added: Evan McPherson (K, CIN) to Whiskey Sippin Kings \u00b7 dropped: Chris Boswell (K, PIT) from Whiskey Sippin Kings",
+    "Week 2 \u00b7 free_agent \u00b7 complete \u00b7 Fri Sep 18 02:47 AM \u00b7 Whiskey Sippin Kings \u00b7 added: Caleb Douglas (WR, MIA) to Whiskey Sippin Kings \u00b7 dropped: Jordan Addison (WR, MIN) from Whiskey Sippin Kings",
+    "Week 2 \u00b7 free_agent \u00b7 complete \u00b7 Fri Sep 18 02:46 AM \u00b7 Whiskey Sippin Kings \u00b7 added: Kenyon Sadiq (TE, NYJ) to Whiskey Sippin Kings \u00b7 dropped: Michael Mayer (TE, LV) from Whiskey Sippin Kings",
+    "Week 2 \u00b7 free_agent \u00b7 complete \u00b7 Fri Sep 18 02:44 AM \u00b7 Whiskey Sippin Kings \u00b7 added: Bryce Young (QB, CAR) to Whiskey Sippin Kings \u00b7 dropped: Jordan Love (QB, GB) from Whiskey Sippin Kings",
     "Week 2 \u00b7 free_agent \u00b7 complete \u00b7 Fri Sep 18 12:47 AM \u00b7 Thoroughbred Cheesehead \u00b7 added: Tyler Shough (QB, NO) to Thoroughbred Cheesehead \u00b7 dropped: Roschon Johnson (RB, CHI) from Thoroughbred Cheesehead",
     "Week 2 \u00b7 free_agent \u00b7 complete \u00b7 Wed Sep 16 12:48 PM \u00b7 THE ACE OF SPADES \u00b7 added: Los Angeles Chargers (DEF, LAC) to THE ACE OF SPADES",
     "Week 2 \u00b7 free_agent \u00b7 complete \u00b7 Wed Sep 16 12:02 PM \u00b7 Team 9 \u00b7 added: Tampa Bay Buccaneers (DEF, TB) to Team 9 \u00b7 dropped: Chris Bell (WR, MIA) from Team 9",
@@ -504,127 +508,127 @@
   "trending_adds": [
     {
       "player": "Devin Singletary (RB, NYG)",
-      "adds": 520245,
+      "adds": 494766,
       "rostered_by": 2
     },
     {
       "player": "Caleb Douglas (WR, MIA)",
-      "adds": 272824,
-      "rostered_by": null
+      "adds": 253344,
+      "rostered_by": 1
     },
     {
       "player": "Tampa Bay Buccaneers (DEF, TB)",
-      "adds": 232150,
+      "adds": 218315,
       "rostered_by": 9
     },
     {
       "player": "Raheim Sanders (RB, CLE)",
-      "adds": 201152,
+      "adds": 184776,
       "rostered_by": null
     },
     {
       "player": "Xavier Hutchinson (WR, HOU)",
-      "adds": 153013,
+      "adds": 152558,
+      "rostered_by": null
+    },
+    {
+      "player": "Keon Coleman (WR, BUF)",
+      "adds": 152118,
       "rostered_by": null
     },
     {
       "player": "Demarcus Robinson (WR, SF)",
-      "adds": 151926,
-      "rostered_by": null
-    },
-    {
-      "player": "Carson Wentz (QB, MIN)",
-      "adds": 133374,
+      "adds": 141972,
       "rostered_by": null
     },
     {
       "player": "Devaughn Vele (WR, NO)",
-      "adds": 132426,
+      "adds": 123956,
       "rostered_by": 6
     },
     {
-      "player": "Keon Coleman (WR, BUF)",
-      "adds": 127179,
+      "player": "Carson Wentz (QB, MIN)",
+      "adds": 123660,
       "rostered_by": null
     },
     {
       "player": "Khalil Shakir (WR, BUF)",
-      "adds": 120195,
+      "adds": 117018,
       "rostered_by": 12
     },
     {
       "player": "San Francisco 49ers (DEF, SF)",
-      "adds": 118497,
+      "adds": 111261,
       "rostered_by": 12
     },
     {
       "player": "Cairo Santos (K, CHI)",
-      "adds": 115157,
+      "adds": 110481,
       "rostered_by": null
-    },
-    {
-      "player": "Mack Hollins (WR, NE)",
-      "adds": 91170,
-      "rostered_by": null
-    },
-    {
-      "player": "Kaelon Black (RB, SF)",
-      "adds": 90587,
-      "rostered_by": 6
     },
     {
       "player": "Alvin Kamara (RB, NO)",
-      "adds": 88560,
+      "adds": 86368,
       "rostered_by": 9
     },
     {
+      "player": "Mack Hollins (WR, NE)",
+      "adds": 85290,
+      "rostered_by": null
+    },
+    {
       "player": "Mike Gesicki (TE, CIN)",
-      "adds": 88524,
+      "adds": 84996,
       "rostered_by": 12
     },
     {
+      "player": "Kaelon Black (RB, SF)",
+      "adds": 81802,
+      "rostered_by": 6
+    },
+    {
       "player": "Emmett Johnson (RB, KC)",
-      "adds": 85779,
+      "adds": 78021,
       "rostered_by": 11
     },
     {
       "player": "Sione Vaki (RB, DET)",
-      "adds": 84210,
+      "adds": 76720,
       "rostered_by": null
     },
     {
       "player": "Malik Washington (WR, MIA)",
-      "adds": 77080,
-      "rostered_by": null
-    },
-    {
-      "player": "Kenyon Sadiq (TE, NYJ)",
-      "adds": 75645,
+      "adds": 73920,
       "rostered_by": null
     },
     {
       "player": "MarShawn Lloyd (RB, GB)",
-      "adds": 73098,
+      "adds": 70542,
       "rostered_by": 7
     },
     {
-      "player": "Aaron Jones (RB, MIN)",
-      "adds": 67779,
-      "rostered_by": 12
-    },
-    {
-      "player": "Bryce Young (QB, CAR)",
-      "adds": 66916,
-      "rostered_by": null
+      "player": "Kenyon Sadiq (TE, NYJ)",
+      "adds": 70173,
+      "rostered_by": 1
     },
     {
       "player": "Matthew Golden (WR, GB)",
-      "adds": 66493,
+      "adds": 64561,
       "rostered_by": 6
     },
     {
+      "player": "Bryce Young (QB, CAR)",
+      "adds": 63460,
+      "rostered_by": 1
+    },
+    {
+      "player": "Aaron Jones (RB, MIN)",
+      "adds": 63009,
+      "rostered_by": 12
+    },
+    {
       "player": "DeeJay Dallas (RB, MIN)",
-      "adds": 61020,
+      "adds": 55458,
       "rostered_by": null
     }
   ]
