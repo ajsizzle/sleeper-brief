@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-18T05:53:05.029029-04:00",
+  "generated": "2026-09-18T09:49:54.545139-04:00",
   "season": "2026",
   "week": 2,
   "league": {
@@ -505,130 +505,265 @@
     "Week 1 \u00b7 free_agent \u00b7 complete \u00b7 Sun Sep 06 08:58 AM \u00b7 Thoroughbred Cheesehead \u00b7 added: Tank Dell (WR, HOU) [IR] to Thoroughbred Cheesehead \u00b7 dropped: Trey Smack (K, GB) from Thoroughbred Cheesehead",
     "Week 1 \u00b7 free_agent \u00b7 complete \u00b7 Sun Sep 06 08:57 AM \u00b7 Thoroughbred Cheesehead \u00b7 added: Roschon Johnson (RB, CHI) to Thoroughbred Cheesehead \u00b7 dropped: Kenyon Sadiq (TE, NYJ) from Thoroughbred Cheesehead"
   ],
+  "dropped_unrostered": [
+    {
+      "player": "Chris Boswell (K, PIT)",
+      "dropped_by": "Whiskey Sippin Kings",
+      "dropped_at": "2026-09-18T02:49:16.768000-04:00",
+      "on_waivers_until": "2026-09-20T02:49:16.768000-04:00",
+      "waiver_status": "on waivers until Sun Sep 20, 2:49 AM ET"
+    },
+    {
+      "player": "Jordan Addison (WR, MIN)",
+      "dropped_by": "Whiskey Sippin Kings",
+      "dropped_at": "2026-09-18T02:47:40.207000-04:00",
+      "on_waivers_until": "2026-09-20T02:47:40.207000-04:00",
+      "waiver_status": "on waivers until Sun Sep 20, 2:47 AM ET"
+    },
+    {
+      "player": "Michael Mayer (TE, LV)",
+      "dropped_by": "Whiskey Sippin Kings",
+      "dropped_at": "2026-09-18T02:46:30.630000-04:00",
+      "on_waivers_until": "2026-09-20T02:46:30.630000-04:00",
+      "waiver_status": "on waivers until Sun Sep 20, 2:46 AM ET"
+    },
+    {
+      "player": "Jordan Love (QB, GB)",
+      "dropped_by": "Whiskey Sippin Kings",
+      "dropped_at": "2026-09-18T02:44:32.954000-04:00",
+      "on_waivers_until": "2026-09-20T02:44:32.954000-04:00",
+      "waiver_status": "on waivers until Sun Sep 20, 2:44 AM ET"
+    },
+    {
+      "player": "Roschon Johnson (RB, CHI)",
+      "dropped_by": "Thoroughbred Cheesehead",
+      "dropped_at": "2026-09-18T00:47:27.283000-04:00",
+      "on_waivers_until": "2026-09-20T00:47:27.283000-04:00",
+      "waiver_status": "on waivers until Sun Sep 20, 12:47 AM ET"
+    },
+    {
+      "player": "Chris Bell (WR, MIA)",
+      "dropped_by": "Team 9",
+      "dropped_at": "2026-09-16T12:02:33.969000-04:00",
+      "on_waivers_until": "2026-09-18T12:02:33.969000-04:00",
+      "waiver_status": "on waivers until Fri Sep 18, 12:02 PM ET"
+    },
+    {
+      "player": "Braelon Allen (RB, NYJ)",
+      "dropped_by": "Holla",
+      "dropped_at": "2026-09-16T07:58:53.706000-04:00",
+      "on_waivers_until": null,
+      "waiver_status": "free agent now"
+    },
+    {
+      "player": "Rashid Shaheed (WR, SEA)",
+      "dropped_by": "FuelTheJET",
+      "dropped_at": "2026-09-16T03:09:21.298000-04:00",
+      "on_waivers_until": null,
+      "waiver_status": "free agent now"
+    },
+    {
+      "player": "De'Zhaun Stribling (WR, SF) [Out]",
+      "dropped_by": "FuelTheJET",
+      "dropped_at": "2026-09-16T03:09:21.298000-04:00",
+      "on_waivers_until": null,
+      "waiver_status": "free agent now"
+    },
+    {
+      "player": "Romeo Doubs (WR, NE)",
+      "dropped_by": "Young Blood",
+      "dropped_at": "2026-09-16T03:09:21.298000-04:00",
+      "on_waivers_until": null,
+      "waiver_status": "free agent now"
+    },
+    {
+      "player": "Kyle Pitts (TE, ATL)",
+      "dropped_by": "Young Blood",
+      "dropped_at": "2026-09-16T03:09:21.298000-04:00",
+      "on_waivers_until": null,
+      "waiver_status": "free agent now"
+    },
+    {
+      "player": "Mike Washington (RB, LV)",
+      "dropped_by": "THE ACE OF SPADES",
+      "dropped_at": "2026-09-16T03:09:21.298000-04:00",
+      "on_waivers_until": null,
+      "waiver_status": "free agent now"
+    },
+    {
+      "player": "Malik Davis (RB, DAL) [IR]",
+      "dropped_by": "Team 9",
+      "dropped_at": "2026-09-13T08:11:19.783000-04:00",
+      "on_waivers_until": null,
+      "waiver_status": "free agent now"
+    },
+    {
+      "player": "Mason Taylor (TE, NYJ)",
+      "dropped_by": "Drunk To Taste This CHX",
+      "dropped_at": "2026-09-10T16:18:46.489000-04:00",
+      "on_waivers_until": null,
+      "waiver_status": "free agent now"
+    },
+    {
+      "player": "Kansas City Chiefs (DEF, KC)",
+      "dropped_by": "Holla",
+      "dropped_at": "2026-09-09T20:08:58.353000-04:00",
+      "on_waivers_until": null,
+      "waiver_status": "free agent now"
+    },
+    {
+      "player": "Tyrone Tracy (RB, NYG) [Questionable]",
+      "dropped_by": "Whiskey Sippin Kings",
+      "dropped_at": "2026-09-09T19:59:40.684000-04:00",
+      "on_waivers_until": null,
+      "waiver_status": "free agent now"
+    },
+    {
+      "player": "Tyreek Hill (WR, FA)",
+      "dropped_by": "Team 9",
+      "dropped_at": "2026-09-09T15:12:39.370000-04:00",
+      "on_waivers_until": null,
+      "waiver_status": "free agent now"
+    },
+    {
+      "player": "Jauan Jennings (WR, MIN)",
+      "dropped_by": "Strokin My Ditka",
+      "dropped_at": "2026-09-08T17:05:56.461000-04:00",
+      "on_waivers_until": null,
+      "waiver_status": "free agent now"
+    },
+    {
+      "player": "Tyjae Spears (RB, TEN)",
+      "dropped_by": "Whiskey Sippin Kings",
+      "dropped_at": "2026-09-08T00:09:27.032000-04:00",
+      "on_waivers_until": null,
+      "waiver_status": "free agent now"
+    }
+  ],
   "trending_adds": [
     {
       "player": "Devin Singletary (RB, NYG)",
-      "adds": 494766,
+      "adds": 457389,
       "rostered_by": 2
     },
     {
       "player": "Caleb Douglas (WR, MIA)",
-      "adds": 253344,
+      "adds": 234440,
       "rostered_by": 1
     },
     {
       "player": "Tampa Bay Buccaneers (DEF, TB)",
-      "adds": 218315,
+      "adds": 197905,
       "rostered_by": 9
     },
     {
+      "player": "Keon Coleman (WR, BUF)",
+      "adds": 187245,
+      "rostered_by": null
+    },
+    {
       "player": "Raheim Sanders (RB, CLE)",
-      "adds": 184776,
+      "adds": 165392,
       "rostered_by": null
     },
     {
       "player": "Xavier Hutchinson (WR, HOU)",
-      "adds": 152558,
-      "rostered_by": null
-    },
-    {
-      "player": "Keon Coleman (WR, BUF)",
-      "adds": 152118,
+      "adds": 148428,
       "rostered_by": null
     },
     {
       "player": "Demarcus Robinson (WR, SF)",
-      "adds": 141972,
+      "adds": 129042,
       "rostered_by": null
     },
     {
       "player": "Devaughn Vele (WR, NO)",
-      "adds": 123956,
+      "adds": 113869,
       "rostered_by": 6
     },
     {
       "player": "Carson Wentz (QB, MIN)",
-      "adds": 123660,
+      "adds": 113226,
       "rostered_by": null
     },
     {
       "player": "Khalil Shakir (WR, BUF)",
-      "adds": 117018,
-      "rostered_by": 12
-    },
-    {
-      "player": "San Francisco 49ers (DEF, SF)",
-      "adds": 111261,
+      "adds": 111825,
       "rostered_by": 12
     },
     {
       "player": "Cairo Santos (K, CHI)",
-      "adds": 110481,
+      "adds": 104531,
       "rostered_by": null
     },
     {
-      "player": "Alvin Kamara (RB, NO)",
-      "adds": 86368,
-      "rostered_by": 9
-    },
-    {
-      "player": "Mack Hollins (WR, NE)",
-      "adds": 85290,
-      "rostered_by": null
-    },
-    {
-      "player": "Mike Gesicki (TE, CIN)",
-      "adds": 84996,
+      "player": "San Francisco 49ers (DEF, SF)",
+      "adds": 100089,
       "rostered_by": 12
     },
     {
+      "player": "Alvin Kamara (RB, NO)",
+      "adds": 84680,
+      "rostered_by": 9
+    },
+    {
+      "player": "Mike Gesicki (TE, CIN)",
+      "adds": 80252,
+      "rostered_by": 12
+    },
+    {
+      "player": "Mack Hollins (WR, NE)",
+      "adds": 77424,
+      "rostered_by": null
+    },
+    {
       "player": "Kaelon Black (RB, SF)",
-      "adds": 81802,
+      "adds": 71771,
       "rostered_by": 6
     },
     {
       "player": "Emmett Johnson (RB, KC)",
-      "adds": 78021,
+      "adds": 70614,
       "rostered_by": 11
     },
     {
-      "player": "Sione Vaki (RB, DET)",
-      "adds": 76720,
-      "rostered_by": null
-    },
-    {
       "player": "Malik Washington (WR, MIA)",
-      "adds": 73920,
+      "adds": 70088,
       "rostered_by": null
     },
     {
       "player": "MarShawn Lloyd (RB, GB)",
-      "adds": 70542,
+      "adds": 67599,
       "rostered_by": 7
     },
     {
+      "player": "Sione Vaki (RB, DET)",
+      "adds": 67585,
+      "rostered_by": null
+    },
+    {
       "player": "Kenyon Sadiq (TE, NYJ)",
-      "adds": 70173,
+      "adds": 64746,
       "rostered_by": 1
     },
     {
       "player": "Matthew Golden (WR, GB)",
-      "adds": 64561,
+      "adds": 62909,
       "rostered_by": 6
     },
     {
       "player": "Bryce Young (QB, CAR)",
-      "adds": 63460,
+      "adds": 59192,
       "rostered_by": 1
     },
     {
       "player": "Aaron Jones (RB, MIN)",
-      "adds": 63009,
+      "adds": 57084,
       "rostered_by": 12
     },
     {
-      "player": "DeeJay Dallas (RB, MIN)",
-      "adds": 55458,
+      "player": "Evan Engram (TE, DEN)",
+      "adds": 51056,
       "rostered_by": null
     }
   ]
