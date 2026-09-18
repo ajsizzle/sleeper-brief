@@ -1,5 +1,5 @@
 # Sleeper league state
-Generated Friday September 18, 2026 09:49 AM ET · Season 2026 · NFL week 2
+Generated Friday September 18, 2026 10:33 AM ET · Season 2026 · NFL week 2
 League: The Dudes Will Roll · 12 teams · waivers: FAAB (budget $200) · lineup: QB, RB, RB, WR, WR, TE, FLEX, K, DEF
 
 ## My team: THE ACE OF SPADES (roster 11)
@@ -147,30 +147,30 @@ Bench: Oronde Gadsden (TE, LAC); Dak Prescott (QB, DAL); Alvin Kamara (RB, NO); 
 - Tyjae Spears (RB, TEN) · dropped by Whiskey Sippin Kings on Tue Sep 8, 12:09 AM ET · free agent now
 
 ## Trending adds across Sleeper, last 24 hours
-- Devin Singletary (RB, NYG) · 457,389 adds · rostered by Holla
-- Caleb Douglas (WR, MIA) · 234,440 adds · rostered by Whiskey Sippin Kings
-- Tampa Bay Buccaneers (DEF, TB) · 197,905 adds · rostered by Team 9
-- Keon Coleman (WR, BUF) · 187,245 adds · AVAILABLE in my league
-- Raheim Sanders (RB, CLE) · 165,392 adds · AVAILABLE in my league
-- Xavier Hutchinson (WR, HOU) · 148,428 adds · AVAILABLE in my league
-- Demarcus Robinson (WR, SF) · 129,042 adds · AVAILABLE in my league
-- Devaughn Vele (WR, NO) · 113,869 adds · rostered by FuelTheJET
-- Carson Wentz (QB, MIN) · 113,226 adds · AVAILABLE in my league
-- Khalil Shakir (WR, BUF) · 111,825 adds · rostered by Young Blood
-- Cairo Santos (K, CHI) · 104,531 adds · AVAILABLE in my league
-- San Francisco 49ers (DEF, SF) · 100,089 adds · rostered by Young Blood
-- Alvin Kamara (RB, NO) · 84,680 adds · rostered by Team 9
-- Mike Gesicki (TE, CIN) · 80,252 adds · rostered by Young Blood
-- Mack Hollins (WR, NE) · 77,424 adds · AVAILABLE in my league
-- Kaelon Black (RB, SF) · 71,771 adds · rostered by FuelTheJET
-- Emmett Johnson (RB, KC) · 70,614 adds · on my roster
-- Malik Washington (WR, MIA) · 70,088 adds · AVAILABLE in my league
-- MarShawn Lloyd (RB, GB) · 67,599 adds · rostered by Make Miami Great Again
-- Sione Vaki (RB, DET) · 67,585 adds · AVAILABLE in my league
-- Kenyon Sadiq (TE, NYJ) · 64,746 adds · rostered by Whiskey Sippin Kings
-- Matthew Golden (WR, GB) · 62,909 adds · rostered by FuelTheJET
-- Bryce Young (QB, CAR) · 59,192 adds · rostered by Whiskey Sippin Kings
-- Aaron Jones (RB, MIN) · 57,084 adds · rostered by Young Blood
-- Evan Engram (TE, DEN) · 51,056 adds · AVAILABLE in my league
+- Devin Singletary (RB, NYG) · 463,086 adds · rostered by Holla
+- Caleb Douglas (WR, MIA) · 237,816 adds · rostered by Whiskey Sippin Kings
+- Tampa Bay Buccaneers (DEF, TB) · 200,060 adds · rostered by Team 9
+- Keon Coleman (WR, BUF) · 195,237 adds · AVAILABLE in my league
+- Raheim Sanders (RB, CLE) · 167,496 adds · AVAILABLE in my league
+- Xavier Hutchinson (WR, HOU) · 151,039 adds · AVAILABLE in my league
+- Demarcus Robinson (WR, SF) · 130,278 adds · AVAILABLE in my league
+- Devaughn Vele (WR, NO) · 115,101 adds · rostered by FuelTheJET
+- Carson Wentz (QB, MIN) · 114,618 adds · AVAILABLE in my league
+- Khalil Shakir (WR, BUF) · 112,716 adds · rostered by Young Blood
+- Cairo Santos (K, CHI) · 105,910 adds · AVAILABLE in my league
+- San Francisco 49ers (DEF, SF) · 101,190 adds · rostered by Young Blood
+- Alvin Kamara (RB, NO) · 86,672 adds · rostered by Team 9
+- Mike Gesicki (TE, CIN) · 81,240 adds · rostered by Young Blood
+- Mack Hollins (WR, NE) · 78,384 adds · AVAILABLE in my league
+- Kaelon Black (RB, SF) · 72,401 adds · rostered by FuelTheJET
+- Emmett Johnson (RB, KC) · 71,703 adds · on my roster
+- Malik Washington (WR, MIA) · 71,296 adds · AVAILABLE in my league
+- MarShawn Lloyd (RB, GB) · 68,733 adds · rostered by Make Miami Great Again
+- Sione Vaki (RB, DET) · 68,250 adds · AVAILABLE in my league
+- Kenyon Sadiq (TE, NYJ) · 65,682 adds · rostered by Whiskey Sippin Kings
+- Matthew Golden (WR, GB) · 63,903 adds · rostered by FuelTheJET
+- Bryce Young (QB, CAR) · 60,084 adds · rostered by Whiskey Sippin Kings
+- Aaron Jones (RB, MIN) · 57,684 adds · rostered by Young Blood
+- Evan Engram (TE, DEN) · 51,952 adds · AVAILABLE in my league
 
 Data from the Sleeper API (sleeper.com). Injury tags in brackets are Sleeper's designations and may lag official reports.
