@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-18T17:44:33.031067-04:00",
+  "generated": "2026-09-18T20:24:58.730357-04:00",
   "season": "2026",
   "week": 2,
   "league": {
@@ -296,7 +296,7 @@
         "Christian McCaffrey (RB, SF)",
         "Breece Hall (RB, NYJ)",
         "Ja'Marr Chase (WR, CIN)",
-        "Zay Flowers (WR, BAL) [Doubtful]",
+        "Alec Pierce (WR, IND)",
         "Tucker Kraft (TE, GB)",
         "Cam Skattebo (RB, NYG)",
         "Harrison Mevis (K, LAR)",
@@ -306,9 +306,9 @@
         "Hunter Henry (TE, NE)",
         "Patrick Mahomes (QB, KC)",
         "Devin Singletary (RB, NYG)",
-        "Alec Pierce (WR, IND)",
         "Jordan Mason (RB, MIN) [IR]",
-        "Quentin Johnston (WR, LAC)"
+        "Quentin Johnston (WR, LAC)",
+        "Zay Flowers (WR, BAL) [Doubtful]"
       ],
       "ir": []
     },
@@ -650,129 +650,129 @@
   ],
   "trending_adds": [
     {
-      "player": "Devin Singletary (RB, NYG)",
-      "adds": 350676,
-      "rostered_by": 2
-    },
-    {
       "player": "Keon Coleman (WR, BUF)",
-      "adds": 311940,
+      "adds": 343431,
       "rostered_by": null
     },
     {
+      "player": "Devin Singletary (RB, NYG)",
+      "adds": 308241,
+      "rostered_by": 2
+    },
+    {
       "player": "Xavier Hutchinson (WR, HOU)",
-      "adds": 238602,
+      "adds": 260022,
       "rostered_by": null
     },
     {
       "player": "Caleb Douglas (WR, MIA)",
-      "adds": 180992,
+      "adds": 159320,
       "rostered_by": 1
     },
     {
-      "player": "Tampa Bay Buccaneers (DEF, TB)",
-      "adds": 132605,
-      "rostered_by": 9
-    },
-    {
       "player": "Raheim Sanders (RB, CLE)",
-      "adds": 124584,
+      "adds": 106960,
       "rostered_by": null
     },
     {
+      "player": "Tampa Bay Buccaneers (DEF, TB)",
+      "adds": 106040,
+      "rostered_by": 9
+    },
+    {
       "player": "Alvin Kamara (RB, NO)",
-      "adds": 106984,
+      "adds": 106024,
       "rostered_by": 9
     },
     {
       "player": "Carson Wentz (QB, MIN)",
-      "adds": 102666,
+      "adds": 94746,
       "rostered_by": null
     },
     {
       "player": "Demarcus Robinson (WR, SF)",
-      "adds": 101562,
+      "adds": 90204,
+      "rostered_by": null
+    },
+    {
+      "player": "Michael Mayer (TE, LV)",
+      "adds": 87318,
       "rostered_by": null
     },
     {
       "player": "Khalil Shakir (WR, BUF)",
-      "adds": 89280,
+      "adds": 78723,
       "rostered_by": 12
-    },
-    {
-      "player": "Devaughn Vele (WR, NO)",
-      "adds": 85827,
-      "rostered_by": 6
     },
     {
       "player": "Cairo Santos (K, CHI)",
-      "adds": 84574,
+      "adds": 76447,
       "rostered_by": null
+    },
+    {
+      "player": "Devaughn Vele (WR, NO)",
+      "adds": 76125,
+      "rostered_by": 6
     },
     {
       "player": "Mike Gesicki (TE, CIN)",
-      "adds": 73880,
+      "adds": 67168,
       "rostered_by": 12
     },
     {
-      "player": "Michael Mayer (TE, LV)",
-      "adds": 71325,
-      "rostered_by": null
-    },
-    {
-      "player": "San Francisco 49ers (DEF, SF)",
-      "adds": 67584,
-      "rostered_by": 12
-    },
-    {
-      "player": "Mack Hollins (WR, NE)",
-      "adds": 61653,
+      "player": "Malik Washington (WR, MIA)",
+      "adds": 58608,
       "rostered_by": null
     },
     {
       "player": "Matthew Golden (WR, GB)",
-      "adds": 61418,
+      "adds": 58576,
       "rostered_by": 6
     },
     {
-      "player": "Malik Washington (WR, MIA)",
-      "adds": 61112,
+      "player": "Mack Hollins (WR, NE)",
+      "adds": 55971,
       "rostered_by": null
     },
     {
+      "player": "San Francisco 49ers (DEF, SF)",
+      "adds": 54330,
+      "rostered_by": 12
+    },
+    {
       "player": "Kenyon Sadiq (TE, NYJ)",
-      "adds": 55791,
+      "adds": 52344,
       "rostered_by": 1
     },
     {
       "player": "MarShawn Lloyd (RB, GB)",
-      "adds": 55485,
+      "adds": 51237,
       "rostered_by": 7
     },
     {
       "player": "Emmett Johnson (RB, KC)",
-      "adds": 52470,
+      "adds": 47457,
       "rostered_by": 11
     },
     {
       "player": "Evan Engram (TE, DEN)",
-      "adds": 48240,
+      "adds": 44880,
       "rostered_by": null
     },
     {
       "player": "Bryce Young (QB, CAR)",
-      "adds": 47660,
+      "adds": 43332,
       "rostered_by": 1
     },
     {
-      "player": "Sione Vaki (RB, DET)",
-      "adds": 44541,
+      "player": "Roman Wilson (WR, PIT)",
+      "adds": 40275,
       "rostered_by": null
     },
     {
-      "player": "Kaelon Black (RB, SF) [Questionable]",
-      "adds": 40257,
-      "rostered_by": 6
+      "player": "Aaron Jones (RB, MIN)",
+      "adds": 35334,
+      "rostered_by": 12
     }
   ]
 }
