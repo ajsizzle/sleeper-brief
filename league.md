@@ -1,5 +1,5 @@
 # Sleeper league state
-Generated Friday September 18, 2026 08:24 PM ET · Season 2026 · NFL week 2
+Generated Saturday September 19, 2026 02:00 AM ET · Season 2026 · NFL week 2
 League: The Dudes Will Roll · 12 teams · waivers: FAAB (budget $200) · lineup: QB, RB, RB, WR, WR, TE, FLEX, K, DEF
 
 ## My team: THE ACE OF SPADES (roster 11)
@@ -149,30 +149,30 @@ Bench: Oronde Gadsden (TE, LAC); Dak Prescott (QB, DAL); Alvin Kamara (RB, NO); 
 - Tyjae Spears (RB, TEN) · dropped by Whiskey Sippin Kings on Tue Sep 8, 12:09 AM ET · free agent now
 
 ## Trending adds across Sleeper, last 24 hours
-- Keon Coleman (WR, BUF) · 343,431 adds · AVAILABLE in my league
-- Devin Singletary (RB, NYG) · 308,241 adds · rostered by Holla
-- Xavier Hutchinson (WR, HOU) · 260,022 adds · AVAILABLE in my league
-- Caleb Douglas (WR, MIA) · 159,320 adds · rostered by Whiskey Sippin Kings
-- Raheim Sanders (RB, CLE) · 106,960 adds · AVAILABLE in my league
-- Tampa Bay Buccaneers (DEF, TB) · 106,040 adds · rostered by Team 9
-- Alvin Kamara (RB, NO) · 106,024 adds · rostered by Team 9
-- Carson Wentz (QB, MIN) · 94,746 adds · AVAILABLE in my league
-- Demarcus Robinson (WR, SF) · 90,204 adds · AVAILABLE in my league
-- Michael Mayer (TE, LV) · 87,318 adds · AVAILABLE in my league
-- Khalil Shakir (WR, BUF) · 78,723 adds · rostered by Young Blood
-- Cairo Santos (K, CHI) · 76,447 adds · AVAILABLE in my league
-- Devaughn Vele (WR, NO) · 76,125 adds · rostered by FuelTheJET
-- Mike Gesicki (TE, CIN) · 67,168 adds · rostered by Young Blood
-- Malik Washington (WR, MIA) · 58,608 adds · AVAILABLE in my league
-- Matthew Golden (WR, GB) · 58,576 adds · rostered by FuelTheJET
-- Mack Hollins (WR, NE) · 55,971 adds · AVAILABLE in my league
-- San Francisco 49ers (DEF, SF) · 54,330 adds · rostered by Young Blood
-- Kenyon Sadiq (TE, NYJ) · 52,344 adds · rostered by Whiskey Sippin Kings
-- MarShawn Lloyd (RB, GB) · 51,237 adds · rostered by Make Miami Great Again
-- Emmett Johnson (RB, KC) · 47,457 adds · on my roster
-- Evan Engram (TE, DEN) · 44,880 adds · AVAILABLE in my league
-- Bryce Young (QB, CAR) · 43,332 adds · rostered by Whiskey Sippin Kings
-- Roman Wilson (WR, PIT) · 40,275 adds · AVAILABLE in my league
-- Aaron Jones (RB, MIN) · 35,334 adds · rostered by Young Blood
+- Xavier Hutchinson (WR, HOU) · 274,001 adds · AVAILABLE in my league
+- Keon Coleman (WR, BUF) · 263,421 adds · AVAILABLE in my league
+- Devin Singletary (RB, NYG) · 167,787 adds · rostered by Holla
+- Michael Mayer (TE, LV) · 101,286 adds · AVAILABLE in my league
+- Alvin Kamara (RB, NO) · 94,928 adds · rostered by Team 9
+- Caleb Douglas (WR, MIA) · 91,488 adds · rostered by Whiskey Sippin Kings
+- Carson Wentz (QB, MIN) · 68,244 adds · AVAILABLE in my league
+- Raheim Sanders (RB, CLE) · 63,000 adds · AVAILABLE in my league
+- Tampa Bay Buccaneers (DEF, TB) · 53,060 adds · rostered by Team 9
+- Demarcus Robinson (WR, SF) · 53,016 adds · AVAILABLE in my league
+- Cairo Santos (K, CHI) · 50,792 adds · AVAILABLE in my league
+- Devaughn Vele (WR, NO) · 45,640 adds · rostered by FuelTheJET
+- Matthew Golden (WR, GB) · 42,329 adds · rostered by FuelTheJET
+- Mike Gesicki (TE, CIN) · 42,304 adds · rostered by Young Blood
+- Malik Washington (WR, MIA) · 40,216 adds · AVAILABLE in my league
+- Kenyon Sadiq (TE, NYJ) · 39,150 adds · rostered by Whiskey Sippin Kings
+- Roman Wilson (WR, PIT) · 38,214 adds · AVAILABLE in my league
+- Mack Hollins (WR, NE) · 38,193 adds · AVAILABLE in my league
+- MarShawn Lloyd (RB, GB) · 35,010 adds · rostered by Make Miami Great Again
+- Emmett Johnson (RB, KC) · 33,507 adds · on my roster
+- Evan Engram (TE, DEN) · 30,648 adds · AVAILABLE in my league
+- Mark Andrews (TE, BAL) · 27,513 adds · on my roster
+- San Francisco 49ers (DEF, SF) · 27,429 adds · rostered by Young Blood
+- Bryce Young (QB, CAR) · 27,092 adds · rostered by Whiskey Sippin Kings
+- DeeJay Dallas (RB, MIN) · 25,878 adds · AVAILABLE in my league
 
 Data from the Sleeper API (sleeper.com). Injury tags in brackets are Sleeper's designations and may lag official reports.
