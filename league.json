@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-20T12:52:42.193585-04:00",
+  "generated": "2026-09-20T15:32:18.112065-04:00",
   "season": "2026",
   "week": 2,
   "league": {
@@ -66,7 +66,7 @@
     "starters": [
       "Brock Purdy (QB, SF)",
       "Jeremiyah Love (RB, ARI)",
-      "RJ Harvey (RB, DEN) [Questionable]",
+      "Tyler Allgeier (RB, ARI)",
       "Puka Nacua (WR, LAR) [Questionable]",
       "Jaylen Waddle (WR, DEN)",
       "Colston Loveland (TE, CHI)",
@@ -75,11 +75,11 @@
       "Tampa Bay Buccaneers (DEF, TB)"
     ],
     "bench": [
+      "RJ Harvey (RB, DEN) [Questionable]",
       "Oronde Gadsden (TE, LAC)",
       "Dak Prescott (QB, DAL)",
       "Alvin Kamara (RB, NO)",
       "Kenny Gainwell (RB, TB)",
-      "Tyler Allgeier (RB, ARI)",
       "Denver Broncos (DEF, DEN)"
     ],
     "ir": []
@@ -433,12 +433,12 @@
         "Kansas City Chiefs (DEF, KC)"
       ],
       "bench": [
-        "Xavier Hutchinson (WR, HOU)",
         "Brock Bowers (TE, LV) [Doubtful]",
         "Jaylen Wright (RB, MIA)",
         "Josh Jacobs (RB, GB) [NA]",
         "Nico Collins (WR, HOU) [Out]",
-        "Brian Robinson (RB, ATL)"
+        "Brian Robinson (RB, ATL)",
+        "Michael Mayer (TE, LV)"
       ],
       "ir": [
         "Jordyn Tyson (WR, NO) [IR]"
@@ -458,7 +458,7 @@
       "starters": [
         "Brock Purdy (QB, SF)",
         "Jeremiyah Love (RB, ARI)",
-        "RJ Harvey (RB, DEN) [Questionable]",
+        "Tyler Allgeier (RB, ARI)",
         "Puka Nacua (WR, LAR) [Questionable]",
         "Jaylen Waddle (WR, DEN)",
         "Colston Loveland (TE, CHI)",
@@ -467,17 +467,18 @@
         "Tampa Bay Buccaneers (DEF, TB)"
       ],
       "bench": [
+        "RJ Harvey (RB, DEN) [Questionable]",
         "Oronde Gadsden (TE, LAC)",
         "Dak Prescott (QB, DAL)",
         "Alvin Kamara (RB, NO)",
         "Kenny Gainwell (RB, TB)",
-        "Tyler Allgeier (RB, ARI)",
         "Denver Broncos (DEF, DEN)"
       ],
       "ir": []
     }
   ],
   "transactions": [
+    "Week 2 \u00b7 free_agent \u00b7 complete \u00b7 Sun Sep 20 01:51 PM \u00b7 Make Miami Great Again \u00b7 added: Michael Mayer (TE, LV) to Make Miami Great Again \u00b7 dropped: Xavier Hutchinson (WR, HOU) from Make Miami Great Again",
     "Week 2 \u00b7 free_agent \u00b7 complete \u00b7 Sun Sep 20 07:35 AM \u00b7 Whiskey Sippin Kings \u00b7 added: Pat Freiermuth (TE, PIT) to Whiskey Sippin Kings \u00b7 dropped: Kenyon Sadiq (TE, NYJ) from Whiskey Sippin Kings",
     "Week 2 \u00b7 free_agent \u00b7 complete \u00b7 Sun Sep 20 07:12 AM \u00b7 THE ACE OF SPADES \u00b7 added: Roman Wilson (WR, PIT) to THE ACE OF SPADES \u00b7 dropped: Dontayvion Wicks (WR, PHI) from THE ACE OF SPADES",
     "Week 2 \u00b7 free_agent \u00b7 complete \u00b7 Sat Sep 19 09:05 PM \u00b7 Make Miami Great Again \u00b7 added: Kansas City Chiefs (DEF, KC) to Make Miami Great Again \u00b7 dropped: Pittsburgh Steelers (DEF, PIT) from Make Miami Great Again",
@@ -513,6 +514,13 @@
     "Week 1 \u00b7 free_agent \u00b7 complete \u00b7 Sun Sep 06 08:57 AM \u00b7 Thoroughbred Cheesehead \u00b7 added: Roschon Johnson (RB, CHI) to Thoroughbred Cheesehead \u00b7 dropped: Kenyon Sadiq (TE, NYJ) from Thoroughbred Cheesehead"
   ],
   "dropped_unrostered": [
+    {
+      "player": "Xavier Hutchinson (WR, HOU)",
+      "dropped_by": "Make Miami Great Again",
+      "dropped_at": "2026-09-20T13:51:19.617000-04:00",
+      "on_waivers_until": "2026-09-22T13:51:19.617000-04:00",
+      "waiver_status": "on waivers until Tue Sep 22, 1:51 PM ET"
+    },
     {
       "player": "Kenyon Sadiq (TE, NYJ)",
       "dropped_by": "Whiskey Sippin Kings",
@@ -552,13 +560,6 @@
       "player": "Jordan Addison (WR, MIN)",
       "dropped_by": "Whiskey Sippin Kings",
       "dropped_at": "2026-09-18T02:47:40.207000-04:00",
-      "on_waivers_until": null,
-      "waiver_status": "free agent now"
-    },
-    {
-      "player": "Michael Mayer (TE, LV)",
-      "dropped_by": "Whiskey Sippin Kings",
-      "dropped_at": "2026-09-18T02:46:30.630000-04:00",
       "on_waivers_until": null,
       "waiver_status": "free agent now"
     },
@@ -671,127 +672,127 @@
   "trending_adds": [
     {
       "player": "Xavier Hutchinson (WR, HOU)",
-      "adds": 490616,
-      "rostered_by": 7
+      "adds": 468951,
+      "rostered_by": null
     },
     {
       "player": "Roman Wilson (WR, PIT)",
-      "adds": 329013,
+      "adds": 320733,
       "rostered_by": 11
     },
     {
       "player": "Michael Mayer (TE, LV)",
-      "adds": 248832,
-      "rostered_by": null
+      "adds": 315333,
+      "rostered_by": 7
     },
     {
       "player": "Devin Singletary (RB, NYG)",
-      "adds": 163728,
+      "adds": 199422,
       "rostered_by": 2
     },
     {
       "player": "Alvin Kamara (RB, NO)",
-      "adds": 125912,
+      "adds": 156712,
       "rostered_by": 9
     },
     {
       "player": "Keon Coleman (WR, BUF)",
-      "adds": 124668,
+      "adds": 129519,
       "rostered_by": null
     },
     {
       "player": "Konata Mumpfield (WR, LAR)",
-      "adds": 97677,
+      "adds": 117117,
       "rostered_by": null
     },
     {
+      "player": "Tank Bigsby (RB, PHI)",
+      "adds": 116578,
+      "rostered_by": 6
+    },
+    {
       "player": "Cairo Santos (K, CHI)",
-      "adds": 91812,
+      "adds": 90531,
       "rostered_by": null
     },
     {
       "player": "Demarcus Robinson (WR, SF)",
-      "adds": 80328,
+      "adds": 88818,
       "rostered_by": null
     },
     {
       "player": "Tampa Bay Buccaneers (DEF, TB)",
-      "adds": 78475,
+      "adds": 79045,
       "rostered_by": 9
     },
     {
       "player": "Carson Wentz (QB, MIN)",
-      "adds": 76986,
+      "adds": 75312,
       "rostered_by": null
     },
     {
-      "player": "Caleb Douglas (WR, MIA)",
-      "adds": 62032,
-      "rostered_by": 1
-    },
-    {
       "player": "Malachi Fields (WR, NYG)",
-      "adds": 57150,
+      "adds": 68545,
       "rostered_by": null
     },
     {
       "player": "Chase McLaughlin (K, TB)",
-      "adds": 56880,
+      "adds": 65512,
       "rostered_by": 10
     },
     {
       "player": "Malik Washington (WR, MIA)",
-      "adds": 55920,
+      "adds": 65480,
+      "rostered_by": null
+    },
+    {
+      "player": "Caleb Douglas (WR, MIA)",
+      "adds": 64424,
+      "rostered_by": 1
+    },
+    {
+      "player": "Emmett Johnson (RB, KC)",
+      "adds": 62631,
+      "rostered_by": 11
+    },
+    {
+      "player": "Darren Waller (TE, CAR)",
+      "adds": 60714,
       "rostered_by": null
     },
     {
       "player": "Devaughn Vele (WR, NO)",
-      "adds": 54159,
+      "adds": 57442,
       "rostered_by": 6
     },
     {
-      "player": "Emmett Johnson (RB, KC)",
-      "adds": 53721,
-      "rostered_by": 11
+      "player": "Bryce Young (QB, CAR)",
+      "adds": 56940,
+      "rostered_by": 1
     },
     {
       "player": "Mark Andrews (TE, BAL)",
-      "adds": 50589,
+      "adds": 51912,
       "rostered_by": 11
     },
     {
       "player": "Matthew Golden (WR, GB)",
-      "adds": 50386,
+      "adds": 49112,
       "rostered_by": 6
     },
     {
       "player": "New England Patriots (DEF, NE)",
-      "adds": 48118,
+      "adds": 49084,
       "rostered_by": 1
     },
     {
+      "player": "Adonai Mitchell (WR, NYJ)",
+      "adds": 47792,
+      "rostered_by": null
+    },
+    {
       "player": "Mack Hollins (WR, NE)",
-      "adds": 48108,
-      "rostered_by": null
-    },
-    {
-      "player": "DeeJay Dallas (RB, MIN)",
-      "adds": 45747,
-      "rostered_by": null
-    },
-    {
-      "player": "Raheim Sanders (RB, CLE)",
-      "adds": 44064,
-      "rostered_by": null
-    },
-    {
-      "player": "Tyler Loop (K, BAL)",
-      "adds": 41058,
-      "rostered_by": 8
-    },
-    {
-      "player": "Rashod Bateman (WR, BAL)",
-      "adds": 41004,
+      "adds": 46047,
       "rostered_by": null
     }
   ]
