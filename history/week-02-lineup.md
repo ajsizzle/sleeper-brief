@@ -1,5 +1,5 @@
 # Sleeper league state
-Generated Sunday September 20, 2026 08:28 AM ET · Season 2026 · NFL week 2
+Generated Sunday September 20, 2026 12:52 PM ET · Season 2026 · NFL week 2
 League: The Dudes Will Roll · 12 teams · waivers: FAAB (budget $200) · lineup: QB, RB, RB, WR, WR, TE, FLEX, K, DEF
 
 ## My team: THE ACE OF SPADES (roster 11)
@@ -135,7 +135,7 @@ Bench: Oronde Gadsden (TE, LAC); Dak Prescott (QB, DAL); Alvin Kamara (RB, NO); 
 - Kenyon Sadiq (TE, NYJ) · dropped by Whiskey Sippin Kings on Sun Sep 20, 7:35 AM ET · on waivers until Tue Sep 22, 7:35 AM ET
 - Dontayvion Wicks (WR, PHI) · dropped by THE ACE OF SPADES on Sun Sep 20, 7:12 AM ET · on waivers until Tue Sep 22, 7:12 AM ET
 - Pittsburgh Steelers (DEF, PIT) · dropped by Make Miami Great Again on Sat Sep 19, 9:05 PM ET · on waivers until Mon Sep 21, 9:05 PM ET
-- Las Vegas Raiders (DEF, LV) · dropped by Holla on Fri Sep 18, 11:10 AM ET · on waivers until Sun Sep 20, 11:10 AM ET
+- Las Vegas Raiders (DEF, LV) · dropped by Holla on Fri Sep 18, 11:10 AM ET · free agent now
 - Chris Boswell (K, PIT) · dropped by Whiskey Sippin Kings on Fri Sep 18, 2:49 AM ET · free agent now
 - Jordan Addison (WR, MIN) · dropped by Whiskey Sippin Kings on Fri Sep 18, 2:47 AM ET · free agent now
 - Michael Mayer (TE, LV) · dropped by Whiskey Sippin Kings on Fri Sep 18, 2:46 AM ET · free agent now
@@ -156,30 +156,30 @@ Bench: Oronde Gadsden (TE, LAC); Dak Prescott (QB, DAL); Alvin Kamara (RB, NO); 
 - Tyjae Spears (RB, TEN) · dropped by Whiskey Sippin Kings on Tue Sep 8, 12:09 AM ET · free agent now
 
 ## Trending adds across Sleeper, last 24 hours
-- Xavier Hutchinson (WR, HOU) · 358,568 adds · rostered by Make Miami Great Again
-- Roman Wilson (WR, PIT) · 187,902 adds · on my roster
-- Michael Mayer (TE, LV) · 154,908 adds · AVAILABLE in my league
-- Keon Coleman (WR, BUF) · 114,237 adds · AVAILABLE in my league
-- Devin Singletary (RB, NYG) · 97,119 adds · rostered by Holla
-- Alvin Kamara (RB, NO) · 85,472 adds · rostered by Team 9
-- Cairo Santos (K, CHI) · 59,507 adds · AVAILABLE in my league
-- Demarcus Robinson (WR, SF) · 53,238 adds · AVAILABLE in my league
-- Carson Wentz (QB, MIN) · 52,890 adds · AVAILABLE in my league
-- Caleb Douglas (WR, MIA) · 47,680 adds · rostered by Whiskey Sippin Kings
-- Tampa Bay Buccaneers (DEF, TB) · 41,640 adds · rostered by Team 9
-- Devaughn Vele (WR, NO) · 39,368 adds · rostered by FuelTheJET
-- Konata Mumpfield (WR, LAR) · 37,017 adds · AVAILABLE in my league
-- Matthew Golden (WR, GB) · 36,568 adds · rostered by FuelTheJET
-- Malik Washington (WR, MIA) · 35,944 adds · AVAILABLE in my league
-- Emmett Johnson (RB, KC) · 35,820 adds · on my roster
-- Raheim Sanders (RB, CLE) · 35,592 adds · AVAILABLE in my league
-- Mack Hollins (WR, NE) · 32,307 adds · AVAILABLE in my league
-- Mark Andrews (TE, BAL) · 31,410 adds · on my roster
-- DeeJay Dallas (RB, MIN) · 30,807 adds · AVAILABLE in my league
-- Adonai Mitchell (WR, NYJ) · 29,992 adds · AVAILABLE in my league
-- Rashod Bateman (WR, BAL) · 28,688 adds · AVAILABLE in my league
-- Kenyon Sadiq (TE, NYJ) · 28,449 adds · AVAILABLE in my league
-- MarShawn Lloyd (RB, GB) · 26,469 adds · rostered by Make Miami Great Again
-- Tyler Loop (K, BAL) · 26,220 adds · rostered by Team 8
+- Xavier Hutchinson (WR, HOU) · 490,616 adds · rostered by Make Miami Great Again
+- Roman Wilson (WR, PIT) · 329,013 adds · on my roster
+- Michael Mayer (TE, LV) · 248,832 adds · AVAILABLE in my league
+- Devin Singletary (RB, NYG) · 163,728 adds · rostered by Holla
+- Alvin Kamara (RB, NO) · 125,912 adds · rostered by Team 9
+- Keon Coleman (WR, BUF) · 124,668 adds · AVAILABLE in my league
+- Konata Mumpfield (WR, LAR) · 97,677 adds · AVAILABLE in my league
+- Cairo Santos (K, CHI) · 91,812 adds · AVAILABLE in my league
+- Demarcus Robinson (WR, SF) · 80,328 adds · AVAILABLE in my league
+- Tampa Bay Buccaneers (DEF, TB) · 78,475 adds · rostered by Team 9
+- Carson Wentz (QB, MIN) · 76,986 adds · AVAILABLE in my league
+- Caleb Douglas (WR, MIA) · 62,032 adds · rostered by Whiskey Sippin Kings
+- Malachi Fields (WR, NYG) · 57,150 adds · AVAILABLE in my league
+- Chase McLaughlin (K, TB) · 56,880 adds · rostered by Strokin My Ditka
+- Malik Washington (WR, MIA) · 55,920 adds · AVAILABLE in my league
+- Devaughn Vele (WR, NO) · 54,159 adds · rostered by FuelTheJET
+- Emmett Johnson (RB, KC) · 53,721 adds · on my roster
+- Mark Andrews (TE, BAL) · 50,589 adds · on my roster
+- Matthew Golden (WR, GB) · 50,386 adds · rostered by FuelTheJET
+- New England Patriots (DEF, NE) · 48,118 adds · rostered by Whiskey Sippin Kings
+- Mack Hollins (WR, NE) · 48,108 adds · AVAILABLE in my league
+- DeeJay Dallas (RB, MIN) · 45,747 adds · AVAILABLE in my league
+- Raheim Sanders (RB, CLE) · 44,064 adds · AVAILABLE in my league
+- Tyler Loop (K, BAL) · 41,058 adds · rostered by Team 8
+- Rashod Bateman (WR, BAL) · 41,004 adds · AVAILABLE in my league
 
 Data from the Sleeper API (sleeper.com). Injury tags in brackets are Sleeper's designations and may lag official reports.
