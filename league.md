@@ -1,5 +1,5 @@
 # Sleeper league state
-Generated Sunday September 20, 2026 03:32 PM ET · Season 2026 · NFL week 2
+Generated Sunday September 20, 2026 06:32 PM ET · Season 2026 · NFL week 2
 League: The Dudes Will Roll · 12 teams · waivers: FAAB (budget $200) · lineup: QB, RB, RB, WR, WR, TE, FLEX, K, DEF
 
 ## My team: THE ACE OF SPADES (roster 11)
@@ -157,30 +157,30 @@ Bench: RJ Harvey (RB, DEN) [Questionable]; Oronde Gadsden (TE, LAC); Dak Prescot
 - Tyjae Spears (RB, TEN) · dropped by Whiskey Sippin Kings on Tue Sep 8, 12:09 AM ET · free agent now
 
 ## Trending adds across Sleeper, last 24 hours
-- Xavier Hutchinson (WR, HOU) · 468,951 adds · AVAILABLE in my league
-- Roman Wilson (WR, PIT) · 320,733 adds · on my roster
-- Michael Mayer (TE, LV) · 315,333 adds · rostered by Make Miami Great Again
-- Devin Singletary (RB, NYG) · 199,422 adds · rostered by Holla
-- Alvin Kamara (RB, NO) · 156,712 adds · rostered by Team 9
-- Keon Coleman (WR, BUF) · 129,519 adds · AVAILABLE in my league
-- Konata Mumpfield (WR, LAR) · 117,117 adds · AVAILABLE in my league
-- Tank Bigsby (RB, PHI) · 116,578 adds · rostered by FuelTheJET
-- Cairo Santos (K, CHI) · 90,531 adds · AVAILABLE in my league
-- Demarcus Robinson (WR, SF) · 88,818 adds · AVAILABLE in my league
-- Tampa Bay Buccaneers (DEF, TB) · 79,045 adds · rostered by Team 9
-- Carson Wentz (QB, MIN) · 75,312 adds · AVAILABLE in my league
-- Malachi Fields (WR, NYG) · 68,545 adds · AVAILABLE in my league
-- Chase McLaughlin (K, TB) · 65,512 adds · rostered by Strokin My Ditka
-- Malik Washington (WR, MIA) · 65,480 adds · AVAILABLE in my league
-- Caleb Douglas (WR, MIA) · 64,424 adds · rostered by Whiskey Sippin Kings
-- Emmett Johnson (RB, KC) · 62,631 adds · on my roster
-- Darren Waller (TE, CAR) · 60,714 adds · AVAILABLE in my league
-- Devaughn Vele (WR, NO) · 57,442 adds · rostered by FuelTheJET
-- Bryce Young (QB, CAR) · 56,940 adds · rostered by Whiskey Sippin Kings
-- Mark Andrews (TE, BAL) · 51,912 adds · on my roster
-- Matthew Golden (WR, GB) · 49,112 adds · rostered by FuelTheJET
-- New England Patriots (DEF, NE) · 49,084 adds · rostered by Whiskey Sippin Kings
-- Adonai Mitchell (WR, NYJ) · 47,792 adds · AVAILABLE in my league
-- Mack Hollins (WR, NE) · 46,047 adds · AVAILABLE in my league
+- Xavier Hutchinson (WR, HOU) · 399,623 adds · AVAILABLE in my league
+- Michael Mayer (TE, LV) · 310,941 adds · rostered by Make Miami Great Again
+- Roman Wilson (WR, PIT) · 295,461 adds · on my roster
+- Devin Singletary (RB, NYG) · 214,965 adds · rostered by Holla
+- Bryce Young (QB, CAR) · 200,596 adds · rostered by Whiskey Sippin Kings
+- Alvin Kamara (RB, NO) · 154,232 adds · rostered by Team 9
+- Tank Bigsby (RB, PHI) · 149,163 adds · rostered by FuelTheJET
+- Keon Coleman (WR, BUF) · 136,566 adds · AVAILABLE in my league
+- Konata Mumpfield (WR, LAR) · 124,389 adds · AVAILABLE in my league
+- Darren Waller (TE, CAR) · 124,155 adds · AVAILABLE in my league
+- Tyler Shough (QB, NO) · 115,576 adds · rostered by Thoroughbred Cheesehead
+- Tyson Bagent (QB, CHI) · 102,096 adds · AVAILABLE in my league
+- Demarcus Robinson (WR, SF) · 87,366 adds · AVAILABLE in my league
+- Chase McLaughlin (K, TB) · 81,984 adds · rostered by Strokin My Ditka
+- Cairo Santos (K, CHI) · 81,438 adds · AVAILABLE in my league
+- Carson Wentz (QB, MIN) · 74,802 adds · AVAILABLE in my league
+- Malachi Fields (WR, NYG) · 74,540 adds · AVAILABLE in my league
+- Tre Tucker (WR, LV) · 72,570 adds · AVAILABLE in my league
+- Tampa Bay Buccaneers (DEF, TB) · 72,180 adds · rostered by Team 9
+- Emmett Johnson (RB, KC) · 68,103 adds · on my roster
+- Malik Washington (WR, MIA) · 67,336 adds · AVAILABLE in my league
+- Adonai Mitchell (WR, NYJ) · 63,040 adds · AVAILABLE in my league
+- Caleb Douglas (WR, MIA) · 59,176 adds · rostered by Whiskey Sippin Kings
+- Devaughn Vele (WR, NO) · 58,198 adds · rostered by FuelTheJET
+- New England Patriots (DEF, NE) · 53,459 adds · rostered by Whiskey Sippin Kings
 
 Data from the Sleeper API (sleeper.com). Injury tags in brackets are Sleeper's designations and may lag official reports.

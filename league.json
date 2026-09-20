@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-20T15:32:18.112065-04:00",
+  "generated": "2026-09-20T18:32:18.853686-04:00",
   "season": "2026",
   "week": 2,
   "league": {
@@ -672,128 +672,128 @@
   "trending_adds": [
     {
       "player": "Xavier Hutchinson (WR, HOU)",
-      "adds": 468951,
+      "adds": 399623,
       "rostered_by": null
     },
     {
-      "player": "Roman Wilson (WR, PIT)",
-      "adds": 320733,
-      "rostered_by": 11
-    },
-    {
       "player": "Michael Mayer (TE, LV)",
-      "adds": 315333,
+      "adds": 310941,
       "rostered_by": 7
     },
     {
+      "player": "Roman Wilson (WR, PIT)",
+      "adds": 295461,
+      "rostered_by": 11
+    },
+    {
       "player": "Devin Singletary (RB, NYG)",
-      "adds": 199422,
+      "adds": 214965,
       "rostered_by": 2
     },
     {
+      "player": "Bryce Young (QB, CAR)",
+      "adds": 200596,
+      "rostered_by": 1
+    },
+    {
       "player": "Alvin Kamara (RB, NO)",
-      "adds": 156712,
+      "adds": 154232,
       "rostered_by": 9
     },
     {
+      "player": "Tank Bigsby (RB, PHI)",
+      "adds": 149163,
+      "rostered_by": 6
+    },
+    {
       "player": "Keon Coleman (WR, BUF)",
-      "adds": 129519,
+      "adds": 136566,
       "rostered_by": null
     },
     {
       "player": "Konata Mumpfield (WR, LAR)",
-      "adds": 117117,
+      "adds": 124389,
       "rostered_by": null
     },
     {
-      "player": "Tank Bigsby (RB, PHI)",
-      "adds": 116578,
-      "rostered_by": 6
+      "player": "Darren Waller (TE, CAR)",
+      "adds": 124155,
+      "rostered_by": null
     },
     {
-      "player": "Cairo Santos (K, CHI)",
-      "adds": 90531,
+      "player": "Tyler Shough (QB, NO)",
+      "adds": 115576,
+      "rostered_by": 4
+    },
+    {
+      "player": "Tyson Bagent (QB, CHI)",
+      "adds": 102096,
       "rostered_by": null
     },
     {
       "player": "Demarcus Robinson (WR, SF)",
-      "adds": 88818,
-      "rostered_by": null
-    },
-    {
-      "player": "Tampa Bay Buccaneers (DEF, TB)",
-      "adds": 79045,
-      "rostered_by": 9
-    },
-    {
-      "player": "Carson Wentz (QB, MIN)",
-      "adds": 75312,
-      "rostered_by": null
-    },
-    {
-      "player": "Malachi Fields (WR, NYG)",
-      "adds": 68545,
+      "adds": 87366,
       "rostered_by": null
     },
     {
       "player": "Chase McLaughlin (K, TB)",
-      "adds": 65512,
+      "adds": 81984,
       "rostered_by": 10
     },
     {
+      "player": "Cairo Santos (K, CHI)",
+      "adds": 81438,
+      "rostered_by": null
+    },
+    {
+      "player": "Carson Wentz (QB, MIN)",
+      "adds": 74802,
+      "rostered_by": null
+    },
+    {
+      "player": "Malachi Fields (WR, NYG)",
+      "adds": 74540,
+      "rostered_by": null
+    },
+    {
+      "player": "Tre Tucker (WR, LV)",
+      "adds": 72570,
+      "rostered_by": null
+    },
+    {
+      "player": "Tampa Bay Buccaneers (DEF, TB)",
+      "adds": 72180,
+      "rostered_by": 9
+    },
+    {
+      "player": "Emmett Johnson (RB, KC)",
+      "adds": 68103,
+      "rostered_by": 11
+    },
+    {
       "player": "Malik Washington (WR, MIA)",
-      "adds": 65480,
+      "adds": 67336,
+      "rostered_by": null
+    },
+    {
+      "player": "Adonai Mitchell (WR, NYJ)",
+      "adds": 63040,
       "rostered_by": null
     },
     {
       "player": "Caleb Douglas (WR, MIA)",
-      "adds": 64424,
+      "adds": 59176,
       "rostered_by": 1
-    },
-    {
-      "player": "Emmett Johnson (RB, KC)",
-      "adds": 62631,
-      "rostered_by": 11
-    },
-    {
-      "player": "Darren Waller (TE, CAR)",
-      "adds": 60714,
-      "rostered_by": null
     },
     {
       "player": "Devaughn Vele (WR, NO)",
-      "adds": 57442,
-      "rostered_by": 6
-    },
-    {
-      "player": "Bryce Young (QB, CAR)",
-      "adds": 56940,
-      "rostered_by": 1
-    },
-    {
-      "player": "Mark Andrews (TE, BAL)",
-      "adds": 51912,
-      "rostered_by": 11
-    },
-    {
-      "player": "Matthew Golden (WR, GB)",
-      "adds": 49112,
+      "adds": 58198,
       "rostered_by": 6
     },
     {
       "player": "New England Patriots (DEF, NE)",
-      "adds": 49084,
+      "adds": 53459,
       "rostered_by": 1
-    },
-    {
-      "player": "Adonai Mitchell (WR, NYJ)",
-      "adds": 47792,
-      "rostered_by": null
-    },
-    {
-      "player": "Mack Hollins (WR, NE)",
-      "adds": 46047,
-      "rostered_by": null
     }
   ]
 }
