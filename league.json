@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-20T02:27:28.492329-04:00",
+  "generated": "2026-09-20T08:28:50.851995-04:00",
   "season": "2026",
   "week": 2,
   "league": {
@@ -42,10 +42,10 @@
     ],
     "bench": [
       "Xavier Worthy (WR, KC)",
+      "Roman Wilson (WR, PIT)",
       "Tahj Brooks (RB, CIN)",
       "Emmett Johnson (RB, KC)",
       "George Kittle (TE, SF)",
-      "Dontayvion Wicks (WR, PHI)",
       "Houston Texans (DEF, HOU)"
     ],
     "ir": [
@@ -361,7 +361,7 @@
         "Ashton Jeanty (RB, LV)",
         "Chris Olave (WR, NO) [Questionable]",
         "Emeka Egbuka (WR, TB)",
-        "Kenyon Sadiq (TE, NYJ)",
+        "Pat Freiermuth (TE, PIT)",
         "Quinshon Judkins (RB, CLE)",
         "Evan McPherson (K, CIN)",
         "New England Patriots (DEF, NE)"
@@ -400,10 +400,10 @@
       ],
       "bench": [
         "Xavier Worthy (WR, KC)",
+        "Roman Wilson (WR, PIT)",
         "Tahj Brooks (RB, CIN)",
         "Emmett Johnson (RB, KC)",
         "George Kittle (TE, SF)",
-        "Dontayvion Wicks (WR, PHI)",
         "Houston Texans (DEF, HOU)"
       ],
       "ir": [
@@ -478,6 +478,8 @@
     }
   ],
   "transactions": [
+    "Week 2 \u00b7 free_agent \u00b7 complete \u00b7 Sun Sep 20 07:35 AM \u00b7 Whiskey Sippin Kings \u00b7 added: Pat Freiermuth (TE, PIT) to Whiskey Sippin Kings \u00b7 dropped: Kenyon Sadiq (TE, NYJ) from Whiskey Sippin Kings",
+    "Week 2 \u00b7 free_agent \u00b7 complete \u00b7 Sun Sep 20 07:12 AM \u00b7 THE ACE OF SPADES \u00b7 added: Roman Wilson (WR, PIT) to THE ACE OF SPADES \u00b7 dropped: Dontayvion Wicks (WR, PHI) from THE ACE OF SPADES",
     "Week 2 \u00b7 free_agent \u00b7 complete \u00b7 Sat Sep 19 09:05 PM \u00b7 Make Miami Great Again \u00b7 added: Kansas City Chiefs (DEF, KC) to Make Miami Great Again \u00b7 dropped: Pittsburgh Steelers (DEF, PIT) from Make Miami Great Again",
     "Week 2 \u00b7 free_agent \u00b7 complete \u00b7 Sat Sep 19 09:03 PM \u00b7 Make Miami Great Again \u00b7 added: Xavier Hutchinson (WR, HOU) to Make Miami Great Again",
     "Week 2 \u00b7 free_agent \u00b7 complete \u00b7 Fri Sep 18 11:10 AM \u00b7 Holla \u00b7 added: Green Bay Packers (DEF, GB) to Holla \u00b7 dropped: Las Vegas Raiders (DEF, LV) from Holla",
@@ -512,6 +514,20 @@
   ],
   "dropped_unrostered": [
     {
+      "player": "Kenyon Sadiq (TE, NYJ)",
+      "dropped_by": "Whiskey Sippin Kings",
+      "dropped_at": "2026-09-20T07:35:30.973000-04:00",
+      "on_waivers_until": "2026-09-22T07:35:30.973000-04:00",
+      "waiver_status": "on waivers until Tue Sep 22, 7:35 AM ET"
+    },
+    {
+      "player": "Dontayvion Wicks (WR, PHI)",
+      "dropped_by": "THE ACE OF SPADES",
+      "dropped_at": "2026-09-20T07:12:05.157000-04:00",
+      "on_waivers_until": "2026-09-22T07:12:05.157000-04:00",
+      "waiver_status": "on waivers until Tue Sep 22, 7:12 AM ET"
+    },
+    {
       "player": "Pittsburgh Steelers (DEF, PIT)",
       "dropped_by": "Make Miami Great Again",
       "dropped_at": "2026-09-19T21:05:11.758000-04:00",
@@ -529,29 +545,29 @@
       "player": "Chris Boswell (K, PIT)",
       "dropped_by": "Whiskey Sippin Kings",
       "dropped_at": "2026-09-18T02:49:16.768000-04:00",
-      "on_waivers_until": "2026-09-20T02:49:16.768000-04:00",
-      "waiver_status": "on waivers until Sun Sep 20, 2:49 AM ET"
+      "on_waivers_until": null,
+      "waiver_status": "free agent now"
     },
     {
       "player": "Jordan Addison (WR, MIN)",
       "dropped_by": "Whiskey Sippin Kings",
       "dropped_at": "2026-09-18T02:47:40.207000-04:00",
-      "on_waivers_until": "2026-09-20T02:47:40.207000-04:00",
-      "waiver_status": "on waivers until Sun Sep 20, 2:47 AM ET"
+      "on_waivers_until": null,
+      "waiver_status": "free agent now"
     },
     {
       "player": "Michael Mayer (TE, LV)",
       "dropped_by": "Whiskey Sippin Kings",
       "dropped_at": "2026-09-18T02:46:30.630000-04:00",
-      "on_waivers_until": "2026-09-20T02:46:30.630000-04:00",
-      "waiver_status": "on waivers until Sun Sep 20, 2:46 AM ET"
+      "on_waivers_until": null,
+      "waiver_status": "free agent now"
     },
     {
       "player": "Jordan Love (QB, GB)",
       "dropped_by": "Whiskey Sippin Kings",
       "dropped_at": "2026-09-18T02:44:32.954000-04:00",
-      "on_waivers_until": "2026-09-20T02:44:32.954000-04:00",
-      "waiver_status": "on waivers until Sun Sep 20, 2:44 AM ET"
+      "on_waivers_until": null,
+      "waiver_status": "free agent now"
     },
     {
       "player": "Roschon Johnson (RB, CHI)",
@@ -655,127 +671,127 @@
   "trending_adds": [
     {
       "player": "Xavier Hutchinson (WR, HOU)",
-      "adds": 347634,
+      "adds": 358568,
       "rostered_by": 7
     },
     {
       "player": "Roman Wilson (WR, PIT)",
+      "adds": 187902,
+      "rostered_by": 11
+    },
+    {
+      "player": "Michael Mayer (TE, LV)",
       "adds": 154908,
       "rostered_by": null
     },
     {
-      "player": "Michael Mayer (TE, LV)",
-      "adds": 143658,
-      "rostered_by": null
-    },
-    {
       "player": "Keon Coleman (WR, BUF)",
-      "adds": 116487,
+      "adds": 114237,
       "rostered_by": null
     },
     {
       "player": "Devin Singletary (RB, NYG)",
-      "adds": 90819,
+      "adds": 97119,
       "rostered_by": 2
     },
     {
       "player": "Alvin Kamara (RB, NO)",
-      "adds": 80824,
+      "adds": 85472,
       "rostered_by": 9
     },
     {
       "player": "Cairo Santos (K, CHI)",
-      "adds": 55349,
-      "rostered_by": null
-    },
-    {
-      "player": "Carson Wentz (QB, MIN)",
-      "adds": 49734,
+      "adds": 59507,
       "rostered_by": null
     },
     {
       "player": "Demarcus Robinson (WR, SF)",
-      "adds": 48228,
+      "adds": 53238,
+      "rostered_by": null
+    },
+    {
+      "player": "Carson Wentz (QB, MIN)",
+      "adds": 52890,
       "rostered_by": null
     },
     {
       "player": "Caleb Douglas (WR, MIA)",
-      "adds": 46608,
+      "adds": 47680,
       "rostered_by": 1
     },
     {
       "player": "Tampa Bay Buccaneers (DEF, TB)",
-      "adds": 37665,
+      "adds": 41640,
       "rostered_by": 9
     },
     {
       "player": "Devaughn Vele (WR, NO)",
-      "adds": 37002,
+      "adds": 39368,
       "rostered_by": 6
     },
     {
-      "player": "Raheim Sanders (RB, CLE)",
-      "adds": 35128,
+      "player": "Konata Mumpfield (WR, LAR)",
+      "adds": 37017,
       "rostered_by": null
     },
     {
       "player": "Matthew Golden (WR, GB)",
-      "adds": 35084,
+      "adds": 36568,
       "rostered_by": 6
     },
     {
+      "player": "Malik Washington (WR, MIA)",
+      "adds": 35944,
+      "rostered_by": null
+    },
+    {
       "player": "Emmett Johnson (RB, KC)",
-      "adds": 33093,
+      "adds": 35820,
       "rostered_by": 11
     },
     {
-      "player": "Malik Washington (WR, MIA)",
-      "adds": 33040,
+      "player": "Raheim Sanders (RB, CLE)",
+      "adds": 35592,
       "rostered_by": null
     },
     {
       "player": "Mack Hollins (WR, NE)",
-      "adds": 30009,
+      "adds": 32307,
       "rostered_by": null
     },
     {
       "player": "Mark Andrews (TE, BAL)",
-      "adds": 29223,
+      "adds": 31410,
       "rostered_by": 11
     },
     {
-      "player": "Konata Mumpfield (WR, LAR)",
-      "adds": 28782,
-      "rostered_by": null
-    },
-    {
       "player": "DeeJay Dallas (RB, MIN)",
-      "adds": 28311,
+      "adds": 30807,
       "rostered_by": null
     },
     {
       "player": "Adonai Mitchell (WR, NYJ)",
-      "adds": 27392,
+      "adds": 29992,
+      "rostered_by": null
+    },
+    {
+      "player": "Rashod Bateman (WR, BAL)",
+      "adds": 28688,
       "rostered_by": null
     },
     {
       "player": "Kenyon Sadiq (TE, NYJ)",
-      "adds": 27360,
-      "rostered_by": 1
-    },
-    {
-      "player": "Rashod Bateman (WR, BAL)",
-      "adds": 26680,
+      "adds": 28449,
       "rostered_by": null
     },
     {
       "player": "MarShawn Lloyd (RB, GB)",
-      "adds": 25155,
+      "adds": 26469,
       "rostered_by": 7
     },
     {
       "player": "Tyler Loop (K, BAL)",
-      "adds": 24948,
+      "adds": 26220,
       "rostered_by": 8
     }
   ]
