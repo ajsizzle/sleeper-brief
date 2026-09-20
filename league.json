@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-19T21:17:59.027004-04:00",
+  "generated": "2026-09-20T02:27:28.492329-04:00",
   "season": "2026",
   "week": 2,
   "league": {
@@ -557,8 +557,8 @@
       "player": "Roschon Johnson (RB, CHI)",
       "dropped_by": "Thoroughbred Cheesehead",
       "dropped_at": "2026-09-18T00:47:27.283000-04:00",
-      "on_waivers_until": "2026-09-20T00:47:27.283000-04:00",
-      "waiver_status": "on waivers until Sun Sep 20, 12:47 AM ET"
+      "on_waivers_until": null,
+      "waiver_status": "free agent now"
     },
     {
       "player": "Chris Bell (WR, MIA)",
@@ -655,128 +655,128 @@
   "trending_adds": [
     {
       "player": "Xavier Hutchinson (WR, HOU)",
-      "adds": 339227,
+      "adds": 347634,
       "rostered_by": 7
     },
     {
-      "player": "Keon Coleman (WR, BUF)",
-      "adds": 144126,
+      "player": "Roman Wilson (WR, PIT)",
+      "adds": 154908,
       "rostered_by": null
     },
     {
       "player": "Michael Mayer (TE, LV)",
-      "adds": 135189,
+      "adds": 143658,
       "rostered_by": null
     },
     {
-      "player": "Roman Wilson (WR, PIT)",
-      "adds": 110700,
+      "player": "Keon Coleman (WR, BUF)",
+      "adds": 116487,
       "rostered_by": null
     },
     {
       "player": "Devin Singletary (RB, NYG)",
-      "adds": 90018,
+      "adds": 90819,
       "rostered_by": 2
     },
     {
       "player": "Alvin Kamara (RB, NO)",
-      "adds": 78456,
+      "adds": 80824,
       "rostered_by": 9
     },
     {
       "player": "Cairo Santos (K, CHI)",
-      "adds": 53116,
+      "adds": 55349,
       "rostered_by": null
     },
     {
-      "player": "Caleb Douglas (WR, MIA)",
-      "adds": 49232,
-      "rostered_by": 1
-    },
-    {
       "player": "Carson Wentz (QB, MIN)",
-      "adds": 48582,
+      "adds": 49734,
       "rostered_by": null
     },
     {
       "player": "Demarcus Robinson (WR, SF)",
-      "adds": 43788,
+      "adds": 48228,
       "rostered_by": null
     },
     {
-      "player": "Raheim Sanders (RB, CLE)",
-      "adds": 36304,
-      "rostered_by": null
-    },
-    {
-      "player": "Devaughn Vele (WR, NO)",
-      "adds": 35644,
-      "rostered_by": 6
+      "player": "Caleb Douglas (WR, MIA)",
+      "adds": 46608,
+      "rostered_by": 1
     },
     {
       "player": "Tampa Bay Buccaneers (DEF, TB)",
-      "adds": 35435,
+      "adds": 37665,
       "rostered_by": 9
     },
     {
-      "player": "Matthew Golden (WR, GB)",
-      "adds": 34748,
+      "player": "Devaughn Vele (WR, NO)",
+      "adds": 37002,
       "rostered_by": 6
     },
     {
-      "player": "Malik Washington (WR, MIA)",
-      "adds": 30840,
+      "player": "Raheim Sanders (RB, CLE)",
+      "adds": 35128,
       "rostered_by": null
     },
     {
+      "player": "Matthew Golden (WR, GB)",
+      "adds": 35084,
+      "rostered_by": 6
+    },
+    {
       "player": "Emmett Johnson (RB, KC)",
-      "adds": 30555,
+      "adds": 33093,
       "rostered_by": 11
     },
     {
+      "player": "Malik Washington (WR, MIA)",
+      "adds": 33040,
+      "rostered_by": null
+    },
+    {
       "player": "Mack Hollins (WR, NE)",
-      "adds": 28542,
+      "adds": 30009,
+      "rostered_by": null
+    },
+    {
+      "player": "Mark Andrews (TE, BAL)",
+      "adds": 29223,
+      "rostered_by": 11
+    },
+    {
+      "player": "Konata Mumpfield (WR, LAR)",
+      "adds": 28782,
+      "rostered_by": null
+    },
+    {
+      "player": "DeeJay Dallas (RB, MIN)",
+      "adds": 28311,
+      "rostered_by": null
+    },
+    {
+      "player": "Adonai Mitchell (WR, NYJ)",
+      "adds": 27392,
       "rostered_by": null
     },
     {
       "player": "Kenyon Sadiq (TE, NYJ)",
-      "adds": 28125,
+      "adds": 27360,
       "rostered_by": 1
     },
     {
-      "player": "Mark Andrews (TE, BAL)",
-      "adds": 27486,
-      "rostered_by": 11
-    },
-    {
-      "player": "DeeJay Dallas (RB, MIN)",
-      "adds": 26478,
-      "rostered_by": null
-    },
-    {
       "player": "Rashod Bateman (WR, BAL)",
-      "adds": 25719,
+      "adds": 26680,
       "rostered_by": null
     },
     {
       "player": "MarShawn Lloyd (RB, GB)",
-      "adds": 24957,
+      "adds": 25155,
       "rostered_by": 7
     },
     {
       "player": "Tyler Loop (K, BAL)",
-      "adds": 24504,
+      "adds": 24948,
       "rostered_by": 8
-    },
-    {
-      "player": "Adonai Mitchell (WR, NYJ)",
-      "adds": 24032,
-      "rostered_by": null
-    },
-    {
-      "player": "Tyreek Hill (WR, FA)",
-      "adds": 22640,
-      "rostered_by": null
     }
   ]
 }
