@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-20T21:13:36.207475-04:00",
+  "generated": "2026-09-21T02:31:15.970717-04:00",
   "season": "2026",
   "week": 2,
   "league": {
@@ -679,129 +679,129 @@
   ],
   "trending_adds": [
     {
-      "player": "Xavier Hutchinson (WR, HOU)",
-      "adds": 362719,
-      "rostered_by": null
-    },
-    {
       "player": "Bryce Young (QB, CAR)",
-      "adds": 346824,
+      "adds": 474060,
       "rostered_by": 1
     },
     {
-      "player": "Michael Mayer (TE, LV)",
-      "adds": 298161,
-      "rostered_by": 7
-    },
-    {
-      "player": "Roman Wilson (WR, PIT)",
-      "adds": 277371,
-      "rostered_by": 11
-    },
-    {
-      "player": "Devin Singletary (RB, NYG)",
-      "adds": 239895,
-      "rostered_by": 2
-    },
-    {
       "player": "Tyler Shough (QB, NO)",
-      "adds": 226920,
+      "adds": 319088,
       "rostered_by": 4
     },
     {
+      "player": "Xavier Hutchinson (WR, HOU)",
+      "adds": 310541,
+      "rostered_by": null
+    },
+    {
+      "player": "Michael Mayer (TE, LV)",
+      "adds": 268911,
+      "rostered_by": 7
+    },
+    {
+      "player": "Devin Singletary (RB, NYG)",
+      "adds": 255276,
+      "rostered_by": 2
+    },
+    {
       "player": "Tank Bigsby (RB, PHI)",
-      "adds": 193795,
+      "adds": 243824,
       "rostered_by": 6
     },
     {
       "player": "Darren Waller (TE, CAR)",
-      "adds": 180378,
+      "adds": 238347,
+      "rostered_by": null
+    },
+    {
+      "player": "Roman Wilson (WR, PIT)",
+      "adds": 236619,
+      "rostered_by": 11
+    },
+    {
+      "player": "Tre Tucker (WR, LV)",
+      "adds": 225534,
       "rostered_by": null
     },
     {
       "player": "Keon Coleman (WR, BUF)",
-      "adds": 165213,
+      "adds": 195867,
+      "rostered_by": null
+    },
+    {
+      "player": "Tyson Bagent (QB, CHI)",
+      "adds": 169344,
       "rostered_by": null
     },
     {
       "player": "Alvin Kamara (RB, NO)",
-      "adds": 155568,
+      "adds": 152304,
       "rostered_by": 9
     },
     {
-      "player": "Tre Tucker (WR, LV)",
-      "adds": 147696,
+      "player": "Chase McLaughlin (K, TB)",
+      "adds": 151984,
+      "rostered_by": 10
+    },
+    {
+      "player": "Emanuel Wilson (RB, SEA)",
+      "adds": 149589,
       "rostered_by": null
     },
     {
       "player": "Konata Mumpfield (WR, LAR)",
-      "adds": 136737,
+      "adds": 143667,
       "rostered_by": 9
     },
     {
-      "player": "Tyson Bagent (QB, CHI)",
-      "adds": 136446,
-      "rostered_by": null
-    },
-    {
-      "player": "Chase McLaughlin (K, TB)",
-      "adds": 118808,
-      "rostered_by": 10
-    },
-    {
       "player": "Adonai Mitchell (WR, NYJ)",
-      "adds": 88416,
-      "rostered_by": null
-    },
-    {
-      "player": "Malachi Fields (WR, NYG)",
-      "adds": 88105,
+      "adds": 127480,
       "rostered_by": null
     },
     {
       "player": "Emmett Johnson (RB, KC)",
-      "adds": 80694,
+      "adds": 109602,
       "rostered_by": 11
     },
     {
-      "player": "Emanuel Wilson (RB, SEA)",
-      "adds": 80343,
+      "player": "Malachi Fields (WR, NYG)",
+      "adds": 99760,
       "rostered_by": null
     },
     {
-      "player": "Demarcus Robinson (WR, SF) [Out]",
-      "adds": 79506,
-      "rostered_by": null
+      "player": "Denzel Boston (WR, CLE)",
+      "adds": 93590,
+      "rostered_by": 1
     },
     {
-      "player": "Cairo Santos (K, CHI)",
-      "adds": 75656,
-      "rostered_by": null
-    },
-    {
-      "player": "Carson Wentz (QB, MIN)",
-      "adds": 73602,
+      "player": "Marcus Mariota (QB, WAS)",
+      "adds": 91520,
       "rostered_by": null
     },
     {
       "player": "C.J. Stroud (QB, HOU)",
-      "adds": 71988,
+      "adds": 86303,
       "rostered_by": null
     },
     {
-      "player": "Tampa Bay Buccaneers (DEF, TB)",
-      "adds": 67485,
-      "rostered_by": 9
+      "player": "Xavier Worthy (WR, KC)",
+      "adds": 85500,
+      "rostered_by": 11
     },
     {
-      "player": "Marcus Mariota (QB, WAS)",
-      "adds": 66748,
+      "player": "Kirk Cousins (QB, LV)",
+      "adds": 81952,
       "rostered_by": null
     },
     {
-      "player": "Malik Washington (WR, MIA)",
-      "adds": 66440,
-      "rostered_by": null
+      "player": "Jonah Coleman (RB, DEN)",
+      "adds": 78616,
+      "rostered_by": 6
+    },
+    {
+      "player": "Jared Goff (QB, DET)",
+      "adds": 70895,
+      "rostered_by": 5
     }
   ]
 }
