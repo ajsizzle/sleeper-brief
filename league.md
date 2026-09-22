@@ -1,5 +1,5 @@
 # Sleeper league state
-Generated Tuesday September 22, 2026 02:59 PM ET · Season 2026 · NFL week 3
+Generated Tuesday September 22, 2026 06:18 PM ET · Season 2026 · NFL week 3
 League: The Dudes Will Roll · 12 teams · waivers: FAAB (budget $200) · lineup: QB, RB, RB, WR, WR, TE, FLEX, K, DEF
 
 ## My team: THE ACE OF SPADES (roster 11)
@@ -128,30 +128,30 @@ IR: A.J. Brown (WR, NE) [IR]
 - Braelon Allen (RB, NYJ) · dropped by Holla on Wed Sep 16, 7:58 AM ET · free agent now
 
 ## Trending adds across Sleeper, last 24 hours
-- Emanuel Wilson (RB, SEA) · 2,157,471 adds · AVAILABLE in my league
-- Adonai Mitchell (WR, NYJ) · 1,282,216 adds · AVAILABLE in my league
-- Bryce Young (QB, CAR) · 1,028,884 adds · rostered by Whiskey Sippin Kings
-- Tyler Shough (QB, NO) · 891,152 adds · rostered by Thoroughbred Cheesehead
-- Tre Tucker (WR, LV) · 887,196 adds · AVAILABLE in my league
-- Zach Ertz (TE, PHI) · 630,108 adds · AVAILABLE in my league
-- Darren Waller (TE, CAR) · 539,379 adds · AVAILABLE in my league
-- Keon Coleman (WR, BUF) · 419,715 adds · AVAILABLE in my league
-- Denzel Boston (WR, CLE) · 387,592 adds · rostered by Whiskey Sippin Kings
-- Jonah Coleman (RB, DEN) · 377,182 adds · rostered by FuelTheJET
-- Tank Bigsby (RB, PHI) · 369,397 adds · rostered by FuelTheJET
-- Minnesota Vikings (DEF, MIN) · 332,700 adds · rostered by Team 8
-- Kirk Cousins (QB, LV) · 325,944 adds · AVAILABLE in my league
-- Chase McLaughlin (K, TB) · 321,528 adds · rostered by Strokin My Ditka
-- Terrance Ferguson (TE, LAR) · 279,984 adds · AVAILABLE in my league
-- Marcus Mariota (QB, WAS) · 275,104 adds · AVAILABLE in my league
-- Konata Mumpfield (WR, LAR) · 273,636 adds · rostered by Team 9
-- Kyler Murray (QB, MIN) [Out] · 252,592 adds · AVAILABLE in my league
-- Malachi Fields (WR, NYG) · 246,725 adds · AVAILABLE in my league
-- Dontayvion Wicks (WR, PHI) · 243,327 adds · AVAILABLE in my league
-- Tyson Bagent (QB, CHI) · 234,918 adds · AVAILABLE in my league
-- Oronde Gadsden (TE, LAC) · 229,845 adds · rostered by Team 9
-- Jared Goff (QB, DET) · 205,100 adds · rostered by Springfield Atoms
-- Darnell Mooney (WR, NYG) · 147,069 adds · AVAILABLE in my league
-- Tyquan Thornton (WR, KC) · 145,551 adds · AVAILABLE in my league
+- Emanuel Wilson (RB, SEA) · 2,456,082 adds · AVAILABLE in my league
+- Adonai Mitchell (WR, NYJ) · 1,570,768 adds · AVAILABLE in my league
+- Bryce Young (QB, CAR) · 1,153,548 adds · rostered by Whiskey Sippin Kings
+- Tyler Shough (QB, NO) · 1,067,848 adds · rostered by Thoroughbred Cheesehead
+- Tre Tucker (WR, LV) · 958,386 adds · AVAILABLE in my league
+- Zach Ertz (TE, PHI) · 757,764 adds · AVAILABLE in my league
+- Darren Waller (TE, CAR) · 594,819 adds · AVAILABLE in my league
+- Keon Coleman (WR, BUF) · 500,949 adds · AVAILABLE in my league
+- Denzel Boston (WR, CLE) · 439,298 adds · rostered by Whiskey Sippin Kings
+- Jonah Coleman (RB, DEN) · 418,746 adds · rostered by FuelTheJET
+- Tank Bigsby (RB, PHI) · 408,282 adds · rostered by FuelTheJET
+- Minnesota Vikings (DEF, MIN) · 395,385 adds · rostered by Team 8
+- Kirk Cousins (QB, LV) · 384,544 adds · AVAILABLE in my league
+- Chase McLaughlin (K, TB) · 345,712 adds · rostered by Strokin My Ditka
+- Terrance Ferguson (TE, LAR) · 339,368 adds · AVAILABLE in my league
+- Marcus Mariota (QB, WAS) · 325,292 adds · AVAILABLE in my league
+- Kyler Murray (QB, MIN) [Out] · 306,944 adds · AVAILABLE in my league
+- Dontayvion Wicks (WR, PHI) · 282,579 adds · AVAILABLE in my league
+- Oronde Gadsden (TE, LAC) · 274,860 adds · rostered by Team 9
+- Konata Mumpfield (WR, LAR) · 267,444 adds · rostered by Team 9
+- Tyson Bagent (QB, CHI) · 254,604 adds · AVAILABLE in my league
+- Jared Goff (QB, DET) · 244,660 adds · rostered by Springfield Atoms
+- Malachi Fields (WR, NYG) · 238,025 adds · AVAILABLE in my league
+- Tyquan Thornton (WR, KC) · 166,803 adds · AVAILABLE in my league
+- Alvin Kamara (RB, NO) · 159,800 adds · rostered by Team 9
 
 Data from the Sleeper API (sleeper.com). Injury tags in brackets are Sleeper's designations and may lag official reports.
