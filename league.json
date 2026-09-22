@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-22T06:05:19.539097-04:00",
+  "generated": "2026-09-22T11:01:26.754666-04:00",
   "season": "2026",
   "week": 3,
   "league": {
@@ -35,18 +35,18 @@
       "Kenneth Walker (RB, KC)",
       "Rome Odunze (WR, CHI)",
       "Mike Evans (WR, SF) [Questionable]",
-      "Mark Andrews (TE, BAL)",
+      "George Kittle (TE, SF)",
       "Rhamondre Stevenson (RB, NE)",
       "Cameron Dicker (K, LAC)",
-      "Los Angeles Chargers (DEF, LAC)"
+      "Houston Texans (DEF, HOU)"
     ],
     "bench": [
       "Xavier Worthy (WR, KC)",
       "Roman Wilson (WR, PIT)",
       "Tahj Brooks (RB, CIN)",
       "Emmett Johnson (RB, KC)",
-      "George Kittle (TE, SF)",
-      "Houston Texans (DEF, HOU)"
+      "Mark Andrews (TE, BAL)",
+      "Los Angeles Chargers (DEF, LAC)"
     ],
     "ir": [
       "A.J. Brown (WR, NE) [IR]"
@@ -459,18 +459,18 @@
         "Kenneth Walker (RB, KC)",
         "Rome Odunze (WR, CHI)",
         "Mike Evans (WR, SF) [Questionable]",
-        "Mark Andrews (TE, BAL)",
+        "George Kittle (TE, SF)",
         "Rhamondre Stevenson (RB, NE)",
         "Cameron Dicker (K, LAC)",
-        "Los Angeles Chargers (DEF, LAC)"
+        "Houston Texans (DEF, HOU)"
       ],
       "bench": [
         "Xavier Worthy (WR, KC)",
         "Roman Wilson (WR, PIT)",
         "Tahj Brooks (RB, CIN)",
         "Emmett Johnson (RB, KC)",
-        "George Kittle (TE, SF)",
-        "Houston Texans (DEF, HOU)"
+        "Mark Andrews (TE, BAL)",
+        "Los Angeles Chargers (DEF, LAC)"
       ],
       "ir": [
         "A.J. Brown (WR, NE) [IR]"
@@ -513,15 +513,15 @@
       "player": "Kenyon Sadiq (TE, NYJ)",
       "dropped_by": "Whiskey Sippin Kings",
       "dropped_at": "2026-09-20T07:35:30.973000-04:00",
-      "on_waivers_until": "2026-09-22T07:35:30.973000-04:00",
-      "waiver_status": "on waivers until Tue Sep 22, 7:35 AM ET"
+      "on_waivers_until": null,
+      "waiver_status": "free agent now"
     },
     {
       "player": "Dontayvion Wicks (WR, PHI)",
       "dropped_by": "THE ACE OF SPADES",
       "dropped_at": "2026-09-20T07:12:05.157000-04:00",
-      "on_waivers_until": "2026-09-22T07:12:05.157000-04:00",
-      "waiver_status": "on waivers until Tue Sep 22, 7:12 AM ET"
+      "on_waivers_until": null,
+      "waiver_status": "free agent now"
     },
     {
       "player": "Pittsburgh Steelers (DEF, PIT)",
@@ -583,128 +583,128 @@
   "trending_adds": [
     {
       "player": "Emanuel Wilson (RB, SEA)",
-      "adds": 1056744,
+      "adds": 1651275,
+      "rostered_by": null
+    },
+    {
+      "player": "Adonai Mitchell (WR, NYJ)",
+      "adds": 860256,
       "rostered_by": null
     },
     {
       "player": "Bryce Young (QB, CAR)",
-      "adds": 595696,
+      "adds": 822416,
       "rostered_by": 1
     },
     {
       "player": "Tre Tucker (WR, LV)",
-      "adds": 536316,
+      "adds": 735906,
       "rostered_by": null
     },
     {
       "player": "Tyler Shough (QB, NO)",
-      "adds": 515112,
+      "adds": 708072,
       "rostered_by": 4
     },
     {
-      "player": "Adonai Mitchell (WR, NYJ)",
-      "adds": 487496,
-      "rostered_by": null
-    },
-    {
       "player": "Zach Ertz (TE, PHI)",
-      "adds": 348480,
+      "adds": 482517,
       "rostered_by": null
     },
     {
       "player": "Darren Waller (TE, CAR)",
-      "adds": 320373,
+      "adds": 430587,
       "rostered_by": null
-    },
-    {
-      "player": "Konata Mumpfield (WR, LAR)",
-      "adds": 279441,
-      "rostered_by": 9
     },
     {
       "player": "Tank Bigsby (RB, PHI)",
-      "adds": 259728,
+      "adds": 325185,
       "rostered_by": 6
     },
     {
-      "player": "Malachi Fields (WR, NYG)",
-      "adds": 258790,
-      "rostered_by": null
-    },
-    {
       "player": "Denzel Boston (WR, CLE)",
-      "adds": 225080,
+      "adds": 309708,
       "rostered_by": 1
     },
     {
       "player": "Jonah Coleman (RB, DEN)",
-      "adds": 220222,
+      "adds": 309026,
       "rostered_by": 6
     },
     {
+      "player": "Keon Coleman (WR, BUF)",
+      "adds": 303462,
+      "rostered_by": null
+    },
+    {
+      "player": "Konata Mumpfield (WR, LAR)",
+      "adds": 277974,
+      "rostered_by": 9
+    },
+    {
       "player": "Chase McLaughlin (K, TB)",
-      "adds": 204040,
+      "adds": 266560,
       "rostered_by": 10
     },
     {
-      "player": "Keon Coleman (WR, BUF)",
-      "adds": 200556,
+      "player": "Malachi Fields (WR, NYG)",
+      "adds": 254385,
       "rostered_by": null
     },
     {
       "player": "Kirk Cousins (QB, LV)",
-      "adds": 167440,
-      "rostered_by": null
-    },
-    {
-      "player": "Terrance Ferguson (TE, LAR)",
-      "adds": 153824,
-      "rostered_by": null
-    },
-    {
-      "player": "Darnell Mooney (WR, NYG)",
-      "adds": 149670,
+      "adds": 247784,
       "rostered_by": null
     },
     {
       "player": "Minnesota Vikings (DEF, MIN)",
-      "adds": 147800,
+      "adds": 242190,
       "rostered_by": 8
     },
     {
+      "player": "Terrance Ferguson (TE, LAR)",
+      "adds": 213968,
+      "rostered_by": null
+    },
+    {
       "player": "Marcus Mariota (QB, WAS)",
-      "adds": 139144,
+      "adds": 209036,
       "rostered_by": null
     },
     {
       "player": "Tyson Bagent (QB, CHI)",
-      "adds": 132756,
+      "adds": 188088,
       "rostered_by": null
     },
     {
       "player": "Dontayvion Wicks (WR, PHI)",
-      "adds": 108627,
+      "adds": 178293,
+      "rostered_by": null
+    },
+    {
+      "player": "Kyler Murray (QB, MIN) [Out]",
+      "adds": 176768,
       "rostered_by": null
     },
     {
       "player": "Oronde Gadsden (TE, LAC)",
-      "adds": 100915,
+      "adds": 166915,
       "rostered_by": 9
     },
     {
-      "player": "Kyler Murray (QB, MIN) [Out]",
-      "adds": 95280,
-      "rostered_by": null
-    },
-    {
       "player": "Jared Goff (QB, DET)",
-      "adds": 92410,
+      "adds": 150060,
       "rostered_by": 5
     },
     {
-      "player": "Devin Singletary (RB, NYG)",
-      "adds": 87435,
-      "rostered_by": 2
+      "player": "Darnell Mooney (WR, NYG)",
+      "adds": 149463,
+      "rostered_by": null
+    },
+    {
+      "player": "C.J. Stroud (QB, HOU)",
+      "adds": 111482,
+      "rostered_by": null
     }
   ]
 }
