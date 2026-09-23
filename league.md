@@ -1,5 +1,5 @@
 # Sleeper league state
-Generated Tuesday September 22, 2026 06:18 PM ET · Season 2026 · NFL week 3
+Generated Tuesday September 22, 2026 08:44 PM ET · Season 2026 · NFL week 3
 League: The Dudes Will Roll · 12 teams · waivers: FAAB (budget $200) · lineup: QB, RB, RB, WR, WR, TE, FLEX, K, DEF
 
 ## My team: THE ACE OF SPADES (roster 11)
@@ -79,8 +79,9 @@ Starters: Brock Purdy (QB, SF); Jeremiyah Love (RB, ARI); Tyler Allgeier (RB, AR
 Bench: RJ Harvey (RB, DEN) [Out]; Oronde Gadsden (TE, LAC); Dak Prescott (QB, DAL); Alvin Kamara (RB, NO); Puka Nacua (WR, LAR) [Out]; Denver Broncos (DEF, DEN)
 
 ### Holla · 0-2 · 218.8 pts · waiver priority 6
-Starters: Caleb Williams (QB, CHI) [Out]; Christian McCaffrey (RB, SF); Breece Hall (RB, NYJ); Ja'Marr Chase (WR, CIN); Alec Pierce (WR, IND) [Out]; Tucker Kraft (TE, GB); Cam Skattebo (RB, NYG); Harrison Mevis (K, LAR); Green Bay Packers (DEF, GB)
-Bench: Hunter Henry (TE, NE); Patrick Mahomes (QB, KC); Devin Singletary (RB, NYG); Jordan Mason (RB, MIN) [IR]; Quentin Johnston (WR, LAC); Zay Flowers (WR, BAL) [Out]
+Starters: Patrick Mahomes (QB, KC); Christian McCaffrey (RB, SF); Breece Hall (RB, NYJ); Ja'Marr Chase (WR, CIN); Zay Flowers (WR, BAL) [Out]; Tucker Kraft (TE, GB); Cam Skattebo (RB, NYG); Harrison Mevis (K, LAR); Green Bay Packers (DEF, GB)
+Bench: Caleb Williams (QB, CHI) [Out]; Hunter Henry (TE, NE); Devin Singletary (RB, NYG); Alec Pierce (WR, IND) [Out]; Quentin Johnston (WR, LAC)
+IR: Jordan Mason (RB, MIN) [IR]
 
 ### Whiskey Sippin Kings · 0-2 · 200.5 pts · waiver priority 3
 Starters: Baker Mayfield (QB, TB); Saquon Barkley (RB, PHI) [Questionable]; Ashton Jeanty (RB, LV); Chris Olave (WR, NO); Emeka Egbuka (WR, TB); Pat Freiermuth (TE, PIT); Quinshon Judkins (RB, CLE); Evan McPherson (K, CIN); New England Patriots (DEF, NE)
@@ -114,7 +115,7 @@ IR: A.J. Brown (WR, NE) [IR]
 - Week 2 · free_agent · complete · Wed Sep 16 07:58 AM · Holla · added: Devin Singletary (RB, NYG) to Holla · dropped: Braelon Allen (RB, NYJ) from Holla
 
 ## Dropped in the last 14 days, still unrostered
-- Kenny Gainwell (RB, TB) · dropped by Team 9 on Sun Sep 20, 7:09 PM ET · on waivers until Tue Sep 22, 7:09 PM ET
+- Kenny Gainwell (RB, TB) · dropped by Team 9 on Sun Sep 20, 7:09 PM ET · free agent now
 - Xavier Hutchinson (WR, HOU) · dropped by Make Miami Great Again on Sun Sep 20, 1:51 PM ET · free agent now
 - Kenyon Sadiq (TE, NYJ) · dropped by Whiskey Sippin Kings on Sun Sep 20, 7:35 AM ET · free agent now
 - Dontayvion Wicks (WR, PHI) · dropped by THE ACE OF SPADES on Sun Sep 20, 7:12 AM ET · free agent now
@@ -128,30 +129,30 @@ IR: A.J. Brown (WR, NE) [IR]
 - Braelon Allen (RB, NYJ) · dropped by Holla on Wed Sep 16, 7:58 AM ET · free agent now
 
 ## Trending adds across Sleeper, last 24 hours
-- Emanuel Wilson (RB, SEA) · 2,456,082 adds · AVAILABLE in my league
-- Adonai Mitchell (WR, NYJ) · 1,570,768 adds · AVAILABLE in my league
-- Bryce Young (QB, CAR) · 1,153,548 adds · rostered by Whiskey Sippin Kings
-- Tyler Shough (QB, NO) · 1,067,848 adds · rostered by Thoroughbred Cheesehead
-- Tre Tucker (WR, LV) · 958,386 adds · AVAILABLE in my league
-- Zach Ertz (TE, PHI) · 757,764 adds · AVAILABLE in my league
-- Darren Waller (TE, CAR) · 594,819 adds · AVAILABLE in my league
-- Keon Coleman (WR, BUF) · 500,949 adds · AVAILABLE in my league
-- Denzel Boston (WR, CLE) · 439,298 adds · rostered by Whiskey Sippin Kings
-- Jonah Coleman (RB, DEN) · 418,746 adds · rostered by FuelTheJET
-- Tank Bigsby (RB, PHI) · 408,282 adds · rostered by FuelTheJET
-- Minnesota Vikings (DEF, MIN) · 395,385 adds · rostered by Team 8
-- Kirk Cousins (QB, LV) · 384,544 adds · AVAILABLE in my league
-- Chase McLaughlin (K, TB) · 345,712 adds · rostered by Strokin My Ditka
-- Terrance Ferguson (TE, LAR) · 339,368 adds · AVAILABLE in my league
-- Marcus Mariota (QB, WAS) · 325,292 adds · AVAILABLE in my league
-- Kyler Murray (QB, MIN) [Out] · 306,944 adds · AVAILABLE in my league
-- Dontayvion Wicks (WR, PHI) · 282,579 adds · AVAILABLE in my league
-- Oronde Gadsden (TE, LAC) · 274,860 adds · rostered by Team 9
-- Konata Mumpfield (WR, LAR) · 267,444 adds · rostered by Team 9
-- Tyson Bagent (QB, CHI) · 254,604 adds · AVAILABLE in my league
-- Jared Goff (QB, DET) · 244,660 adds · rostered by Springfield Atoms
-- Malachi Fields (WR, NYG) · 238,025 adds · AVAILABLE in my league
-- Tyquan Thornton (WR, KC) · 166,803 adds · AVAILABLE in my league
-- Alvin Kamara (RB, NO) · 159,800 adds · rostered by Team 9
+- Emanuel Wilson (RB, SEA) · 2,688,201 adds · AVAILABLE in my league
+- Adonai Mitchell (WR, NYJ) · 1,835,104 adds · AVAILABLE in my league
+- Tyler Shough (QB, NO) · 1,243,184 adds · rostered by Thoroughbred Cheesehead
+- Bryce Young (QB, CAR) · 1,215,784 adds · rostered by Whiskey Sippin Kings
+- Tre Tucker (WR, LV) · 1,009,314 adds · AVAILABLE in my league
+- Zach Ertz (TE, PHI) · 691,884 adds · AVAILABLE in my league
+- Darren Waller (TE, CAR) · 634,023 adds · AVAILABLE in my league
+- Keon Coleman (WR, BUF) · 576,765 adds · AVAILABLE in my league
+- Denzel Boston (WR, CLE) · 486,798 adds · rostered by Whiskey Sippin Kings
+- Minnesota Vikings (DEF, MIN) · 453,605 adds · rostered by Team 8
+- Jonah Coleman (RB, DEN) · 452,964 adds · rostered by FuelTheJET
+- Tank Bigsby (RB, PHI) · 444,164 adds · rostered by FuelTheJET
+- Kirk Cousins (QB, LV) · 426,088 adds · AVAILABLE in my league
+- Marcus Mariota (QB, WAS) · 373,488 adds · AVAILABLE in my league
+- Terrance Ferguson (TE, LAR) · 366,624 adds · AVAILABLE in my league
+- Chase McLaughlin (K, TB) · 361,880 adds · rostered by Strokin My Ditka
+- Kyler Murray (QB, MIN) [Out] · 347,280 adds · AVAILABLE in my league
+- Dontayvion Wicks (WR, PHI) · 316,449 adds · AVAILABLE in my league
+- Oronde Gadsden (TE, LAC) · 300,185 adds · rostered by Team 9
+- Tyson Bagent (QB, CHI) · 275,532 adds · AVAILABLE in my league
+- Jared Goff (QB, DET) · 271,620 adds · rostered by Springfield Atoms
+- Tyquan Thornton (WR, KC) · 188,741 adds · AVAILABLE in my league
+- Emmett Johnson (RB, KC) · 188,532 adds · on my roster
+- Alvin Kamara (RB, NO) · 187,224 adds · rostered by Team 9
+- C.J. Stroud (QB, HOU) · 173,138 adds · AVAILABLE in my league
 
 Data from the Sleeper API (sleeper.com). Injury tags in brackets are Sleeper's designations and may lag official reports.
