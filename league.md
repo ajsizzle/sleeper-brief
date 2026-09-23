@@ -1,5 +1,5 @@
 # Sleeper league state
-Generated Tuesday September 22, 2026 08:44 PM ET · Season 2026 · NFL week 3
+Generated Wednesday September 23, 2026 02:05 AM ET · Season 2026 · NFL week 3
 League: The Dudes Will Roll · 12 teams · waivers: FAAB (budget $200) · lineup: QB, RB, RB, WR, WR, TE, FLEX, K, DEF
 
 ## My team: THE ACE OF SPADES (roster 11)
@@ -63,15 +63,15 @@ Bench: Jayden Reed (WR, GB) [Out]; Jonathon Brooks (RB, CAR) [Questionable]; Bri
 IR: Trey Benson (RB, ARI) [IR]
 
 ### Strokin My Ditka · 1-1 · 225.9 pts · waiver priority 1
-Starters: Jayden Daniels (QB, WAS) [Out]; Omarion Hampton (RB, LAC); Jaylen Warren (RB, PIT); Jaxon Smith-Njigba (WR, SEA); Tetairoa McMillan (WR, CAR); Tyler Warren (TE, IND); Chris Godwin (WR, TB); Chase McLaughlin (K, TB); Philadelphia Eagles (DEF, PHI)
-Bench: TreVeyon Henderson (RB, NE); Stefon Diggs (WR, WAS); Jakobi Meyers (WR, JAX); Rachaad White (RB, WAS); Malik Willis (QB, MIA); Brenton Strange (TE, JAX)
+Starters: Malik Willis (QB, MIA); Omarion Hampton (RB, LAC); Jaylen Warren (RB, PIT); Jaxon Smith-Njigba (WR, SEA); Tetairoa McMillan (WR, CAR); Tyler Warren (TE, IND); TreVeyon Henderson (RB, NE); Chase McLaughlin (K, TB); Philadelphia Eagles (DEF, PHI)
+Bench: Jayden Daniels (QB, WAS) [Out]; Stefon Diggs (WR, WAS); Chris Godwin (WR, TB); Jakobi Meyers (WR, JAX); Rachaad White (RB, WAS); Brenton Strange (TE, JAX)
 
 ### Young Blood · 1-1 · 210.3 pts · waiver priority 12
 Starters: Justin Herbert (QB, LAC); Jonathan Taylor (RB, IND); D'Andre Swift (RB, CHI); Justin Jefferson (WR, MIN); George Pickens (WR, DAL); Mike Gesicki (TE, CIN); Aaron Jones (RB, MIN) [Questionable]; Jason Myers (K, SEA); San Francisco 49ers (DEF, SF)
 Bench: Jalen Coker (WR, CAR); Davante Adams (WR, LAR); Tony Pollard (RB, TEN); Michael Pittman (WR, PIT) [Out]; Khalil Shakir (WR, BUF); Detroit Lions (DEF, DET)
 
 ### Team 8 · 1-1 · 197.8 pts · waiver priority 9
-Starters: Trevor Lawrence (QB, JAX); Bijan Robinson (RB, ATL); Javonte Williams (RB, DAL); Drake London (WR, ATL); Tee Higgins (WR, CIN); Jake Ferguson (TE, DAL); Rico Dowdle (RB, PIT) [Out]; Tyler Loop (K, BAL); Minnesota Vikings (DEF, MIN)
+Starters: Trevor Lawrence (QB, JAX); Bijan Robinson (RB, ATL); Javonte Williams (RB, DAL); Drake London (WR, ATL); Tee Higgins (WR, CIN); Jake Ferguson (TE, DAL); Rico Dowdle (RB, PIT) [Questionable]; Tyler Loop (K, BAL); Minnesota Vikings (DEF, MIN)
 Bench: Rashee Rice (WR, KC); Michael Wilson (WR, ARI); Jaxson Dart (QB, NYG) [Out]; Kyle Monangai (RB, CHI); Dalton Schultz (TE, HOU); Wan'Dale Robinson (WR, TEN)
 
 ### Team 9 · 1-1 · 138.8 pts · waiver priority 7
@@ -129,30 +129,30 @@ IR: A.J. Brown (WR, NE) [IR]
 - Braelon Allen (RB, NYJ) · dropped by Holla on Wed Sep 16, 7:58 AM ET · free agent now
 
 ## Trending adds across Sleeper, last 24 hours
-- Emanuel Wilson (RB, SEA) · 2,688,201 adds · AVAILABLE in my league
-- Adonai Mitchell (WR, NYJ) · 1,835,104 adds · AVAILABLE in my league
-- Tyler Shough (QB, NO) · 1,243,184 adds · rostered by Thoroughbred Cheesehead
-- Bryce Young (QB, CAR) · 1,215,784 adds · rostered by Whiskey Sippin Kings
-- Tre Tucker (WR, LV) · 1,009,314 adds · AVAILABLE in my league
-- Zach Ertz (TE, PHI) · 691,884 adds · AVAILABLE in my league
-- Darren Waller (TE, CAR) · 634,023 adds · AVAILABLE in my league
-- Keon Coleman (WR, BUF) · 576,765 adds · AVAILABLE in my league
-- Denzel Boston (WR, CLE) · 486,798 adds · rostered by Whiskey Sippin Kings
-- Minnesota Vikings (DEF, MIN) · 453,605 adds · rostered by Team 8
-- Jonah Coleman (RB, DEN) · 452,964 adds · rostered by FuelTheJET
-- Tank Bigsby (RB, PHI) · 444,164 adds · rostered by FuelTheJET
-- Kirk Cousins (QB, LV) · 426,088 adds · AVAILABLE in my league
-- Marcus Mariota (QB, WAS) · 373,488 adds · AVAILABLE in my league
-- Terrance Ferguson (TE, LAR) · 366,624 adds · AVAILABLE in my league
-- Chase McLaughlin (K, TB) · 361,880 adds · rostered by Strokin My Ditka
-- Kyler Murray (QB, MIN) [Out] · 347,280 adds · AVAILABLE in my league
-- Dontayvion Wicks (WR, PHI) · 316,449 adds · AVAILABLE in my league
-- Oronde Gadsden (TE, LAC) · 300,185 adds · rostered by Team 9
-- Tyson Bagent (QB, CHI) · 275,532 adds · AVAILABLE in my league
-- Jared Goff (QB, DET) · 271,620 adds · rostered by Springfield Atoms
-- Tyquan Thornton (WR, KC) · 188,741 adds · AVAILABLE in my league
-- Emmett Johnson (RB, KC) · 188,532 adds · on my roster
-- Alvin Kamara (RB, NO) · 187,224 adds · rostered by Team 9
-- C.J. Stroud (QB, HOU) · 173,138 adds · AVAILABLE in my league
+- Emanuel Wilson (RB, SEA) · 3,279,636 adds · AVAILABLE in my league
+- Adonai Mitchell (WR, NYJ) · 2,515,608 adds · AVAILABLE in my league
+- Tyler Shough (QB, NO) · 1,561,664 adds · rostered by Thoroughbred Cheesehead
+- Bryce Young (QB, CAR) · 1,245,928 adds · rostered by Whiskey Sippin Kings
+- Tre Tucker (WR, LV) · 1,094,808 adds · AVAILABLE in my league
+- Zach Ertz (TE, PHI) · 875,034 adds · AVAILABLE in my league
+- Keon Coleman (WR, BUF) · 765,720 adds · AVAILABLE in my league
+- Darren Waller (TE, CAR) · 709,785 adds · AVAILABLE in my league
+- Denzel Boston (WR, CLE) · 597,138 adds · rostered by Whiskey Sippin Kings
+- Minnesota Vikings (DEF, MIN) · 592,510 adds · rostered by Team 8
+- Jonah Coleman (RB, DEN) · 543,896 adds · rostered by FuelTheJET
+- Tank Bigsby (RB, PHI) · 539,952 adds · rostered by FuelTheJET
+- Marcus Mariota (QB, WAS) · 497,080 adds · AVAILABLE in my league
+- Kirk Cousins (QB, LV) · 473,280 adds · AVAILABLE in my league
+- Terrance Ferguson (TE, LAR) · 438,448 adds · AVAILABLE in my league
+- Kyler Murray (QB, MIN) [Out] · 430,232 adds · AVAILABLE in my league
+- Oronde Gadsden (TE, LAC) · 411,675 adds · rostered by Team 9
+- Dontayvion Wicks (WR, PHI) · 395,175 adds · AVAILABLE in my league
+- Chase McLaughlin (K, TB) · 359,176 adds · rostered by Strokin My Ditka
+- Tyson Bagent (QB, CHI) [Questionable] · 331,860 adds · AVAILABLE in my league
+- Jared Goff (QB, DET) · 309,270 adds · rostered by Springfield Atoms
+- Emmett Johnson (RB, KC) · 279,666 adds · on my roster
+- Alvin Kamara (RB, NO) · 243,968 adds · rostered by Team 9
+- Tyquan Thornton (WR, KC) · 243,166 adds · AVAILABLE in my league
+- Xavier Worthy (WR, KC) · 197,235 adds · on my roster
 
 Data from the Sleeper API (sleeper.com). Injury tags in brackets are Sleeper's designations and may lag official reports.
