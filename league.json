@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-23T07:19:08.608668-04:00",
+  "generated": "2026-09-23T07:49:58.671967-04:00",
   "season": "2026",
   "week": 3,
   "league": {
@@ -648,127 +648,127 @@
   "trending_adds": [
     {
       "player": "Emanuel Wilson (RB, SEA)",
-      "adds": 3390723,
+      "adds": 3327408,
       "rostered_by": 11
     },
     {
       "player": "Adonai Mitchell (WR, NYJ)",
-      "adds": 2672144,
+      "adds": 2650904,
       "rostered_by": 11
     },
     {
       "player": "Tyler Shough (QB, NO)",
-      "adds": 1664272,
+      "adds": 1648552,
       "rostered_by": 4
     },
     {
       "player": "Bryce Young (QB, CAR)",
-      "adds": 1202048,
+      "adds": 1161096,
       "rostered_by": 1
     },
     {
       "player": "Tre Tucker (WR, LV)",
-      "adds": 1091760,
+      "adds": 1063782,
       "rostered_by": 11
     },
     {
       "player": "Zach Ertz (TE, PHI)",
-      "adds": 927252,
+      "adds": 919008,
       "rostered_by": null
     },
     {
       "player": "Keon Coleman (WR, BUF)",
-      "adds": 829881,
+      "adds": 825885,
       "rostered_by": 9
     },
     {
       "player": "Darren Waller (TE, CAR)",
-      "adds": 745335,
+      "adds": 735147,
       "rostered_by": null
     },
     {
       "player": "Minnesota Vikings (DEF, MIN)",
-      "adds": 652060,
+      "adds": 648320,
       "rostered_by": 8
     },
     {
       "player": "Denzel Boston (WR, CLE)",
-      "adds": 595142,
+      "adds": 583110,
       "rostered_by": 1
     },
     {
       "player": "Tank Bigsby (RB, PHI)",
-      "adds": 575071,
+      "adds": 568568,
       "rostered_by": 6
     },
     {
       "player": "Jonah Coleman (RB, DEN)",
-      "adds": 535558,
+      "adds": 522138,
       "rostered_by": 6
     },
     {
       "player": "Kirk Cousins (QB, LV)",
-      "adds": 511808,
-      "rostered_by": null
-    },
-    {
-      "player": "Marcus Mariota (QB, WAS)",
-      "adds": 503396,
+      "adds": 509192,
       "rostered_by": null
     },
     {
       "player": "Kyler Murray (QB, MIN) [Out]",
-      "adds": 496208,
+      "adds": 497728,
+      "rostered_by": null
+    },
+    {
+      "player": "Marcus Mariota (QB, WAS)",
+      "adds": 493480,
       "rostered_by": null
     },
     {
       "player": "Terrance Ferguson (TE, LAR)",
-      "adds": 478232,
+      "adds": 476000,
       "rostered_by": null
     },
     {
       "player": "Oronde Gadsden (TE, LAC)",
-      "adds": 448600,
+      "adds": 444880,
       "rostered_by": 9
     },
     {
       "player": "Dontayvion Wicks (WR, PHI)",
-      "adds": 409773,
+      "adds": 403233,
       "rostered_by": 2
     },
     {
       "player": "Chase McLaughlin (K, TB)",
-      "adds": 399984,
+      "adds": 398360,
       "rostered_by": 10
     },
     {
       "player": "Tyson Bagent (QB, CHI) [Questionable]",
-      "adds": 334164,
+      "adds": 325026,
       "rostered_by": null
     },
     {
       "player": "Jared Goff (QB, DET)",
-      "adds": 325885,
+      "adds": 321550,
       "rostered_by": 5
     },
     {
       "player": "Emmett Johnson (RB, KC)",
-      "adds": 317610,
+      "adds": 319986,
       "rostered_by": 11
     },
     {
       "player": "Alvin Kamara (RB, NO)",
-      "adds": 271752,
+      "adds": 272328,
       "rostered_by": 9
     },
     {
       "player": "Tyquan Thornton (WR, KC)",
-      "adds": 258097,
+      "adds": 255780,
       "rostered_by": null
     },
     {
-      "player": "Xavier Worthy (WR, KC)",
-      "adds": 215001,
+      "player": "C.J. Stroud (QB, HOU)",
+      "adds": 215138,
       "rostered_by": null
     }
   ]
