@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-25T08:42:46.680576-04:00",
+  "generated": "2026-09-25T09:56:06.020916-04:00",
   "season": "2026",
   "week": 3,
   "league": {
@@ -690,127 +690,127 @@
   "trending_adds": [
     {
       "player": "Emanuel Wilson (RB, SEA)",
-      "adds": 376506,
+      "adds": 366498,
       "rostered_by": 11
     },
     {
       "player": "Darren Waller (TE, CAR)",
-      "adds": 324720,
+      "adds": 328203,
       "rostered_by": 2
     },
     {
       "player": "Adonai Mitchell (WR, NYJ) [Questionable]",
-      "adds": 239224,
+      "adds": 232120,
       "rostered_by": 11
     },
     {
       "player": "AJ Dillon (RB, CAR)",
-      "adds": 217360,
+      "adds": 215552,
       "rostered_by": 5
     },
     {
       "player": "Kyler Murray (QB, MIN)",
-      "adds": 196048,
+      "adds": 193072,
       "rostered_by": null
     },
     {
       "player": "Kirk Cousins (QB, LV)",
-      "adds": 179088,
+      "adds": 176224,
       "rostered_by": 12
     },
     {
-      "player": "Tyler Shough (QB, NO)",
-      "adds": 169872,
-      "rostered_by": 4
-    },
-    {
       "player": "Terrance Ferguson (TE, LAR)",
-      "adds": 164856,
+      "adds": 168216,
       "rostered_by": null
     },
     {
+      "player": "Tyler Shough (QB, NO)",
+      "adds": 165208,
+      "rostered_by": 4
+    },
+    {
       "player": "Alvin Kamara (RB, NO)",
-      "adds": 162624,
+      "adds": 160992,
       "rostered_by": 9
     },
     {
       "player": "Chase McLaughlin (K, TB)",
-      "adds": 148184,
+      "adds": 146488,
       "rostered_by": 10
     },
     {
       "player": "Keon Coleman (WR, BUF) [Questionable]",
-      "adds": 110916,
+      "adds": 108441,
       "rostered_by": 9
     },
     {
       "player": "Zach Ertz (TE, PHI)",
-      "adds": 108963,
+      "adds": 104958,
       "rostered_by": null
     },
     {
       "player": "Minnesota Vikings (DEF, MIN)",
-      "adds": 97715,
+      "adds": 95845,
       "rostered_by": 8
     },
     {
-      "player": "Tre Tucker (WR, LV)",
-      "adds": 97170,
-      "rostered_by": 11
-    },
-    {
       "player": "Xavier Worthy (WR, KC)",
-      "adds": 97101,
+      "adds": 95715,
       "rostered_by": 5
     },
     {
-      "player": "Tyquan Thornton (WR, KC)",
-      "adds": 91077,
-      "rostered_by": 9
-    },
-    {
-      "player": "C.J. Stroud (QB, HOU)",
-      "adds": 87304,
-      "rostered_by": null
-    },
-    {
-      "player": "Emmett Johnson (RB, KC)",
-      "adds": 86418,
+      "player": "Tre Tucker (WR, LV)",
+      "adds": 95484,
       "rostered_by": 11
     },
     {
+      "player": "Tyquan Thornton (WR, KC)",
+      "adds": 89446,
+      "rostered_by": 9
+    },
+    {
+      "player": "Emmett Johnson (RB, KC)",
+      "adds": 86202,
+      "rostered_by": 11
+    },
+    {
+      "player": "C.J. Stroud (QB, HOU)",
+      "adds": 85631,
+      "rostered_by": null
+    },
+    {
       "player": "Malik Washington (WR, MIA)",
-      "adds": 79864,
+      "adds": 79176,
       "rostered_by": null
     },
     {
       "player": "Tank Bigsby (RB, PHI) [Questionable]",
-      "adds": 77735,
+      "adds": 74697,
       "rostered_by": 6
     },
     {
       "player": "New York Giants (DEF, NYG)",
-      "adds": 74504,
+      "adds": 73148,
       "rostered_by": 9
     },
     {
       "player": "Detroit Lions (DEF, DET)",
-      "adds": 70290,
+      "adds": 69255,
       "rostered_by": null
     },
     {
       "player": "Khalil Shakir (WR, BUF)",
-      "adds": 64332,
+      "adds": 63603,
       "rostered_by": 12
     },
     {
       "player": "MarShawn Lloyd (RB, GB)",
-      "adds": 63864,
+      "adds": 61695,
       "rostered_by": 7
     },
     {
       "player": "Deshaun Watson (QB, CLE)",
-      "adds": 60632,
+      "adds": 60120,
       "rostered_by": null
     }
   ]
