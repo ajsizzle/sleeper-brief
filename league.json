@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-25T03:57:42.201862-04:00",
+  "generated": "2026-09-25T08:42:46.680576-04:00",
   "season": "2026",
   "week": 3,
   "league": {
@@ -27,7 +27,7 @@
       "ties": 0,
       "points": 163.7
     },
-    "waiver_position": 12,
+    "waiver_position": 11,
     "faab_used": 34,
     "starters": [
       "Drake Maye (QB, NE)",
@@ -43,7 +43,7 @@
     "bench": [
       "Tre Tucker (WR, LV)",
       "Emanuel Wilson (RB, SEA)",
-      "Adonai Mitchell (WR, NYJ)",
+      "Adonai Mitchell (WR, NYJ) [Questionable]",
       "Emmett Johnson (RB, KC)",
       "Mark Andrews (TE, BAL)",
       "Los Angeles Chargers (DEF, LAC)"
@@ -61,7 +61,7 @@
       "ties": 0,
       "points": 253.05
     },
-    "waiver_position": 8,
+    "waiver_position": 7,
     "faab_used": 40,
     "starters": [
       "Jalen Hurts (QB, PHI)",
@@ -94,7 +94,7 @@
         "ties": 0,
         "points": 265.1
       },
-      "waiver_position": 5,
+      "waiver_position": 4,
       "faab_used": 0,
       "starters": [
         "Tyler Shough (QB, NO)",
@@ -113,7 +113,7 @@
         "Jadarian Price (RB, SEA) [Questionable]",
         "KC Concepcion (WR, CLE)",
         "Joe Burrow (QB, CIN)",
-        "J.K. Dobbins (RB, DEN) [Questionable]"
+        "J.K. Dobbins (RB, DEN)"
       ],
       "ir": [
         "Tank Dell (WR, HOU) [IR]"
@@ -128,26 +128,26 @@
         "ties": 0,
         "points": 258.55
       },
-      "waiver_position": 9,
+      "waiver_position": 8,
       "faab_used": 92,
       "starters": [
         "Lamar Jackson (QB, BAL)",
         "Jahmyr Gibbs (RB, DET)",
         "Blake Corum (RB, LAR)",
         "Parker Washington (WR, JAX)",
-        "DeVonta Smith (WR, PHI)",
+        "DeVonta Smith (WR, PHI) [Questionable]",
         "Trey McBride (TE, ARI)",
         "Matthew Golden (WR, GB)",
         "Cam Little (K, JAX)",
         "Seattle Seahawks (DEF, SEA)"
       ],
       "bench": [
-        "Malik Nabers (WR, NYG) [Questionable]",
+        "Malik Nabers (WR, NYG)",
         "Devaughn Vele (WR, NO)",
         "Jonah Coleman (RB, DEN) [Questionable]",
         "Kaelon Black (RB, SF)",
         "Jordan Love (QB, GB)",
-        "Tank Bigsby (RB, PHI)"
+        "Tank Bigsby (RB, PHI) [Questionable]"
       ],
       "ir": []
     },
@@ -160,7 +160,7 @@
         "ties": 0,
         "points": 253.05
       },
-      "waiver_position": 8,
+      "waiver_position": 7,
       "faab_used": 40,
       "starters": [
         "Jalen Hurts (QB, PHI)",
@@ -192,8 +192,8 @@
         "ties": 0,
         "points": 249.9
       },
-      "waiver_position": 1,
-      "faab_used": 0,
+      "waiver_position": 12,
+      "faab_used": 10,
       "starters": [
         "Josh Allen (QB, BUF)",
         "David Montgomery (RB, HOU)",
@@ -207,6 +207,7 @@
       ],
       "bench": [
         "Jayden Reed (WR, GB) [Out]",
+        "Xavier Worthy (WR, KC)",
         "Brian Thomas (WR, JAX)",
         "Makai Lemon (WR, PHI)",
         "Jared Goff (QB, DET)",
@@ -225,7 +226,7 @@
         "ties": 0,
         "points": 225.9
       },
-      "waiver_position": 10,
+      "waiver_position": 9,
       "faab_used": 0,
       "starters": [
         "Malik Willis (QB, MIA)",
@@ -257,7 +258,7 @@
         "ties": 0,
         "points": 210.35
       },
-      "waiver_position": 7,
+      "waiver_position": 6,
       "faab_used": 10,
       "starters": [
         "Justin Herbert (QB, LAC)",
@@ -289,7 +290,7 @@
         "ties": 0,
         "points": 197.75
       },
-      "waiver_position": 6,
+      "waiver_position": 5,
       "faab_used": 0,
       "starters": [
         "Trevor Lawrence (QB, JAX)",
@@ -305,7 +306,7 @@
       "bench": [
         "Rashee Rice (WR, KC)",
         "Michael Wilson (WR, ARI)",
-        "Jaxson Dart (QB, NYG) [Out]",
+        "Jaxson Dart (QB, NYG) [IR]",
         "Kyle Monangai (RB, CHI) [Questionable]",
         "Dalton Schultz (TE, HOU)",
         "Wan'Dale Robinson (WR, TEN)"
@@ -321,12 +322,12 @@
         "ties": 0,
         "points": 138.8
       },
-      "waiver_position": 4,
+      "waiver_position": 3,
       "faab_used": 0,
       "starters": [
         "Brock Purdy (QB, SF)",
         "Jeremiyah Love (RB, ARI)",
-        "RJ Harvey (RB, DEN) [Questionable]",
+        "RJ Harvey (RB, DEN)",
         "Puka Nacua (WR, LAR) [Questionable]",
         "Jaylen Waddle (WR, DEN)",
         "Oronde Gadsden (TE, LAC)",
@@ -353,7 +354,7 @@
         "ties": 0,
         "points": 218.85
       },
-      "waiver_position": 11,
+      "waiver_position": 10,
       "faab_used": 40,
       "starters": [
         "Patrick Mahomes (QB, KC)",
@@ -387,7 +388,7 @@
         "ties": 0,
         "points": 200.5
       },
-      "waiver_position": 2,
+      "waiver_position": 1,
       "faab_used": 0,
       "starters": [
         "Bryce Young (QB, CAR)",
@@ -419,7 +420,7 @@
         "ties": 0,
         "points": 178.2
       },
-      "waiver_position": 3,
+      "waiver_position": 2,
       "faab_used": 0,
       "starters": [
         "Matthew Stafford (QB, LAR)",
@@ -453,7 +454,7 @@
         "ties": 0,
         "points": 163.7
       },
-      "waiver_position": 12,
+      "waiver_position": 11,
       "faab_used": 34,
       "starters": [
         "Drake Maye (QB, NE)",
@@ -469,7 +470,7 @@
       "bench": [
         "Tre Tucker (WR, LV)",
         "Emanuel Wilson (RB, SEA)",
-        "Adonai Mitchell (WR, NYJ)",
+        "Adonai Mitchell (WR, NYJ) [Questionable]",
         "Emmett Johnson (RB, KC)",
         "Mark Andrews (TE, BAL)",
         "Los Angeles Chargers (DEF, LAC)"
@@ -483,11 +484,12 @@
     "Week 3 \u00b7 free_agent \u00b7 complete \u00b7 Thu Sep 24 10:14 PM \u00b7 Team 9 \u00b7 added: Tyquan Thornton (WR, KC) to Team 9 \u00b7 dropped: Denver Broncos (DEF, DEN) from Team 9",
     "Week 3 \u00b7 free_agent \u00b7 complete \u00b7 Thu Sep 24 05:15 PM \u00b7 Holla \u00b7 added: Darren Waller (TE, CAR) to Holla \u00b7 dropped: Hunter Henry (TE, NE) from Holla",
     "Week 3 \u00b7 free_agent \u00b7 complete \u00b7 Thu Sep 24 02:46 PM \u00b7 Springfield Atoms \u00b7 added: AJ Dillon (RB, CAR) to Springfield Atoms",
+    "Week 3 \u00b7 waiver \u00b7 complete \u00b7 Thu Sep 24 02:43 PM \u00b7 Springfield Atoms \u00b7 added: Xavier Worthy (WR, KC) to Springfield Atoms \u00b7 bid $10 \u00b7 note: Your waiver claim was processed successfully!",
     "Week 3 \u00b7 free_agent \u00b7 complete \u00b7 Thu Sep 24 02:42 PM \u00b7 Springfield Atoms \u00b7 dropped: Trey Benson (RB, ARI) [IR] from Springfield Atoms",
     "Week 3 \u00b7 free_agent \u00b7 complete \u00b7 Wed Sep 23 08:42 PM \u00b7 Young Blood \u00b7 added: Cincinnati Bengals (DEF, CIN) to Young Blood \u00b7 dropped: Detroit Lions (DEF, DET) from Young Blood",
     "Week 3 \u00b7 free_agent \u00b7 complete \u00b7 Wed Sep 23 08:40 PM \u00b7 Young Blood \u00b7 added: T.J. Hockenson (TE, MIN) to Young Blood \u00b7 dropped: Mike Gesicki (TE, CIN) from Young Blood",
     "Week 3 \u00b7 free_agent \u00b7 complete \u00b7 Wed Sep 23 08:38 PM \u00b7 Young Blood \u00b7 added: Kirk Cousins (QB, LV) to Young Blood \u00b7 dropped: Michael Pittman (WR, PIT) [Questionable] from Young Blood",
-    "Week 3 \u00b7 free_agent \u00b7 complete \u00b7 Wed Sep 23 07:14 AM \u00b7 THE ACE OF SPADES \u00b7 added: Adonai Mitchell (WR, NYJ) to THE ACE OF SPADES \u00b7 dropped: Xavier Worthy (WR, KC) from THE ACE OF SPADES",
+    "Week 3 \u00b7 free_agent \u00b7 complete \u00b7 Wed Sep 23 07:14 AM \u00b7 THE ACE OF SPADES \u00b7 added: Adonai Mitchell (WR, NYJ) [Questionable] to THE ACE OF SPADES \u00b7 dropped: Xavier Worthy (WR, KC) from THE ACE OF SPADES",
     "Week 3 \u00b7 free_agent \u00b7 complete \u00b7 Wed Sep 23 07:01 AM \u00b7 Team 9 \u00b7 added: Keon Coleman (WR, BUF) [Questionable] to Team 9 \u00b7 dropped: Konata Mumpfield (WR, LAR) from Team 9",
     "Week 3 \u00b7 free_agent \u00b7 complete \u00b7 Wed Sep 23 06:56 AM \u00b7 Team 9 \u00b7 added: New York Giants (DEF, NYG) to Team 9 \u00b7 dropped: Tampa Bay Buccaneers (DEF, TB) from Team 9",
     "Week 3 \u00b7 free_agent \u00b7 complete \u00b7 Wed Sep 23 05:31 AM \u00b7 Holla \u00b7 added: Spencer Shrader (K, IND) to Holla \u00b7 dropped: Harrison Mevis (K, LAR) from Holla",
@@ -559,39 +561,32 @@
       "waiver_status": "on waivers until Fri Sep 25, 8:38 PM ET"
     },
     {
-      "player": "Xavier Worthy (WR, KC)",
-      "dropped_by": "THE ACE OF SPADES",
-      "dropped_at": "2026-09-23T07:14:23.690000-04:00",
-      "on_waivers_until": "2026-09-25T07:14:23.690000-04:00",
-      "waiver_status": "on waivers until Fri Sep 25, 7:14 AM ET"
-    },
-    {
       "player": "Konata Mumpfield (WR, LAR)",
       "dropped_by": "Team 9",
       "dropped_at": "2026-09-23T07:01:20.865000-04:00",
-      "on_waivers_until": "2026-09-25T07:01:20.865000-04:00",
-      "waiver_status": "on waivers until Fri Sep 25, 7:01 AM ET"
+      "on_waivers_until": null,
+      "waiver_status": "free agent now"
     },
     {
       "player": "Tampa Bay Buccaneers (DEF, TB)",
       "dropped_by": "Team 9",
       "dropped_at": "2026-09-23T06:56:10.387000-04:00",
-      "on_waivers_until": "2026-09-25T06:56:10.387000-04:00",
-      "waiver_status": "on waivers until Fri Sep 25, 6:56 AM ET"
+      "on_waivers_until": null,
+      "waiver_status": "free agent now"
     },
     {
       "player": "Harrison Mevis (K, LAR)",
       "dropped_by": "Holla",
       "dropped_at": "2026-09-23T05:31:46.324000-04:00",
-      "on_waivers_until": "2026-09-25T05:31:46.324000-04:00",
-      "waiver_status": "on waivers until Fri Sep 25, 5:31 AM ET"
+      "on_waivers_until": null,
+      "waiver_status": "free agent now"
     },
     {
       "player": "Alec Pierce (WR, IND) [Out]",
       "dropped_by": "Holla",
       "dropped_at": "2026-09-23T05:30:40.793000-04:00",
-      "on_waivers_until": "2026-09-25T05:30:40.793000-04:00",
-      "waiver_status": "on waivers until Fri Sep 25, 5:30 AM ET"
+      "on_waivers_until": null,
+      "waiver_status": "free agent now"
     },
     {
       "player": "Rachaad White (RB, WAS)",
@@ -695,127 +690,127 @@
   "trending_adds": [
     {
       "player": "Emanuel Wilson (RB, SEA)",
-      "adds": 404856,
+      "adds": 376506,
       "rostered_by": 11
     },
     {
       "player": "Darren Waller (TE, CAR)",
-      "adds": 319869,
+      "adds": 324720,
       "rostered_by": 2
     },
     {
-      "player": "Adonai Mitchell (WR, NYJ)",
-      "adds": 260392,
+      "player": "Adonai Mitchell (WR, NYJ) [Questionable]",
+      "adds": 239224,
       "rostered_by": 11
     },
     {
       "player": "AJ Dillon (RB, CAR)",
-      "adds": 226160,
+      "adds": 217360,
       "rostered_by": 5
     },
     {
       "player": "Kyler Murray (QB, MIN)",
-      "adds": 205120,
+      "adds": 196048,
       "rostered_by": null
     },
     {
       "player": "Kirk Cousins (QB, LV)",
-      "adds": 186224,
+      "adds": 179088,
       "rostered_by": 12
     },
     {
       "player": "Tyler Shough (QB, NO)",
-      "adds": 181528,
+      "adds": 169872,
       "rostered_by": 4
     },
     {
-      "player": "Alvin Kamara (RB, NO)",
-      "adds": 169768,
-      "rostered_by": 9
+      "player": "Terrance Ferguson (TE, LAR)",
+      "adds": 164856,
+      "rostered_by": null
     },
     {
-      "player": "Terrance Ferguson (TE, LAR) [Questionable]",
-      "adds": 163040,
-      "rostered_by": null
+      "player": "Alvin Kamara (RB, NO)",
+      "adds": 162624,
+      "rostered_by": 9
     },
     {
       "player": "Chase McLaughlin (K, TB)",
-      "adds": 154624,
+      "adds": 148184,
       "rostered_by": 10
     },
     {
-      "player": "Zach Ertz (TE, PHI)",
-      "adds": 119646,
-      "rostered_by": null
-    },
-    {
       "player": "Keon Coleman (WR, BUF) [Questionable]",
-      "adds": 118692,
+      "adds": 110916,
       "rostered_by": 9
     },
     {
+      "player": "Zach Ertz (TE, PHI)",
+      "adds": 108963,
+      "rostered_by": null
+    },
+    {
       "player": "Minnesota Vikings (DEF, MIN)",
-      "adds": 102830,
+      "adds": 97715,
       "rostered_by": 8
     },
     {
       "player": "Tre Tucker (WR, LV)",
-      "adds": 102444,
+      "adds": 97170,
       "rostered_by": 11
     },
     {
       "player": "Xavier Worthy (WR, KC)",
-      "adds": 101403,
-      "rostered_by": null
+      "adds": 97101,
+      "rostered_by": 5
     },
     {
       "player": "Tyquan Thornton (WR, KC)",
-      "adds": 96222,
+      "adds": 91077,
       "rostered_by": 9
     },
     {
       "player": "C.J. Stroud (QB, HOU)",
-      "adds": 93674,
+      "adds": 87304,
       "rostered_by": null
     },
     {
       "player": "Emmett Johnson (RB, KC)",
-      "adds": 87822,
+      "adds": 86418,
       "rostered_by": 11
     },
     {
-      "player": "Tank Bigsby (RB, PHI)",
-      "adds": 87199,
-      "rostered_by": 6
-    },
-    {
       "player": "Malik Washington (WR, MIA)",
-      "adds": 82952,
+      "adds": 79864,
       "rostered_by": null
     },
     {
+      "player": "Tank Bigsby (RB, PHI) [Questionable]",
+      "adds": 77735,
+      "rostered_by": 6
+    },
+    {
       "player": "New York Giants (DEF, NYG)",
-      "adds": 77788,
+      "adds": 74504,
       "rostered_by": 9
     },
     {
       "player": "Detroit Lions (DEF, DET)",
-      "adds": 72333,
+      "adds": 70290,
       "rostered_by": null
     },
     {
-      "player": "MarShawn Lloyd (RB, GB)",
-      "adds": 69696,
-      "rostered_by": 7
-    },
-    {
       "player": "Khalil Shakir (WR, BUF)",
-      "adds": 66375,
+      "adds": 64332,
       "rostered_by": 12
     },
     {
+      "player": "MarShawn Lloyd (RB, GB)",
+      "adds": 63864,
+      "rostered_by": 7
+    },
+    {
       "player": "Deshaun Watson (QB, CLE)",
-      "adds": 62808,
+      "adds": 60632,
       "rostered_by": null
     }
   ]
