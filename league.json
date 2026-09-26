@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-25T18:30:03.536738-04:00",
+  "generated": "2026-09-25T21:40:36.161635-04:00",
   "season": "2026",
   "week": 3,
   "league": {
@@ -543,22 +543,22 @@
       "player": "Detroit Lions (DEF, DET)",
       "dropped_by": "Young Blood",
       "dropped_at": "2026-09-23T20:42:15.717000-04:00",
-      "on_waivers_until": "2026-09-25T20:42:15.717000-04:00",
-      "waiver_status": "on waivers until Fri Sep 25, 8:42 PM ET"
+      "on_waivers_until": null,
+      "waiver_status": "free agent now"
     },
     {
       "player": "Mike Gesicki (TE, CIN)",
       "dropped_by": "Young Blood",
       "dropped_at": "2026-09-23T20:40:39.438000-04:00",
-      "on_waivers_until": "2026-09-25T20:40:39.438000-04:00",
-      "waiver_status": "on waivers until Fri Sep 25, 8:40 PM ET"
+      "on_waivers_until": null,
+      "waiver_status": "free agent now"
     },
     {
       "player": "Michael Pittman (WR, PIT) [Questionable]",
       "dropped_by": "Young Blood",
       "dropped_at": "2026-09-23T20:38:24.180000-04:00",
-      "on_waivers_until": "2026-09-25T20:38:24.180000-04:00",
-      "waiver_status": "on waivers until Fri Sep 25, 8:38 PM ET"
+      "on_waivers_until": null,
+      "waiver_status": "free agent now"
     },
     {
       "player": "Konata Mumpfield (WR, LAR)",
@@ -690,127 +690,127 @@
   "trending_adds": [
     {
       "player": "Darren Waller (TE, CAR)",
-      "adds": 339858,
+      "adds": 272034,
       "rostered_by": 2
     },
     {
-      "player": "Emanuel Wilson (RB, SEA)",
-      "adds": 280260,
-      "rostered_by": 11
-    },
-    {
       "player": "Terrance Ferguson (TE, LAR)",
-      "adds": 238656,
+      "adds": 236528,
       "rostered_by": null
     },
     {
+      "player": "Emanuel Wilson (RB, SEA)",
+      "adds": 185184,
+      "rostered_by": 11
+    },
+    {
       "player": "AJ Dillon (RB, CAR)",
-      "adds": 216624,
+      "adds": 162360,
       "rostered_by": 5
     },
     {
       "player": "Adonai Mitchell (WR, NYJ) [Questionable]",
-      "adds": 175776,
+      "adds": 123568,
       "rostered_by": 11
     },
     {
       "player": "Kirk Cousins (QB, LV)",
-      "adds": 157976,
+      "adds": 115104,
       "rostered_by": 12
     },
     {
       "player": "Kyler Murray (QB, MIN)",
-      "adds": 155968,
+      "adds": 104664,
+      "rostered_by": null
+    },
+    {
+      "player": "Sam Darnold (QB, SEA)",
+      "adds": 99570,
       "rostered_by": null
     },
     {
       "player": "Alvin Kamara (RB, NO)",
-      "adds": 132984,
+      "adds": 97448,
       "rostered_by": 9
-    },
-    {
-      "player": "Chase McLaughlin (K, TB)",
-      "adds": 123440,
-      "rostered_by": 10
-    },
-    {
-      "player": "Tyler Shough (QB, NO)",
-      "adds": 113192,
-      "rostered_by": 4
     },
     {
       "player": "Malik Washington (WR, MIA)",
-      "adds": 99184,
+      "adds": 90128,
       "rostered_by": null
     },
     {
-      "player": "Keon Coleman (WR, BUF) [Questionable]",
-      "adds": 96849,
-      "rostered_by": 9
+      "player": "Chase McLaughlin (K, TB)",
+      "adds": 88184,
+      "rostered_by": 10
     },
     {
       "player": "Emmett Johnson (RB, KC)",
-      "adds": 91026,
+      "adds": 83340,
       "rostered_by": 11
+    },
+    {
+      "player": "Keon Coleman (WR, BUF) [Questionable]",
+      "adds": 72351,
+      "rostered_by": 9
     },
     {
       "player": "Tre Tucker (WR, LV)",
-      "adds": 86496,
+      "adds": 63678,
       "rostered_by": 11
     },
     {
-      "player": "Sam Darnold (QB, SEA)",
-      "adds": 84714,
-      "rostered_by": null
+      "player": "Tyler Shough (QB, NO)",
+      "adds": 63136,
+      "rostered_by": 4
     },
     {
       "player": "Xavier Worthy (WR, KC)",
-      "adds": 83943,
+      "adds": 60678,
       "rostered_by": 5
     },
     {
       "player": "Tyquan Thornton (WR, KC)",
-      "adds": 78981,
+      "adds": 57659,
       "rostered_by": 9
     },
     {
-      "player": "Minnesota Vikings (DEF, MIN)",
-      "adds": 75575,
-      "rostered_by": 8
-    },
-    {
       "player": "Zach Ertz (TE, PHI)",
-      "adds": 75555,
-      "rostered_by": null
-    },
-    {
-      "player": "C.J. Stroud (QB, HOU)",
-      "adds": 68376,
+      "adds": 53586,
       "rostered_by": null
     },
     {
       "player": "Deshaun Watson (QB, CLE)",
-      "adds": 63704,
+      "adds": 51944,
       "rostered_by": null
     },
     {
       "player": "Khalil Shakir (WR, BUF)",
-      "adds": 63522,
+      "adds": 51228,
       "rostered_by": 12
     },
     {
-      "player": "New York Giants (DEF, NYG)",
-      "adds": 61420,
-      "rostered_by": 9
-    },
-    {
-      "player": "Detroit Lions (DEF, DET)",
-      "adds": 56349,
+      "player": "Xavier Hutchinson (WR, HOU)",
+      "adds": 50813,
       "rostered_by": null
     },
     {
+      "player": "Minnesota Vikings (DEF, MIN)",
+      "adds": 49185,
+      "rostered_by": 8
+    },
+    {
+      "player": "C.J. Stroud (QB, HOU)",
+      "adds": 45654,
+      "rostered_by": null
+    },
+    {
+      "player": "Oronde Gadsden (TE, LAC)",
+      "adds": 45305,
+      "rostered_by": 9
+    },
+    {
       "player": "Justice Hill (RB, BAL)",
-      "adds": 53784,
+      "adds": 43119,
       "rostered_by": null
     }
   ]
