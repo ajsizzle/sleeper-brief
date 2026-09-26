@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-26T09:12:57.537261-04:00",
+  "generated": "2026-09-26T13:16:16.532104-04:00",
   "season": "2026",
   "week": 3,
   "league": {
@@ -690,128 +690,128 @@
   "trending_adds": [
     {
       "player": "Terrance Ferguson (TE, LAR)",
-      "adds": 273640,
+      "adds": 319288,
       "rostered_by": null
     },
     {
       "player": "Darren Waller (TE, CAR)",
-      "adds": 205191,
+      "adds": 182520,
       "rostered_by": 2
     },
     {
+      "player": "Sam Darnold (QB, SEA)",
+      "adds": 125562,
+      "rostered_by": null
+    },
+    {
       "player": "AJ Dillon (RB, CAR)",
-      "adds": 122632,
+      "adds": 110048,
       "rostered_by": 5
     },
     {
-      "player": "Sam Darnold (QB, SEA)",
-      "adds": 121833,
+      "player": "Malik Washington (WR, MIA)",
+      "adds": 107664,
       "rostered_by": null
     },
     {
       "player": "Emanuel Wilson (RB, SEA)",
-      "adds": 113949,
+      "adds": 88866,
       "rostered_by": 11
-    },
-    {
-      "player": "Malik Washington (WR, MIA)",
-      "adds": 93016,
-      "rostered_by": null
     },
     {
       "player": "Kirk Cousins (QB, LV)",
-      "adds": 91896,
+      "adds": 86512,
       "rostered_by": 12
     },
     {
-      "player": "Adonai Mitchell (WR, NYJ) [Questionable]",
-      "adds": 90872,
-      "rostered_by": 11
+      "player": "Xavier Hutchinson (WR, HOU)",
+      "adds": 84952,
+      "rostered_by": null
     },
     {
       "player": "Emmett Johnson (RB, KC)",
-      "adds": 81054,
+      "adds": 84888,
+      "rostered_by": 11
+    },
+    {
+      "player": "Adonai Mitchell (WR, NYJ) [Questionable]",
+      "adds": 82096,
       "rostered_by": 11
     },
     {
       "player": "Alvin Kamara (RB, NO)",
-      "adds": 70848,
+      "adds": 64712,
       "rostered_by": 9
     },
     {
       "player": "Kyler Murray (QB, MIN)",
-      "adds": 69248,
-      "rostered_by": null
-    },
-    {
-      "player": "Xavier Hutchinson (WR, HOU)",
-      "adds": 68859,
+      "adds": 60192,
       "rostered_by": null
     },
     {
       "player": "Chase McLaughlin (K, TB)",
-      "adds": 61952,
+      "adds": 56744,
       "rostered_by": 10
     },
     {
       "player": "Keon Coleman (WR, BUF) [Questionable]",
-      "adds": 57447,
+      "adds": 54801,
       "rostered_by": 9
-    },
-    {
-      "player": "Xavier Worthy (WR, KC)",
-      "adds": 47601,
-      "rostered_by": 5
     },
     {
       "player": "Deshaun Watson (QB, CLE)",
-      "adds": 46792,
+      "adds": 45480,
       "rostered_by": null
     },
     {
-      "player": "Tre Tucker (WR, LV)",
-      "adds": 46704,
-      "rostered_by": 11
-    },
-    {
-      "player": "Tyquan Thornton (WR, KC)",
-      "adds": 46144,
-      "rostered_by": 9
-    },
-    {
       "player": "Khalil Shakir (WR, BUF)",
-      "adds": 44433,
+      "adds": 45252,
       "rostered_by": 12
     },
     {
-      "player": "Jayden Daniels (QB, WAS) [Out]",
-      "adds": 44272,
-      "rostered_by": 10
+      "player": "Xavier Worthy (WR, KC)",
+      "adds": 44586,
+      "rostered_by": 5
     },
     {
-      "player": "Zach Ertz (TE, PHI)",
-      "adds": 39780,
+      "player": "Tyquan Thornton (WR, KC)",
+      "adds": 44275,
+      "rostered_by": 9
+    },
+    {
+      "player": "Tre Tucker (WR, LV)",
+      "adds": 42870,
+      "rostered_by": 11
+    },
+    {
+      "player": "Isaiah Williams (WR, NYJ)",
+      "adds": 40716,
       "rostered_by": null
     },
     {
       "player": "Oronde Gadsden (TE, LAC)",
-      "adds": 39450,
+      "adds": 39640,
       "rostered_by": 9
-    },
-    {
-      "player": "Tyler Shough (QB, NO)",
-      "adds": 38792,
-      "rostered_by": 4
-    },
-    {
-      "player": "Isaiah Williams (WR, NYJ)",
-      "adds": 37926,
-      "rostered_by": null
     },
     {
       "player": "Justice Hill (RB, BAL)",
       "adds": 37359,
       "rostered_by": null
+    },
+    {
+      "player": "Zach Ertz (TE, PHI)",
+      "adds": 36342,
+      "rostered_by": null
+    },
+    {
+      "player": "Eli Heidenreich (RB, PIT)",
+      "adds": 34500,
+      "rostered_by": null
+    },
+    {
+      "player": "New York Giants (DEF, NYG)",
+      "adds": 34280,
+      "rostered_by": 9
     }
   ]
 }
