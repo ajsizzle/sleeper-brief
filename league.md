@@ -1,5 +1,5 @@
 # Sleeper league state
-Generated Saturday September 26, 2026 03:57 PM ET · Season 2026 · NFL week 3
+Generated Saturday September 26, 2026 06:58 PM ET · Season 2026 · NFL week 3
 League: The Dudes Will Roll · 12 teams · waivers: FAAB (budget $200) · lineup: QB, RB, RB, WR, WR, TE, FLEX, K, DEF
 
 ## My team: THE ACE OF SPADES (roster 11)
@@ -136,7 +136,7 @@ IR: A.J. Brown (WR, NE) [IR]
 
 ## Dropped in the last 14 days, still unrostered
 - Denver Broncos (DEF, DEN) · dropped by Team 9 on Thu Sep 24, 10:14 PM ET · on waivers until Sat Sep 26, 10:14 PM ET
-- Hunter Henry (TE, NE) · dropped by Holla on Thu Sep 24, 5:15 PM ET · on waivers until Sat Sep 26, 5:15 PM ET
+- Hunter Henry (TE, NE) · dropped by Holla on Thu Sep 24, 5:15 PM ET · free agent now
 - Trey Benson (RB, ARI) [IR] · dropped by Springfield Atoms on Thu Sep 24, 2:42 PM ET · free agent now
 - Detroit Lions (DEF, DET) · dropped by Young Blood on Wed Sep 23, 8:42 PM ET · free agent now
 - Mike Gesicki (TE, CIN) · dropped by Young Blood on Wed Sep 23, 8:40 PM ET · free agent now
@@ -161,30 +161,30 @@ IR: A.J. Brown (WR, NE) [IR]
 - Chris Bell (WR, MIA) · dropped by Team 9 on Wed Sep 16, 12:02 PM ET · free agent now
 
 ## Trending adds across Sleeper, last 24 hours
-- Terrance Ferguson (TE, LAR) · 337,560 adds · AVAILABLE in my league
-- Darren Waller (TE, CAR) · 158,301 adds · rostered by Holla
-- Sam Darnold (QB, SEA) · 121,887 adds · AVAILABLE in my league
-- Malik Washington (WR, MIA) · 113,048 adds · AVAILABLE in my league
-- AJ Dillon (RB, CAR) · 98,992 adds · rostered by Springfield Atoms
-- Xavier Hutchinson (WR, HOU) · 94,213 adds · AVAILABLE in my league
-- Emmett Johnson (RB, KC) · 87,714 adds · on my roster
-- Kirk Cousins (QB, LV) · 82,760 adds · rostered by Young Blood
-- Emanuel Wilson (RB, SEA) · 73,809 adds · on my roster
-- Adonai Mitchell (WR, NYJ) [Questionable] · 73,144 adds · on my roster
-- Alvin Kamara (RB, NO) · 60,968 adds · rostered by Team 9
-- Kyler Murray (QB, MIN) · 55,776 adds · AVAILABLE in my league
-- Chase McLaughlin (K, TB) · 53,864 adds · rostered by Strokin My Ditka
-- Keon Coleman (WR, BUF) [Questionable] · 51,192 adds · rostered by Team 9
-- Khalil Shakir (WR, BUF) · 44,820 adds · rostered by Young Blood
-- Deshaun Watson (QB, CLE) · 44,000 adds · AVAILABLE in my league
-- Isaiah Williams (WR, NYJ) · 42,504 adds · AVAILABLE in my league
-- Tyquan Thornton (WR, KC) · 42,021 adds · rostered by Team 9
-- Eli Heidenreich (RB, PIT) · 41,614 adds · AVAILABLE in my league
-- Xavier Worthy (WR, KC) · 40,005 adds · rostered by Springfield Atoms
-- Oronde Gadsden (TE, LAC) · 38,295 adds · rostered by Team 9
-- Justice Hill (RB, BAL) · 37,233 adds · AVAILABLE in my league
-- Tre Tucker (WR, LV) · 37,056 adds · on my roster
-- New York Giants (DEF, NYG) · 34,624 adds · rostered by Team 9
-- Zach Ertz (TE, PHI) · 33,939 adds · AVAILABLE in my league
+- Terrance Ferguson (TE, LAR) · 366,272 adds · AVAILABLE in my league
+- Darren Waller (TE, CAR) · 134,541 adds · rostered by Holla
+- Malik Washington (WR, MIA) · 124,136 adds · AVAILABLE in my league
+- Emmett Johnson (RB, KC) · 111,132 adds · on my roster
+- Xavier Hutchinson (WR, HOU) · 100,772 adds · AVAILABLE in my league
+- Sam Darnold (QB, SEA) · 98,886 adds · AVAILABLE in my league
+- AJ Dillon (RB, CAR) · 82,856 adds · rostered by Springfield Atoms
+- Kirk Cousins (QB, LV) · 71,696 adds · rostered by Young Blood
+- Alvin Kamara (RB, NO) · 63,904 adds · rostered by Team 9
+- Adonai Mitchell (WR, NYJ) [Questionable] · 63,872 adds · on my roster
+- Emanuel Wilson (RB, SEA) · 56,745 adds · on my roster
+- Kyler Murray (QB, MIN) · 49,992 adds · AVAILABLE in my league
+- Chase McLaughlin (K, TB) · 49,232 adds · rostered by Strokin My Ditka
+- Keon Coleman (WR, BUF) [Questionable] · 47,097 adds · rostered by Team 9
+- Isaiah Williams (WR, NYJ) · 46,596 adds · AVAILABLE in my league
+- Eli Heidenreich (RB, PIT) · 44,398 adds · AVAILABLE in my league
+- Khalil Shakir (WR, BUF) · 43,596 adds · rostered by Young Blood
+- Justice Hill (RB, BAL) · 39,213 adds · AVAILABLE in my league
+- Tyquan Thornton (WR, KC) · 38,640 adds · rostered by Team 9
+- Deshaun Watson (QB, CLE) · 38,560 adds · AVAILABLE in my league
+- Oronde Gadsden (TE, LAC) · 37,825 adds · rostered by Team 9
+- Xavier Worthy (WR, KC) · 36,405 adds · rostered by Springfield Atoms
+- New York Giants (DEF, NYG) · 35,108 adds · rostered by Team 9
+- Zach Ertz (TE, PHI) · 33,642 adds · AVAILABLE in my league
+- Tre Tucker (WR, LV) · 30,744 adds · on my roster
 
 Data from the Sleeper API (sleeper.com). Injury tags in brackets are Sleeper's designations and may lag official reports.
