@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-27T04:20:40.787948-04:00",
+  "generated": "2026-09-27T10:45:03.495458-04:00",
   "season": "2026",
   "week": 3,
   "league": {
@@ -79,7 +79,7 @@
       "Braelon Allen (RB, NYJ)",
       "Travis Hunter (WR, JAX)",
       "Carnell Tate (WR, TEN)",
-      "Dallas Goedert (TE, PHI) [Doubtful]",
+      "Dallas Goedert (TE, PHI) [Out]",
       "Josh Downs (WR, IND)"
     ],
     "ir": []
@@ -135,7 +135,7 @@
         "Jahmyr Gibbs (RB, DET)",
         "Blake Corum (RB, LAR)",
         "Parker Washington (WR, JAX)",
-        "DeVonta Smith (WR, PHI) [Questionable]",
+        "DeVonta Smith (WR, PHI)",
         "Trey McBride (TE, ARI)",
         "Matthew Golden (WR, GB)",
         "Cam Little (K, JAX)",
@@ -144,12 +144,14 @@
       "bench": [
         "Malik Nabers (WR, NYG)",
         "Devaughn Vele (WR, NO)",
-        "Jonah Coleman (RB, DEN) [Out]",
         "Kaelon Black (RB, SF)",
         "Jordan Love (QB, GB)",
-        "Tank Bigsby (RB, PHI) [Questionable]"
+        "Rashod Bateman (WR, BAL)",
+        "Tank Bigsby (RB, PHI)"
       ],
-      "ir": []
+      "ir": [
+        "Jonah Coleman (RB, DEN) [IR]"
+      ]
     },
     {
       "roster_id": 3,
@@ -178,7 +180,7 @@
         "Braelon Allen (RB, NYJ)",
         "Travis Hunter (WR, JAX)",
         "Carnell Tate (WR, TEN)",
-        "Dallas Goedert (TE, PHI) [Doubtful]",
+        "Dallas Goedert (TE, PHI) [Out]",
         "Josh Downs (WR, IND)"
       ],
       "ir": []
@@ -368,7 +370,7 @@
         "Green Bay Packers (DEF, GB)"
       ],
       "bench": [
-        "Caleb Williams (QB, CHI) [Doubtful]",
+        "Caleb Williams (QB, CHI) [Out]",
         "Darren Waller (TE, CAR)",
         "Matt Gay (K, LV)",
         "Dontayvion Wicks (WR, PHI)",
@@ -481,6 +483,7 @@
     }
   ],
   "transactions": [
+    "Week 3 \u00b7 free_agent \u00b7 complete \u00b7 Sun Sep 27 07:59 AM \u00b7 FuelTheJET \u00b7 added: Rashod Bateman (WR, BAL) to FuelTheJET",
     "Week 3 \u00b7 free_agent \u00b7 complete \u00b7 Thu Sep 24 10:14 PM \u00b7 Team 9 \u00b7 added: Tyquan Thornton (WR, KC) to Team 9 \u00b7 dropped: Denver Broncos (DEF, DEN) from Team 9",
     "Week 3 \u00b7 free_agent \u00b7 complete \u00b7 Thu Sep 24 05:15 PM \u00b7 Holla \u00b7 added: Darren Waller (TE, CAR) to Holla \u00b7 dropped: Hunter Henry (TE, NE) from Holla",
     "Week 3 \u00b7 free_agent \u00b7 complete \u00b7 Thu Sep 24 02:46 PM \u00b7 Springfield Atoms \u00b7 added: AJ Dillon (RB, CAR) to Springfield Atoms",
@@ -493,7 +496,7 @@
     "Week 3 \u00b7 free_agent \u00b7 complete \u00b7 Wed Sep 23 07:01 AM \u00b7 Team 9 \u00b7 added: Keon Coleman (WR, BUF) [Questionable] to Team 9 \u00b7 dropped: Konata Mumpfield (WR, LAR) from Team 9",
     "Week 3 \u00b7 free_agent \u00b7 complete \u00b7 Wed Sep 23 06:56 AM \u00b7 Team 9 \u00b7 added: New York Giants (DEF, NYG) to Team 9 \u00b7 dropped: Tampa Bay Buccaneers (DEF, TB) from Team 9",
     "Week 3 \u00b7 free_agent \u00b7 complete \u00b7 Wed Sep 23 05:31 AM \u00b7 Holla \u00b7 added: Spencer Shrader (K, IND) to Holla \u00b7 dropped: Harrison Mevis (K, LAR) from Holla",
-    "Week 3 \u00b7 free_agent \u00b7 complete \u00b7 Wed Sep 23 05:30 AM \u00b7 Holla \u00b7 added: Tyjae Spears (RB, TEN) [Questionable] to Holla \u00b7 dropped: Alec Pierce (WR, IND) [Out] from Holla",
+    "Week 3 \u00b7 free_agent \u00b7 complete \u00b7 Wed Sep 23 05:30 AM \u00b7 Holla \u00b7 added: Tyjae Spears (RB, TEN) [Questionable] to Holla \u00b7 dropped: Alec Pierce (WR, IND) [IR] from Holla",
     "Week 2 \u00b7 waiver \u00b7 complete \u00b7 Tue Sep 22 10:43 PM \u00b7 Strokin My Ditka \u00b7 added: Kenny Gainwell (RB, TB) to Strokin My Ditka \u00b7 dropped: Rachaad White (RB, WAS) from Strokin My Ditka \u00b7 bid $0 \u00b7 note: Your waiver claim was processed successfully!",
     "Week 2 \u00b7 waiver \u00b7 complete \u00b7 Tue Sep 22 06:22 PM \u00b7 Holla \u00b7 added: Matt Gay (K, LV) to Holla \u00b7 bid $0 \u00b7 note: Your waiver claim was processed successfully!",
     "Week 2 \u00b7 waiver \u00b7 complete \u00b7 Tue Sep 22 05:24 PM \u00b7 Drunk To Taste This CHX \u00b7 added: Braelon Allen (RB, NYJ) to Drunk To Taste This CHX \u00b7 dropped: Chris Rodriguez (RB, JAX) from Drunk To Taste This CHX \u00b7 bid $40 \u00b7 note: Your waiver claim was processed successfully!",
@@ -582,7 +585,7 @@
       "waiver_status": "free agent now"
     },
     {
-      "player": "Alec Pierce (WR, IND) [Out]",
+      "player": "Alec Pierce (WR, IND) [IR]",
       "dropped_by": "Holla",
       "dropped_at": "2026-09-23T05:30:40.793000-04:00",
       "on_waivers_until": null,
@@ -690,127 +693,127 @@
   "trending_adds": [
     {
       "player": "Terrance Ferguson (TE, LAR)",
-      "adds": 392376,
+      "adds": 462112,
       "rostered_by": null
     },
     {
       "player": "Malik Washington (WR, MIA)",
-      "adds": 156856,
+      "adds": 203352,
       "rostered_by": null
     },
     {
       "player": "Emmett Johnson (RB, KC)",
-      "adds": 137583,
+      "adds": 169605,
       "rostered_by": 11
     },
     {
       "player": "Xavier Hutchinson (WR, HOU)",
-      "adds": 123536,
+      "adds": 159404,
       "rostered_by": null
     },
     {
       "player": "Darren Waller (TE, CAR)",
-      "adds": 114822,
+      "adds": 127278,
       "rostered_by": 2
     },
     {
-      "player": "Sam Darnold (QB, SEA)",
-      "adds": 90117,
+      "player": "Tyreek Hill (WR, FA)",
+      "adds": 126536,
       "rostered_by": null
     },
     {
-      "player": "AJ Dillon (RB, CAR)",
-      "adds": 74664,
-      "rostered_by": 5
+      "player": "Sam Darnold (QB, SEA)",
+      "adds": 104559,
+      "rostered_by": null
     },
     {
       "player": "Alvin Kamara (RB, NO)",
-      "adds": 71360,
+      "adds": 90456,
       "rostered_by": 9
     },
     {
       "player": "Kirk Cousins (QB, LV)",
-      "adds": 63408,
+      "adds": 77504,
       "rostered_by": 12
     },
     {
-      "player": "Adonai Mitchell (WR, NYJ) [Questionable]",
-      "adds": 58560,
-      "rostered_by": 11
+      "player": "AJ Dillon (RB, CAR)",
+      "adds": 75504,
+      "rostered_by": 5
     },
     {
-      "player": "Tyreek Hill (WR, FA)",
-      "adds": 55848,
+      "player": "Tyson Bagent (QB, CHI) [Questionable]",
+      "adds": 71202,
       "rostered_by": null
     },
     {
       "player": "Isaiah Williams (WR, NYJ)",
-      "adds": 55668,
-      "rostered_by": null
-    },
-    {
-      "player": "Chase McLaughlin (K, TB)",
-      "adds": 50552,
-      "rostered_by": 10
-    },
-    {
-      "player": "Kyler Murray (QB, MIN)",
-      "adds": 49544,
-      "rostered_by": null
-    },
-    {
-      "player": "Emanuel Wilson (RB, SEA)",
-      "adds": 47151,
-      "rostered_by": 11
-    },
-    {
-      "player": "Tyson Bagent (QB, CHI) [Questionable]",
-      "adds": 47124,
-      "rostered_by": null
-    },
-    {
-      "player": "Keon Coleman (WR, BUF) [Questionable]",
-      "adds": 45414,
-      "rostered_by": 9
-    },
-    {
-      "player": "Khalil Shakir (WR, BUF)",
-      "adds": 44802,
-      "rostered_by": 12
-    },
-    {
-      "player": "Eli Heidenreich (RB, PIT)",
-      "adds": 44080,
+      "adds": 68436,
       "rostered_by": null
     },
     {
       "player": "New York Giants (DEF, NYG)",
-      "adds": 43696,
+      "adds": 67988,
       "rostered_by": 9
+    },
+    {
+      "player": "Adonai Mitchell (WR, NYJ) [Questionable]",
+      "adds": 66104,
+      "rostered_by": 11
+    },
+    {
+      "player": "Chase McLaughlin (K, TB)",
+      "adds": 62384,
+      "rostered_by": 10
+    },
+    {
+      "player": "Kyler Murray (QB, MIN)",
+      "adds": 58832,
+      "rostered_by": null
     },
     {
       "player": "Travis Homer (RB, PIT)",
-      "adds": 43624,
+      "adds": 57512,
       "rostered_by": null
     },
     {
-      "player": "Justice Hill (RB, BAL)",
-      "adds": 42903,
-      "rostered_by": null
-    },
-    {
-      "player": "Tyquan Thornton (WR, KC)",
-      "adds": 37807,
+      "player": "Keon Coleman (WR, BUF) [Questionable]",
+      "adds": 56448,
       "rostered_by": 9
     },
     {
+      "player": "Khalil Shakir (WR, BUF)",
+      "adds": 53838,
+      "rostered_by": 12
+    },
+    {
+      "player": "Justice Hill (RB, BAL)",
+      "adds": 53487,
+      "rostered_by": null
+    },
+    {
+      "player": "Emanuel Wilson (RB, SEA)",
+      "adds": 52461,
+      "rostered_by": 11
+    },
+    {
+      "player": "Tyquan Thornton (WR, KC)",
+      "adds": 43764,
+      "rostered_by": 9
+    },
+    {
+      "player": "Eli Heidenreich (RB, PIT)",
+      "adds": 42640,
+      "rostered_by": null
+    },
+    {
       "player": "Oronde Gadsden (TE, LAC)",
-      "adds": 37690,
+      "adds": 42625,
       "rostered_by": 9
     },
     {
       "player": "Deshaun Watson (QB, CLE)",
-      "adds": 36952,
+      "adds": 41736,
       "rostered_by": null
     }
   ]
