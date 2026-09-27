@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-27T10:45:03.495458-04:00",
+  "generated": "2026-09-27T15:03:00.209193-04:00",
   "season": "2026",
   "week": 3,
   "league": {
@@ -330,10 +330,10 @@
         "Brock Purdy (QB, SF)",
         "Jeremiyah Love (RB, ARI)",
         "RJ Harvey (RB, DEN)",
-        "Puka Nacua (WR, LAR) [Doubtful]",
+        "DJ Moore (WR, BUF) [Questionable]",
         "Jaylen Waddle (WR, DEN)",
         "Oronde Gadsden (TE, LAC)",
-        "DJ Moore (WR, BUF) [Questionable]",
+        "Alvin Kamara (RB, NO)",
         "Andy Borregales (K, NE)",
         "New York Giants (DEF, NYG)"
       ],
@@ -341,9 +341,9 @@
         "Keon Coleman (WR, BUF) [Questionable]",
         "Colston Loveland (TE, CHI)",
         "Dak Prescott (QB, DAL)",
-        "Alvin Kamara (RB, NO)",
         "Tyler Allgeier (RB, ARI)",
-        "Tyquan Thornton (WR, KC)"
+        "Tyquan Thornton (WR, KC)",
+        "Puka Nacua (WR, LAR) [Doubtful]"
       ],
       "ir": []
     },
@@ -437,11 +437,11 @@
       ],
       "bench": [
         "Jaylen Wright (RB, MIA) [Doubtful]",
+        "Terrance Ferguson (TE, LAR)",
         "Josh Jacobs (RB, GB) [NA]",
         "Juwan Johnson (TE, NO)",
         "Nico Collins (WR, HOU) [Out]",
-        "Brian Robinson (RB, ATL)",
-        "Michael Mayer (TE, LV)"
+        "Brian Robinson (RB, ATL)"
       ],
       "ir": [
         "Jordyn Tyson (WR, NO) [IR]"
@@ -483,6 +483,7 @@
     }
   ],
   "transactions": [
+    "Week 3 \u00b7 free_agent \u00b7 complete \u00b7 Sun Sep 27 12:11 PM \u00b7 Make Miami Great Again \u00b7 added: Terrance Ferguson (TE, LAR) to Make Miami Great Again \u00b7 dropped: Michael Mayer (TE, LV) from Make Miami Great Again",
     "Week 3 \u00b7 free_agent \u00b7 complete \u00b7 Sun Sep 27 07:59 AM \u00b7 FuelTheJET \u00b7 added: Rashod Bateman (WR, BAL) to FuelTheJET",
     "Week 3 \u00b7 free_agent \u00b7 complete \u00b7 Thu Sep 24 10:14 PM \u00b7 Team 9 \u00b7 added: Tyquan Thornton (WR, KC) to Team 9 \u00b7 dropped: Denver Broncos (DEF, DEN) from Team 9",
     "Week 3 \u00b7 free_agent \u00b7 complete \u00b7 Thu Sep 24 05:15 PM \u00b7 Holla \u00b7 added: Darren Waller (TE, CAR) to Holla \u00b7 dropped: Hunter Henry (TE, NE) from Holla",
@@ -521,6 +522,13 @@
     "Week 2 \u00b7 free_agent \u00b7 complete \u00b7 Wed Sep 16 07:58 AM \u00b7 Holla \u00b7 added: Devin Singletary (RB, NYG) to Holla \u00b7 dropped: Braelon Allen (RB, NYJ) from Holla"
   ],
   "dropped_unrostered": [
+    {
+      "player": "Michael Mayer (TE, LV)",
+      "dropped_by": "Make Miami Great Again",
+      "dropped_at": "2026-09-27T12:11:14.135000-04:00",
+      "on_waivers_until": "2026-09-29T12:11:14.135000-04:00",
+      "waiver_status": "on waivers until Tue Sep 29, 12:11 PM ET"
+    },
     {
       "player": "Denver Broncos (DEF, DEN)",
       "dropped_by": "Team 9",
@@ -693,127 +701,127 @@
   "trending_adds": [
     {
       "player": "Terrance Ferguson (TE, LAR)",
-      "adds": 462112,
+      "adds": 638704,
+      "rostered_by": 7
+    },
+    {
+      "player": "Tyreek Hill (WR, FA)",
+      "adds": 362112,
       "rostered_by": null
     },
     {
       "player": "Malik Washington (WR, MIA)",
-      "adds": 203352,
+      "adds": 289272,
+      "rostered_by": null
+    },
+    {
+      "player": "Ollie Gordon (RB, MIA)",
+      "adds": 229915,
+      "rostered_by": null
+    },
+    {
+      "player": "Xavier Hutchinson (WR, HOU)",
+      "adds": 225400,
       "rostered_by": null
     },
     {
       "player": "Emmett Johnson (RB, KC)",
-      "adds": 169605,
+      "adds": 223443,
       "rostered_by": 11
     },
     {
-      "player": "Xavier Hutchinson (WR, HOU)",
-      "adds": 159404,
+      "player": "Isaiah Williams (WR, NYJ)",
+      "adds": 194706,
       "rostered_by": null
     },
     {
       "player": "Darren Waller (TE, CAR)",
-      "adds": 127278,
+      "adds": 148905,
       "rostered_by": 2
     },
     {
-      "player": "Tyreek Hill (WR, FA)",
-      "adds": 126536,
-      "rostered_by": null
-    },
-    {
       "player": "Sam Darnold (QB, SEA)",
-      "adds": 104559,
+      "adds": 135873,
       "rostered_by": null
     },
     {
       "player": "Alvin Kamara (RB, NO)",
-      "adds": 90456,
+      "adds": 131392,
+      "rostered_by": 9
+    },
+    {
+      "player": "New York Giants (DEF, NYG)",
+      "adds": 123760,
       "rostered_by": 9
     },
     {
       "player": "Kirk Cousins (QB, LV)",
-      "adds": 77504,
+      "adds": 119072,
       "rostered_by": 12
     },
     {
-      "player": "AJ Dillon (RB, CAR)",
-      "adds": 75504,
-      "rostered_by": 5
+      "player": "Travis Homer (RB, PIT)",
+      "adds": 101136,
+      "rostered_by": null
+    },
+    {
+      "player": "Kenyon Sadiq (TE, NYJ)",
+      "adds": 93663,
+      "rostered_by": null
     },
     {
       "player": "Tyson Bagent (QB, CHI) [Questionable]",
-      "adds": 71202,
+      "adds": 91374,
       "rostered_by": null
     },
     {
-      "player": "Isaiah Williams (WR, NYJ)",
-      "adds": 68436,
+      "player": "Chase McLaughlin (K, TB)",
+      "adds": 90240,
+      "rostered_by": 10
+    },
+    {
+      "player": "Justice Hill (RB, BAL)",
+      "adds": 85518,
       "rostered_by": null
     },
     {
-      "player": "New York Giants (DEF, NYG)",
-      "adds": 67988,
+      "player": "Kyler Murray (QB, MIN)",
+      "adds": 84896,
+      "rostered_by": null
+    },
+    {
+      "player": "AJ Dillon (RB, CAR)",
+      "adds": 80240,
+      "rostered_by": 5
+    },
+    {
+      "player": "Keon Coleman (WR, BUF) [Questionable]",
+      "adds": 76932,
       "rostered_by": 9
     },
     {
       "player": "Adonai Mitchell (WR, NYJ) [Questionable]",
-      "adds": 66104,
+      "adds": 64000,
       "rostered_by": 11
-    },
-    {
-      "player": "Chase McLaughlin (K, TB)",
-      "adds": 62384,
-      "rostered_by": 10
-    },
-    {
-      "player": "Kyler Murray (QB, MIN)",
-      "adds": 58832,
-      "rostered_by": null
-    },
-    {
-      "player": "Travis Homer (RB, PIT)",
-      "adds": 57512,
-      "rostered_by": null
-    },
-    {
-      "player": "Keon Coleman (WR, BUF) [Questionable]",
-      "adds": 56448,
-      "rostered_by": 9
-    },
-    {
-      "player": "Khalil Shakir (WR, BUF)",
-      "adds": 53838,
-      "rostered_by": 12
-    },
-    {
-      "player": "Justice Hill (RB, BAL)",
-      "adds": 53487,
-      "rostered_by": null
     },
     {
       "player": "Emanuel Wilson (RB, SEA)",
-      "adds": 52461,
+      "adds": 62514,
       "rostered_by": 11
     },
     {
-      "player": "Tyquan Thornton (WR, KC)",
-      "adds": 43764,
-      "rostered_by": 9
+      "player": "Khalil Shakir (WR, BUF)",
+      "adds": 59940,
+      "rostered_by": 12
     },
     {
-      "player": "Eli Heidenreich (RB, PIT)",
-      "adds": 42640,
+      "player": "New Orleans Saints (DEF, NO)",
+      "adds": 57725,
       "rostered_by": null
     },
     {
-      "player": "Oronde Gadsden (TE, LAC)",
-      "adds": 42625,
-      "rostered_by": 9
-    },
-    {
-      "player": "Deshaun Watson (QB, CLE)",
-      "adds": 41736,
+      "player": "Keaton Mitchell (RB, LAC)",
+      "adds": 56952,
       "rostered_by": null
     }
   ]
