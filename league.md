@@ -1,5 +1,5 @@
 # Sleeper league state
-Generated Sunday September 27, 2026 06:20 PM ET · Season 2026 · NFL week 3
+Generated Sunday September 27, 2026 09:45 PM ET · Season 2026 · NFL week 3
 League: The Dudes Will Roll · 12 teams · waivers: FAAB (budget $200) · lineup: QB, RB, RB, WR, WR, TE, FLEX, K, DEF
 
 ## My team: THE ACE OF SPADES (roster 11)
@@ -165,30 +165,30 @@ IR: A.J. Brown (WR, NE) [IR]
 - Chris Bell (WR, MIA) · dropped by Team 9 on Wed Sep 16, 12:02 PM ET · free agent now
 
 ## Trending adds across Sleeper, last 24 hours
-- Ollie Gordon (RB, MIA) · 745,822 adds · AVAILABLE in my league
-- Terrance Ferguson (TE, LAR) · 603,800 adds · rostered by Make Miami Great Again
-- Tyreek Hill (WR, FA) · 511,656 adds · AVAILABLE in my league
-- Malik Washington (WR, MIA) · 278,592 adds · AVAILABLE in my league
-- Kenyon Sadiq (TE, NYJ) · 234,837 adds · AVAILABLE in my league
-- Xavier Hutchinson (WR, HOU) · 203,406 adds · AVAILABLE in my league
-- Emmett Johnson (RB, KC) · 189,702 adds · on my roster
-- Isaiah Williams (WR, NYJ) · 188,184 adds · AVAILABLE in my league
-- Sam Darnold (QB, SEA) · 153,624 adds · AVAILABLE in my league
-- Darren Waller (TE, CAR) · 135,477 adds · rostered by Holla
-- Kirk Cousins (QB, LV) · 127,688 adds · rostered by Young Blood
-- Alvin Kamara (RB, NO) · 124,664 adds · rostered by Team 9
-- New York Giants (DEF, NYG) · 117,528 adds · rostered by Team 9
-- Travis Homer (RB, PIT) · 94,584 adds · AVAILABLE in my league
-- Justice Hill (RB, BAL) · 89,010 adds · AVAILABLE in my league
-- Chase McLaughlin (K, TB) · 88,552 adds · rostered by Strokin My Ditka
-- Kyler Murray (QB, MIN) · 87,312 adds · AVAILABLE in my league
-- Tyson Bagent (QB, CHI) [Questionable] · 82,584 adds · AVAILABLE in my league
-- Jordan Addison (WR, MIN) · 71,271 adds · AVAILABLE in my league
-- Roman Wilson (WR, PIT) · 68,607 adds · AVAILABLE in my league
-- Keon Coleman (WR, BUF) [Questionable] · 67,680 adds · rostered by Team 9
-- Keaton Mitchell (RB, LAC) · 67,320 adds · AVAILABLE in my league
-- Deshaun Watson (QB, CLE) · 66,672 adds · AVAILABLE in my league
-- Braelon Allen (RB, NYJ) · 66,356 adds · rostered by Drunk To Taste This CHX
-- New Orleans Saints (DEF, NO) · 64,630 adds · AVAILABLE in my league
+- Ollie Gordon (RB, MIA) · 1,311,541 adds · AVAILABLE in my league
+- Tyreek Hill (WR, FA) · 621,168 adds · AVAILABLE in my league
+- Terrance Ferguson (TE, LAR) · 576,504 adds · rostered by Make Miami Great Again
+- Kenyon Sadiq (TE, NYJ) · 369,774 adds · AVAILABLE in my league
+- Malik Washington (WR, MIA) · 268,392 adds · AVAILABLE in my league
+- Xavier Hutchinson (WR, HOU) · 184,758 adds · AVAILABLE in my league
+- Isaiah Williams (WR, NYJ) · 182,082 adds · AVAILABLE in my league
+- Sam Darnold (QB, SEA) · 180,996 adds · AVAILABLE in my league
+- Kirk Cousins (QB, LV) · 162,648 adds · rostered by Young Blood
+- Emmett Johnson (RB, KC) · 160,227 adds · on my roster
+- Darren Waller (TE, CAR) · 135,153 adds · rostered by Holla
+- Alvin Kamara (RB, NO) · 131,216 adds · rostered by Team 9
+- Jordan Addison (WR, MIN) · 118,296 adds · AVAILABLE in my league
+- New York Giants (DEF, NYG) · 112,544 adds · rostered by Team 9
+- Braelon Allen (RB, NYJ) · 102,136 adds · rostered by Drunk To Taste This CHX
+- Chase McLaughlin (K, TB) · 99,520 adds · rostered by Strokin My Ditka
+- Roman Wilson (WR, PIT) · 88,488 adds · AVAILABLE in my league
+- Justice Hill (RB, BAL) · 84,951 adds · AVAILABLE in my league
+- Travis Homer (RB, PIT) · 84,288 adds · AVAILABLE in my league
+- Kyler Murray (QB, MIN) · 82,984 adds · AVAILABLE in my league
+- Deshaun Watson (QB, CLE) · 81,752 adds · AVAILABLE in my league
+- Keaton Mitchell (RB, LAC) · 79,047 adds · AVAILABLE in my league
+- Tyson Bagent (QB, CHI) [Questionable] · 78,504 adds · AVAILABLE in my league
+- Tyler Shough (QB, NO) · 74,752 adds · rostered by Thoroughbred Cheesehead
+- Las Vegas Raiders (DEF, LV) · 66,270 adds · AVAILABLE in my league
 
 Data from the Sleeper API (sleeper.com). Injury tags in brackets are Sleeper's designations and may lag official reports.
