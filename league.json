@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-29T01:52:20.249828-04:00",
+  "generated": "2026-09-29T09:06:24.010289-04:00",
   "season": "2026",
   "week": 4,
   "league": {
@@ -583,128 +583,128 @@
   "trending_adds": [
     {
       "player": "Ollie Gordon (RB, MIA) [Questionable]",
-      "adds": 4386704,
+      "adds": 5209673,
       "rostered_by": null
     },
     {
       "player": "Kenyon Sadiq (TE, NYJ)",
-      "adds": 987030,
+      "adds": 1287306,
       "rostered_by": null
     },
     {
       "player": "Braelon Allen (RB, NYJ)",
-      "adds": 766732,
+      "adds": 1182512,
       "rostered_by": 3
     },
     {
       "player": "Tyreek Hill (WR, FA)",
-      "adds": 369904,
+      "adds": 434216,
       "rostered_by": null
     },
     {
       "player": "Alvin Kamara (RB, NO)",
-      "adds": 257920,
+      "adds": 386824,
       "rostered_by": 9
     },
     {
       "player": "Keaton Mitchell (RB, LAC)",
-      "adds": 257526,
+      "adds": 343881,
       "rostered_by": null
     },
     {
       "player": "Konata Mumpfield (WR, LAR)",
-      "adds": 224199,
+      "adds": 311121,
       "rostered_by": null
     },
     {
       "player": "Kirk Cousins (QB, LV)",
-      "adds": 219320,
+      "adds": 266888,
       "rostered_by": 12
     },
     {
       "player": "Jordan Addison (WR, MIN)",
-      "adds": 198333,
-      "rostered_by": null
-    },
-    {
-      "player": "Las Vegas Raiders (DEF, LV)",
-      "adds": 179958,
-      "rostered_by": null
-    },
-    {
-      "player": "Roman Wilson (WR, PIT)",
-      "adds": 156609,
+      "adds": 264636,
       "rostered_by": null
     },
     {
       "player": "Keenan Allen (WR, IND)",
-      "adds": 155384,
+      "adds": 238328,
+      "rostered_by": null
+    },
+    {
+      "player": "Tyler Higbee (TE, LAR)",
+      "adds": 229113,
+      "rostered_by": null
+    },
+    {
+      "player": "Las Vegas Raiders (DEF, LV)",
+      "adds": 225726,
+      "rostered_by": null
+    },
+    {
+      "player": "Roman Wilson (WR, PIT)",
+      "adds": 197451,
       "rostered_by": null
     },
     {
       "player": "Darren Waller (TE, CAR)",
-      "adds": 132552,
+      "adds": 187803,
       "rostered_by": 2
     },
     {
-      "player": "Tyler Higbee (TE, LAR)",
-      "adds": 118890,
+      "player": "Kalif Raymond (WR, CHI)",
+      "adds": 170780,
       "rostered_by": null
     },
     {
       "player": "Jaylen Wright (RB, MIA) [Out]",
-      "adds": 116216,
+      "adds": 167450,
       "rostered_by": 7
     },
     {
-      "player": "Sam Darnold (QB, SEA)",
-      "adds": 112260,
-      "rostered_by": null
+      "player": "Minnesota Vikings (DEF, MIN)",
+      "adds": 136815,
+      "rostered_by": 8
+    },
+    {
+      "player": "Baltimore Ravens (DEF, BAL)",
+      "adds": 136449,
+      "rostered_by": 5
     },
     {
       "player": "Malik Washington (WR, MIA)",
-      "adds": 106184,
+      "adds": 133760,
+      "rostered_by": null
+    },
+    {
+      "player": "Isaiah Davis (RB, NYJ)",
+      "adds": 129969,
+      "rostered_by": null
+    },
+    {
+      "player": "Sam Darnold (QB, SEA)",
+      "adds": 129153,
       "rostered_by": null
     },
     {
       "player": "Austin Ekeler (RB, FA)",
-      "adds": 101856,
-      "rostered_by": null
-    },
-    {
-      "player": "Kalif Raymond (WR, CHI)",
-      "adds": 93964,
-      "rostered_by": null
-    },
-    {
-      "player": "J.J. McCarthy (QB, NYG) [Out]",
-      "adds": 90879,
-      "rostered_by": null
-    },
-    {
-      "player": "Minnesota Vikings (DEF, MIN)",
-      "adds": 88000,
-      "rostered_by": 8
-    },
-    {
-      "player": "Deshaun Watson (QB, CLE)",
-      "adds": 84288,
+      "adds": 115876,
       "rostered_by": null
     },
     {
       "player": "Jakobi Meyers (WR, JAX)",
-      "adds": 82644,
+      "adds": 110748,
       "rostered_by": 10
     },
     {
-      "player": "Baltimore Ravens (DEF, BAL)",
-      "adds": 71784,
-      "rostered_by": 5
+      "player": "Deshaun Watson (QB, CLE)",
+      "adds": 106024,
+      "rostered_by": null
     },
     {
-      "player": "Michael Wilson (WR, ARI)",
-      "adds": 66168,
-      "rostered_by": 8
+      "player": "J.J. McCarthy (QB, NYG) [Out]",
+      "adds": 99735,
+      "rostered_by": null
     }
   ]
 }

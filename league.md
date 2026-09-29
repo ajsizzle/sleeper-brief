@@ -1,5 +1,5 @@
 # Sleeper league state
-Generated Tuesday September 29, 2026 01:52 AM ET · Season 2026 · NFL week 4
+Generated Tuesday September 29, 2026 09:06 AM ET · Season 2026 · NFL week 4
 League: The Dudes Will Roll · 12 teams · waivers: FAAB (budget $200) · lineup: QB, RB, RB, WR, WR, TE, FLEX, K, DEF
 
 ## My team: THE ACE OF SPADES (roster 11)
@@ -129,30 +129,30 @@ IR: A.J. Brown (WR, NE) [IR]
 - Alec Pierce (WR, IND) [IR] · dropped by Holla on Wed Sep 23, 5:30 AM ET · free agent now
 
 ## Trending adds across Sleeper, last 24 hours
-- Ollie Gordon (RB, MIA) [Questionable] · 4,386,704 adds · AVAILABLE in my league
-- Kenyon Sadiq (TE, NYJ) · 987,030 adds · AVAILABLE in my league
-- Braelon Allen (RB, NYJ) · 766,732 adds · rostered by Drunk To Taste This CHX
-- Tyreek Hill (WR, FA) · 369,904 adds · AVAILABLE in my league
-- Alvin Kamara (RB, NO) · 257,920 adds · rostered by Team 9
-- Keaton Mitchell (RB, LAC) · 257,526 adds · AVAILABLE in my league
-- Konata Mumpfield (WR, LAR) · 224,199 adds · AVAILABLE in my league
-- Kirk Cousins (QB, LV) · 219,320 adds · rostered by Young Blood
-- Jordan Addison (WR, MIN) · 198,333 adds · AVAILABLE in my league
-- Las Vegas Raiders (DEF, LV) · 179,958 adds · AVAILABLE in my league
-- Roman Wilson (WR, PIT) · 156,609 adds · AVAILABLE in my league
-- Keenan Allen (WR, IND) · 155,384 adds · AVAILABLE in my league
-- Darren Waller (TE, CAR) · 132,552 adds · rostered by Holla
-- Tyler Higbee (TE, LAR) · 118,890 adds · AVAILABLE in my league
-- Jaylen Wright (RB, MIA) [Out] · 116,216 adds · rostered by Make Miami Great Again
-- Sam Darnold (QB, SEA) · 112,260 adds · AVAILABLE in my league
-- Malik Washington (WR, MIA) · 106,184 adds · AVAILABLE in my league
-- Austin Ekeler (RB, FA) · 101,856 adds · AVAILABLE in my league
-- Kalif Raymond (WR, CHI) · 93,964 adds · AVAILABLE in my league
-- J.J. McCarthy (QB, NYG) [Out] · 90,879 adds · AVAILABLE in my league
-- Minnesota Vikings (DEF, MIN) · 88,000 adds · rostered by Team 8
-- Deshaun Watson (QB, CLE) · 84,288 adds · AVAILABLE in my league
-- Jakobi Meyers (WR, JAX) · 82,644 adds · rostered by Strokin My Ditka
-- Baltimore Ravens (DEF, BAL) · 71,784 adds · rostered by Springfield Atoms
-- Michael Wilson (WR, ARI) · 66,168 adds · rostered by Team 8
+- Ollie Gordon (RB, MIA) [Questionable] · 5,209,673 adds · AVAILABLE in my league
+- Kenyon Sadiq (TE, NYJ) · 1,287,306 adds · AVAILABLE in my league
+- Braelon Allen (RB, NYJ) · 1,182,512 adds · rostered by Drunk To Taste This CHX
+- Tyreek Hill (WR, FA) · 434,216 adds · AVAILABLE in my league
+- Alvin Kamara (RB, NO) · 386,824 adds · rostered by Team 9
+- Keaton Mitchell (RB, LAC) · 343,881 adds · AVAILABLE in my league
+- Konata Mumpfield (WR, LAR) · 311,121 adds · AVAILABLE in my league
+- Kirk Cousins (QB, LV) · 266,888 adds · rostered by Young Blood
+- Jordan Addison (WR, MIN) · 264,636 adds · AVAILABLE in my league
+- Keenan Allen (WR, IND) · 238,328 adds · AVAILABLE in my league
+- Tyler Higbee (TE, LAR) · 229,113 adds · AVAILABLE in my league
+- Las Vegas Raiders (DEF, LV) · 225,726 adds · AVAILABLE in my league
+- Roman Wilson (WR, PIT) · 197,451 adds · AVAILABLE in my league
+- Darren Waller (TE, CAR) · 187,803 adds · rostered by Holla
+- Kalif Raymond (WR, CHI) · 170,780 adds · AVAILABLE in my league
+- Jaylen Wright (RB, MIA) [Out] · 167,450 adds · rostered by Make Miami Great Again
+- Minnesota Vikings (DEF, MIN) · 136,815 adds · rostered by Team 8
+- Baltimore Ravens (DEF, BAL) · 136,449 adds · rostered by Springfield Atoms
+- Malik Washington (WR, MIA) · 133,760 adds · AVAILABLE in my league
+- Isaiah Davis (RB, NYJ) · 129,969 adds · AVAILABLE in my league
+- Sam Darnold (QB, SEA) · 129,153 adds · AVAILABLE in my league
+- Austin Ekeler (RB, FA) · 115,876 adds · AVAILABLE in my league
+- Jakobi Meyers (WR, JAX) · 110,748 adds · rostered by Strokin My Ditka
+- Deshaun Watson (QB, CLE) · 106,024 adds · AVAILABLE in my league
+- J.J. McCarthy (QB, NYG) [Out] · 99,735 adds · AVAILABLE in my league
 
 Data from the Sleeper API (sleeper.com). Injury tags in brackets are Sleeper's designations and may lag official reports.
