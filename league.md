@@ -1,5 +1,5 @@
 # Sleeper league state
-Generated Tuesday September 29, 2026 07:01 PM ET · Season 2026 · NFL week 4
+Generated Tuesday September 29, 2026 10:11 PM ET · Season 2026 · NFL week 4
 League: The Dudes Will Roll · 12 teams · waivers: FAAB (budget $200) · lineup: QB, RB, RB, WR, WR, TE, FLEX, K, DEF
 
 ## My team: THE ACE OF SPADES (roster 11)
@@ -129,30 +129,30 @@ IR: A.J. Brown (WR, NE) [IR]
 - Alec Pierce (WR, IND) [IR] · dropped by Holla on Wed Sep 23, 5:30 AM ET · free agent now
 
 ## Trending adds across Sleeper, last 24 hours
-- Ollie Gordon (RB, MIA) [Questionable] · 5,214,741 adds · AVAILABLE in my league
-- Braelon Allen (RB, NYJ) · 2,050,860 adds · rostered by Drunk To Taste This CHX
-- Kenyon Sadiq (TE, NYJ) · 1,880,379 adds · AVAILABLE in my league
-- Alvin Kamara (RB, NO) · 624,680 adds · rostered by Team 9
-- Konata Mumpfield (WR, LAR) · 555,453 adds · AVAILABLE in my league
-- Tyler Higbee (TE, LAR) · 540,999 adds · AVAILABLE in my league
-- Tyreek Hill (WR, FA) · 517,120 adds · AVAILABLE in my league
-- Keaton Mitchell (RB, LAC) · 457,659 adds · AVAILABLE in my league
-- Kalif Raymond (WR, CHI) · 430,288 adds · AVAILABLE in my league
-- Keenan Allen (WR, IND) · 421,172 adds · AVAILABLE in my league
-- Jordan Addison (WR, MIN) · 373,923 adds · AVAILABLE in my league
-- Kirk Cousins (QB, LV) · 320,352 adds · rostered by Young Blood
-- Darren Waller (TE, CAR) · 317,034 adds · rostered by Holla
-- Isaiah Davis (RB, NYJ) · 304,830 adds · AVAILABLE in my league
-- Las Vegas Raiders (DEF, LV) · 294,402 adds · AVAILABLE in my league
-- Baltimore Ravens (DEF, BAL) · 279,321 adds · rostered by Springfield Atoms
-- Minnesota Vikings (DEF, MIN) · 258,310 adds · rostered by Team 8
-- Jaylen Wright (RB, MIA) [Out] · 256,808 adds · rostered by Make Miami Great Again
-- Roman Wilson (WR, PIT) · 252,171 adds · AVAILABLE in my league
-- Pittsburgh Steelers (DEF, PIT) · 200,874 adds · AVAILABLE in my league
-- Cleveland Browns (DEF, CLE) · 177,709 adds · AVAILABLE in my league
-- Jakobi Meyers (WR, JAX) · 169,674 adds · rostered by Strokin My Ditka
-- Malik Washington (WR, MIA) · 168,560 adds · AVAILABLE in my league
-- Sam Darnold (QB, SEA) · 155,937 adds · AVAILABLE in my league
-- Kendre Miller (RB, NO) · 154,472 adds · AVAILABLE in my league
+- Ollie Gordon (RB, MIA) [Questionable] · 5,795,839 adds · AVAILABLE in my league
+- Braelon Allen (RB, NYJ) · 2,406,544 adds · rostered by Drunk To Taste This CHX
+- Kenyon Sadiq (TE, NYJ) · 2,182,806 adds · AVAILABLE in my league
+- Alvin Kamara (RB, NO) · 715,192 adds · rostered by Team 9
+- Konata Mumpfield (WR, LAR) · 703,449 adds · AVAILABLE in my league
+- Tyler Higbee (TE, LAR) · 682,029 adds · AVAILABLE in my league
+- Kalif Raymond (WR, CHI) · 566,550 adds · AVAILABLE in my league
+- Tyreek Hill (WR, FA) · 542,576 adds · AVAILABLE in my league
+- Keaton Mitchell (RB, LAC) · 525,735 adds · AVAILABLE in my league
+- Keenan Allen (WR, IND) · 495,796 adds · AVAILABLE in my league
+- Jordan Addison (WR, MIN) · 420,192 adds · AVAILABLE in my league
+- Darren Waller (TE, CAR) · 385,515 adds · rostered by Holla
+- Isaiah Davis (RB, NYJ) · 376,785 adds · AVAILABLE in my league
+- Kirk Cousins (QB, LV) · 336,704 adds · rostered by Young Blood
+- Baltimore Ravens (DEF, BAL) · 331,311 adds · rostered by Springfield Atoms
+- Las Vegas Raiders (DEF, LV) · 317,964 adds · AVAILABLE in my league
+- Jaylen Wright (RB, MIA) [Out] · 316,624 adds · rostered by Make Miami Great Again
+- Minnesota Vikings (DEF, MIN) · 296,205 adds · rostered by Team 8
+- Roman Wilson (WR, PIT) · 288,729 adds · AVAILABLE in my league
+- Pittsburgh Steelers (DEF, PIT) · 240,978 adds · AVAILABLE in my league
+- Cleveland Browns (DEF, CLE) · 225,673 adds · AVAILABLE in my league
+- Kendre Miller (RB, NO) · 207,308 adds · AVAILABLE in my league
+- Jakobi Meyers (WR, JAX) · 200,934 adds · rostered by Strokin My Ditka
+- Chris Bell (WR, MIA) · 194,397 adds · AVAILABLE in my league
+- Malik Washington (WR, MIA) · 184,104 adds · AVAILABLE in my league
 
 Data from the Sleeper API (sleeper.com). Injury tags in brackets are Sleeper's designations and may lag official reports.
