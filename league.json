@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-30T04:42:22.298218-04:00",
+  "generated": "2026-09-30T11:58:40.912179-04:00",
   "season": "2026",
   "week": 4,
   "league": {
@@ -34,19 +34,19 @@
       "Chase Brown (RB, CIN)",
       "Kenneth Walker (RB, KC)",
       "Rome Odunze (WR, CHI)",
-      "Mike Evans (WR, SF) [Out]",
+      "Jordan Addison (WR, MIN)",
       "George Kittle (TE, SF)",
       "Rhamondre Stevenson (RB, NE)",
       "Cameron Dicker (K, LAC)",
       "Houston Texans (DEF, HOU)"
     ],
     "bench": [
-      "Emanuel Wilson (RB, SEA)",
+      "Isaiah Davis (RB, NYJ)",
       "Emmett Johnson (RB, KC)",
       "Keenan Allen (WR, IND)",
+      "Mike Evans (WR, SF) [Out]",
       "Mark Andrews (TE, BAL) [Questionable]",
-      "Kyler Murray (QB, MIN)",
-      "Jordan Addison (WR, MIN)"
+      "Kyler Murray (QB, MIN)"
     ],
     "ir": [
       "A.J. Brown (WR, NE) [IR]"
@@ -397,19 +397,19 @@
       "starters": [
         "Patrick Mahomes (QB, KC)",
         "Christian McCaffrey (RB, SF)",
-        "Breece Hall (RB, NYJ) [Out]",
+        "Cam Skattebo (RB, NYG)",
         "Ja'Marr Chase (WR, CIN)",
         "Zay Flowers (WR, BAL)",
         "Tucker Kraft (TE, GB)",
-        "Cam Skattebo (RB, NYG)",
+        "Ollie Gordon (RB, MIA) [Questionable]",
         "Spencer Shrader (K, IND) [Questionable]",
         "Green Bay Packers (DEF, GB)"
       ],
       "bench": [
         "Caleb Williams (QB, CHI) [Out]",
-        "Ollie Gordon (RB, MIA) [Questionable]",
         "Darren Waller (TE, CAR)",
         "Matt Gay (K, LV)",
+        "Breece Hall (RB, NYJ) [Out]",
         "Dontayvion Wicks (WR, PHI)",
         "Quentin Johnston (WR, LAC)"
       ],
@@ -465,19 +465,19 @@
         "Chase Brown (RB, CIN)",
         "Kenneth Walker (RB, KC)",
         "Rome Odunze (WR, CHI)",
-        "Mike Evans (WR, SF) [Out]",
+        "Jordan Addison (WR, MIN)",
         "George Kittle (TE, SF)",
         "Rhamondre Stevenson (RB, NE)",
         "Cameron Dicker (K, LAC)",
         "Houston Texans (DEF, HOU)"
       ],
       "bench": [
-        "Emanuel Wilson (RB, SEA)",
+        "Isaiah Davis (RB, NYJ)",
         "Emmett Johnson (RB, KC)",
         "Keenan Allen (WR, IND)",
+        "Mike Evans (WR, SF) [Out]",
         "Mark Andrews (TE, BAL) [Questionable]",
-        "Kyler Murray (QB, MIN)",
-        "Jordan Addison (WR, MIN)"
+        "Kyler Murray (QB, MIN)"
       ],
       "ir": [
         "A.J. Brown (WR, NE) [IR]"
@@ -485,6 +485,7 @@
     }
   ],
   "transactions": [
+    "Week 4 \u00b7 free_agent \u00b7 complete \u00b7 Wed Sep 30 07:53 AM \u00b7 THE ACE OF SPADES \u00b7 added: Isaiah Davis (RB, NYJ) to THE ACE OF SPADES \u00b7 dropped: Emanuel Wilson (RB, SEA) from THE ACE OF SPADES",
     "Week 4 \u00b7 free_agent \u00b7 complete \u00b7 Wed Sep 30 03:26 AM \u00b7 Young Blood \u00b7 added: Will Reichard (K, MIN) to Young Blood \u00b7 dropped: Jason Myers (K, SEA) from Young Blood",
     "Week 4 \u00b7 free_agent \u00b7 complete \u00b7 Wed Sep 30 03:24 AM \u00b7 Young Blood \u00b7 added: Pittsburgh Steelers (DEF, PIT) to Young Blood \u00b7 dropped: Cincinnati Bengals (DEF, CIN) from Young Blood",
     "Week 3 \u00b7 waiver \u00b7 complete \u00b7 Tue Sep 29 11:08 PM \u00b7 THE ACE OF SPADES \u00b7 added: Keenan Allen (WR, IND) to THE ACE OF SPADES \u00b7 dropped: Tre Tucker (WR, LV) from THE ACE OF SPADES \u00b7 bid $7 \u00b7 note: Your waiver claim was processed successfully!",
@@ -514,6 +515,13 @@
     "Week 3 \u00b7 free_agent \u00b7 complete \u00b7 Wed Sep 23 05:30 AM \u00b7 Holla \u00b7 added: Tyjae Spears (RB, TEN) [Questionable] to Holla \u00b7 dropped: Alec Pierce (WR, IND) [IR] from Holla"
   ],
   "dropped_unrostered": [
+    {
+      "player": "Emanuel Wilson (RB, SEA)",
+      "dropped_by": "THE ACE OF SPADES",
+      "dropped_at": "2026-09-30T07:53:34.422000-04:00",
+      "on_waivers_until": "2026-10-02T07:53:34.422000-04:00",
+      "waiver_status": "on waivers until Fri Oct 2, 7:53 AM ET"
+    },
     {
       "player": "Jason Myers (K, SEA)",
       "dropped_by": "Young Blood",
@@ -644,127 +652,127 @@
   "trending_adds": [
     {
       "player": "Ollie Gordon (RB, MIA) [Questionable]",
-      "adds": 6221425,
+      "adds": 4863677,
       "rostered_by": 2
     },
     {
       "player": "Braelon Allen (RB, NYJ)",
-      "adds": 2732896,
+      "adds": 2203408,
       "rostered_by": 3
     },
     {
       "player": "Kenyon Sadiq (TE, NYJ)",
-      "adds": 2514015,
+      "adds": 2175678,
       "rostered_by": 6
     },
     {
       "player": "Konata Mumpfield (WR, LAR)",
-      "adds": 990927,
+      "adds": 1075266,
       "rostered_by": null
     },
     {
       "player": "Tyler Higbee (TE, LAR)",
-      "adds": 884376,
+      "adds": 886869,
       "rostered_by": null
     },
     {
       "player": "Alvin Kamara (RB, NO)",
-      "adds": 828360,
+      "adds": 821224,
       "rostered_by": 9
     },
     {
       "player": "Kalif Raymond (WR, CHI)",
-      "adds": 701390,
+      "adds": 714314,
       "rostered_by": null
     },
     {
       "player": "Keaton Mitchell (RB, LAC)",
-      "adds": 615015,
-      "rostered_by": null
-    },
-    {
-      "player": "Keenan Allen (WR, IND)",
-      "adds": 590936,
-      "rostered_by": 11
-    },
-    {
-      "player": "Tyreek Hill (WR, FA)",
-      "adds": 554872,
+      "adds": 634122,
       "rostered_by": null
     },
     {
       "player": "Darren Waller (TE, CAR)",
-      "adds": 495729,
+      "adds": 567036,
       "rostered_by": 2
     },
     {
-      "player": "Isaiah Davis (RB, NYJ)",
-      "adds": 472284,
+      "player": "Keenan Allen (WR, IND)",
+      "adds": 563904,
+      "rostered_by": 11
+    },
+    {
+      "player": "Tyreek Hill (WR, FA)",
+      "adds": 529264,
       "rostered_by": null
     },
     {
-      "player": "Jordan Addison (WR, MIN)",
-      "adds": 452340,
+      "player": "Cleveland Browns (DEF, CLE)",
+      "adds": 436905,
+      "rostered_by": null
+    },
+    {
+      "player": "Isaiah Davis (RB, NYJ)",
+      "adds": 424926,
       "rostered_by": 11
     },
     {
       "player": "Jaylen Wright (RB, MIA) [Out]",
-      "adds": 415594,
+      "adds": 413338,
       "rostered_by": 7
     },
     {
+      "player": "Jordan Addison (WR, MIN)",
+      "adds": 379431,
+      "rostered_by": 11
+    },
+    {
       "player": "Baltimore Ravens (DEF, BAL)",
-      "adds": 388713,
+      "adds": 353517,
       "rostered_by": 5
     },
     {
       "player": "Kirk Cousins (QB, LV)",
-      "adds": 338032,
+      "adds": 326224,
       "rostered_by": 12
-    },
-    {
-      "player": "Roman Wilson (WR, PIT)",
-      "adds": 321372,
-      "rostered_by": null
-    },
-    {
-      "player": "Minnesota Vikings (DEF, MIN)",
-      "adds": 312870,
-      "rostered_by": 8
-    },
-    {
-      "player": "Cleveland Browns (DEF, CLE)",
-      "adds": 311528,
-      "rostered_by": null
     },
     {
       "player": "Las Vegas Raiders (DEF, LV)",
-      "adds": 310512,
+      "adds": 312012,
       "rostered_by": null
     },
     {
-      "player": "Pittsburgh Steelers (DEF, PIT)",
-      "adds": 292500,
-      "rostered_by": 12
-    },
-    {
       "player": "Kendre Miller (RB, NO)",
-      "adds": 289480,
+      "adds": 309500,
       "rostered_by": null
     },
     {
       "player": "Chris Bell (WR, MIA)",
-      "adds": 282828,
+      "adds": 300447,
       "rostered_by": null
     },
     {
+      "player": "Pittsburgh Steelers (DEF, PIT)",
+      "adds": 298653,
+      "rostered_by": 12
+    },
+    {
+      "player": "Roman Wilson (WR, PIT)",
+      "adds": 298575,
+      "rostered_by": null
+    },
+    {
+      "player": "Minnesota Vikings (DEF, MIN)",
+      "adds": 262815,
+      "rostered_by": 8
+    },
+    {
       "player": "Jakobi Meyers (WR, JAX)",
-      "adds": 241458,
+      "adds": 251418,
       "rostered_by": 10
     },
     {
       "player": "Malik Washington (WR, MIA)",
-      "adds": 207832,
+      "adds": 212280,
       "rostered_by": null
     }
   ]
