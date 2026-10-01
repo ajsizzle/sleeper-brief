@@ -1,11 +1,11 @@
 # Sleeper league state
-Generated Thursday October 01, 2026 03:14 AM ET · Season 2026 · NFL week 4
+Generated Thursday October 01, 2026 10:34 AM ET · Season 2026 · NFL week 4
 League: The Dudes Will Roll · 12 teams · waivers: FAAB (budget $200) · lineup: QB, RB, RB, WR, WR, TE, FLEX, K, DEF
 
 ## My team: THE ACE OF SPADES (roster 11)
 Record 0-3 · 258.4 pts · waiver priority 12 · FAAB used $77
 ### Starters as currently set (week 4)
-- QB: Kyler Murray (QB, MIN)
+- QB: Drake Maye (QB, NE)
 - RB: Chase Brown (RB, CIN)
 - RB: Kenneth Walker (RB, KC)
 - WR: Rome Odunze (WR, CHI)
@@ -15,12 +15,12 @@ Record 0-3 · 258.4 pts · waiver priority 12 · FAAB used $77
 - K: Cameron Dicker (K, LAC)
 - DEF: Houston Texans (DEF, HOU)
 ### Bench
-- Drake Maye (QB, NE)
 - Isaiah Davis (RB, NYJ)
 - Emmett Johnson (RB, KC)
 - Keenan Allen (WR, IND)
 - Mike Evans (WR, SF) [Questionable]
 - Mark Andrews (TE, BAL)
+- Kyler Murray (QB, MIN)
 ### IR
 - A.J. Brown (WR, NE) [IR]
 
@@ -68,7 +68,7 @@ Bench: Jayden Reed (WR, GB) [Out]; Xavier Worthy (WR, KC); Brian Thomas (WR, JAX
 IR: Jonathon Brooks (RB, CAR) [IR]
 
 ### Strokin My Ditka · 2-1 · 320.0 pts · waiver priority 8
-Starters: Malik Willis (QB, MIA); Omarion Hampton (RB, LAC); Jaylen Warren (RB, PIT); Jaxon Smith-Njigba (WR, SEA); Tetairoa McMillan (WR, CAR); Tyler Warren (TE, IND); TreVeyon Henderson (RB, NE); Chase McLaughlin (K, TB); Philadelphia Eagles (DEF, PHI)
+Starters: Malik Willis (QB, MIA); TreVeyon Henderson (RB, NE); Jaylen Warren (RB, PIT); Jaxon Smith-Njigba (WR, SEA); Tetairoa McMillan (WR, CAR); Tyler Warren (TE, IND); Omarion Hampton (RB, LAC); Chase McLaughlin (K, TB); Philadelphia Eagles (DEF, PHI)
 Bench: Jayden Daniels (QB, WAS) [Questionable]; Stefon Diggs (WR, WAS); Chris Godwin (WR, TB) [Questionable]; Jakobi Meyers (WR, JAX) [Questionable]; Kenny Gainwell (RB, TB); Brenton Strange (TE, JAX)
 
 ### Make Miami Great Again · 1-2 · 287.0 pts · waiver priority 2
@@ -81,8 +81,8 @@ Starters: Kirk Cousins (QB, LV); Jonathan Taylor (RB, IND); D'Andre Swift (RB, C
 Bench: Jalen Coker (WR, CAR) [Questionable]; Tony Pollard (RB, TEN) [Questionable]; Justin Herbert (QB, LAC); Khalil Shakir (WR, BUF); George Pickens (WR, DAL); San Francisco 49ers (DEF, SF)
 
 ### Team 9 · 1-2 · 250.8 pts · waiver priority 3
-Starters: Brock Purdy (QB, SF); Jeremiyah Love (RB, ARI); RJ Harvey (RB, DEN); DJ Moore (WR, BUF); Jaylen Waddle (WR, DEN) [Questionable]; Oronde Gadsden (TE, LAC); Alvin Kamara (RB, NO); Andy Borregales (K, NE); New York Giants (DEF, NYG)
-Bench: Keon Coleman (WR, BUF); Colston Loveland (TE, CHI); Dak Prescott (QB, DAL); Tyler Allgeier (RB, ARI); Tyquan Thornton (WR, KC); Puka Nacua (WR, LAR) [Questionable]
+Starters: Brock Purdy (QB, SF); Jeremiyah Love (RB, ARI); RJ Harvey (RB, DEN); Puka Nacua (WR, LAR) [Questionable]; Jaylen Waddle (WR, DEN) [Questionable]; Colston Loveland (TE, CHI); DJ Moore (WR, BUF); Andy Borregales (K, NE); New York Giants (DEF, NYG)
+Bench: Keon Coleman (WR, BUF); Oronde Gadsden (TE, LAC); Dak Prescott (QB, DAL); Alvin Kamara (RB, NO); Tyler Allgeier (RB, ARI); Tyquan Thornton (WR, KC)
 
 ### Holla · 0-3 · 320.1 pts · waiver priority 10
 Starters: Patrick Mahomes (QB, KC); Christian McCaffrey (RB, SF); Cam Skattebo (RB, NYG); Ja'Marr Chase (WR, CIN); Zay Flowers (WR, BAL) [Questionable]; Tucker Kraft (TE, GB); Ollie Gordon (RB, MIA); Spencer Shrader (K, IND); Green Bay Packers (DEF, GB)
@@ -94,8 +94,8 @@ Starters: Bryce Young (QB, CAR); Quinshon Judkins (RB, CLE); Ashton Jeanty (RB, 
 Bench: Harold Fannin (TE, CLE); Caleb Douglas (WR, MIA) [Questionable]; Denzel Boston (WR, CLE); Saquon Barkley (RB, PHI); Baker Mayfield (QB, TB) [Out]; Courtland Sutton (WR, DEN)
 
 ### THE ACE OF SPADES (me) · 0-3 · 258.4 pts · waiver priority 12
-Starters: Kyler Murray (QB, MIN); Chase Brown (RB, CIN); Kenneth Walker (RB, KC); Rome Odunze (WR, CHI); Jordan Addison (WR, MIN); George Kittle (TE, SF); Rhamondre Stevenson (RB, NE); Cameron Dicker (K, LAC); Houston Texans (DEF, HOU)
-Bench: Drake Maye (QB, NE); Isaiah Davis (RB, NYJ); Emmett Johnson (RB, KC); Keenan Allen (WR, IND); Mike Evans (WR, SF) [Questionable]; Mark Andrews (TE, BAL)
+Starters: Drake Maye (QB, NE); Chase Brown (RB, CIN); Kenneth Walker (RB, KC); Rome Odunze (WR, CHI); Jordan Addison (WR, MIN); George Kittle (TE, SF); Rhamondre Stevenson (RB, NE); Cameron Dicker (K, LAC); Houston Texans (DEF, HOU)
+Bench: Isaiah Davis (RB, NYJ); Emmett Johnson (RB, KC); Keenan Allen (WR, IND); Mike Evans (WR, SF) [Questionable]; Mark Andrews (TE, BAL); Kyler Murray (QB, MIN)
 IR: A.J. Brown (WR, NE) [IR]
 
 ## Transactions, weeks 3 to 4, newest first
@@ -157,30 +157,30 @@ IR: A.J. Brown (WR, NE) [IR]
 - Alec Pierce (WR, IND) [IR] · dropped by Holla on Wed Sep 23, 5:30 AM ET · free agent now
 
 ## Trending adds across Sleeper, last 24 hours
-- Ollie Gordon (RB, MIA) · 658,840 adds · rostered by Holla
-- Konata Mumpfield (WR, LAR) · 650,772 adds · AVAILABLE in my league
-- Kenyon Sadiq (TE, NYJ) [Questionable] · 559,485 adds · rostered by FuelTheJET
-- Tyreek Hill (WR, FA) · 542,568 adds · AVAILABLE in my league
-- Alvin Kamara (RB, NO) · 454,664 adds · rostered by Team 9
-- Tyler Higbee (TE, LAR) · 439,344 adds · AVAILABLE in my league
-- Cleveland Browns (DEF, CLE) · 417,277 adds · AVAILABLE in my league
-- Darren Waller (TE, CAR) · 402,678 adds · rostered by Holla
-- Braelon Allen (RB, NYJ) · 367,620 adds · rostered by Drunk To Taste This CHX
-- Keaton Mitchell (RB, LAC) · 353,385 adds · rostered by Springfield Atoms
-- Kalif Raymond (WR, CHI) · 307,234 adds · rostered by Team 8
-- Keenan Allen (WR, IND) · 270,740 adds · on my roster
-- Isaiah Davis (RB, NYJ) · 256,716 adds · on my roster
-- Kirk Cousins (QB, LV) · 233,600 adds · rostered by Young Blood
-- Las Vegas Raiders (DEF, LV) · 207,732 adds · AVAILABLE in my league
-- Jaylen Wright (RB, MIA) [Questionable] · 168,472 adds · rostered by Make Miami Great Again
-- Pittsburgh Steelers (DEF, PIT) · 162,666 adds · rostered by Young Blood
-- Roman Wilson (WR, PIT) · 159,273 adds · AVAILABLE in my league
-- Spencer Shrader (K, IND) · 159,032 adds · rostered by Holla
-- Kendre Miller (RB, NO) · 153,646 adds · AVAILABLE in my league
-- Malik Washington (WR, MIA) · 146,520 adds · AVAILABLE in my league
-- Deshaun Watson (QB, CLE) · 146,328 adds · rostered by Team 8
-- Baltimore Ravens (DEF, BAL) · 141,894 adds · rostered by Springfield Atoms
-- Jordan Addison (WR, MIN) · 139,077 adds · on my roster
-- Jakobi Meyers (WR, JAX) [Questionable] · 137,754 adds · rostered by Strokin My Ditka
+- Konata Mumpfield (WR, LAR) · 512,217 adds · AVAILABLE in my league
+- Tyreek Hill (WR, FA) · 505,992 adds · AVAILABLE in my league
+- Ollie Gordon (RB, MIA) · 354,809 adds · rostered by Holla
+- Kenyon Sadiq (TE, NYJ) [Questionable] · 319,824 adds · rostered by FuelTheJET
+- Tyler Higbee (TE, LAR) · 303,282 adds · AVAILABLE in my league
+- Alvin Kamara (RB, NO) · 300,296 adds · rostered by Team 9
+- Cleveland Browns (DEF, CLE) · 296,226 adds · AVAILABLE in my league
+- Darren Waller (TE, CAR) · 275,094 adds · rostered by Holla
+- Keaton Mitchell (RB, LAC) · 207,054 adds · rostered by Springfield Atoms
+- Braelon Allen (RB, NYJ) · 198,716 adds · rostered by Drunk To Taste This CHX
+- Kalif Raymond (WR, CHI) · 193,850 adds · rostered by Team 8
+- Isaiah Davis (RB, NYJ) · 181,530 adds · on my roster
+- Kirk Cousins (QB, LV) · 180,968 adds · rostered by Young Blood
+- Keenan Allen (WR, IND) · 178,472 adds · on my roster
+- Las Vegas Raiders (DEF, LV) · 144,102 adds · AVAILABLE in my league
+- Roman Wilson (WR, PIT) · 119,601 adds · AVAILABLE in my league
+- Skyy Moore (WR, GB) · 116,480 adds · AVAILABLE in my league
+- Spencer Shrader (K, IND) · 114,860 adds · rostered by Holla
+- Deshaun Watson (QB, CLE) · 107,464 adds · rostered by Team 8
+- Malik Washington (WR, MIA) · 103,936 adds · AVAILABLE in my league
+- C.J. Stroud (QB, HOU) · 102,270 adds · AVAILABLE in my league
+- Kendre Miller (RB, NO) · 95,162 adds · AVAILABLE in my league
+- Jordan Addison (WR, MIN) · 93,222 adds · on my roster
+- Pittsburgh Steelers (DEF, PIT) · 92,376 adds · rostered by Young Blood
+- Jaylen Wright (RB, MIA) [Questionable] · 92,246 adds · rostered by Make Miami Great Again
 
 Data from the Sleeper API (sleeper.com). Injury tags in brackets are Sleeper's designations and may lag official reports.

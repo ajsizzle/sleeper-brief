@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-01T03:14:50.686846-04:00",
+  "generated": "2026-10-01T10:34:49.542894-04:00",
   "season": "2026",
   "week": 4,
   "league": {
@@ -30,7 +30,7 @@
     "waiver_position": 12,
     "faab_used": 77,
     "starters": [
-      "Kyler Murray (QB, MIN)",
+      "Drake Maye (QB, NE)",
       "Chase Brown (RB, CIN)",
       "Kenneth Walker (RB, KC)",
       "Rome Odunze (WR, CHI)",
@@ -41,12 +41,12 @@
       "Houston Texans (DEF, HOU)"
     ],
     "bench": [
-      "Drake Maye (QB, NE)",
       "Isaiah Davis (RB, NYJ)",
       "Emmett Johnson (RB, KC)",
       "Keenan Allen (WR, IND)",
       "Mike Evans (WR, SF) [Questionable]",
-      "Mark Andrews (TE, BAL)"
+      "Mark Andrews (TE, BAL)",
+      "Kyler Murray (QB, MIN)"
     ],
     "ir": [
       "A.J. Brown (WR, NE) [IR]"
@@ -266,12 +266,12 @@
       "faab_used": 0,
       "starters": [
         "Malik Willis (QB, MIA)",
-        "Omarion Hampton (RB, LAC)",
+        "TreVeyon Henderson (RB, NE)",
         "Jaylen Warren (RB, PIT)",
         "Jaxon Smith-Njigba (WR, SEA)",
         "Tetairoa McMillan (WR, CAR)",
         "Tyler Warren (TE, IND)",
-        "TreVeyon Henderson (RB, NE)",
+        "Omarion Hampton (RB, LAC)",
         "Chase McLaughlin (K, TB)",
         "Philadelphia Eagles (DEF, PHI)"
       ],
@@ -366,20 +366,20 @@
         "Brock Purdy (QB, SF)",
         "Jeremiyah Love (RB, ARI)",
         "RJ Harvey (RB, DEN)",
-        "DJ Moore (WR, BUF)",
+        "Puka Nacua (WR, LAR) [Questionable]",
         "Jaylen Waddle (WR, DEN) [Questionable]",
-        "Oronde Gadsden (TE, LAC)",
-        "Alvin Kamara (RB, NO)",
+        "Colston Loveland (TE, CHI)",
+        "DJ Moore (WR, BUF)",
         "Andy Borregales (K, NE)",
         "New York Giants (DEF, NYG)"
       ],
       "bench": [
         "Keon Coleman (WR, BUF)",
-        "Colston Loveland (TE, CHI)",
+        "Oronde Gadsden (TE, LAC)",
         "Dak Prescott (QB, DAL)",
+        "Alvin Kamara (RB, NO)",
         "Tyler Allgeier (RB, ARI)",
-        "Tyquan Thornton (WR, KC)",
-        "Puka Nacua (WR, LAR) [Questionable]"
+        "Tyquan Thornton (WR, KC)"
       ],
       "ir": []
     },
@@ -461,7 +461,7 @@
       "waiver_position": 12,
       "faab_used": 77,
       "starters": [
-        "Kyler Murray (QB, MIN)",
+        "Drake Maye (QB, NE)",
         "Chase Brown (RB, CIN)",
         "Kenneth Walker (RB, KC)",
         "Rome Odunze (WR, CHI)",
@@ -472,12 +472,12 @@
         "Houston Texans (DEF, HOU)"
       ],
       "bench": [
-        "Drake Maye (QB, NE)",
         "Isaiah Davis (RB, NYJ)",
         "Emmett Johnson (RB, KC)",
         "Keenan Allen (WR, IND)",
         "Mike Evans (WR, SF) [Questionable]",
-        "Mark Andrews (TE, BAL)"
+        "Mark Andrews (TE, BAL)",
+        "Kyler Murray (QB, MIN)"
       ],
       "ir": [
         "A.J. Brown (WR, NE) [IR]"
@@ -676,129 +676,129 @@
   ],
   "trending_adds": [
     {
-      "player": "Ollie Gordon (RB, MIA)",
-      "adds": 658840,
-      "rostered_by": 2
-    },
-    {
       "player": "Konata Mumpfield (WR, LAR)",
-      "adds": 650772,
+      "adds": 512217,
       "rostered_by": null
     },
     {
+      "player": "Tyreek Hill (WR, FA)",
+      "adds": 505992,
+      "rostered_by": null
+    },
+    {
+      "player": "Ollie Gordon (RB, MIA)",
+      "adds": 354809,
+      "rostered_by": 2
+    },
+    {
       "player": "Kenyon Sadiq (TE, NYJ) [Questionable]",
-      "adds": 559485,
+      "adds": 319824,
       "rostered_by": 6
     },
     {
-      "player": "Tyreek Hill (WR, FA)",
-      "adds": 542568,
+      "player": "Tyler Higbee (TE, LAR)",
+      "adds": 303282,
       "rostered_by": null
     },
     {
       "player": "Alvin Kamara (RB, NO)",
-      "adds": 454664,
+      "adds": 300296,
       "rostered_by": 9
     },
     {
-      "player": "Tyler Higbee (TE, LAR)",
-      "adds": 439344,
-      "rostered_by": null
-    },
-    {
       "player": "Cleveland Browns (DEF, CLE)",
-      "adds": 417277,
+      "adds": 296226,
       "rostered_by": null
     },
     {
       "player": "Darren Waller (TE, CAR)",
-      "adds": 402678,
+      "adds": 275094,
       "rostered_by": 2
     },
     {
-      "player": "Braelon Allen (RB, NYJ)",
-      "adds": 367620,
-      "rostered_by": 3
-    },
-    {
       "player": "Keaton Mitchell (RB, LAC)",
-      "adds": 353385,
+      "adds": 207054,
       "rostered_by": 5
     },
     {
+      "player": "Braelon Allen (RB, NYJ)",
+      "adds": 198716,
+      "rostered_by": 3
+    },
+    {
       "player": "Kalif Raymond (WR, CHI)",
-      "adds": 307234,
+      "adds": 193850,
       "rostered_by": 8
     },
     {
-      "player": "Keenan Allen (WR, IND)",
-      "adds": 270740,
-      "rostered_by": 11
-    },
-    {
       "player": "Isaiah Davis (RB, NYJ)",
-      "adds": 256716,
+      "adds": 181530,
       "rostered_by": 11
     },
     {
       "player": "Kirk Cousins (QB, LV)",
-      "adds": 233600,
+      "adds": 180968,
       "rostered_by": 12
+    },
+    {
+      "player": "Keenan Allen (WR, IND)",
+      "adds": 178472,
+      "rostered_by": 11
     },
     {
       "player": "Las Vegas Raiders (DEF, LV)",
-      "adds": 207732,
+      "adds": 144102,
       "rostered_by": null
     },
     {
-      "player": "Jaylen Wright (RB, MIA) [Questionable]",
-      "adds": 168472,
-      "rostered_by": 7
-    },
-    {
-      "player": "Pittsburgh Steelers (DEF, PIT)",
-      "adds": 162666,
-      "rostered_by": 12
-    },
-    {
       "player": "Roman Wilson (WR, PIT)",
-      "adds": 159273,
+      "adds": 119601,
+      "rostered_by": null
+    },
+    {
+      "player": "Skyy Moore (WR, GB)",
+      "adds": 116480,
       "rostered_by": null
     },
     {
       "player": "Spencer Shrader (K, IND)",
-      "adds": 159032,
+      "adds": 114860,
       "rostered_by": 2
     },
     {
-      "player": "Kendre Miller (RB, NO)",
-      "adds": 153646,
-      "rostered_by": null
-    },
-    {
-      "player": "Malik Washington (WR, MIA)",
-      "adds": 146520,
-      "rostered_by": null
-    },
-    {
       "player": "Deshaun Watson (QB, CLE)",
-      "adds": 146328,
+      "adds": 107464,
       "rostered_by": 8
     },
     {
-      "player": "Baltimore Ravens (DEF, BAL)",
-      "adds": 141894,
-      "rostered_by": 5
+      "player": "Malik Washington (WR, MIA)",
+      "adds": 103936,
+      "rostered_by": null
+    },
+    {
+      "player": "C.J. Stroud (QB, HOU)",
+      "adds": 102270,
+      "rostered_by": null
+    },
+    {
+      "player": "Kendre Miller (RB, NO)",
+      "adds": 95162,
+      "rostered_by": null
     },
     {
       "player": "Jordan Addison (WR, MIN)",
-      "adds": 139077,
+      "adds": 93222,
       "rostered_by": 11
     },
     {
-      "player": "Jakobi Meyers (WR, JAX) [Questionable]",
-      "adds": 137754,
-      "rostered_by": 10
+      "player": "Pittsburgh Steelers (DEF, PIT)",
+      "adds": 92376,
+      "rostered_by": 12
+    },
+    {
+      "player": "Jaylen Wright (RB, MIA) [Questionable]",
+      "adds": 92246,
+      "rostered_by": 7
     }
   ]
 }
