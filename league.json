@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-01T10:34:49.542894-04:00",
+  "generated": "2026-10-01T16:23:02.147859-04:00",
   "season": "2026",
   "week": 4,
   "league": {
@@ -233,7 +233,7 @@
       "starters": [
         "Josh Allen (QB, BUF) [Questionable]",
         "David Montgomery (RB, HOU)",
-        "Keaton Mitchell (RB, LAC)",
+        "Woody Marks (RB, HOU)",
         "CeeDee Lamb (WR, DAL)",
         "Terry McLaurin (WR, WAS)",
         "Sam LaPorta (TE, DET)",
@@ -242,12 +242,12 @@
         "Baltimore Ravens (DEF, BAL)"
       ],
       "bench": [
-        "Jayden Reed (WR, GB) [Out]",
         "Xavier Worthy (WR, KC)",
         "Brian Thomas (WR, JAX)",
         "Makai Lemon (WR, PHI)",
         "Jared Goff (QB, DET)",
-        "Travis Etienne (RB, NO) [Out]"
+        "Travis Etienne (RB, NO) [Out]",
+        "Keaton Mitchell (RB, LAC)"
       ],
       "ir": [
         "Jonathon Brooks (RB, CAR) [IR]"
@@ -430,20 +430,20 @@
       "faab_used": 0,
       "starters": [
         "Bryce Young (QB, CAR)",
-        "Quinshon Judkins (RB, CLE)",
+        "Chuba Hubbard (RB, CAR)",
         "Ashton Jeanty (RB, LV)",
         "Chris Olave (WR, NO)",
         "Emeka Egbuka (WR, TB)",
         "Pat Freiermuth (TE, PIT)",
-        "Chuba Hubbard (RB, CAR)",
+        "Saquon Barkley (RB, PHI)",
         "Evan McPherson (K, CIN)",
-        "New England Patriots (DEF, NE)"
+        "Chicago Bears (DEF, CHI)"
       ],
       "bench": [
         "Harold Fannin (TE, CLE)",
+        "Quinshon Judkins (RB, CLE)",
         "Caleb Douglas (WR, MIA) [Questionable]",
         "Denzel Boston (WR, CLE)",
-        "Saquon Barkley (RB, PHI)",
         "Baker Mayfield (QB, TB) [Out]",
         "Courtland Sutton (WR, DEN)"
       ],
@@ -485,6 +485,9 @@
     }
   ],
   "transactions": [
+    "Week 4 \u00b7 free_agent \u00b7 complete \u00b7 Thu Oct 01 04:21 PM \u00b7 Springfield Atoms \u00b7 added: Woody Marks (RB, HOU) to Springfield Atoms \u00b7 dropped: Jayden Reed (WR, GB) [Out] from Springfield Atoms",
+    "Week 4 \u00b7 free_agent \u00b7 complete \u00b7 Thu Oct 01 01:19 PM \u00b7 Whiskey Sippin Kings \u00b7 added: Chicago Bears (DEF, CHI) to Whiskey Sippin Kings \u00b7 dropped: New Orleans Saints (DEF, NO) from Whiskey Sippin Kings",
+    "Week 4 \u00b7 free_agent \u00b7 complete \u00b7 Thu Oct 01 01:18 PM \u00b7 Whiskey Sippin Kings \u00b7 added: New Orleans Saints (DEF, NO) to Whiskey Sippin Kings \u00b7 dropped: New England Patriots (DEF, NE) from Whiskey Sippin Kings",
     "Week 4 \u00b7 free_agent \u00b7 complete \u00b7 Wed Sep 30 08:54 PM \u00b7 Team 8 \u00b7 added: Kalif Raymond (WR, CHI) to Team 8 \u00b7 dropped: Rico Dowdle (RB, PIT) [Out] from Team 8",
     "Week 4 \u00b7 free_agent \u00b7 complete \u00b7 Wed Sep 30 08:52 PM \u00b7 Team 8 \u00b7 added: Deshaun Watson (QB, CLE) to Team 8",
     "Week 4 \u00b7 free_agent \u00b7 complete \u00b7 Wed Sep 30 08:50 PM \u00b7 Team 8 \u00b7 dropped: Jaxson Dart (QB, NYG) [IR] from Team 8",
@@ -519,6 +522,27 @@
     "Week 3 \u00b7 free_agent \u00b7 complete \u00b7 Wed Sep 23 05:30 AM \u00b7 Holla \u00b7 added: Tyjae Spears (RB, TEN) [Questionable] to Holla \u00b7 dropped: Alec Pierce (WR, IND) [IR] from Holla"
   ],
   "dropped_unrostered": [
+    {
+      "player": "Jayden Reed (WR, GB) [Out]",
+      "dropped_by": "Springfield Atoms",
+      "dropped_at": "2026-10-01T16:21:12.814000-04:00",
+      "on_waivers_until": "2026-10-03T16:21:12.814000-04:00",
+      "waiver_status": "on waivers until Sat Oct 3, 4:21 PM ET"
+    },
+    {
+      "player": "New Orleans Saints (DEF, NO)",
+      "dropped_by": "Whiskey Sippin Kings",
+      "dropped_at": "2026-10-01T13:19:45.931000-04:00",
+      "on_waivers_until": "2026-10-03T13:19:45.931000-04:00",
+      "waiver_status": "on waivers until Sat Oct 3, 1:19 PM ET"
+    },
+    {
+      "player": "New England Patriots (DEF, NE)",
+      "dropped_by": "Whiskey Sippin Kings",
+      "dropped_at": "2026-10-01T13:18:23.405000-04:00",
+      "on_waivers_until": "2026-10-03T13:18:23.405000-04:00",
+      "waiver_status": "on waivers until Sat Oct 3, 1:18 PM ET"
+    },
     {
       "player": "Rico Dowdle (RB, PIT) [Out]",
       "dropped_by": "Team 8",
@@ -676,129 +700,129 @@
   ],
   "trending_adds": [
     {
-      "player": "Konata Mumpfield (WR, LAR)",
-      "adds": 512217,
-      "rostered_by": null
-    },
-    {
       "player": "Tyreek Hill (WR, FA)",
-      "adds": 505992,
+      "adds": 488584,
       "rostered_by": null
     },
     {
-      "player": "Ollie Gordon (RB, MIA)",
-      "adds": 354809,
-      "rostered_by": 2
-    },
-    {
-      "player": "Kenyon Sadiq (TE, NYJ) [Questionable]",
-      "adds": 319824,
-      "rostered_by": 6
+      "player": "Konata Mumpfield (WR, LAR)",
+      "adds": 387342,
+      "rostered_by": null
     },
     {
       "player": "Tyler Higbee (TE, LAR)",
-      "adds": 303282,
+      "adds": 227619,
+      "rostered_by": null
+    },
+    {
+      "player": "Cleveland Browns (DEF, CLE)",
+      "adds": 221942,
       "rostered_by": null
     },
     {
       "player": "Alvin Kamara (RB, NO)",
-      "adds": 300296,
+      "adds": 215296,
       "rostered_by": 9
     },
     {
-      "player": "Cleveland Browns (DEF, CLE)",
-      "adds": 296226,
-      "rostered_by": null
-    },
-    {
-      "player": "Darren Waller (TE, CAR)",
-      "adds": 275094,
+      "player": "Ollie Gordon (RB, MIA)",
+      "adds": 209342,
       "rostered_by": 2
     },
     {
-      "player": "Keaton Mitchell (RB, LAC)",
-      "adds": 207054,
-      "rostered_by": 5
+      "player": "Darren Waller (TE, CAR)",
+      "adds": 207126,
+      "rostered_by": 2
     },
     {
-      "player": "Braelon Allen (RB, NYJ)",
-      "adds": 198716,
-      "rostered_by": 3
-    },
-    {
-      "player": "Kalif Raymond (WR, CHI)",
-      "adds": 193850,
-      "rostered_by": 8
+      "player": "Kenyon Sadiq (TE, NYJ) [Questionable]",
+      "adds": 196308,
+      "rostered_by": 6
     },
     {
       "player": "Isaiah Davis (RB, NYJ)",
-      "adds": 181530,
+      "adds": 153045,
       "rostered_by": 11
     },
     {
       "player": "Kirk Cousins (QB, LV)",
-      "adds": 180968,
+      "adds": 144560,
       "rostered_by": 12
     },
     {
       "player": "Keenan Allen (WR, IND)",
-      "adds": 178472,
+      "adds": 127180,
       "rostered_by": 11
     },
     {
+      "player": "Kalif Raymond (WR, CHI)",
+      "adds": 126302,
+      "rostered_by": 8
+    },
+    {
+      "player": "Braelon Allen (RB, NYJ)",
+      "adds": 117056,
+      "rostered_by": 3
+    },
+    {
+      "player": "Keaton Mitchell (RB, LAC)",
+      "adds": 108936,
+      "rostered_by": 5
+    },
+    {
       "player": "Las Vegas Raiders (DEF, LV)",
-      "adds": 144102,
+      "adds": 106404,
       "rostered_by": null
     },
     {
       "player": "Roman Wilson (WR, PIT)",
-      "adds": 119601,
+      "adds": 98640,
       "rostered_by": null
     },
     {
       "player": "Skyy Moore (WR, GB)",
-      "adds": 116480,
-      "rostered_by": null
-    },
-    {
-      "player": "Spencer Shrader (K, IND)",
-      "adds": 114860,
-      "rostered_by": 2
-    },
-    {
-      "player": "Deshaun Watson (QB, CLE)",
-      "adds": 107464,
-      "rostered_by": 8
-    },
-    {
-      "player": "Malik Washington (WR, MIA)",
-      "adds": 103936,
+      "adds": 93352,
       "rostered_by": null
     },
     {
       "player": "C.J. Stroud (QB, HOU)",
-      "adds": 102270,
+      "adds": 89726,
       "rostered_by": null
     },
     {
-      "player": "Kendre Miller (RB, NO)",
-      "adds": 95162,
+      "player": "Spencer Shrader (K, IND)",
+      "adds": 89652,
+      "rostered_by": 2
+    },
+    {
+      "player": "Raheim Sanders (RB, CLE)",
+      "adds": 81120,
       "rostered_by": null
+    },
+    {
+      "player": "Deshaun Watson (QB, CLE)",
+      "adds": 80720,
+      "rostered_by": 8
+    },
+    {
+      "player": "Malik Washington (WR, MIA)",
+      "adds": 77840,
+      "rostered_by": null
+    },
+    {
+      "player": "Brian Robinson (RB, ATL)",
+      "adds": 70980,
+      "rostered_by": 7
     },
     {
       "player": "Jordan Addison (WR, MIN)",
-      "adds": 93222,
+      "adds": 67455,
       "rostered_by": 11
     },
     {
-      "player": "Pittsburgh Steelers (DEF, PIT)",
-      "adds": 92376,
-      "rostered_by": 12
-    },
-    {
-      "player": "Jaylen Wright (RB, MIA) [Questionable]",
-      "adds": 92246,
-      "rostered_by": 7
+      "player": "Matt Gay (K, LV)",
+      "adds": 65505,
+      "rostered_by": 2
     }
   ]
 }
