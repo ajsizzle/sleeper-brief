@@ -1,5 +1,5 @@
 # Sleeper league state
-Generated Friday October 02, 2026 09:57 AM ET · Season 2026 · NFL week 4
+Generated Friday October 02, 2026 03:23 PM ET · Season 2026 · NFL week 4
 League: The Dudes Will Roll · 12 teams · waivers: FAAB (budget $200) · lineup: QB, RB, RB, WR, WR, TE, FLEX, K, DEF
 
 ## My team: THE ACE OF SPADES (roster 11)
@@ -55,8 +55,8 @@ Bench: Malik Nabers (WR, NYG); Devaughn Vele (WR, NO); Kenyon Sadiq (TE, NYJ) [Q
 IR: Jonah Coleman (RB, DEN) [IR]
 
 ### Drunk To Taste This CHX · 3-0 · 364.0 pts · waiver priority 7
-Starters: Jalen Hurts (QB, PHI); Derrick Henry (RB, BAL); Kyren Williams (RB, LAR); Josh Downs (WR, IND); Garrett Wilson (WR, NYJ); Travis Kelce (TE, KC); Jameson Williams (WR, DET); Harrison Butker (K, KC); Los Angeles Rams (DEF, LAR)
-Bench: Bo Nix (QB, DEN); Braelon Allen (RB, NYJ); Ladd McConkey (WR, LAC) [Questionable]; Travis Hunter (WR, JAX); Carnell Tate (WR, TEN); Dallas Goedert (TE, PHI) [Doubtful]
+Starters: Jalen Hurts (QB, PHI); Derrick Henry (RB, BAL); Kyren Williams (RB, LAR); Josh Downs (WR, IND); Garrett Wilson (WR, NYJ); Travis Kelce (TE, KC); Braelon Allen (RB, NYJ); Harrison Butker (K, KC); Los Angeles Rams (DEF, LAR)
+Bench: Bo Nix (QB, DEN); Ladd McConkey (WR, LAC) [Questionable]; Travis Hunter (WR, JAX); Carnell Tate (WR, TEN); Dallas Goedert (TE, PHI) [Doubtful]; Jameson Williams (WR, DET)
 
 ### Team 8 · 2-1 · 360.6 pts · waiver priority 5
 Starters: Trevor Lawrence (QB, JAX); Bijan Robinson (RB, ATL); Javonte Williams (RB, DAL); Drake London (WR, ATL); Tee Higgins (WR, CIN); Jake Ferguson (TE, DAL); Michael Wilson (WR, ARI); Tyler Loop (K, BAL); Minnesota Vikings (DEF, MIN)
@@ -147,7 +147,7 @@ IR: A.J. Brown (WR, NE) [IR]
 - New England Patriots (DEF, NE) · dropped by Whiskey Sippin Kings on Thu Oct 1, 1:18 PM ET · on waivers until Sat Oct 3, 1:18 PM ET
 - Rico Dowdle (RB, PIT) [Out] · dropped by Team 8 on Wed Sep 30, 8:54 PM ET · on waivers until Fri Oct 2, 8:54 PM ET
 - Jaxson Dart (QB, NYG) [IR] · dropped by Team 8 on Wed Sep 30, 8:50 PM ET · on waivers until Fri Oct 2, 8:50 PM ET
-- AJ Dillon (RB, CAR) · dropped by Springfield Atoms on Wed Sep 30, 12:05 PM ET · on waivers until Fri Oct 2, 12:05 PM ET
+- AJ Dillon (RB, CAR) · dropped by Springfield Atoms on Wed Sep 30, 12:05 PM ET · free agent now
 - Emanuel Wilson (RB, SEA) · dropped by THE ACE OF SPADES on Wed Sep 30, 7:53 AM ET · free agent now
 - Jason Myers (K, SEA) · dropped by Young Blood on Wed Sep 30, 3:26 AM ET · free agent now
 - Cincinnati Bengals (DEF, CIN) · dropped by Young Blood on Wed Sep 30, 3:24 AM ET · free agent now
@@ -169,30 +169,30 @@ IR: A.J. Brown (WR, NE) [IR]
 - Alec Pierce (WR, IND) [IR] · dropped by Holla on Wed Sep 23, 5:30 AM ET · free agent now
 
 ## Trending adds across Sleeper, last 24 hours
-- Tyreek Hill (WR, FA) · 549,088 adds · on my roster
-- Roman Wilson (WR, PIT) · 383,085 adds · AVAILABLE in my league
-- Isaiah Davis (RB, NYJ) · 344,880 adds · on my roster
-- Alvin Kamara (RB, NO) · 337,584 adds · rostered by Team 9
-- Konata Mumpfield (WR, LAR) · 312,525 adds · AVAILABLE in my league
-- Darren Waller (TE, CAR) · 199,494 adds · rostered by Holla
-- Tyler Higbee (TE, LAR) · 191,466 adds · AVAILABLE in my league
-- Cleveland Browns (DEF, CLE) · 169,743 adds · AVAILABLE in my league
-- Kendre Miller (RB, NO) · 123,234 adds · AVAILABLE in my league
-- Kirk Cousins (QB, LV) · 123,176 adds · rostered by Young Blood
-- Kenyon Sadiq (TE, NYJ) [Questionable] · 117,810 adds · rostered by FuelTheJET
-- Las Vegas Raiders (DEF, LV) · 94,014 adds · AVAILABLE in my league
-- Jaylen Wright (RB, MIA) · 93,278 adds · rostered by Make Miami Great Again
-- Deshaun Watson (QB, CLE) · 92,448 adds · rostered by Team 8
-- KC Concepcion (WR, CLE) · 88,821 adds · rostered by Thoroughbred Cheesehead
-- Ollie Gordon (RB, MIA) · 88,172 adds · rostered by Holla
-- Keenan Allen (WR, IND) [Questionable] · 85,960 adds · on my roster
-- C.J. Stroud (QB, HOU) · 85,680 adds · AVAILABLE in my league
-- Kalif Raymond (WR, CHI) · 83,492 adds · rostered by Team 8
-- Zach Charbonnet (RB, SEA) [PUP] · 80,982 adds · AVAILABLE in my league
-- Skyy Moore (WR, GB) · 74,000 adds · AVAILABLE in my league
-- Dontayvion Wicks (WR, PHI) · 72,819 adds · rostered by Holla
-- Arizona Cardinals (DEF, ARI) · 70,416 adds · AVAILABLE in my league
-- Malik Washington (WR, MIA) · 70,280 adds · AVAILABLE in my league
-- MarShawn Lloyd (RB, GB) · 69,786 adds · rostered by Make Miami Great Again
+- Roman Wilson (WR, PIT) · 545,904 adds · AVAILABLE in my league
+- Tyreek Hill (WR, FA) · 492,736 adds · on my roster
+- Isaiah Davis (RB, NYJ) · 436,563 adds · on my roster
+- Alvin Kamara (RB, NO) · 329,856 adds · rostered by Team 9
+- Konata Mumpfield (WR, LAR) · 265,932 adds · AVAILABLE in my league
+- Darren Waller (TE, CAR) · 208,800 adds · rostered by Holla
+- Tyler Higbee (TE, LAR) · 176,787 adds · AVAILABLE in my league
+- Kendre Miller (RB, NO) · 128,320 adds · AVAILABLE in my league
+- Cleveland Browns (DEF, CLE) · 118,468 adds · AVAILABLE in my league
+- Kirk Cousins (QB, LV) · 114,752 adds · rostered by Young Blood
+- Jauan Jennings (WR, MIN) · 108,871 adds · AVAILABLE in my league
+- Kenyon Sadiq (TE, NYJ) [Questionable] · 108,828 adds · rostered by FuelTheJET
+- Jaylen Wright (RB, MIA) · 105,930 adds · rostered by Make Miami Great Again
+- Dontayvion Wicks (WR, PHI) · 100,443 adds · rostered by Holla
+- Las Vegas Raiders (DEF, LV) · 91,950 adds · AVAILABLE in my league
+- KC Concepcion (WR, CLE) · 89,388 adds · rostered by Thoroughbred Cheesehead
+- Emanuel Wilson (RB, SEA) · 89,001 adds · AVAILABLE in my league
+- Makai Lemon (WR, PHI) · 87,828 adds · rostered by Springfield Atoms
+- Deshaun Watson (QB, CLE) · 86,696 adds · rostered by Team 8
+- C.J. Stroud (QB, HOU) · 83,391 adds · AVAILABLE in my league
+- Malik Washington (WR, MIA) · 76,160 adds · AVAILABLE in my league
+- Kalif Raymond (WR, CHI) · 76,040 adds · rostered by Team 8
+- Jordan Addison (WR, MIN) · 75,861 adds · on my roster
+- Keenan Allen (WR, IND) [Questionable] · 74,976 adds · on my roster
+- MarShawn Lloyd (RB, GB) · 73,179 adds · rostered by Make Miami Great Again
 
 Data from the Sleeper API (sleeper.com). Injury tags in brackets are Sleeper's designations and may lag official reports.

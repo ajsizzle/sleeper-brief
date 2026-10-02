@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-02T09:57:01.985236-04:00",
+  "generated": "2026-10-02T15:23:59.645314-04:00",
   "season": "2026",
   "week": 4,
   "league": {
@@ -173,17 +173,17 @@
         "Josh Downs (WR, IND)",
         "Garrett Wilson (WR, NYJ)",
         "Travis Kelce (TE, KC)",
-        "Jameson Williams (WR, DET)",
+        "Braelon Allen (RB, NYJ)",
         "Harrison Butker (K, KC)",
         "Los Angeles Rams (DEF, LAR)"
       ],
       "bench": [
         "Bo Nix (QB, DEN)",
-        "Braelon Allen (RB, NYJ)",
         "Ladd McConkey (WR, LAC) [Questionable]",
         "Travis Hunter (WR, JAX)",
         "Carnell Tate (WR, TEN)",
-        "Dallas Goedert (TE, PHI) [Doubtful]"
+        "Dallas Goedert (TE, PHI) [Doubtful]",
+        "Jameson Williams (WR, DET)"
       ],
       "ir": []
     },
@@ -585,8 +585,8 @@
       "player": "AJ Dillon (RB, CAR)",
       "dropped_by": "Springfield Atoms",
       "dropped_at": "2026-09-30T12:05:15.774000-04:00",
-      "on_waivers_until": "2026-10-02T12:05:15.774000-04:00",
-      "waiver_status": "on waivers until Fri Oct 2, 12:05 PM ET"
+      "on_waivers_until": null,
+      "waiver_status": "free agent now"
     },
     {
       "player": "Emanuel Wilson (RB, SEA)",
@@ -724,128 +724,128 @@
   ],
   "trending_adds": [
     {
-      "player": "Tyreek Hill (WR, FA)",
-      "adds": 549088,
-      "rostered_by": 11
-    },
-    {
       "player": "Roman Wilson (WR, PIT)",
-      "adds": 383085,
+      "adds": 545904,
       "rostered_by": null
     },
     {
+      "player": "Tyreek Hill (WR, FA)",
+      "adds": 492736,
+      "rostered_by": 11
+    },
+    {
       "player": "Isaiah Davis (RB, NYJ)",
-      "adds": 344880,
+      "adds": 436563,
       "rostered_by": 11
     },
     {
       "player": "Alvin Kamara (RB, NO)",
-      "adds": 337584,
+      "adds": 329856,
       "rostered_by": 9
     },
     {
       "player": "Konata Mumpfield (WR, LAR)",
-      "adds": 312525,
+      "adds": 265932,
       "rostered_by": null
     },
     {
       "player": "Darren Waller (TE, CAR)",
-      "adds": 199494,
+      "adds": 208800,
       "rostered_by": 2
     },
     {
       "player": "Tyler Higbee (TE, LAR)",
-      "adds": 191466,
-      "rostered_by": null
-    },
-    {
-      "player": "Cleveland Browns (DEF, CLE)",
-      "adds": 169743,
+      "adds": 176787,
       "rostered_by": null
     },
     {
       "player": "Kendre Miller (RB, NO)",
-      "adds": 123234,
+      "adds": 128320,
+      "rostered_by": null
+    },
+    {
+      "player": "Cleveland Browns (DEF, CLE)",
+      "adds": 118468,
       "rostered_by": null
     },
     {
       "player": "Kirk Cousins (QB, LV)",
-      "adds": 123176,
+      "adds": 114752,
       "rostered_by": 12
     },
     {
+      "player": "Jauan Jennings (WR, MIN)",
+      "adds": 108871,
+      "rostered_by": null
+    },
+    {
       "player": "Kenyon Sadiq (TE, NYJ) [Questionable]",
-      "adds": 117810,
+      "adds": 108828,
       "rostered_by": 6
     },
     {
-      "player": "Las Vegas Raiders (DEF, LV)",
-      "adds": 94014,
-      "rostered_by": null
-    },
-    {
       "player": "Jaylen Wright (RB, MIA)",
-      "adds": 93278,
+      "adds": 105930,
       "rostered_by": 7
     },
     {
-      "player": "Deshaun Watson (QB, CLE)",
-      "adds": 92448,
-      "rostered_by": 8
+      "player": "Dontayvion Wicks (WR, PHI)",
+      "adds": 100443,
+      "rostered_by": 2
+    },
+    {
+      "player": "Las Vegas Raiders (DEF, LV)",
+      "adds": 91950,
+      "rostered_by": null
     },
     {
       "player": "KC Concepcion (WR, CLE)",
-      "adds": 88821,
+      "adds": 89388,
       "rostered_by": 4
     },
     {
-      "player": "Ollie Gordon (RB, MIA)",
-      "adds": 88172,
-      "rostered_by": 2
-    },
-    {
-      "player": "Keenan Allen (WR, IND) [Questionable]",
-      "adds": 85960,
-      "rostered_by": 11
-    },
-    {
-      "player": "C.J. Stroud (QB, HOU)",
-      "adds": 85680,
+      "player": "Emanuel Wilson (RB, SEA)",
+      "adds": 89001,
       "rostered_by": null
     },
     {
-      "player": "Kalif Raymond (WR, CHI)",
-      "adds": 83492,
+      "player": "Makai Lemon (WR, PHI)",
+      "adds": 87828,
+      "rostered_by": 5
+    },
+    {
+      "player": "Deshaun Watson (QB, CLE)",
+      "adds": 86696,
       "rostered_by": 8
     },
     {
-      "player": "Zach Charbonnet (RB, SEA) [PUP]",
-      "adds": 80982,
-      "rostered_by": null
-    },
-    {
-      "player": "Skyy Moore (WR, GB)",
-      "adds": 74000,
-      "rostered_by": null
-    },
-    {
-      "player": "Dontayvion Wicks (WR, PHI)",
-      "adds": 72819,
-      "rostered_by": 2
-    },
-    {
-      "player": "Arizona Cardinals (DEF, ARI)",
-      "adds": 70416,
+      "player": "C.J. Stroud (QB, HOU)",
+      "adds": 83391,
       "rostered_by": null
     },
     {
       "player": "Malik Washington (WR, MIA)",
-      "adds": 70280,
+      "adds": 76160,
       "rostered_by": null
     },
     {
+      "player": "Kalif Raymond (WR, CHI)",
+      "adds": 76040,
+      "rostered_by": 8
+    },
+    {
+      "player": "Jordan Addison (WR, MIN)",
+      "adds": 75861,
+      "rostered_by": 11
+    },
+    {
+      "player": "Keenan Allen (WR, IND) [Questionable]",
+      "adds": 74976,
+      "rostered_by": 11
+    },
+    {
       "player": "MarShawn Lloyd (RB, GB)",
-      "adds": 69786,
+      "adds": 73179,
       "rostered_by": 7
     }
   ]
