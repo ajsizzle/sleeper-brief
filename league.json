@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-03T15:59:48.236721-04:00",
+  "generated": "2026-10-03T19:09:34.797872-04:00",
   "season": "2026",
   "week": 4,
   "league": {
@@ -68,18 +68,18 @@
       "Jahmyr Gibbs (RB, DET)",
       "Blake Corum (RB, LAR)",
       "Parker Washington (WR, JAX)",
-      "DeVonta Smith (WR, PHI) [Out]",
+      "Malik Nabers (WR, NYG)",
       "Trey McBride (TE, ARI)",
       "Matthew Golden (WR, GB)",
       "Cam Little (K, JAX)",
       "Seattle Seahawks (DEF, SEA)"
     ],
     "bench": [
-      "Malik Nabers (WR, NYG)",
       "Devaughn Vele (WR, NO)",
       "Kenyon Sadiq (TE, NYJ) [Questionable]",
       "Kaelon Black (RB, SF)",
       "Jordan Love (QB, GB)",
+      "DeVonta Smith (WR, PHI) [Out]",
       "Rashod Bateman (WR, BAL)"
     ],
     "ir": [
@@ -137,18 +137,18 @@
         "Jahmyr Gibbs (RB, DET)",
         "Blake Corum (RB, LAR)",
         "Parker Washington (WR, JAX)",
-        "DeVonta Smith (WR, PHI) [Out]",
+        "Malik Nabers (WR, NYG)",
         "Trey McBride (TE, ARI)",
         "Matthew Golden (WR, GB)",
         "Cam Little (K, JAX)",
         "Seattle Seahawks (DEF, SEA)"
       ],
       "bench": [
-        "Malik Nabers (WR, NYG)",
         "Devaughn Vele (WR, NO)",
         "Kenyon Sadiq (TE, NYJ) [Questionable]",
         "Kaelon Black (RB, SF)",
         "Jordan Love (QB, GB)",
+        "DeVonta Smith (WR, PHI) [Out]",
         "Rashod Bateman (WR, BAL)"
       ],
       "ir": [
@@ -543,15 +543,15 @@
       "player": "Kyler Murray (QB, MIN)",
       "dropped_by": "THE ACE OF SPADES",
       "dropped_at": "2026-10-01T17:25:20.719000-04:00",
-      "on_waivers_until": "2026-10-03T17:25:20.719000-04:00",
-      "waiver_status": "on waivers until Sat Oct 3, 5:25 PM ET"
+      "on_waivers_until": null,
+      "waiver_status": "free agent now"
     },
     {
       "player": "Jayden Reed (WR, GB) [IR]",
       "dropped_by": "Springfield Atoms",
       "dropped_at": "2026-10-01T16:21:12.814000-04:00",
-      "on_waivers_until": "2026-10-03T16:21:12.814000-04:00",
-      "waiver_status": "on waivers until Sat Oct 3, 4:21 PM ET"
+      "on_waivers_until": null,
+      "waiver_status": "free agent now"
     },
     {
       "player": "New Orleans Saints (DEF, NO)",
@@ -725,128 +725,128 @@
   "trending_adds": [
     {
       "player": "Emanuel Wilson (RB, SEA)",
-      "adds": 892845,
+      "adds": 1120167,
       "rostered_by": null
     },
     {
       "player": "Roman Wilson (WR, PIT)",
-      "adds": 420237,
+      "adds": 368370,
       "rostered_by": null
     },
     {
       "player": "Jauan Jennings (WR, MIN)",
-      "adds": 331289,
+      "adds": 299341,
       "rostered_by": null
     },
     {
       "player": "Isaiah Davis (RB, NYJ)",
-      "adds": 202338,
+      "adds": 166491,
       "rostered_by": 11
-    },
-    {
-      "player": "Tyler Higbee (TE, LAR)",
-      "adds": 149220,
-      "rostered_by": null
     },
     {
       "player": "Darren Waller (TE, CAR)",
-      "adds": 146655,
+      "adds": 131499,
       "rostered_by": 2
     },
     {
-      "player": "Tyreek Hill (WR, FA)",
-      "adds": 106664,
-      "rostered_by": 11
+      "player": "Tyler Higbee (TE, LAR)",
+      "adds": 113499,
+      "rostered_by": null
     },
     {
       "player": "Tyson Bagent (QB, CHI)",
-      "adds": 106614,
+      "adds": 103098,
+      "rostered_by": null
+    },
+    {
+      "player": "Austin Ekeler (RB, WAS)",
+      "adds": 89028,
       "rostered_by": null
     },
     {
       "player": "Makai Lemon (WR, PHI)",
-      "adds": 90380,
+      "adds": 85988,
       "rostered_by": 5
     },
     {
-      "player": "Jordan Addison (WR, MIN)",
-      "adds": 89235,
+      "player": "Tyreek Hill (WR, FA)",
+      "adds": 82480,
       "rostered_by": 11
     },
     {
       "player": "Dontayvion Wicks (WR, PHI)",
-      "adds": 83757,
+      "adds": 74673,
       "rostered_by": 2
     },
     {
-      "player": "Austin Ekeler (RB, WAS)",
-      "adds": 70652,
-      "rostered_by": null
-    },
-    {
-      "player": "Konata Mumpfield (WR, LAR)",
-      "adds": 60489,
-      "rostered_by": null
-    },
-    {
-      "player": "Alvin Kamara (RB, NO)",
-      "adds": 58912,
-      "rostered_by": 9
+      "player": "Jordan Addison (WR, MIN)",
+      "adds": 70938,
+      "rostered_by": 11
     },
     {
       "player": "Malik Washington (WR, MIA)",
-      "adds": 58816,
+      "adds": 58032,
       "rostered_by": null
     },
     {
       "player": "Las Vegas Raiders (DEF, LV)",
-      "adds": 54660,
+      "adds": 51120,
       "rostered_by": null
     },
     {
+      "player": "Alvin Kamara (RB, NO)",
+      "adds": 50400,
+      "rostered_by": 9
+    },
+    {
+      "player": "Jacory Croskey-Merritt (RB, WAS)",
+      "adds": 48843,
+      "rostered_by": 4
+    },
+    {
       "player": "Tre' Harris (WR, LAC)",
-      "adds": 53932,
+      "adds": 48716,
       "rostered_by": null
     },
     {
       "player": "Kenyon Sadiq (TE, NYJ) [Questionable]",
-      "adds": 49824,
+      "adds": 48105,
       "rostered_by": 6
     },
     {
-      "player": "Jacory Croskey-Merritt (RB, WAS)",
-      "adds": 48780,
-      "rostered_by": 4
-    },
-    {
-      "player": "C.J. Stroud (QB, HOU)",
-      "adds": 48370,
+      "player": "Chris Bell (WR, MIA)",
+      "adds": 47327,
       "rostered_by": null
     },
     {
-      "player": "Chris Bell (WR, MIA)",
-      "adds": 48020,
+      "player": "C.J. Stroud (QB, HOU)",
+      "adds": 45717,
       "rostered_by": null
     },
     {
       "player": "Arizona Cardinals (DEF, ARI)",
-      "adds": 44672,
+      "adds": 45544,
+      "rostered_by": null
+    },
+    {
+      "player": "Zach Charbonnet (RB, SEA) [PUP]",
+      "adds": 42048,
+      "rostered_by": null
+    },
+    {
+      "player": "Konata Mumpfield (WR, LAR)",
+      "adds": 41607,
+      "rostered_by": null
+    },
+    {
+      "player": "Keaton Mitchell (RB, LAC)",
+      "adds": 40041,
       "rostered_by": null
     },
     {
       "player": "Jakobi Meyers (WR, JAX)",
-      "adds": 39120,
+      "adds": 37854,
       "rostered_by": 10
-    },
-    {
-      "player": "Kirk Cousins (QB, LV)",
-      "adds": 38392,
-      "rostered_by": 12
-    },
-    {
-      "player": "MarShawn Lloyd (RB, GB)",
-      "adds": 37350,
-      "rostered_by": 7
     }
   ]
 }
