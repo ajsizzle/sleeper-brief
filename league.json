@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-03T01:27:31.882466-04:00",
+  "generated": "2026-10-03T07:49:07.523220-04:00",
   "season": "2026",
   "week": 4,
   "league": {
@@ -725,127 +725,127 @@
   "trending_adds": [
     {
       "player": "Emanuel Wilson (RB, SEA)",
-      "adds": 622269,
+      "adds": 682011,
       "rostered_by": null
     },
     {
       "player": "Roman Wilson (WR, PIT)",
-      "adds": 557928,
+      "adds": 533142,
       "rostered_by": null
     },
     {
       "player": "Isaiah Davis (RB, NYJ)",
-      "adds": 312534,
+      "adds": 296388,
       "rostered_by": 11
     },
     {
       "player": "Jauan Jennings (WR, MIN)",
-      "adds": 251748,
+      "adds": 268821,
       "rostered_by": null
     },
     {
       "player": "Tyreek Hill (WR, FA)",
-      "adds": 223200,
+      "adds": 190880,
       "rostered_by": 11
     },
     {
       "player": "Darren Waller (TE, CAR)",
-      "adds": 166158,
+      "adds": 160353,
       "rostered_by": 2
     },
     {
       "player": "Tyler Higbee (TE, LAR)",
-      "adds": 153747,
+      "adds": 152172,
       "rostered_by": null
-    },
-    {
-      "player": "Konata Mumpfield (WR, LAR)",
-      "adds": 112104,
-      "rostered_by": null
-    },
-    {
-      "player": "Alvin Kamara (RB, NO)",
-      "adds": 105592,
-      "rostered_by": 9
     },
     {
       "player": "Jordan Addison (WR, MIN)",
-      "adds": 96444,
+      "adds": 97767,
       "rostered_by": 11
     },
     {
-      "player": "Dontayvion Wicks (WR, PHI)",
-      "adds": 95430,
-      "rostered_by": 2
-    },
-    {
-      "player": "Makai Lemon (WR, PHI)",
-      "adds": 90432,
-      "rostered_by": 5
-    },
-    {
-      "player": "Tyson Bagent (QB, CHI)",
-      "adds": 78270,
+      "player": "Konata Mumpfield (WR, LAR)",
+      "adds": 92610,
       "rostered_by": null
     },
     {
+      "player": "Dontayvion Wicks (WR, PHI)",
+      "adds": 90864,
+      "rostered_by": 2
+    },
+    {
+      "player": "Alvin Kamara (RB, NO)",
+      "adds": 89936,
+      "rostered_by": 9
+    },
+    {
+      "player": "Tyson Bagent (QB, CHI)",
+      "adds": 88296,
+      "rostered_by": null
+    },
+    {
+      "player": "Makai Lemon (WR, PHI)",
+      "adds": 88220,
+      "rostered_by": 5
+    },
+    {
       "player": "Kenyon Sadiq (TE, NYJ) [Questionable]",
-      "adds": 64818,
+      "adds": 60687,
       "rostered_by": 6
     },
     {
       "player": "Las Vegas Raiders (DEF, LV)",
-      "adds": 63054,
+      "adds": 59640,
       "rostered_by": null
     },
     {
       "player": "Malik Washington (WR, MIA)",
-      "adds": 62072,
+      "adds": 59528,
       "rostered_by": null
     },
     {
       "player": "Kirk Cousins (QB, LV)",
-      "adds": 59696,
+      "adds": 53736,
       "rostered_by": 12
     },
     {
-      "player": "Jaylen Wright (RB, MIA)",
-      "adds": 56768,
-      "rostered_by": 7
-    },
-    {
       "player": "C.J. Stroud (QB, HOU)",
-      "adds": 54089,
+      "adds": 51863,
       "rostered_by": null
     },
     {
       "player": "Jacory Croskey-Merritt (RB, WAS)",
-      "adds": 51957,
+      "adds": 51570,
       "rostered_by": 4
     },
     {
-      "player": "MarShawn Lloyd (RB, GB)",
-      "adds": 51651,
+      "player": "Jaylen Wright (RB, MIA)",
+      "adds": 50070,
       "rostered_by": 7
     },
     {
+      "player": "MarShawn Lloyd (RB, GB)",
+      "adds": 48483,
+      "rostered_by": 7
+    },
+    {
+      "player": "Austin Ekeler (RB, WAS)",
+      "adds": 47768,
+      "rostered_by": null
+    },
+    {
+      "player": "Tre' Harris (WR, LAC)",
+      "adds": 45700,
+      "rostered_by": null
+    },
+    {
       "player": "Arizona Cardinals (DEF, ARI)",
-      "adds": 47144,
+      "adds": 45680,
       "rostered_by": null
     },
     {
       "player": "Skyy Moore (WR, GB)",
-      "adds": 46208,
-      "rostered_by": null
-    },
-    {
-      "player": "KC Concepcion (WR, CLE)",
-      "adds": 46026,
-      "rostered_by": 4
-    },
-    {
-      "player": "Kendre Miller (RB, NO)",
-      "adds": 44502,
+      "adds": 44032,
       "rostered_by": null
     }
   ]
