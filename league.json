@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-04T15:42:14.592216-04:00",
+  "generated": "2026-10-04T19:17:54.357118-04:00",
   "season": "2026",
   "week": 4,
   "league": {
@@ -751,127 +751,127 @@
   "trending_adds": [
     {
       "player": "Emanuel Wilson (RB, SEA)",
-      "adds": 1244664,
+      "adds": 881613,
       "rostered_by": 7
     },
     {
+      "player": "Brycen Tremayne (WR, CAR)",
+      "adds": 502920,
+      "rostered_by": null
+    },
+    {
       "player": "Jauan Jennings (WR, MIN)",
-      "adds": 485450,
+      "adds": 438235,
       "rostered_by": null
     },
     {
       "player": "Roman Wilson (WR, PIT)",
-      "adds": 401571,
-      "rostered_by": null
-    },
-    {
-      "player": "Brycen Tremayne (WR, CAR)",
-      "adds": 374760,
+      "adds": 433476,
       "rostered_by": null
     },
     {
       "player": "Darren Waller (TE, CAR)",
-      "adds": 246141,
+      "adds": 254988,
       "rostered_by": 2
     },
     {
+      "player": "Keon Coleman (WR, BUF)",
+      "adds": 194004,
+      "rostered_by": 9
+    },
+    {
       "player": "Isaiah Davis (RB, NYJ)",
-      "adds": 210582,
+      "adds": 171054,
       "rostered_by": 11
     },
     {
+      "player": "Tank Bigsby (RB, PHI)",
+      "adds": 141064,
+      "rostered_by": null
+    },
+    {
       "player": "Arizona Cardinals (DEF, ARI)",
-      "adds": 145688,
+      "adds": 137344,
       "rostered_by": 4
     },
     {
-      "player": "Tyler Higbee (TE, LAR)",
-      "adds": 137727,
+      "player": "Darius Cooper (WR, PHI)",
+      "adds": 136521,
       "rostered_by": null
+    },
+    {
+      "player": "Tyler Higbee (TE, LAR)",
+      "adds": 132723,
+      "rostered_by": null
+    },
+    {
+      "player": "C.J. Stroud (QB, HOU)",
+      "adds": 104265,
+      "rostered_by": 11
     },
     {
       "player": "Austin Ekeler (RB, WAS)",
-      "adds": 127084,
-      "rostered_by": null
-    },
-    {
-      "player": "Tank Bigsby (RB, PHI)",
-      "adds": 116711,
-      "rostered_by": null
-    },
-    {
-      "player": "Darius Cooper (WR, PHI)",
-      "adds": 116445,
+      "adds": 103792,
       "rostered_by": null
     },
     {
       "player": "Tyson Bagent (QB, CHI)",
-      "adds": 107496,
+      "adds": 94506,
       "rostered_by": null
     },
     {
       "player": "Malik Washington (WR, MIA)",
-      "adds": 97448,
+      "adds": 90496,
+      "rostered_by": null
+    },
+    {
+      "player": "Romeo Doubs (WR, NE)",
+      "adds": 87264,
+      "rostered_by": null
+    },
+    {
+      "player": "Tyquan Thornton (WR, KC)",
+      "adds": 82733,
+      "rostered_by": 9
+    },
+    {
+      "player": "Jordan Addison (WR, MIN)",
+      "adds": 78507,
+      "rostered_by": 11
+    },
+    {
+      "player": "Las Vegas Raiders (DEF, LV)",
+      "adds": 77304,
+      "rostered_by": null
+    },
+    {
+      "player": "Kirk Cousins (QB, LV)",
+      "adds": 75232,
+      "rostered_by": 12
+    },
+    {
+      "player": "Dohnte Meyers (WR, CIN)",
+      "adds": 75150,
       "rostered_by": null
     },
     {
       "player": "Makai Lemon (WR, PHI)",
-      "adds": 89088,
+      "adds": 70640,
       "rostered_by": 5
     },
     {
-      "player": "C.J. Stroud (QB, HOU)",
-      "adds": 88060,
-      "rostered_by": 11
-    },
-    {
-      "player": "Jordan Addison (WR, MIN)",
-      "adds": 87597,
-      "rostered_by": 11
+      "player": "Joe Mixon (RB, FA)",
+      "adds": 70454,
+      "rostered_by": null
     },
     {
       "player": "Dontayvion Wicks (WR, PHI)",
-      "adds": 81873,
+      "adds": 68793,
       "rostered_by": 2
-    },
-    {
-      "player": "Kenyon Sadiq (TE, NYJ) [Questionable]",
-      "adds": 71946,
-      "rostered_by": 6
     },
     {
       "player": "Keaton Mitchell (RB, LAC)",
-      "adds": 70074,
-      "rostered_by": null
-    },
-    {
-      "player": "Las Vegas Raiders (DEF, LV)",
-      "adds": 69636,
-      "rostered_by": null
-    },
-    {
-      "player": "Joe Mixon (RB, FA)",
-      "adds": 66390,
-      "rostered_by": null
-    },
-    {
-      "player": "Laquon Treadwell (WR, IND)",
-      "adds": 62945,
-      "rostered_by": null
-    },
-    {
-      "player": "Tyreek Hill (WR, FA)",
-      "adds": 60744,
-      "rostered_by": 11
-    },
-    {
-      "player": "Matt Gay (K, LV)",
-      "adds": 60325,
-      "rostered_by": 2
-    },
-    {
-      "player": "Zach Charbonnet (RB, SEA) [PUP]",
-      "adds": 59316,
+      "adds": 68769,
       "rostered_by": null
     }
   ]
