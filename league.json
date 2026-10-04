@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-04T05:56:27.557102-04:00",
+  "generated": "2026-10-04T11:25:22.518054-04:00",
   "season": "2026",
   "week": 4,
   "league": {
@@ -529,8 +529,8 @@
       "player": "Keaton Mitchell (RB, LAC)",
       "dropped_by": "Springfield Atoms",
       "dropped_at": "2026-10-02T09:40:28.534000-04:00",
-      "on_waivers_until": "2026-10-04T09:40:28.534000-04:00",
-      "waiver_status": "on waivers until Sun Oct 4, 9:40 AM ET"
+      "on_waivers_until": null,
+      "waiver_status": "free agent now"
     },
     {
       "player": "Terrance Ferguson (TE, LAR) [IR]",
@@ -725,128 +725,128 @@
   "trending_adds": [
     {
       "player": "Emanuel Wilson (RB, SEA)",
-      "adds": 1118790,
-      "rostered_by": null
-    },
-    {
-      "player": "Roman Wilson (WR, PIT)",
-      "adds": 341172,
+      "adds": 1244781,
       "rostered_by": null
     },
     {
       "player": "Jauan Jennings (WR, MIN)",
-      "adds": 312991,
+      "adds": 424382,
+      "rostered_by": null
+    },
+    {
+      "player": "Roman Wilson (WR, PIT)",
+      "adds": 389592,
       "rostered_by": null
     },
     {
       "player": "Isaiah Davis (RB, NYJ)",
-      "adds": 159282,
+      "adds": 207279,
       "rostered_by": 11
     },
     {
       "player": "Darren Waller (TE, CAR)",
-      "adds": 142011,
+      "adds": 204156,
       "rostered_by": 2
     },
     {
+      "player": "Brycen Tremayne (WR, CAR)",
+      "adds": 198432,
+      "rostered_by": null
+    },
+    {
       "player": "Austin Ekeler (RB, WAS)",
-      "adds": 111440,
+      "adds": 137588,
       "rostered_by": null
     },
     {
       "player": "Tyler Higbee (TE, LAR)",
-      "adds": 108630,
+      "adds": 131175,
       "rostered_by": null
     },
     {
       "player": "Tyson Bagent (QB, CHI)",
-      "adds": 89214,
+      "adds": 108516,
       "rostered_by": null
     },
     {
-      "player": "Brycen Tremayne (WR, CAR)",
-      "adds": 89208,
+      "player": "Arizona Cardinals (DEF, ARI)",
+      "adds": 105200,
       "rostered_by": null
     },
     {
       "player": "Makai Lemon (WR, PHI)",
-      "adds": 82636,
+      "adds": 98724,
       "rostered_by": 5
     },
     {
       "player": "Dontayvion Wicks (WR, PHI)",
-      "adds": 71244,
+      "adds": 89133,
       "rostered_by": 2
     },
     {
-      "player": "Tyreek Hill (WR, FA)",
-      "adds": 67320,
-      "rostered_by": 11
-    },
-    {
       "player": "Malik Washington (WR, MIA)",
-      "adds": 65224,
+      "adds": 87768,
       "rostered_by": null
     },
     {
       "player": "Jordan Addison (WR, MIN)",
-      "adds": 63576,
+      "adds": 78309,
       "rostered_by": 11
     },
     {
-      "player": "Arizona Cardinals (DEF, ARI)",
-      "adds": 59880,
-      "rostered_by": null
-    },
-    {
       "player": "C.J. Stroud (QB, HOU)",
-      "adds": 52073,
+      "adds": 73227,
       "rostered_by": null
     },
     {
-      "player": "Jacory Croskey-Merritt (RB, WAS)",
-      "adds": 50949,
-      "rostered_by": 4
+      "player": "Tyreek Hill (WR, FA)",
+      "adds": 69752,
+      "rostered_by": 11
     },
     {
-      "player": "Las Vegas Raiders (DEF, LV)",
-      "adds": 50454,
+      "player": "Laquon Treadwell (WR, IND)",
+      "adds": 67665,
       "rostered_by": null
     },
     {
       "player": "Kenyon Sadiq (TE, NYJ) [Questionable]",
-      "adds": 50328,
+      "adds": 64098,
       "rostered_by": 6
     },
     {
+      "player": "Las Vegas Raiders (DEF, LV)",
+      "adds": 62196,
+      "rostered_by": null
+    },
+    {
       "player": "Chris Bell (WR, MIA)",
-      "adds": 49532,
+      "adds": 58506,
+      "rostered_by": null
+    },
+    {
+      "player": "Jacory Croskey-Merritt (RB, WAS)",
+      "adds": 58284,
+      "rostered_by": 4
+    },
+    {
+      "player": "Jakobi Meyers (WR, JAX)",
+      "adds": 58080,
+      "rostered_by": 10
+    },
+    {
+      "player": "Mack Hollins (WR, NE)",
+      "adds": 56223,
       "rostered_by": null
     },
     {
       "player": "Zach Charbonnet (RB, SEA) [PUP]",
-      "adds": 49368,
+      "adds": 56043,
       "rostered_by": null
     },
     {
       "player": "Alvin Kamara (RB, NO)",
-      "adds": 46192,
+      "adds": 54384,
       "rostered_by": 9
-    },
-    {
-      "player": "Laquon Treadwell (WR, IND)",
-      "adds": 45760,
-      "rostered_by": null
-    },
-    {
-      "player": "Jakobi Meyers (WR, JAX)",
-      "adds": 43314,
-      "rostered_by": 10
-    },
-    {
-      "player": "Keaton Mitchell (RB, LAC)",
-      "adds": 43173,
-      "rostered_by": null
     }
   ]
 }

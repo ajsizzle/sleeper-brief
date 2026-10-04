@@ -1,5 +1,5 @@
 # Sleeper league state
-Generated Sunday October 04, 2026 05:56 AM ET · Season 2026 · NFL week 4
+Generated Sunday October 04, 2026 11:25 AM ET · Season 2026 · NFL week 4
 League: The Dudes Will Roll · 12 teams · waivers: FAAB (budget $200) · lineup: QB, RB, RB, WR, WR, TE, FLEX, K, DEF
 
 ## My team: THE ACE OF SPADES (roster 11)
@@ -139,7 +139,7 @@ IR: A.J. Brown (WR, NE) [IR]
 - Week 3 · free_agent · complete · Wed Sep 23 05:30 AM · Holla · added: Tyjae Spears (RB, TEN) [Questionable] to Holla · dropped: Alec Pierce (WR, IND) [IR] from Holla
 
 ## Dropped in the last 14 days, still unrostered
-- Keaton Mitchell (RB, LAC) · dropped by Springfield Atoms on Fri Oct 2, 9:40 AM ET · on waivers until Sun Oct 4, 9:40 AM ET
+- Keaton Mitchell (RB, LAC) · dropped by Springfield Atoms on Fri Oct 2, 9:40 AM ET · free agent now
 - Terrance Ferguson (TE, LAR) [IR] · dropped by Make Miami Great Again on Thu Oct 1, 7:54 PM ET · free agent now
 - Kyler Murray (QB, MIN) · dropped by THE ACE OF SPADES on Thu Oct 1, 5:25 PM ET · free agent now
 - Jayden Reed (WR, GB) [IR] · dropped by Springfield Atoms on Thu Oct 1, 4:21 PM ET · free agent now
@@ -169,30 +169,30 @@ IR: A.J. Brown (WR, NE) [IR]
 - Alec Pierce (WR, IND) [IR] · dropped by Holla on Wed Sep 23, 5:30 AM ET · free agent now
 
 ## Trending adds across Sleeper, last 24 hours
-- Emanuel Wilson (RB, SEA) · 1,118,790 adds · AVAILABLE in my league
-- Roman Wilson (WR, PIT) · 341,172 adds · AVAILABLE in my league
-- Jauan Jennings (WR, MIN) · 312,991 adds · AVAILABLE in my league
-- Isaiah Davis (RB, NYJ) · 159,282 adds · on my roster
-- Darren Waller (TE, CAR) · 142,011 adds · rostered by Holla
-- Austin Ekeler (RB, WAS) · 111,440 adds · AVAILABLE in my league
-- Tyler Higbee (TE, LAR) · 108,630 adds · AVAILABLE in my league
-- Tyson Bagent (QB, CHI) · 89,214 adds · AVAILABLE in my league
-- Brycen Tremayne (WR, CAR) · 89,208 adds · AVAILABLE in my league
-- Makai Lemon (WR, PHI) · 82,636 adds · rostered by Springfield Atoms
-- Dontayvion Wicks (WR, PHI) · 71,244 adds · rostered by Holla
-- Tyreek Hill (WR, FA) · 67,320 adds · on my roster
-- Malik Washington (WR, MIA) · 65,224 adds · AVAILABLE in my league
-- Jordan Addison (WR, MIN) · 63,576 adds · on my roster
-- Arizona Cardinals (DEF, ARI) · 59,880 adds · AVAILABLE in my league
-- C.J. Stroud (QB, HOU) · 52,073 adds · AVAILABLE in my league
-- Jacory Croskey-Merritt (RB, WAS) · 50,949 adds · rostered by Thoroughbred Cheesehead
-- Las Vegas Raiders (DEF, LV) · 50,454 adds · AVAILABLE in my league
-- Kenyon Sadiq (TE, NYJ) [Questionable] · 50,328 adds · rostered by FuelTheJET
-- Chris Bell (WR, MIA) · 49,532 adds · AVAILABLE in my league
-- Zach Charbonnet (RB, SEA) [PUP] · 49,368 adds · AVAILABLE in my league
-- Alvin Kamara (RB, NO) · 46,192 adds · rostered by Team 9
-- Laquon Treadwell (WR, IND) · 45,760 adds · AVAILABLE in my league
-- Jakobi Meyers (WR, JAX) · 43,314 adds · rostered by Strokin My Ditka
-- Keaton Mitchell (RB, LAC) · 43,173 adds · AVAILABLE in my league
+- Emanuel Wilson (RB, SEA) · 1,244,781 adds · AVAILABLE in my league
+- Jauan Jennings (WR, MIN) · 424,382 adds · AVAILABLE in my league
+- Roman Wilson (WR, PIT) · 389,592 adds · AVAILABLE in my league
+- Isaiah Davis (RB, NYJ) · 207,279 adds · on my roster
+- Darren Waller (TE, CAR) · 204,156 adds · rostered by Holla
+- Brycen Tremayne (WR, CAR) · 198,432 adds · AVAILABLE in my league
+- Austin Ekeler (RB, WAS) · 137,588 adds · AVAILABLE in my league
+- Tyler Higbee (TE, LAR) · 131,175 adds · AVAILABLE in my league
+- Tyson Bagent (QB, CHI) · 108,516 adds · AVAILABLE in my league
+- Arizona Cardinals (DEF, ARI) · 105,200 adds · AVAILABLE in my league
+- Makai Lemon (WR, PHI) · 98,724 adds · rostered by Springfield Atoms
+- Dontayvion Wicks (WR, PHI) · 89,133 adds · rostered by Holla
+- Malik Washington (WR, MIA) · 87,768 adds · AVAILABLE in my league
+- Jordan Addison (WR, MIN) · 78,309 adds · on my roster
+- C.J. Stroud (QB, HOU) · 73,227 adds · AVAILABLE in my league
+- Tyreek Hill (WR, FA) · 69,752 adds · on my roster
+- Laquon Treadwell (WR, IND) · 67,665 adds · AVAILABLE in my league
+- Kenyon Sadiq (TE, NYJ) [Questionable] · 64,098 adds · rostered by FuelTheJET
+- Las Vegas Raiders (DEF, LV) · 62,196 adds · AVAILABLE in my league
+- Chris Bell (WR, MIA) · 58,506 adds · AVAILABLE in my league
+- Jacory Croskey-Merritt (RB, WAS) · 58,284 adds · rostered by Thoroughbred Cheesehead
+- Jakobi Meyers (WR, JAX) · 58,080 adds · rostered by Strokin My Ditka
+- Mack Hollins (WR, NE) · 56,223 adds · AVAILABLE in my league
+- Zach Charbonnet (RB, SEA) [PUP] · 56,043 adds · AVAILABLE in my league
+- Alvin Kamara (RB, NO) · 54,384 adds · rostered by Team 9
 
 Data from the Sleeper API (sleeper.com). Injury tags in brackets are Sleeper's designations and may lag official reports.
