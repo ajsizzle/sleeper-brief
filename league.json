@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-05T14:34:54.311591-04:00",
+  "generated": "2026-10-05T20:52:11.885963-04:00",
   "season": "2026",
   "week": 4,
   "league": {
@@ -750,129 +750,129 @@
   ],
   "trending_adds": [
     {
-      "player": "Emanuel Wilson (RB, SEA)",
-      "adds": 652599,
-      "rostered_by": 7
-    },
-    {
       "player": "Keon Coleman (WR, BUF)",
-      "adds": 597312,
+      "adds": 684261,
       "rostered_by": 9
     },
     {
-      "player": "Roman Wilson (WR, PIT)",
-      "adds": 561771,
-      "rostered_by": null
-    },
-    {
       "player": "Tyreek Hill (WR, FA)",
-      "adds": 419536,
+      "adds": 550544,
       "rostered_by": 11
     },
     {
-      "player": "Dohnte Meyers (WR, CIN)",
-      "adds": 398907,
+      "player": "Emanuel Wilson (RB, SEA)",
+      "adds": 548541,
+      "rostered_by": 7
+    },
+    {
+      "player": "Roman Wilson (WR, PIT)",
+      "adds": 511443,
       "rostered_by": null
     },
     {
-      "player": "Brycen Tremayne (WR, CAR)",
-      "adds": 347796,
+      "player": "Dohnte Meyers (WR, CIN)",
+      "adds": 510336,
       "rostered_by": null
     },
     {
       "player": "Kirk Cousins (QB, LV)",
-      "adds": 213016,
+      "adds": 220480,
       "rostered_by": 12
     },
     {
-      "player": "Darius Cooper (WR, PHI)",
-      "adds": 189553,
+      "player": "Joe Mixon (RB, FA) [Active]",
+      "adds": 201865,
       "rostered_by": null
     },
     {
       "player": "Tank Bigsby (RB, PHI) [Questionable]",
-      "adds": 165984,
+      "adds": 138621,
+      "rostered_by": null
+    },
+    {
+      "player": "Will Shipley (RB, PHI)",
+      "adds": 118576,
+      "rostered_by": null
+    },
+    {
+      "player": "Michael Mayer (TE, LV)",
+      "adds": 117522,
       "rostered_by": null
     },
     {
       "player": "Romeo Doubs (WR, NE)",
-      "adds": 153800,
+      "adds": 114920,
       "rostered_by": null
     },
     {
-      "player": "Tyquan Thornton (WR, KC) [Out]",
-      "adds": 111993,
-      "rostered_by": 9
+      "player": "Keaton Mitchell (RB, LAC)",
+      "adds": 107856,
+      "rostered_by": null
     },
     {
-      "player": "Michael Mayer (TE, LV)",
-      "adds": 105237,
+      "player": "Darius Cooper (WR, PHI)",
+      "adds": 106120,
       "rostered_by": null
     },
     {
       "player": "C.J. Stroud (QB, HOU)",
-      "adds": 99204,
+      "adds": 81368,
       "rostered_by": 11
     },
     {
-      "player": "Keaton Mitchell (RB, LAC)",
-      "adds": 91494,
+      "player": "Tyler Higbee (TE, LAR)",
+      "adds": 71163,
+      "rostered_by": null
+    },
+    {
+      "player": "Mike Gesicki (TE, CIN)",
+      "adds": 68736,
       "rostered_by": null
     },
     {
       "player": "Deshaun Watson (QB, CLE)",
-      "adds": 87296,
+      "adds": 67624,
       "rostered_by": 8
-    },
-    {
-      "player": "Darren Waller (TE, CAR)",
-      "adds": 82125,
-      "rostered_by": 2
-    },
-    {
-      "player": "Tyler Higbee (TE, LAR)",
-      "adds": 77706,
-      "rostered_by": null
-    },
-    {
-      "player": "Xavier Worthy (WR, KC)",
-      "adds": 77670,
-      "rostered_by": 5
-    },
-    {
-      "player": "Kyle Monangai (RB, CHI) [Questionable]",
-      "adds": 72702,
-      "rostered_by": 8
-    },
-    {
-      "player": "Ollie Gordon (RB, MIA)",
-      "adds": 70973,
-      "rostered_by": 2
-    },
-    {
-      "player": "Jauan Jennings (WR, MIN)",
-      "adds": 66283,
-      "rostered_by": null
     },
     {
       "player": "Matt Gay (K, LV)",
-      "adds": 65010,
+      "adds": 63070,
       "rostered_by": 2
     },
     {
-      "player": "Mike Gesicki (TE, CIN)",
-      "adds": 55968,
+      "player": "Xavier Worthy (WR, KC)",
+      "adds": 60012,
+      "rostered_by": 5
+    },
+    {
+      "player": "Ollie Gordon (RB, MIA)",
+      "adds": 57183,
+      "rostered_by": 2
+    },
+    {
+      "player": "Jacksonville Jaguars (DEF, JAX)",
+      "adds": 50820,
       "rostered_by": null
+    },
+    {
+      "player": "Kyle Monangai (RB, CHI) [Questionable]",
+      "adds": 47298,
+      "rostered_by": 8
     },
     {
       "player": "Brenton Strange (TE, JAX)",
-      "adds": 54270,
+      "adds": 43695,
       "rostered_by": 10
     },
     {
-      "player": "Las Vegas Raiders (DEF, LV)",
-      "adds": 48534,
+      "player": "Cleveland Browns (DEF, CLE)",
+      "adds": 41328,
       "rostered_by": null
+    },
+    {
+      "player": "KC Concepcion (WR, CLE)",
+      "adds": 40023,
+      "rostered_by": 4
     }
   ]
 }
