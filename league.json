@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-08T11:42:46.112722-04:00",
+  "generated": "2026-10-08T17:23:25.409883-04:00",
   "season": "2026",
   "week": 5,
   "league": {
@@ -33,8 +33,8 @@
       "Drake Maye (QB, NE)",
       "Chase Brown (RB, CIN)",
       "Will Shipley (RB, PHI)",
-      "Rome Odunze (WR, CHI)",
       "Mike Evans (WR, SF) [Questionable]",
+      "Rome Odunze (WR, CHI)",
       "George Kittle (TE, SF)",
       "Rhamondre Stevenson (RB, NE) [Questionable]",
       "Cameron Dicker (K, LAC)",
@@ -142,7 +142,7 @@
       "bench": [
         "Devaughn Vele (WR, NO)",
         "Kenyon Sadiq (TE, NYJ)",
-        "Kaelon Black (RB, SF)",
+        "Kaelon Black (RB, SF) [Questionable]",
         "Lamar Jackson (QB, BAL) [Questionable]",
         "DeVonta Smith (WR, PHI) [Questionable]",
         "Rashod Bateman (WR, BAL)"
@@ -200,7 +200,7 @@
         "Jalen Hurts (QB, PHI)",
         "Derrick Henry (RB, BAL)",
         "Kyren Williams (RB, LAR)",
-        "Carnell Tate (WR, TEN)",
+        "Carnell Tate (WR, TEN) [Questionable]",
         "Garrett Wilson (WR, NYJ)",
         "Mike Gesicki (TE, CIN)",
         "Jameson Williams (WR, DET)",
@@ -235,7 +235,7 @@
         "CeeDee Lamb (WR, DAL)",
         "Terry McLaurin (WR, WAS) [Questionable]",
         "Sam LaPorta (TE, DET)",
-        "Isaiah Likely (TE, NYG)",
+        "Isaiah Likely (TE, NYG) [Questionable]",
         "Brandon Aubrey (K, DAL)",
         "Baltimore Ravens (DEF, BAL)"
       ],
@@ -268,14 +268,14 @@
         "Emanuel Wilson (RB, SEA)",
         "DK Metcalf (WR, PIT)",
         "Nico Collins (WR, HOU)",
-        "Brock Bowers (TE, LV)",
+        "Brock Bowers (TE, LV) [Questionable]",
         "Luther Burden (WR, CHI)",
         "Ka'imi Fairbairn (K, HOU)",
         "Kansas City Chiefs (DEF, KC)"
       ],
       "bench": [
         "MarShawn Lloyd (RB, GB)",
-        "Jaylen Wright (RB, MIA)",
+        "Jaylen Wright (RB, MIA) [Questionable]",
         "Raheim Sanders (RB, CLE)",
         "Josh Jacobs (RB, GB) [NA]",
         "Juwan Johnson (TE, NO)",
@@ -329,7 +329,7 @@
       "waiver_position": 2,
       "faab_used": 0,
       "starters": [
-        "Brock Purdy (QB, SF)",
+        "Dak Prescott (QB, DAL)",
         "Jeremiyah Love (RB, ARI) [Questionable]",
         "RJ Harvey (RB, DEN)",
         "Puka Nacua (WR, LAR)",
@@ -342,9 +342,9 @@
       "bench": [
         "Keon Coleman (WR, BUF)",
         "Oronde Gadsden (TE, LAC)",
-        "Dak Prescott (QB, DAL)",
         "Alvin Kamara (RB, NO) [Questionable]",
         "Tyler Allgeier (RB, ARI)",
+        "Brock Purdy (QB, SF)",
         "Tyquan Thornton (WR, KC) [Out]"
       ],
       "ir": []
@@ -376,8 +376,8 @@
         "Patrick Mahomes (QB, KC)",
         "Matt Gay (K, LV)",
         "Breece Hall (RB, NYJ) [Doubtful]",
-        "Dontayvion Wicks (WR, PHI)",
-        "Quentin Johnston (WR, LAC)"
+        "Dontayvion Wicks (WR, PHI) [Questionable]",
+        "Quentin Johnston (WR, LAC) [Questionable]"
       ],
       "ir": [
         "Jordan Mason (RB, MIN) [IR]"
@@ -430,8 +430,8 @@
         "Drake Maye (QB, NE)",
         "Chase Brown (RB, CIN)",
         "Will Shipley (RB, PHI)",
-        "Rome Odunze (WR, CHI)",
         "Mike Evans (WR, SF) [Questionable]",
+        "Rome Odunze (WR, CHI)",
         "George Kittle (TE, SF)",
         "Rhamondre Stevenson (RB, NE) [Questionable]",
         "Cameron Dicker (K, LAC)",
@@ -464,7 +464,7 @@
         "Sam Darnold (QB, SEA)",
         "Quinshon Judkins (RB, CLE)",
         "Ashton Jeanty (RB, LV)",
-        "Chris Olave (WR, NO)",
+        "Chris Olave (WR, NO) [Questionable]",
         "Emeka Egbuka (WR, TB)",
         "Pat Freiermuth (TE, PIT)",
         "Harold Fannin (TE, CLE)",
@@ -664,128 +664,128 @@
   "trending_adds": [
     {
       "player": "Dohnte Meyers (WR, CIN)",
-      "adds": 636057,
-      "rostered_by": null
-    },
-    {
-      "player": "Keon Coleman (WR, BUF)",
-      "adds": 454878,
-      "rostered_by": 9
-    },
-    {
-      "player": "Dameon Pierce (RB, PHI)",
-      "adds": 390520,
+      "adds": 581517,
       "rostered_by": null
     },
     {
       "player": "Roman Wilson (WR, PIT)",
-      "adds": 323766,
+      "adds": 410805,
       "rostered_by": null
     },
     {
+      "player": "Dameon Pierce (RB, PHI)",
+      "adds": 372936,
+      "rostered_by": null
+    },
+    {
+      "player": "Keon Coleman (WR, BUF)",
+      "adds": 339840,
+      "rostered_by": 9
+    },
+    {
       "player": "Tyler Higbee (TE, LAR)",
-      "adds": 305892,
+      "adds": 284031,
       "rostered_by": null
     },
     {
       "player": "Keaton Mitchell (RB, LAC)",
-      "adds": 271566,
-      "rostered_by": null
-    },
-    {
-      "player": "Jacksonville Jaguars (DEF, JAX)",
-      "adds": 268404,
+      "adds": 244278,
       "rostered_by": null
     },
     {
       "player": "Kirk Cousins (QB, LV)",
-      "adds": 258368,
+      "adds": 219512,
       "rostered_by": 12
     },
     {
       "player": "Cleveland Browns (DEF, CLE)",
-      "adds": 218428,
+      "adds": 212688,
+      "rostered_by": null
+    },
+    {
+      "player": "Jacksonville Jaguars (DEF, JAX)",
+      "adds": 208182,
       "rostered_by": null
     },
     {
       "player": "Malik Washington (WR, MIA)",
-      "adds": 188056,
+      "adds": 191016,
       "rostered_by": null
     },
     {
-      "player": "Tank Dell (WR, HOU) [IR]",
-      "adds": 180552,
-      "rostered_by": 4
-    },
-    {
-      "player": "Emanuel Wilson (RB, SEA)",
-      "adds": 179856,
-      "rostered_by": 7
-    },
-    {
       "player": "Darius Cooper (WR, PHI)",
-      "adds": 175490,
+      "adds": 187530,
       "rostered_by": null
     },
     {
       "player": "Michael Mayer (TE, LV)",
-      "adds": 175482,
-      "rostered_by": null
-    },
-    {
-      "player": "Romeo Doubs (WR, NE)",
-      "adds": 165376,
+      "adds": 154467,
       "rostered_by": null
     },
     {
       "player": "Matt Gay (K, LV)",
-      "adds": 163520,
+      "adds": 140870,
       "rostered_by": 2
     },
     {
-      "player": "Will Shipley (RB, PHI)",
-      "adds": 157548,
-      "rostered_by": 11
+      "player": "Tank Dell (WR, HOU) [IR]",
+      "adds": 140744,
+      "rostered_by": 4
     },
     {
-      "player": "Aaron Rodgers (QB, PIT)",
-      "adds": 153608,
-      "rostered_by": 2
-    },
-    {
-      "player": "Brian Robinson (RB, ATL)",
-      "adds": 152652,
-      "rostered_by": 7
-    },
-    {
-      "player": "Mike Gesicki (TE, CIN)",
-      "adds": 144804,
-      "rostered_by": 3
-    },
-    {
-      "player": "Isaiah Williams (WR, NYJ)",
-      "adds": 114720,
+      "player": "Romeo Doubs (WR, NE)",
+      "adds": 138408,
       "rostered_by": null
     },
     {
+      "player": "Emanuel Wilson (RB, SEA)",
+      "adds": 137133,
+      "rostered_by": 7
+    },
+    {
+      "player": "Aaron Rodgers (QB, PIT)",
+      "adds": 134096,
+      "rostered_by": 2
+    },
+    {
+      "player": "Isaiah Williams (WR, NYJ)",
+      "adds": 127470,
+      "rostered_by": null
+    },
+    {
+      "player": "Brian Robinson (RB, ATL)",
+      "adds": 125166,
+      "rostered_by": 7
+    },
+    {
+      "player": "Will Shipley (RB, PHI)",
+      "adds": 125002,
+      "rostered_by": 11
+    },
+    {
+      "player": "Mike Gesicki (TE, CIN)",
+      "adds": 123668,
+      "rostered_by": 3
+    },
+    {
+      "player": "Braelon Allen (RB, NYJ)",
+      "adds": 109472,
+      "rostered_by": 3
+    },
+    {
       "player": "MarShawn Lloyd (RB, GB)",
-      "adds": 113499,
+      "adds": 105030,
       "rostered_by": 7
     },
     {
       "player": "Deshaun Watson (QB, CLE)",
-      "adds": 105840,
+      "adds": 96680,
       "rostered_by": 8
     },
     {
-      "player": "Braelon Allen (RB, NYJ)",
-      "adds": 105500,
-      "rostered_by": 3
-    },
-    {
-      "player": "C.J. Stroud (QB, HOU)",
-      "adds": 104769,
-      "rostered_by": 11
+      "player": "Jayden Daniels (QB, WAS)",
+      "adds": 94896,
+      "rostered_by": 10
     }
   ]
 }
