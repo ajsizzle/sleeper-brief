@@ -1,5 +1,5 @@
 # Sleeper league state
-Generated Wednesday October 07, 2026 04:40 PM ET · Season 2026 · NFL week 5
+Generated Wednesday October 07, 2026 09:04 PM ET · Season 2026 · NFL week 5
 League: The Dudes Will Roll · 12 teams · waivers: FAAB (budget $200) · lineup: QB, RB, RB, WR, WR, TE, FLEX, K, DEF
 
 ## My team: THE ACE OF SPADES (roster 11)
@@ -45,8 +45,8 @@ Record 1-3 · 396.9 pts · waiver priority 11 · FAAB used $107
 
 ## All teams (by record)
 ### Team 8 · 3-1 · 496.9 pts · waiver priority 4
-Starters: Deshaun Watson (QB, CLE); Bijan Robinson (RB, ATL); Javonte Williams (RB, DAL); Drake London (WR, ATL); Tee Higgins (WR, CIN) [Questionable]; Jake Ferguson (TE, DAL); Michael Wilson (WR, ARI); Tyler Loop (K, BAL); Minnesota Vikings (DEF, MIN)
-Bench: Rashee Rice (WR, KC) [Questionable]; Kyle Monangai (RB, CHI) [Questionable]; Kalif Raymond (WR, CHI); Dalton Schultz (TE, HOU); Trevor Lawrence (QB, JAX); Wan'Dale Robinson (WR, TEN)
+Starters: Deshaun Watson (QB, CLE); Bijan Robinson (RB, ATL); Javonte Williams (RB, DAL); Drake London (WR, ATL); Tee Higgins (WR, CIN) [Questionable]; Jake Ferguson (TE, DAL); Kyle Monangai (RB, CHI) [Questionable]; Tyler Loop (K, BAL); Minnesota Vikings (DEF, MIN)
+Bench: Rashee Rice (WR, KC) [Questionable]; Michael Wilson (WR, ARI); Kalif Raymond (WR, CHI); Dalton Schultz (TE, HOU); Trevor Lawrence (QB, JAX); Wan'Dale Robinson (WR, TEN)
 
 ### FuelTheJET · 3-1 · 488.6 pts · waiver priority 9
 Starters: Jordan Love (QB, GB); Jahmyr Gibbs (RB, DET); Blake Corum (RB, LAR); Parker Washington (WR, JAX); Malik Nabers (WR, NYG) [Questionable]; Trey McBride (TE, ARI); Matthew Golden (WR, GB); Cam Little (K, JAX); Seattle Seahawks (DEF, SEA)
@@ -152,30 +152,30 @@ Bench: Denzel Boston (WR, CLE); Saquon Barkley (RB, PHI) [Questionable]; Courtla
 - Jason Myers (K, SEA) · dropped by Young Blood on Wed Sep 30, 3:26 AM ET · free agent now
 
 ## Trending adds across Sleeper, last 24 hours
-- Keon Coleman (WR, BUF) · 2,702,430 adds · rostered by Team 9
-- Dohnte Meyers (WR, CIN) · 2,501,883 adds · AVAILABLE in my league
-- Will Shipley (RB, PHI) · 1,090,312 adds · on my roster
-- Roman Wilson (WR, PIT) · 1,054,620 adds · AVAILABLE in my league
-- Emanuel Wilson (RB, SEA) · 1,032,390 adds · rostered by Make Miami Great Again
-- Jacksonville Jaguars (DEF, JAX) · 996,330 adds · AVAILABLE in my league
-- Keaton Mitchell (RB, LAC) · 728,613 adds · AVAILABLE in my league
-- Kirk Cousins (QB, LV) · 634,560 adds · rostered by Young Blood
-- Tyler Higbee (TE, LAR) · 585,207 adds · AVAILABLE in my league
-- Romeo Doubs (WR, NE) · 561,208 adds · AVAILABLE in my league
-- Michael Mayer (TE, LV) · 499,833 adds · AVAILABLE in my league
-- Brian Robinson (RB, ATL) · 476,256 adds · rostered by Make Miami Great Again
-- Mike Gesicki (TE, CIN) · 435,776 adds · rostered by Drunk To Taste This CHX
-- Darius Cooper (WR, PHI) · 388,878 adds · AVAILABLE in my league
-- Matt Gay (K, LV) · 336,795 adds · rostered by Holla
-- Tyler Allgeier (RB, ARI) · 329,575 adds · rostered by Team 9
-- Aaron Rodgers (QB, PIT) · 325,892 adds · rostered by Holla
-- Cleveland Browns (DEF, CLE) · 297,171 adds · AVAILABLE in my league
-- Malik Washington (WR, MIA) · 281,032 adds · AVAILABLE in my league
-- Tyreek Hill (WR, FA) · 279,360 adds · on my roster
-- Khalil Shakir (WR, BUF) · 241,344 adds · rostered by Young Blood
-- MarShawn Lloyd (RB, GB) · 229,707 adds · rostered by Make Miami Great Again
-- Tre' Harris (WR, LAC) · 225,036 adds · AVAILABLE in my league
-- KC Concepcion (WR, CLE) · 224,352 adds · rostered by Thoroughbred Cheesehead
-- C.J. Stroud (QB, HOU) · 208,453 adds · on my roster
+- Keon Coleman (WR, BUF) · 2,145,951 adds · rostered by Team 9
+- Dohnte Meyers (WR, CIN) · 2,098,899 adds · AVAILABLE in my league
+- Roman Wilson (WR, PIT) · 911,826 adds · AVAILABLE in my league
+- Jacksonville Jaguars (DEF, JAX) · 881,226 adds · AVAILABLE in my league
+- Will Shipley (RB, PHI) · 858,588 adds · on my roster
+- Emanuel Wilson (RB, SEA) · 791,901 adds · rostered by Make Miami Great Again
+- Keaton Mitchell (RB, LAC) · 663,300 adds · AVAILABLE in my league
+- Kirk Cousins (QB, LV) · 578,640 adds · rostered by Young Blood
+- Tyler Higbee (TE, LAR) · 568,323 adds · AVAILABLE in my league
+- Romeo Doubs (WR, NE) · 484,160 adds · AVAILABLE in my league
+- Michael Mayer (TE, LV) · 462,096 adds · AVAILABLE in my league
+- Brian Robinson (RB, ATL) · 414,120 adds · rostered by Make Miami Great Again
+- Mike Gesicki (TE, CIN) · 391,944 adds · rostered by Drunk To Taste This CHX
+- Darius Cooper (WR, PHI) · 363,811 adds · AVAILABLE in my league
+- Matt Gay (K, LV) · 329,815 adds · rostered by Holla
+- Aaron Rodgers (QB, PIT) · 316,208 adds · rostered by Holla
+- Cleveland Browns (DEF, CLE) · 312,508 adds · AVAILABLE in my league
+- Malik Washington (WR, MIA) · 289,736 adds · AVAILABLE in my league
+- Tyler Allgeier (RB, ARI) · 280,930 adds · rostered by Team 9
+- Dameon Pierce (RB, PHI) · 259,360 adds · AVAILABLE in my league
+- Khalil Shakir (WR, BUF) · 225,144 adds · rostered by Young Blood
+- MarShawn Lloyd (RB, GB) · 224,694 adds · rostered by Make Miami Great Again
+- Tyreek Hill (WR, FA) · 221,928 adds · on my roster
+- Tre' Harris (WR, LAC) · 209,064 adds · AVAILABLE in my league
+- C.J. Stroud (QB, HOU) · 203,945 adds · on my roster
 
 Data from the Sleeper API (sleeper.com). Injury tags in brackets are Sleeper's designations and may lag official reports.

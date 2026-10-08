@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-07T16:40:00.952020-04:00",
+  "generated": "2026-10-07T21:04:21.277128-04:00",
   "season": "2026",
   "week": 5,
   "league": {
@@ -103,13 +103,13 @@
         "Drake London (WR, ATL)",
         "Tee Higgins (WR, CIN) [Questionable]",
         "Jake Ferguson (TE, DAL)",
-        "Michael Wilson (WR, ARI)",
+        "Kyle Monangai (RB, CHI) [Questionable]",
         "Tyler Loop (K, BAL)",
         "Minnesota Vikings (DEF, MIN)"
       ],
       "bench": [
         "Rashee Rice (WR, KC) [Questionable]",
-        "Kyle Monangai (RB, CHI) [Questionable]",
+        "Michael Wilson (WR, ARI)",
         "Kalif Raymond (WR, CHI)",
         "Dalton Schultz (TE, HOU)",
         "Trevor Lawrence (QB, JAX)",
@@ -664,127 +664,127 @@
   "trending_adds": [
     {
       "player": "Keon Coleman (WR, BUF)",
-      "adds": 2702430,
+      "adds": 2145951,
       "rostered_by": 9
     },
     {
       "player": "Dohnte Meyers (WR, CIN)",
-      "adds": 2501883,
+      "adds": 2098899,
+      "rostered_by": null
+    },
+    {
+      "player": "Roman Wilson (WR, PIT)",
+      "adds": 911826,
+      "rostered_by": null
+    },
+    {
+      "player": "Jacksonville Jaguars (DEF, JAX)",
+      "adds": 881226,
       "rostered_by": null
     },
     {
       "player": "Will Shipley (RB, PHI)",
-      "adds": 1090312,
+      "adds": 858588,
       "rostered_by": 11
     },
     {
-      "player": "Roman Wilson (WR, PIT)",
-      "adds": 1054620,
-      "rostered_by": null
-    },
-    {
       "player": "Emanuel Wilson (RB, SEA)",
-      "adds": 1032390,
+      "adds": 791901,
       "rostered_by": 7
     },
     {
-      "player": "Jacksonville Jaguars (DEF, JAX)",
-      "adds": 996330,
-      "rostered_by": null
-    },
-    {
       "player": "Keaton Mitchell (RB, LAC)",
-      "adds": 728613,
+      "adds": 663300,
       "rostered_by": null
     },
     {
       "player": "Kirk Cousins (QB, LV)",
-      "adds": 634560,
+      "adds": 578640,
       "rostered_by": 12
     },
     {
       "player": "Tyler Higbee (TE, LAR)",
-      "adds": 585207,
+      "adds": 568323,
       "rostered_by": null
     },
     {
       "player": "Romeo Doubs (WR, NE)",
-      "adds": 561208,
+      "adds": 484160,
       "rostered_by": null
     },
     {
       "player": "Michael Mayer (TE, LV)",
-      "adds": 499833,
+      "adds": 462096,
       "rostered_by": null
     },
     {
       "player": "Brian Robinson (RB, ATL)",
-      "adds": 476256,
+      "adds": 414120,
       "rostered_by": 7
     },
     {
       "player": "Mike Gesicki (TE, CIN)",
-      "adds": 435776,
+      "adds": 391944,
       "rostered_by": 3
     },
     {
       "player": "Darius Cooper (WR, PHI)",
-      "adds": 388878,
+      "adds": 363811,
       "rostered_by": null
     },
     {
       "player": "Matt Gay (K, LV)",
-      "adds": 336795,
+      "adds": 329815,
       "rostered_by": 2
     },
     {
-      "player": "Tyler Allgeier (RB, ARI)",
-      "adds": 329575,
-      "rostered_by": 9
-    },
-    {
       "player": "Aaron Rodgers (QB, PIT)",
-      "adds": 325892,
+      "adds": 316208,
       "rostered_by": 2
     },
     {
       "player": "Cleveland Browns (DEF, CLE)",
-      "adds": 297171,
+      "adds": 312508,
       "rostered_by": null
     },
     {
       "player": "Malik Washington (WR, MIA)",
-      "adds": 281032,
+      "adds": 289736,
       "rostered_by": null
     },
     {
-      "player": "Tyreek Hill (WR, FA)",
-      "adds": 279360,
-      "rostered_by": 11
+      "player": "Tyler Allgeier (RB, ARI)",
+      "adds": 280930,
+      "rostered_by": 9
+    },
+    {
+      "player": "Dameon Pierce (RB, PHI)",
+      "adds": 259360,
+      "rostered_by": null
     },
     {
       "player": "Khalil Shakir (WR, BUF)",
-      "adds": 241344,
+      "adds": 225144,
       "rostered_by": 12
     },
     {
       "player": "MarShawn Lloyd (RB, GB)",
-      "adds": 229707,
+      "adds": 224694,
       "rostered_by": 7
     },
     {
+      "player": "Tyreek Hill (WR, FA)",
+      "adds": 221928,
+      "rostered_by": 11
+    },
+    {
       "player": "Tre' Harris (WR, LAC)",
-      "adds": 225036,
+      "adds": 209064,
       "rostered_by": null
     },
     {
-      "player": "KC Concepcion (WR, CLE)",
-      "adds": 224352,
-      "rostered_by": 4
-    },
-    {
       "player": "C.J. Stroud (QB, HOU)",
-      "adds": 208453,
+      "adds": 203945,
       "rostered_by": 11
     }
   ]
