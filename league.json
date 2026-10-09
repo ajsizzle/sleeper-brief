@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-09T05:18:32.858875-04:00",
+  "generated": "2026-10-09T12:22:46.870436-04:00",
   "season": "2026",
   "week": 5,
   "league": {
@@ -41,12 +41,12 @@
       "Houston Texans (DEF, HOU)"
     ],
     "bench": [
+      "Roman Wilson (WR, PIT)",
       "Emmett Johnson (RB, KC)",
       "Tyreek Hill (WR, FA)",
       "Mark Andrews (TE, BAL)",
       "Kenneth Walker (RB, KC)",
-      "Jordan Addison (WR, MIN) [Questionable]",
-      "C.J. Stroud (QB, HOU)"
+      "Jordan Addison (WR, MIN) [Questionable]"
     ],
     "ir": [
       "A.J. Brown (WR, NE) [IR]"
@@ -363,18 +363,18 @@
       "starters": [
         "Aaron Rodgers (QB, PIT)",
         "Christian McCaffrey (RB, SF)",
-        "Cam Skattebo (RB, NYG) [Questionable]",
+        "Ollie Gordon (RB, MIA)",
         "Ja'Marr Chase (WR, CIN) [Questionable]",
         "Zay Flowers (WR, BAL) [Questionable]",
         "Tucker Kraft (TE, GB)",
-        "Ollie Gordon (RB, MIA)",
+        "Romeo Doubs (WR, NE)",
         "Spencer Shrader (K, IND)",
         "Cincinnati Bengals (DEF, CIN)"
       ],
       "bench": [
+        "Cam Skattebo (RB, NYG) [Questionable]",
         "Darren Waller (TE, CAR)",
         "Patrick Mahomes (QB, KC)",
-        "Romeo Doubs (WR, NE)",
         "Breece Hall (RB, NYJ) [Doubtful]",
         "Dontayvion Wicks (WR, PHI) [Questionable]",
         "Quentin Johnston (WR, LAC) [Questionable]"
@@ -438,12 +438,12 @@
         "Houston Texans (DEF, HOU)"
       ],
       "bench": [
+        "Roman Wilson (WR, PIT)",
         "Emmett Johnson (RB, KC)",
         "Tyreek Hill (WR, FA)",
         "Mark Andrews (TE, BAL)",
         "Kenneth Walker (RB, KC)",
-        "Jordan Addison (WR, MIN) [Questionable]",
-        "C.J. Stroud (QB, HOU)"
+        "Jordan Addison (WR, MIN) [Questionable]"
       ],
       "ir": [
         "A.J. Brown (WR, NE) [IR]"
@@ -483,6 +483,7 @@
     }
   ],
   "transactions": [
+    "Week 5 \u00b7 free_agent \u00b7 complete \u00b7 Fri Oct 09 08:34 AM \u00b7 THE ACE OF SPADES \u00b7 added: Roman Wilson (WR, PIT) to THE ACE OF SPADES \u00b7 dropped: C.J. Stroud (QB, HOU) from THE ACE OF SPADES",
     "Week 5 \u00b7 free_agent \u00b7 complete \u00b7 Thu Oct 08 07:24 PM \u00b7 Drunk To Taste This CHX \u00b7 added: Jake Bates (K, DET) to Drunk To Taste This CHX \u00b7 dropped: Harrison Butker (K, KC) from Drunk To Taste This CHX",
     "Week 5 \u00b7 free_agent \u00b7 complete \u00b7 Thu Oct 08 06:01 PM \u00b7 Thoroughbred Cheesehead \u00b7 added: Keaton Mitchell (RB, LAC) to Thoroughbred Cheesehead \u00b7 dropped: Tyler Shough (QB, NO) from Thoroughbred Cheesehead",
     "Week 5 \u00b7 free_agent \u00b7 complete \u00b7 Thu Oct 08 06:01 PM \u00b7 Thoroughbred Cheesehead \u00b7 added: Jacksonville Jaguars (DEF, JAX) to Thoroughbred Cheesehead \u00b7 dropped: Arizona Cardinals (DEF, ARI) from Thoroughbred Cheesehead",
@@ -518,6 +519,13 @@
   ],
   "dropped_unrostered": [
     {
+      "player": "C.J. Stroud (QB, HOU)",
+      "dropped_by": "THE ACE OF SPADES",
+      "dropped_at": "2026-10-09T08:34:47.555000-04:00",
+      "on_waivers_until": "2026-10-11T08:34:47.555000-04:00",
+      "waiver_status": "on waivers until Sun Oct 11, 8:34 AM ET"
+    },
+    {
       "player": "Matt Gay (K, LV)",
       "dropped_by": "Holla",
       "dropped_at": "2026-10-09T04:19:20.643000-04:00",
@@ -549,15 +557,15 @@
       "player": "Green Bay Packers (DEF, GB)",
       "dropped_by": "Holla",
       "dropped_at": "2026-10-07T08:19:10.851000-04:00",
-      "on_waivers_until": "2026-10-09T08:19:10.851000-04:00",
-      "waiver_status": "on waivers until Fri Oct 9, 8:19 AM ET"
+      "on_waivers_until": null,
+      "waiver_status": "free agent now"
     },
     {
       "player": "Caleb Williams (QB, CHI) [Out]",
       "dropped_by": "Holla",
       "dropped_at": "2026-10-07T08:18:24.909000-04:00",
-      "on_waivers_until": "2026-10-09T08:18:24.909000-04:00",
-      "waiver_status": "on waivers until Fri Oct 9, 8:18 AM ET"
+      "on_waivers_until": null,
+      "waiver_status": "free agent now"
     },
     {
       "player": "Caleb Douglas (WR, MIA) [Questionable]",
@@ -675,128 +683,128 @@
   "trending_adds": [
     {
       "player": "Roman Wilson (WR, PIT)",
-      "adds": 682884,
+      "adds": 747153,
+      "rostered_by": 11
+    },
+    {
+      "player": "Dameon Pierce (RB, PHI)",
+      "adds": 401280,
       "rostered_by": null
     },
     {
       "player": "Dohnte Meyers (WR, CIN)",
-      "adds": 475983,
-      "rostered_by": null
-    },
-    {
-      "player": "Dameon Pierce (RB, PHI)",
-      "adds": 437552,
+      "adds": 379575,
       "rostered_by": null
     },
     {
       "player": "Tyler Higbee (TE, LAR)",
-      "adds": 294939,
+      "adds": 265176,
       "rostered_by": null
     },
     {
       "player": "Keaton Mitchell (RB, LAC)",
-      "adds": 245916,
+      "adds": 223011,
       "rostered_by": 4
     },
     {
       "player": "Kirk Cousins (QB, LV)",
-      "adds": 227976,
+      "adds": 207904,
       "rostered_by": 12
     },
     {
+      "player": "Darius Cooper (WR, PHI)",
+      "adds": 190344,
+      "rostered_by": null
+    },
+    {
       "player": "Cleveland Browns (DEF, CLE)",
-      "adds": 212051,
+      "adds": 180887,
       "rostered_by": null
     },
     {
       "player": "Keon Coleman (WR, BUF)",
-      "adds": 208782,
+      "adds": 169767,
       "rostered_by": 9
     },
     {
-      "player": "Darius Cooper (WR, PHI)",
-      "adds": 199745,
-      "rostered_by": null
-    },
-    {
       "player": "Malik Washington (WR, MIA)",
-      "adds": 187088,
+      "adds": 169080,
       "rostered_by": null
     },
     {
       "player": "Jacksonville Jaguars (DEF, JAX)",
-      "adds": 160500,
+      "adds": 132816,
       "rostered_by": 4
     },
     {
       "player": "Matt Gay (K, LV)",
-      "adds": 148975,
+      "adds": 131435,
       "rostered_by": null
     },
     {
       "player": "Romeo Doubs (WR, NE)",
-      "adds": 131096,
+      "adds": 118992,
       "rostered_by": 2
     },
     {
       "player": "Aaron Rodgers (QB, PIT)",
-      "adds": 130596,
+      "adds": 115964,
       "rostered_by": 2
     },
     {
-      "player": "Michael Mayer (TE, LV)",
-      "adds": 126684,
+      "player": "Isaiah Williams (WR, NYJ)",
+      "adds": 115320,
       "rostered_by": null
     },
     {
-      "player": "Isaiah Williams (WR, NYJ)",
-      "adds": 125436,
+      "player": "Michael Mayer (TE, LV)",
+      "adds": 111420,
       "rostered_by": null
     },
     {
       "player": "Washington Commanders (DEF, WAS)",
-      "adds": 115542,
+      "adds": 109690,
       "rostered_by": null
     },
     {
-      "player": "Emanuel Wilson (RB, SEA)",
-      "adds": 111942,
-      "rostered_by": 7
-    },
-    {
       "player": "MarShawn Lloyd (RB, GB)",
-      "adds": 111798,
+      "adds": 107928,
       "rostered_by": 7
     },
     {
       "player": "Brian Robinson (RB, ATL)",
-      "adds": 111642,
+      "adds": 102312,
+      "rostered_by": 7
+    },
+    {
+      "player": "Emanuel Wilson (RB, SEA)",
+      "adds": 97128,
       "rostered_by": 7
     },
     {
       "player": "Braelon Allen (RB, NYJ)",
-      "adds": 107384,
+      "adds": 96888,
       "rostered_by": 3
     },
     {
       "player": "Tank Dell (WR, HOU) [IR]",
-      "adds": 106424,
+      "adds": 96480,
       "rostered_by": 4
     },
     {
+      "player": "Roschon Johnson (RB, CHI)",
+      "adds": 93176,
+      "rostered_by": null
+    },
+    {
       "player": "Deshaun Watson (QB, CLE)",
-      "adds": 102528,
+      "adds": 91952,
       "rostered_by": 8
     },
     {
       "player": "Mike Gesicki (TE, CIN)",
-      "adds": 100964,
+      "adds": 88672,
       "rostered_by": 3
-    },
-    {
-      "player": "Jayden Daniels (QB, WAS)",
-      "adds": 93176,
-      "rostered_by": 10
     }
   ]
 }
