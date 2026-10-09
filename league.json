@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-08T22:17:09.514157-04:00",
+  "generated": "2026-10-09T05:18:32.858875-04:00",
   "season": "2026",
   "week": 5,
   "league": {
@@ -27,7 +27,7 @@
       "ties": 0,
       "points": 396.9
     },
-    "waiver_position": 11,
+    "waiver_position": 10,
     "faab_used": 107,
     "starters": [
       "Drake Maye (QB, NE)",
@@ -126,7 +126,7 @@
         "ties": 0,
         "points": 488.65
       },
-      "waiver_position": 9,
+      "waiver_position": 8,
       "faab_used": 113,
       "starters": [
         "Jordan Love (QB, GB)",
@@ -194,7 +194,7 @@
         "ties": 0,
         "points": 459.55
       },
-      "waiver_position": 12,
+      "waiver_position": 11,
       "faab_used": 40,
       "starters": [
         "Jalen Hurts (QB, PHI)",
@@ -358,7 +358,7 @@
         "ties": 0,
         "points": 450.0
       },
-      "waiver_position": 8,
+      "waiver_position": 12,
       "faab_used": 200,
       "starters": [
         "Aaron Rodgers (QB, PIT)",
@@ -374,7 +374,7 @@
       "bench": [
         "Darren Waller (TE, CAR)",
         "Patrick Mahomes (QB, KC)",
-        "Matt Gay (K, LV)",
+        "Romeo Doubs (WR, NE)",
         "Breece Hall (RB, NYJ) [Doubtful]",
         "Dontayvion Wicks (WR, PHI) [Questionable]",
         "Quentin Johnston (WR, LAC) [Questionable]"
@@ -424,7 +424,7 @@
         "ties": 0,
         "points": 396.9
       },
-      "waiver_position": 11,
+      "waiver_position": 10,
       "faab_used": 107,
       "starters": [
         "Drake Maye (QB, NE)",
@@ -458,7 +458,7 @@
         "ties": 0,
         "points": 395.1
       },
-      "waiver_position": 10,
+      "waiver_position": 9,
       "faab_used": 5,
       "starters": [
         "Sam Darnold (QB, SEA)",
@@ -486,6 +486,7 @@
     "Week 5 \u00b7 free_agent \u00b7 complete \u00b7 Thu Oct 08 07:24 PM \u00b7 Drunk To Taste This CHX \u00b7 added: Jake Bates (K, DET) to Drunk To Taste This CHX \u00b7 dropped: Harrison Butker (K, KC) from Drunk To Taste This CHX",
     "Week 5 \u00b7 free_agent \u00b7 complete \u00b7 Thu Oct 08 06:01 PM \u00b7 Thoroughbred Cheesehead \u00b7 added: Keaton Mitchell (RB, LAC) to Thoroughbred Cheesehead \u00b7 dropped: Tyler Shough (QB, NO) from Thoroughbred Cheesehead",
     "Week 5 \u00b7 free_agent \u00b7 complete \u00b7 Thu Oct 08 06:01 PM \u00b7 Thoroughbred Cheesehead \u00b7 added: Jacksonville Jaguars (DEF, JAX) to Thoroughbred Cheesehead \u00b7 dropped: Arizona Cardinals (DEF, ARI) from Thoroughbred Cheesehead",
+    "Week 5 \u00b7 waiver \u00b7 complete \u00b7 Wed Oct 07 08:20 AM \u00b7 Holla \u00b7 added: Romeo Doubs (WR, NE) to Holla \u00b7 dropped: Matt Gay (K, LV) from Holla \u00b7 bid $0 \u00b7 note: Your waiver claim was processed successfully!",
     "Week 5 \u00b7 free_agent \u00b7 complete \u00b7 Wed Oct 07 08:19 AM \u00b7 Holla \u00b7 added: Cincinnati Bengals (DEF, CIN) to Holla \u00b7 dropped: Green Bay Packers (DEF, GB) from Holla",
     "Week 5 \u00b7 free_agent \u00b7 complete \u00b7 Wed Oct 07 08:18 AM \u00b7 Holla \u00b7 added: Aaron Rodgers (QB, PIT) to Holla \u00b7 dropped: Caleb Williams (QB, CHI) [Out] from Holla",
     "Week 5 \u00b7 free_agent \u00b7 complete \u00b7 Wed Oct 07 05:18 AM \u00b7 Drunk To Taste This CHX \u00b7 added: Mike Gesicki (TE, CIN) to Drunk To Taste This CHX \u00b7 dropped: Romeo Doubs (WR, NE) from Drunk To Taste This CHX",
@@ -516,6 +517,13 @@
     "Week 4 \u00b7 free_agent \u00b7 complete \u00b7 Wed Sep 30 03:24 AM \u00b7 Young Blood \u00b7 added: Pittsburgh Steelers (DEF, PIT) to Young Blood \u00b7 dropped: Cincinnati Bengals (DEF, CIN) from Young Blood"
   ],
   "dropped_unrostered": [
+    {
+      "player": "Matt Gay (K, LV)",
+      "dropped_by": "Holla",
+      "dropped_at": "2026-10-09T04:19:20.643000-04:00",
+      "on_waivers_until": "2026-10-11T04:19:20.643000-04:00",
+      "waiver_status": "on waivers until Sun Oct 11, 4:19 AM ET"
+    },
     {
       "player": "Harrison Butker (K, KC)",
       "dropped_by": "Drunk To Taste This CHX",
@@ -552,46 +560,39 @@
       "waiver_status": "on waivers until Fri Oct 9, 8:18 AM ET"
     },
     {
-      "player": "Romeo Doubs (WR, NE)",
-      "dropped_by": "Drunk To Taste This CHX",
-      "dropped_at": "2026-10-07T05:18:35.357000-04:00",
-      "on_waivers_until": "2026-10-09T05:18:35.357000-04:00",
-      "waiver_status": "on waivers until Fri Oct 9, 5:18 AM ET"
-    },
-    {
       "player": "Caleb Douglas (WR, MIA) [Questionable]",
       "dropped_by": "Whiskey Sippin Kings",
       "dropped_at": "2026-10-07T04:23:02.911000-04:00",
-      "on_waivers_until": "2026-10-09T04:23:02.911000-04:00",
-      "waiver_status": "on waivers until Fri Oct 9, 4:23 AM ET"
+      "on_waivers_until": null,
+      "waiver_status": "free agent now"
     },
     {
       "player": "Baker Mayfield (QB, TB) [Out]",
       "dropped_by": "Whiskey Sippin Kings",
       "dropped_at": "2026-10-07T03:08:37.604000-04:00",
-      "on_waivers_until": "2026-10-09T03:08:37.604000-04:00",
-      "waiver_status": "on waivers until Fri Oct 9, 3:08 AM ET"
+      "on_waivers_until": null,
+      "waiver_status": "free agent now"
     },
     {
       "player": "Buffalo Bills (DEF, BUF)",
       "dropped_by": "THE ACE OF SPADES",
       "dropped_at": "2026-10-07T03:08:37.604000-04:00",
-      "on_waivers_until": "2026-10-09T03:08:37.604000-04:00",
-      "waiver_status": "on waivers until Fri Oct 9, 3:08 AM ET"
+      "on_waivers_until": null,
+      "waiver_status": "free agent now"
     },
     {
       "player": "Isaiah Davis (RB, NYJ)",
       "dropped_by": "THE ACE OF SPADES",
       "dropped_at": "2026-10-07T03:08:37.604000-04:00",
-      "on_waivers_until": "2026-10-09T03:08:37.604000-04:00",
-      "waiver_status": "on waivers until Fri Oct 9, 3:08 AM ET"
+      "on_waivers_until": null,
+      "waiver_status": "free agent now"
     },
     {
       "player": "Dallas Goedert (TE, PHI) [Questionable]",
       "dropped_by": "Drunk To Taste This CHX",
       "dropped_at": "2026-10-07T03:08:37.604000-04:00",
-      "on_waivers_until": "2026-10-09T03:08:37.604000-04:00",
-      "waiver_status": "on waivers until Fri Oct 9, 3:08 AM ET"
+      "on_waivers_until": null,
+      "waiver_status": "free agent now"
     },
     {
       "player": "Keenan Allen (WR, IND) [Questionable]",
@@ -674,128 +675,128 @@
   "trending_adds": [
     {
       "player": "Roman Wilson (WR, PIT)",
-      "adds": 608409,
+      "adds": 682884,
       "rostered_by": null
     },
     {
       "player": "Dohnte Meyers (WR, CIN)",
-      "adds": 576504,
+      "adds": 475983,
       "rostered_by": null
     },
     {
       "player": "Dameon Pierce (RB, PHI)",
-      "adds": 436376,
+      "adds": 437552,
       "rostered_by": null
     },
     {
       "player": "Tyler Higbee (TE, LAR)",
-      "adds": 315234,
+      "adds": 294939,
       "rostered_by": null
     },
     {
-      "player": "Keon Coleman (WR, BUF)",
-      "adds": 267003,
-      "rostered_by": 9
-    },
-    {
       "player": "Keaton Mitchell (RB, LAC)",
-      "adds": 265986,
+      "adds": 245916,
       "rostered_by": 4
     },
     {
       "player": "Kirk Cousins (QB, LV)",
-      "adds": 240392,
+      "adds": 227976,
       "rostered_by": 12
     },
     {
       "player": "Cleveland Browns (DEF, CLE)",
-      "adds": 231497,
+      "adds": 212051,
       "rostered_by": null
     },
     {
+      "player": "Keon Coleman (WR, BUF)",
+      "adds": 208782,
+      "rostered_by": 9
+    },
+    {
       "player": "Darius Cooper (WR, PHI)",
-      "adds": 209153,
+      "adds": 199745,
       "rostered_by": null
     },
     {
       "player": "Malik Washington (WR, MIA)",
-      "adds": 200760,
+      "adds": 187088,
       "rostered_by": null
     },
     {
       "player": "Jacksonville Jaguars (DEF, JAX)",
-      "adds": 191400,
+      "adds": 160500,
       "rostered_by": 4
     },
     {
       "player": "Matt Gay (K, LV)",
-      "adds": 161400,
-      "rostered_by": 2
-    },
-    {
-      "player": "Michael Mayer (TE, LV)",
-      "adds": 144387,
+      "adds": 148975,
       "rostered_by": null
     },
     {
       "player": "Romeo Doubs (WR, NE)",
-      "adds": 143304,
-      "rostered_by": null
-    },
-    {
-      "player": "Aaron Rodgers (QB, PIT)",
-      "adds": 141648,
+      "adds": 131096,
       "rostered_by": 2
     },
     {
+      "player": "Aaron Rodgers (QB, PIT)",
+      "adds": 130596,
+      "rostered_by": 2
+    },
+    {
+      "player": "Michael Mayer (TE, LV)",
+      "adds": 126684,
+      "rostered_by": null
+    },
+    {
       "player": "Isaiah Williams (WR, NYJ)",
-      "adds": 134484,
+      "adds": 125436,
+      "rostered_by": null
+    },
+    {
+      "player": "Washington Commanders (DEF, WAS)",
+      "adds": 115542,
       "rostered_by": null
     },
     {
       "player": "Emanuel Wilson (RB, SEA)",
-      "adds": 129627,
+      "adds": 111942,
+      "rostered_by": 7
+    },
+    {
+      "player": "MarShawn Lloyd (RB, GB)",
+      "adds": 111798,
       "rostered_by": 7
     },
     {
       "player": "Brian Robinson (RB, ATL)",
-      "adds": 123276,
-      "rostered_by": 7
-    },
-    {
-      "player": "Tank Dell (WR, HOU) [IR]",
-      "adds": 120688,
-      "rostered_by": 4
-    },
-    {
-      "player": "Mike Gesicki (TE, CIN)",
-      "adds": 116128,
-      "rostered_by": 3
-    },
-    {
-      "player": "Washington Commanders (DEF, WAS)",
-      "adds": 115948,
-      "rostered_by": null
-    },
-    {
-      "player": "MarShawn Lloyd (RB, GB)",
-      "adds": 114903,
+      "adds": 111642,
       "rostered_by": 7
     },
     {
       "player": "Braelon Allen (RB, NYJ)",
-      "adds": 114796,
+      "adds": 107384,
       "rostered_by": 3
     },
     {
+      "player": "Tank Dell (WR, HOU) [IR]",
+      "adds": 106424,
+      "rostered_by": 4
+    },
+    {
       "player": "Deshaun Watson (QB, CLE)",
-      "adds": 108072,
+      "adds": 102528,
       "rostered_by": 8
     },
     {
-      "player": "Will Shipley (RB, PHI)",
-      "adds": 98480,
-      "rostered_by": 11
+      "player": "Mike Gesicki (TE, CIN)",
+      "adds": 100964,
+      "rostered_by": 3
+    },
+    {
+      "player": "Jayden Daniels (QB, WAS)",
+      "adds": 93176,
+      "rostered_by": 10
     }
   ]
 }
