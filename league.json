@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-08T17:23:25.409883-04:00",
+  "generated": "2026-10-08T22:17:09.514157-04:00",
   "season": "2026",
   "week": 5,
   "league": {
@@ -101,19 +101,19 @@
         "Bijan Robinson (RB, ATL)",
         "Javonte Williams (RB, DAL)",
         "Drake London (WR, ATL)",
-        "Tee Higgins (WR, CIN) [Questionable]",
+        "Michael Wilson (WR, ARI)",
         "Jake Ferguson (TE, DAL)",
-        "Kyle Monangai (RB, CHI) [Questionable]",
+        "Wan'Dale Robinson (WR, TEN)",
         "Tyler Loop (K, BAL)",
         "Minnesota Vikings (DEF, MIN)"
       ],
       "bench": [
         "Rashee Rice (WR, KC) [Questionable]",
-        "Michael Wilson (WR, ARI)",
+        "Kyle Monangai (RB, CHI) [Questionable]",
         "Kalif Raymond (WR, CHI)",
         "Dalton Schultz (TE, HOU)",
-        "Trevor Lawrence (QB, JAX)",
-        "Wan'Dale Robinson (WR, TEN)"
+        "Tee Higgins (WR, CIN) [Questionable]",
+        "Trevor Lawrence (QB, JAX)"
       ],
       "ir": []
     },
@@ -171,15 +171,15 @@
         "Dalton Kincaid (TE, BUF)",
         "Jacory Croskey-Merritt (RB, WAS) [Questionable]",
         "Trey Smack (K, GB)",
-        "Arizona Cardinals (DEF, ARI)"
+        "Jacksonville Jaguars (DEF, JAX)"
       ],
       "bench": [
         "Marvin Harrison (WR, ARI)",
-        "Tyler Shough (QB, NO)",
         "Jadarian Price (RB, SEA) [IR]",
         "KC Concepcion (WR, CLE)",
         "Deebo Samuel (WR, SF)",
-        "J.K. Dobbins (RB, DEN)"
+        "J.K. Dobbins (RB, DEN)",
+        "Keaton Mitchell (RB, LAC)"
       ],
       "ir": [
         "Tank Dell (WR, HOU) [IR]"
@@ -204,7 +204,7 @@
         "Garrett Wilson (WR, NYJ)",
         "Mike Gesicki (TE, CIN)",
         "Jameson Williams (WR, DET)",
-        "Harrison Butker (K, KC)",
+        "Jake Bates (K, DET)",
         "Los Angeles Rams (DEF, LAR)"
       ],
       "bench": [
@@ -398,7 +398,7 @@
         "Kirk Cousins (QB, LV)",
         "Jonathan Taylor (RB, IND)",
         "D'Andre Swift (RB, CHI) [Questionable]",
-        "Justin Jefferson (WR, MIN) [Questionable]",
+        "George Pickens (WR, DAL)",
         "Davante Adams (WR, LAR)",
         "T.J. Hockenson (TE, MIN)",
         "Aaron Jones (RB, MIN)",
@@ -408,9 +408,9 @@
       "bench": [
         "Jalen Coker (WR, CAR) [Out]",
         "Tony Pollard (RB, TEN)",
+        "Justin Jefferson (WR, MIN) [Questionable]",
         "Justin Herbert (QB, LAC)",
         "Khalil Shakir (WR, BUF)",
-        "George Pickens (WR, DAL)",
         "San Francisco 49ers (DEF, SF)"
       ],
       "ir": []
@@ -483,6 +483,9 @@
     }
   ],
   "transactions": [
+    "Week 5 \u00b7 free_agent \u00b7 complete \u00b7 Thu Oct 08 07:24 PM \u00b7 Drunk To Taste This CHX \u00b7 added: Jake Bates (K, DET) to Drunk To Taste This CHX \u00b7 dropped: Harrison Butker (K, KC) from Drunk To Taste This CHX",
+    "Week 5 \u00b7 free_agent \u00b7 complete \u00b7 Thu Oct 08 06:01 PM \u00b7 Thoroughbred Cheesehead \u00b7 added: Keaton Mitchell (RB, LAC) to Thoroughbred Cheesehead \u00b7 dropped: Tyler Shough (QB, NO) from Thoroughbred Cheesehead",
+    "Week 5 \u00b7 free_agent \u00b7 complete \u00b7 Thu Oct 08 06:01 PM \u00b7 Thoroughbred Cheesehead \u00b7 added: Jacksonville Jaguars (DEF, JAX) to Thoroughbred Cheesehead \u00b7 dropped: Arizona Cardinals (DEF, ARI) from Thoroughbred Cheesehead",
     "Week 5 \u00b7 free_agent \u00b7 complete \u00b7 Wed Oct 07 08:19 AM \u00b7 Holla \u00b7 added: Cincinnati Bengals (DEF, CIN) to Holla \u00b7 dropped: Green Bay Packers (DEF, GB) from Holla",
     "Week 5 \u00b7 free_agent \u00b7 complete \u00b7 Wed Oct 07 08:18 AM \u00b7 Holla \u00b7 added: Aaron Rodgers (QB, PIT) to Holla \u00b7 dropped: Caleb Williams (QB, CHI) [Out] from Holla",
     "Week 5 \u00b7 free_agent \u00b7 complete \u00b7 Wed Oct 07 05:18 AM \u00b7 Drunk To Taste This CHX \u00b7 added: Mike Gesicki (TE, CIN) to Drunk To Taste This CHX \u00b7 dropped: Romeo Doubs (WR, NE) from Drunk To Taste This CHX",
@@ -513,6 +516,27 @@
     "Week 4 \u00b7 free_agent \u00b7 complete \u00b7 Wed Sep 30 03:24 AM \u00b7 Young Blood \u00b7 added: Pittsburgh Steelers (DEF, PIT) to Young Blood \u00b7 dropped: Cincinnati Bengals (DEF, CIN) from Young Blood"
   ],
   "dropped_unrostered": [
+    {
+      "player": "Harrison Butker (K, KC)",
+      "dropped_by": "Drunk To Taste This CHX",
+      "dropped_at": "2026-10-08T19:24:24.619000-04:00",
+      "on_waivers_until": "2026-10-10T19:24:24.619000-04:00",
+      "waiver_status": "on waivers until Sat Oct 10, 7:24 PM ET"
+    },
+    {
+      "player": "Tyler Shough (QB, NO)",
+      "dropped_by": "Thoroughbred Cheesehead",
+      "dropped_at": "2026-10-08T18:01:53.918000-04:00",
+      "on_waivers_until": "2026-10-10T18:01:53.918000-04:00",
+      "waiver_status": "on waivers until Sat Oct 10, 6:01 PM ET"
+    },
+    {
+      "player": "Arizona Cardinals (DEF, ARI)",
+      "dropped_by": "Thoroughbred Cheesehead",
+      "dropped_at": "2026-10-08T18:01:33.382000-04:00",
+      "on_waivers_until": "2026-10-10T18:01:33.382000-04:00",
+      "waiver_status": "on waivers until Sat Oct 10, 6:01 PM ET"
+    },
     {
       "player": "Green Bay Packers (DEF, GB)",
       "dropped_by": "Holla",
@@ -577,23 +601,9 @@
       "waiver_status": "free agent now"
     },
     {
-      "player": "Jacksonville Jaguars (DEF, JAX)",
-      "dropped_by": "Thoroughbred Cheesehead",
-      "dropped_at": "2026-10-04T11:50:13.685000-04:00",
-      "on_waivers_until": null,
-      "waiver_status": "free agent now"
-    },
-    {
       "player": "De'Von Achane (RB, MIA) [IR]",
       "dropped_by": "Make Miami Great Again",
       "dropped_at": "2026-10-04T11:28:14.273000-04:00",
-      "on_waivers_until": null,
-      "waiver_status": "free agent now"
-    },
-    {
-      "player": "Keaton Mitchell (RB, LAC)",
-      "dropped_by": "Springfield Atoms",
-      "dropped_at": "2026-10-02T09:40:28.534000-04:00",
       "on_waivers_until": null,
       "waiver_status": "free agent now"
     },
@@ -663,129 +673,129 @@
   ],
   "trending_adds": [
     {
-      "player": "Dohnte Meyers (WR, CIN)",
-      "adds": 581517,
+      "player": "Roman Wilson (WR, PIT)",
+      "adds": 608409,
       "rostered_by": null
     },
     {
-      "player": "Roman Wilson (WR, PIT)",
-      "adds": 410805,
+      "player": "Dohnte Meyers (WR, CIN)",
+      "adds": 576504,
       "rostered_by": null
     },
     {
       "player": "Dameon Pierce (RB, PHI)",
-      "adds": 372936,
+      "adds": 436376,
+      "rostered_by": null
+    },
+    {
+      "player": "Tyler Higbee (TE, LAR)",
+      "adds": 315234,
       "rostered_by": null
     },
     {
       "player": "Keon Coleman (WR, BUF)",
-      "adds": 339840,
+      "adds": 267003,
       "rostered_by": 9
     },
     {
-      "player": "Tyler Higbee (TE, LAR)",
-      "adds": 284031,
-      "rostered_by": null
-    },
-    {
       "player": "Keaton Mitchell (RB, LAC)",
-      "adds": 244278,
-      "rostered_by": null
+      "adds": 265986,
+      "rostered_by": 4
     },
     {
       "player": "Kirk Cousins (QB, LV)",
-      "adds": 219512,
+      "adds": 240392,
       "rostered_by": 12
     },
     {
       "player": "Cleveland Browns (DEF, CLE)",
-      "adds": 212688,
-      "rostered_by": null
-    },
-    {
-      "player": "Jacksonville Jaguars (DEF, JAX)",
-      "adds": 208182,
-      "rostered_by": null
-    },
-    {
-      "player": "Malik Washington (WR, MIA)",
-      "adds": 191016,
+      "adds": 231497,
       "rostered_by": null
     },
     {
       "player": "Darius Cooper (WR, PHI)",
-      "adds": 187530,
+      "adds": 209153,
       "rostered_by": null
     },
     {
-      "player": "Michael Mayer (TE, LV)",
-      "adds": 154467,
+      "player": "Malik Washington (WR, MIA)",
+      "adds": 200760,
       "rostered_by": null
     },
     {
-      "player": "Matt Gay (K, LV)",
-      "adds": 140870,
-      "rostered_by": 2
-    },
-    {
-      "player": "Tank Dell (WR, HOU) [IR]",
-      "adds": 140744,
+      "player": "Jacksonville Jaguars (DEF, JAX)",
+      "adds": 191400,
       "rostered_by": 4
     },
     {
-      "player": "Romeo Doubs (WR, NE)",
-      "adds": 138408,
+      "player": "Matt Gay (K, LV)",
+      "adds": 161400,
+      "rostered_by": 2
+    },
+    {
+      "player": "Michael Mayer (TE, LV)",
+      "adds": 144387,
       "rostered_by": null
     },
     {
-      "player": "Emanuel Wilson (RB, SEA)",
-      "adds": 137133,
-      "rostered_by": 7
+      "player": "Romeo Doubs (WR, NE)",
+      "adds": 143304,
+      "rostered_by": null
     },
     {
       "player": "Aaron Rodgers (QB, PIT)",
-      "adds": 134096,
+      "adds": 141648,
       "rostered_by": 2
     },
     {
       "player": "Isaiah Williams (WR, NYJ)",
-      "adds": 127470,
+      "adds": 134484,
       "rostered_by": null
     },
     {
-      "player": "Brian Robinson (RB, ATL)",
-      "adds": 125166,
+      "player": "Emanuel Wilson (RB, SEA)",
+      "adds": 129627,
       "rostered_by": 7
     },
     {
-      "player": "Will Shipley (RB, PHI)",
-      "adds": 125002,
-      "rostered_by": 11
+      "player": "Brian Robinson (RB, ATL)",
+      "adds": 123276,
+      "rostered_by": 7
+    },
+    {
+      "player": "Tank Dell (WR, HOU) [IR]",
+      "adds": 120688,
+      "rostered_by": 4
     },
     {
       "player": "Mike Gesicki (TE, CIN)",
-      "adds": 123668,
+      "adds": 116128,
       "rostered_by": 3
     },
     {
-      "player": "Braelon Allen (RB, NYJ)",
-      "adds": 109472,
-      "rostered_by": 3
+      "player": "Washington Commanders (DEF, WAS)",
+      "adds": 115948,
+      "rostered_by": null
     },
     {
       "player": "MarShawn Lloyd (RB, GB)",
-      "adds": 105030,
+      "adds": 114903,
       "rostered_by": 7
     },
     {
+      "player": "Braelon Allen (RB, NYJ)",
+      "adds": 114796,
+      "rostered_by": 3
+    },
+    {
       "player": "Deshaun Watson (QB, CLE)",
-      "adds": 96680,
+      "adds": 108072,
       "rostered_by": 8
     },
     {
-      "player": "Jayden Daniels (QB, WAS)",
-      "adds": 94896,
-      "rostered_by": 10
+      "player": "Will Shipley (RB, PHI)",
+      "adds": 98480,
+      "rostered_by": 11
     }
   ]
 }
