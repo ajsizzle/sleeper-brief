@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-09T17:45:49.465897-04:00",
+  "generated": "2026-10-09T21:48:29.627806-04:00",
   "season": "2026",
   "week": 5,
   "league": {
@@ -683,128 +683,128 @@
   "trending_adds": [
     {
       "player": "Roman Wilson (WR, PIT)",
-      "adds": 758997,
+      "adds": 578538,
       "rostered_by": 11
     },
     {
-      "player": "Dameon Pierce (RB, PHI)",
-      "adds": 377440,
+      "player": "Roschon Johnson (RB, CHI)",
+      "adds": 396360,
       "rostered_by": null
     },
     {
-      "player": "Roschon Johnson (RB, CHI)",
-      "adds": 338232,
+      "player": "Dameon Pierce (RB, PHI)",
+      "adds": 289936,
       "rostered_by": null
     },
     {
       "player": "Dohnte Meyers (WR, CIN)",
-      "adds": 284427,
+      "adds": 167949,
+      "rostered_by": null
+    },
+    {
+      "player": "Darius Cooper (WR, PHI)",
+      "adds": 166460,
       "rostered_by": null
     },
     {
       "player": "Tyler Higbee (TE, LAR)",
-      "adds": 233064,
+      "adds": 151326,
       "rostered_by": null
     },
     {
       "player": "Keaton Mitchell (RB, LAC)",
-      "adds": 212256,
+      "adds": 147384,
       "rostered_by": 4
     },
     {
-      "player": "Darius Cooper (WR, PHI)",
-      "adds": 204477,
-      "rostered_by": null
-    },
-    {
       "player": "Kirk Cousins (QB, LV)",
-      "adds": 194800,
+      "adds": 129648,
       "rostered_by": 12
     },
     {
       "player": "Malik Washington (WR, MIA)",
-      "adds": 158072,
+      "adds": 117544,
       "rostered_by": null
     },
     {
+      "player": "MarShawn Lloyd (RB, GB)",
+      "adds": 96633,
+      "rostered_by": 7
+    },
+    {
+      "player": "Romeo Doubs (WR, NE)",
+      "adds": 91576,
+      "rostered_by": 2
+    },
+    {
       "player": "Cleveland Browns (DEF, CLE)",
-      "adds": 147574,
+      "adds": 90713,
       "rostered_by": null
     },
     {
       "player": "Keon Coleman (WR, BUF)",
-      "adds": 127917,
+      "adds": 85995,
       "rostered_by": 9
     },
     {
-      "player": "Romeo Doubs (WR, NE)",
-      "adds": 117992,
-      "rostered_by": 2
-    },
-    {
-      "player": "MarShawn Lloyd (RB, GB)",
-      "adds": 112257,
-      "rostered_by": 7
-    },
-    {
       "player": "Isaiah Williams (WR, NYJ)",
-      "adds": 108480,
+      "adds": 83826,
       "rostered_by": null
-    },
-    {
-      "player": "Matt Gay (K, LV)",
-      "adds": 105365,
-      "rostered_by": null
-    },
-    {
-      "player": "Aaron Rodgers (QB, PIT)",
-      "adds": 102704,
-      "rostered_by": 2
-    },
-    {
-      "player": "Jacksonville Jaguars (DEF, JAX)",
-      "adds": 102222,
-      "rostered_by": 4
     },
     {
       "player": "Michael Mayer (TE, LV)",
-      "adds": 98136,
+      "adds": 72630,
       "rostered_by": null
     },
     {
       "player": "Brian Robinson (RB, ATL)",
-      "adds": 96438,
+      "adds": 69372,
       "rostered_by": 7
     },
     {
+      "player": "Efton Chism (WR, NE)",
+      "adds": 67844,
+      "rostered_by": null
+    },
+    {
+      "player": "Aaron Rodgers (QB, PIT)",
+      "adds": 67704,
+      "rostered_by": 2
+    },
+    {
+      "player": "Khalil Shakir (WR, BUF)",
+      "adds": 65772,
+      "rostered_by": 12
+    },
+    {
+      "player": "Jacksonville Jaguars (DEF, JAX)",
+      "adds": 62142,
+      "rostered_by": 4
+    },
+    {
       "player": "Washington Commanders (DEF, WAS)",
-      "adds": 95431,
+      "adds": 59969,
+      "rostered_by": null
+    },
+    {
+      "player": "Tre' Harris (WR, LAC)",
+      "adds": 58676,
       "rostered_by": null
     },
     {
       "player": "Braelon Allen (RB, NYJ)",
-      "adds": 84592,
+      "adds": 57468,
       "rostered_by": 3
-    },
-    {
-      "player": "Khalil Shakir (WR, BUF)",
-      "adds": 83403,
-      "rostered_by": 12
-    },
-    {
-      "player": "Deshaun Watson (QB, CLE)",
-      "adds": 82872,
-      "rostered_by": 8
-    },
-    {
-      "player": "Emanuel Wilson (RB, SEA)",
-      "adds": 81054,
-      "rostered_by": 7
     },
     {
       "player": "Mike Gesicki (TE, CIN)",
-      "adds": 77472,
+      "adds": 56744,
       "rostered_by": 3
+    },
+    {
+      "player": "Tank Dell (WR, HOU) [IR]",
+      "adds": 55440,
+      "rostered_by": 4
     }
   ]
 }
