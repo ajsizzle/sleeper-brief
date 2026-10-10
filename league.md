@@ -1,5 +1,5 @@
 # Sleeper league state
-Generated Saturday October 10, 2026 04:10 PM ET · Season 2026 · NFL week 5
+Generated Saturday October 10, 2026 07:39 PM ET · Season 2026 · NFL week 5
 League: The Dudes Will Roll · 12 teams · waivers: FAAB (budget $200) · lineup: QB, RB, RB, WR, WR, TE, FLEX, K, DEF
 
 ## My team: THE ACE OF SPADES (roster 11)
@@ -55,7 +55,7 @@ IR: Jonah Coleman (RB, DEN) [IR]
 
 ### Thoroughbred Cheesehead · 3-1 · 487.6 pts · waiver priority 3
 Starters: Joe Burrow (QB, CIN); James Cook (RB, BUF); Bucky Irving (RB, TB); Amon-Ra St. Brown (WR, DET); Christian Watson (WR, GB); Dalton Kincaid (TE, BUF); Jacory Croskey-Merritt (RB, WAS); Trey Smack (K, GB); Jacksonville Jaguars (DEF, JAX)
-Bench: Marvin Harrison (WR, ARI); Jadarian Price (RB, SEA) [IR]; KC Concepcion (WR, CLE); Deebo Samuel (WR, SF); J.K. Dobbins (RB, DEN); Keaton Mitchell (RB, LAC)
+Bench: Marvin Harrison (WR, ARI) [Out]; Jadarian Price (RB, SEA) [IR]; KC Concepcion (WR, CLE); Deebo Samuel (WR, SF); J.K. Dobbins (RB, DEN); Keaton Mitchell (RB, LAC)
 IR: Tank Dell (WR, HOU) [IR]
 
 ### Drunk To Taste This CHX · 3-1 · 459.6 pts · waiver priority 11
@@ -136,9 +136,9 @@ Bench: Denzel Boston (WR, CLE); Saquon Barkley (RB, PHI) [Out]; Courtland Sutton
 ## Dropped in the last 14 days, still unrostered
 - C.J. Stroud (QB, HOU) · dropped by THE ACE OF SPADES on Fri Oct 9, 8:34 AM ET · on waivers until Sun Oct 11, 8:34 AM ET
 - Matt Gay (K, LV) · dropped by Holla on Fri Oct 9, 4:19 AM ET · on waivers until Sun Oct 11, 4:19 AM ET
-- Harrison Butker (K, KC) · dropped by Drunk To Taste This CHX on Thu Oct 8, 7:24 PM ET · on waivers until Sat Oct 10, 7:24 PM ET
-- Tyler Shough (QB, NO) · dropped by Thoroughbred Cheesehead on Thu Oct 8, 6:01 PM ET · on waivers until Sat Oct 10, 6:01 PM ET
-- Arizona Cardinals (DEF, ARI) · dropped by Thoroughbred Cheesehead on Thu Oct 8, 6:01 PM ET · on waivers until Sat Oct 10, 6:01 PM ET
+- Harrison Butker (K, KC) · dropped by Drunk To Taste This CHX on Thu Oct 8, 7:24 PM ET · free agent now
+- Tyler Shough (QB, NO) · dropped by Thoroughbred Cheesehead on Thu Oct 8, 6:01 PM ET · free agent now
+- Arizona Cardinals (DEF, ARI) · dropped by Thoroughbred Cheesehead on Thu Oct 8, 6:01 PM ET · free agent now
 - Green Bay Packers (DEF, GB) · dropped by Holla on Wed Oct 7, 8:19 AM ET · free agent now
 - Caleb Williams (QB, CHI) [Questionable] · dropped by Holla on Wed Oct 7, 8:18 AM ET · free agent now
 - Caleb Douglas (WR, MIA) [Out] · dropped by Whiskey Sippin Kings on Wed Oct 7, 4:23 AM ET · free agent now
@@ -159,30 +159,30 @@ Bench: Denzel Boston (WR, CLE); Saquon Barkley (RB, PHI) [Out]; Courtland Sutton
 - Jason Myers (K, SEA) · dropped by Young Blood on Wed Sep 30, 3:26 AM ET · free agent now
 
 ## Trending adds across Sleeper, last 24 hours
-- Roschon Johnson (RB, CHI) · 474,312 adds · AVAILABLE in my league
-- Roman Wilson (WR, PIT) · 351,810 adds · on my roster
-- Marvin Harrison (WR, ARI) · 223,688 adds · rostered by Thoroughbred Cheesehead
-- Dameon Pierce (RB, PHI) · 189,312 adds · AVAILABLE in my league
-- Darius Cooper (WR, PHI) · 167,272 adds · AVAILABLE in my league
-- Efton Chism (WR, NE) · 120,964 adds · AVAILABLE in my league
-- Dohnte Meyers (WR, CIN) · 99,981 adds · AVAILABLE in my league
-- Tyler Higbee (TE, LAR) · 94,419 adds · AVAILABLE in my league
-- Malik Washington (WR, MIA) · 93,624 adds · AVAILABLE in my league
-- Tre' Harris (WR, LAC) · 90,152 adds · AVAILABLE in my league
-- Keaton Mitchell (RB, LAC) · 88,578 adds · rostered by Thoroughbred Cheesehead
-- Romeo Doubs (WR, NE) · 82,576 adds · rostered by Holla
-- MarShawn Lloyd (RB, GB) · 81,252 adds · rostered by Make Miami Great Again
-- Kirk Cousins (QB, LV) · 75,904 adds · rostered by Young Blood
-- Keon Coleman (WR, BUF) · 70,686 adds · rostered by Team 9
-- Khalil Shakir (WR, BUF) · 57,033 adds · rostered by Young Blood
-- Cleveland Browns (DEF, CLE) · 54,775 adds · AVAILABLE in my league
-- Pierre Strong (RB, GB) · 53,631 adds · AVAILABLE in my league
-- Isaiah Williams (WR, NYJ) · 52,416 adds · AVAILABLE in my league
-- Michael Mayer (TE, LV) · 52,047 adds · AVAILABLE in my league
-- Kendrick Bourne (WR, ARI) · 47,568 adds · AVAILABLE in my league
-- Brian Robinson (RB, ATL) · 44,268 adds · rostered by Make Miami Great Again
-- Mike Washington (RB, LV) · 44,186 adds · AVAILABLE in my league
-- Jacksonville Jaguars (DEF, JAX) · 40,332 adds · rostered by Thoroughbred Cheesehead
-- Aaron Rodgers (QB, PIT) · 40,328 adds · rostered by Holla
+- Roschon Johnson (RB, CHI) · 392,168 adds · AVAILABLE in my league
+- Roman Wilson (WR, PIT) · 265,572 adds · on my roster
+- Marvin Harrison (WR, ARI) [Out] · 249,696 adds · rostered by Thoroughbred Cheesehead
+- Darius Cooper (WR, PHI) · 145,054 adds · AVAILABLE in my league
+- Dameon Pierce (RB, PHI) · 128,528 adds · AVAILABLE in my league
+- Efton Chism (WR, NE) · 119,652 adds · AVAILABLE in my league
+- Tre' Harris (WR, LAC) · 83,784 adds · AVAILABLE in my league
+- Tyler Higbee (TE, LAR) · 77,364 adds · AVAILABLE in my league
+- Malik Washington (WR, MIA) · 74,240 adds · AVAILABLE in my league
+- MarShawn Lloyd (RB, GB) · 70,119 adds · rostered by Make Miami Great Again
+- Dohnte Meyers (WR, CIN) · 66,663 adds · AVAILABLE in my league
+- Keaton Mitchell (RB, LAC) · 65,259 adds · rostered by Thoroughbred Cheesehead
+- Kendrick Bourne (WR, ARI) · 64,392 adds · AVAILABLE in my league
+- Romeo Doubs (WR, NE) · 63,528 adds · rostered by Holla
+- Kirk Cousins (QB, LV) · 60,584 adds · rostered by Young Blood
+- Pierre Strong (RB, GB) · 60,021 adds · AVAILABLE in my league
+- Keon Coleman (WR, BUF) · 59,643 adds · rostered by Team 9
+- Khalil Shakir (WR, BUF) · 45,252 adds · rostered by Young Blood
+- Cleveland Browns (DEF, CLE) · 44,394 adds · AVAILABLE in my league
+- Michael Mayer (TE, LV) · 42,966 adds · AVAILABLE in my league
+- Isaiah Williams (WR, NYJ) · 38,034 adds · AVAILABLE in my league
+- Brian Robinson (RB, ATL) · 34,530 adds · rostered by Make Miami Great Again
+- Jacksonville Jaguars (DEF, JAX) · 33,564 adds · rostered by Thoroughbred Cheesehead
+- Washington Commanders (DEF, WAS) · 33,355 adds · AVAILABLE in my league
+- Aaron Rodgers (QB, PIT) · 32,160 adds · rostered by Holla
 
 Data from the Sleeper API (sleeper.com). Injury tags in brackets are Sleeper's designations and may lag official reports.
