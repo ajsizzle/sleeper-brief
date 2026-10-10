@@ -1,5 +1,5 @@
 # Sleeper league state
-Generated Saturday October 10, 2026 04:38 AM ET · Season 2026 · NFL week 5
+Generated Saturday October 10, 2026 11:27 AM ET · Season 2026 · NFL week 5
 League: The Dudes Will Roll · 12 teams · waivers: FAAB (budget $200) · lineup: QB, RB, RB, WR, WR, TE, FLEX, K, DEF
 
 ## My team: THE ACE OF SPADES (roster 11)
@@ -159,30 +159,30 @@ Bench: Denzel Boston (WR, CLE); Saquon Barkley (RB, PHI) [Out]; Courtland Sutton
 - Jason Myers (K, SEA) · dropped by Young Blood on Wed Sep 30, 3:26 AM ET · free agent now
 
 ## Trending adds across Sleeper, last 24 hours
-- Roman Wilson (WR, PIT) · 456,588 adds · on my roster
-- Roschon Johnson (RB, CHI) · 452,944 adds · AVAILABLE in my league
-- Dameon Pierce (RB, PHI) · 246,256 adds · AVAILABLE in my league
-- Darius Cooper (WR, PHI) · 156,485 adds · AVAILABLE in my league
-- Dohnte Meyers (WR, CIN) · 133,902 adds · AVAILABLE in my league
-- Keaton Mitchell (RB, LAC) · 121,131 adds · rostered by Thoroughbred Cheesehead
-- Tyler Higbee (TE, LAR) · 117,990 adds · AVAILABLE in my league
-- Kirk Cousins (QB, LV) · 102,528 adds · rostered by Young Blood
-- Malik Washington (WR, MIA) · 101,944 adds · AVAILABLE in my league
-- MarShawn Lloyd (RB, GB) · 88,065 adds · rostered by Make Miami Great Again
-- Efton Chism (WR, NE) · 85,828 adds · AVAILABLE in my league
-- Romeo Doubs (WR, NE) · 81,728 adds · rostered by Holla
-- Keon Coleman (WR, BUF) · 72,594 adds · rostered by Team 9
-- Isaiah Williams (WR, NYJ) · 71,382 adds · AVAILABLE in my league
-- Cleveland Browns (DEF, CLE) · 68,656 adds · AVAILABLE in my league
-- Tre' Harris (WR, LAC) · 65,592 adds · AVAILABLE in my league
-- Michael Mayer (TE, LV) · 59,769 adds · AVAILABLE in my league
-- Mike Washington (RB, LV) · 59,452 adds · AVAILABLE in my league
-- Khalil Shakir (WR, BUF) · 58,572 adds · rostered by Young Blood
-- Brian Robinson (RB, ATL) · 56,178 adds · rostered by Make Miami Great Again
-- Aaron Rodgers (QB, PIT) · 54,536 adds · rostered by Holla
-- Jacksonville Jaguars (DEF, JAX) · 47,520 adds · rostered by Thoroughbred Cheesehead
-- Mike Gesicki (TE, CIN) · 46,720 adds · rostered by Drunk To Taste This CHX
-- Tank Dell (WR, HOU) [IR] · 46,264 adds · rostered by Thoroughbred Cheesehead
-- Washington Commanders (DEF, WAS) · 45,864 adds · AVAILABLE in my league
+- Roschon Johnson (RB, CHI) · 515,752 adds · AVAILABLE in my league
+- Roman Wilson (WR, PIT) · 418,158 adds · on my roster
+- Dameon Pierce (RB, PHI) · 237,536 adds · AVAILABLE in my league
+- Darius Cooper (WR, PHI) · 164,241 adds · AVAILABLE in my league
+- Dohnte Meyers (WR, CIN) · 125,946 adds · AVAILABLE in my league
+- Keaton Mitchell (RB, LAC) · 114,660 adds · rostered by Thoroughbred Cheesehead
+- Tyler Higbee (TE, LAR) · 112,842 adds · AVAILABLE in my league
+- Efton Chism (WR, NE) · 102,968 adds · AVAILABLE in my league
+- Malik Washington (WR, MIA) · 100,832 adds · AVAILABLE in my league
+- Kirk Cousins (QB, LV) · 97,616 adds · rostered by Young Blood
+- MarShawn Lloyd (RB, GB) · 88,407 adds · rostered by Make Miami Great Again
+- Romeo Doubs (WR, NE) · 83,472 adds · rostered by Holla
+- Tre' Harris (WR, LAC) · 76,064 adds · AVAILABLE in my league
+- Keon Coleman (WR, BUF) · 72,108 adds · rostered by Team 9
+- Isaiah Williams (WR, NYJ) · 68,700 adds · AVAILABLE in my league
+- Mike Washington (RB, LV) · 65,254 adds · AVAILABLE in my league
+- Cleveland Browns (DEF, CLE) · 63,959 adds · AVAILABLE in my league
+- Khalil Shakir (WR, BUF) · 59,193 adds · rostered by Young Blood
+- Michael Mayer (TE, LV) · 58,410 adds · AVAILABLE in my league
+- Marvin Harrison (WR, ARI) · 57,700 adds · rostered by Thoroughbred Cheesehead
+- Brian Robinson (RB, ATL) · 53,706 adds · rostered by Make Miami Great Again
+- Aaron Rodgers (QB, PIT) · 52,552 adds · rostered by Holla
+- Pierre Strong (RB, GB) · 50,832 adds · AVAILABLE in my league
+- Mike Gesicki (TE, CIN) · 45,344 adds · rostered by Drunk To Taste This CHX
+- Jacksonville Jaguars (DEF, JAX) · 45,306 adds · rostered by Thoroughbred Cheesehead
 
 Data from the Sleeper API (sleeper.com). Injury tags in brackets are Sleeper's designations and may lag official reports.

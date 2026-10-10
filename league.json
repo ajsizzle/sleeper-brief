@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-10T04:38:51.089551-04:00",
+  "generated": "2026-10-10T11:27:35.133745-04:00",
   "season": "2026",
   "week": 5,
   "league": {
@@ -682,129 +682,129 @@
   ],
   "trending_adds": [
     {
-      "player": "Roman Wilson (WR, PIT)",
-      "adds": 456588,
-      "rostered_by": 11
-    },
-    {
       "player": "Roschon Johnson (RB, CHI)",
-      "adds": 452944,
+      "adds": 515752,
       "rostered_by": null
     },
     {
+      "player": "Roman Wilson (WR, PIT)",
+      "adds": 418158,
+      "rostered_by": 11
+    },
+    {
       "player": "Dameon Pierce (RB, PHI)",
-      "adds": 246256,
+      "adds": 237536,
       "rostered_by": null
     },
     {
       "player": "Darius Cooper (WR, PHI)",
-      "adds": 156485,
+      "adds": 164241,
       "rostered_by": null
     },
     {
       "player": "Dohnte Meyers (WR, CIN)",
-      "adds": 133902,
+      "adds": 125946,
       "rostered_by": null
     },
     {
       "player": "Keaton Mitchell (RB, LAC)",
-      "adds": 121131,
+      "adds": 114660,
       "rostered_by": 4
     },
     {
       "player": "Tyler Higbee (TE, LAR)",
-      "adds": 117990,
+      "adds": 112842,
+      "rostered_by": null
+    },
+    {
+      "player": "Efton Chism (WR, NE)",
+      "adds": 102968,
+      "rostered_by": null
+    },
+    {
+      "player": "Malik Washington (WR, MIA)",
+      "adds": 100832,
       "rostered_by": null
     },
     {
       "player": "Kirk Cousins (QB, LV)",
-      "adds": 102528,
+      "adds": 97616,
       "rostered_by": 12
     },
     {
-      "player": "Malik Washington (WR, MIA)",
-      "adds": 101944,
-      "rostered_by": null
-    },
-    {
       "player": "MarShawn Lloyd (RB, GB)",
-      "adds": 88065,
+      "adds": 88407,
       "rostered_by": 7
     },
     {
-      "player": "Efton Chism (WR, NE)",
-      "adds": 85828,
-      "rostered_by": null
-    },
-    {
       "player": "Romeo Doubs (WR, NE)",
-      "adds": 81728,
+      "adds": 83472,
       "rostered_by": 2
     },
     {
+      "player": "Tre' Harris (WR, LAC)",
+      "adds": 76064,
+      "rostered_by": null
+    },
+    {
       "player": "Keon Coleman (WR, BUF)",
-      "adds": 72594,
+      "adds": 72108,
       "rostered_by": 9
     },
     {
       "player": "Isaiah Williams (WR, NYJ)",
-      "adds": 71382,
-      "rostered_by": null
-    },
-    {
-      "player": "Cleveland Browns (DEF, CLE)",
-      "adds": 68656,
-      "rostered_by": null
-    },
-    {
-      "player": "Tre' Harris (WR, LAC)",
-      "adds": 65592,
-      "rostered_by": null
-    },
-    {
-      "player": "Michael Mayer (TE, LV)",
-      "adds": 59769,
+      "adds": 68700,
       "rostered_by": null
     },
     {
       "player": "Mike Washington (RB, LV)",
-      "adds": 59452,
+      "adds": 65254,
+      "rostered_by": null
+    },
+    {
+      "player": "Cleveland Browns (DEF, CLE)",
+      "adds": 63959,
       "rostered_by": null
     },
     {
       "player": "Khalil Shakir (WR, BUF)",
-      "adds": 58572,
+      "adds": 59193,
       "rostered_by": 12
     },
     {
+      "player": "Michael Mayer (TE, LV)",
+      "adds": 58410,
+      "rostered_by": null
+    },
+    {
+      "player": "Marvin Harrison (WR, ARI)",
+      "adds": 57700,
+      "rostered_by": 4
+    },
+    {
       "player": "Brian Robinson (RB, ATL)",
-      "adds": 56178,
+      "adds": 53706,
       "rostered_by": 7
     },
     {
       "player": "Aaron Rodgers (QB, PIT)",
-      "adds": 54536,
+      "adds": 52552,
       "rostered_by": 2
     },
     {
-      "player": "Jacksonville Jaguars (DEF, JAX)",
-      "adds": 47520,
-      "rostered_by": 4
+      "player": "Pierre Strong (RB, GB)",
+      "adds": 50832,
+      "rostered_by": null
     },
     {
       "player": "Mike Gesicki (TE, CIN)",
-      "adds": 46720,
+      "adds": 45344,
       "rostered_by": 3
     },
     {
-      "player": "Tank Dell (WR, HOU) [IR]",
-      "adds": 46264,
+      "player": "Jacksonville Jaguars (DEF, JAX)",
+      "adds": 45306,
       "rostered_by": 4
-    },
-    {
-      "player": "Washington Commanders (DEF, WAS)",
-      "adds": 45864,
-      "rostered_by": null
     }
   ]
 }
