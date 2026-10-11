@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-11T14:09:52.415711-04:00",
+  "generated": "2026-10-11T18:07:43.839392-04:00",
   "season": "2026",
   "week": 5,
   "league": {
@@ -691,128 +691,128 @@
   "trending_adds": [
     {
       "player": "Roschon Johnson (RB, CHI)",
-      "adds": 534904,
+      "adds": 451072,
       "rostered_by": null
     },
     {
       "player": "Roman Wilson (WR, PIT)",
-      "adds": 415044,
+      "adds": 344241,
       "rostered_by": 11
     },
     {
       "player": "Darius Cooper (WR, PHI)",
-      "adds": 279951,
-      "rostered_by": null
-    },
-    {
-      "player": "Kendrick Bourne (WR, ARI)",
-      "adds": 235896,
+      "adds": 313061,
       "rostered_by": null
     },
     {
       "player": "Tyler Higbee (TE, LAR)",
-      "adds": 214956,
+      "adds": 254853,
       "rostered_by": null
     },
     {
-      "player": "Efton Chism (WR, NE)",
-      "adds": 192092,
-      "rostered_by": null
-    },
-    {
-      "player": "Tre' Harris (WR, LAC)",
-      "adds": 166052,
+      "player": "Kendrick Bourne (WR, ARI)",
+      "adds": 245028,
       "rostered_by": null
     },
     {
       "player": "MarShawn Lloyd (RB, GB)",
-      "adds": 161298,
+      "adds": 228951,
       "rostered_by": 7
     },
     {
+      "player": "Efton Chism (WR, NE)",
+      "adds": 166752,
+      "rostered_by": null
+    },
+    {
+      "player": "Tre' Harris (WR, LAC)",
+      "adds": 163080,
+      "rostered_by": null
+    },
+    {
+      "player": "Keon Coleman (WR, BUF)",
+      "adds": 155511,
+      "rostered_by": 9
+    },
+    {
       "player": "Keaton Mitchell (RB, LAC)",
-      "adds": 146592,
+      "adds": 155511,
       "rostered_by": 4
     },
     {
       "player": "Malik Washington (WR, MIA)",
-      "adds": 145240,
+      "adds": 134656,
       "rostered_by": null
-    },
-    {
-      "player": "Marvin Harrison (WR, ARI) [Out]",
-      "adds": 141976,
-      "rostered_by": 4
-    },
-    {
-      "player": "Keon Coleman (WR, BUF)",
-      "adds": 140454,
-      "rostered_by": 9
     },
     {
       "player": "Cleveland Browns (DEF, CLE)",
-      "adds": 135464,
+      "adds": 132587,
       "rostered_by": 7
     },
     {
-      "player": "Dameon Pierce (RB, PHI)",
-      "adds": 126536,
-      "rostered_by": null
-    },
-    {
       "player": "Kirk Cousins (QB, LV)",
-      "adds": 116528,
+      "adds": 110752,
       "rostered_by": 12
-    },
-    {
-      "player": "Romeo Doubs (WR, NE)",
-      "adds": 106784,
-      "rostered_by": 2
     },
     {
       "player": "Khalil Shakir (WR, BUF)",
-      "adds": 101646,
+      "adds": 109827,
       "rostered_by": 12
     },
     {
-      "player": "Washington Commanders (DEF, WAS)",
-      "adds": 100828,
+      "player": "Marvin Harrison (WR, ARI) [Out]",
+      "adds": 109484,
+      "rostered_by": 4
+    },
+    {
+      "player": "Dameon Pierce (RB, PHI)",
+      "adds": 106400,
       "rostered_by": null
+    },
+    {
+      "player": "Romeo Doubs (WR, NE)",
+      "adds": 94664,
+      "rostered_by": 2
+    },
+    {
+      "player": "Washington Commanders (DEF, WAS)",
+      "adds": 94122,
+      "rostered_by": null
+    },
+    {
+      "player": "Brenton Strange (TE, JAX)",
+      "adds": 88101,
+      "rostered_by": 10
     },
     {
       "player": "Pierre Strong (RB, GB)",
-      "adds": 93429,
-      "rostered_by": null
-    },
-    {
-      "player": "Michael Mayer (TE, LV)",
-      "adds": 67581,
+      "adds": 77112,
       "rostered_by": null
     },
     {
       "player": "Aaron Rodgers (QB, PIT)",
-      "adds": 66712,
+      "adds": 73812,
       "rostered_by": 2
     },
     {
-      "player": "C.J. Stroud (QB, HOU)",
-      "adds": 61348,
+      "player": "New England Patriots (DEF, NE)",
+      "adds": 71008,
       "rostered_by": null
     },
     {
-      "player": "Matt Gay (K, LV)",
-      "adds": 55185,
+      "player": "C.J. Stroud (QB, HOU)",
+      "adds": 67158,
       "rostered_by": null
     },
     {
       "player": "Brian Robinson (RB, ATL)",
-      "adds": 54888,
+      "adds": 63894,
       "rostered_by": 7
     },
     {
-      "player": "Treylon Burks (WR, WAS)",
-      "adds": 53340,
-      "rostered_by": null
+      "player": "Jayden Daniels (QB, WAS)",
+      "adds": 63472,
+      "rostered_by": 10
     }
   ]
 }
