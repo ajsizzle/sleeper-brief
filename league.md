@@ -1,5 +1,5 @@
 # Sleeper league state
-Generated Saturday October 10, 2026 07:39 PM ET · Season 2026 · NFL week 5
+Generated Sunday October 11, 2026 01:59 AM ET · Season 2026 · NFL week 5
 League: The Dudes Will Roll · 12 teams · waivers: FAAB (budget $200) · lineup: QB, RB, RB, WR, WR, TE, FLEX, K, DEF
 
 ## My team: THE ACE OF SPADES (roster 11)
@@ -159,30 +159,30 @@ Bench: Denzel Boston (WR, CLE); Saquon Barkley (RB, PHI) [Out]; Courtland Sutton
 - Jason Myers (K, SEA) · dropped by Young Blood on Wed Sep 30, 3:26 AM ET · free agent now
 
 ## Trending adds across Sleeper, last 24 hours
-- Roschon Johnson (RB, CHI) · 392,168 adds · AVAILABLE in my league
-- Roman Wilson (WR, PIT) · 265,572 adds · on my roster
-- Marvin Harrison (WR, ARI) [Out] · 249,696 adds · rostered by Thoroughbred Cheesehead
-- Darius Cooper (WR, PHI) · 145,054 adds · AVAILABLE in my league
-- Dameon Pierce (RB, PHI) · 128,528 adds · AVAILABLE in my league
-- Efton Chism (WR, NE) · 119,652 adds · AVAILABLE in my league
-- Tre' Harris (WR, LAC) · 83,784 adds · AVAILABLE in my league
-- Tyler Higbee (TE, LAR) · 77,364 adds · AVAILABLE in my league
-- Malik Washington (WR, MIA) · 74,240 adds · AVAILABLE in my league
-- MarShawn Lloyd (RB, GB) · 70,119 adds · rostered by Make Miami Great Again
-- Dohnte Meyers (WR, CIN) · 66,663 adds · AVAILABLE in my league
-- Keaton Mitchell (RB, LAC) · 65,259 adds · rostered by Thoroughbred Cheesehead
-- Kendrick Bourne (WR, ARI) · 64,392 adds · AVAILABLE in my league
-- Romeo Doubs (WR, NE) · 63,528 adds · rostered by Holla
-- Kirk Cousins (QB, LV) · 60,584 adds · rostered by Young Blood
-- Pierre Strong (RB, GB) · 60,021 adds · AVAILABLE in my league
-- Keon Coleman (WR, BUF) · 59,643 adds · rostered by Team 9
-- Khalil Shakir (WR, BUF) · 45,252 adds · rostered by Young Blood
-- Cleveland Browns (DEF, CLE) · 44,394 adds · AVAILABLE in my league
-- Michael Mayer (TE, LV) · 42,966 adds · AVAILABLE in my league
-- Isaiah Williams (WR, NYJ) · 38,034 adds · AVAILABLE in my league
-- Brian Robinson (RB, ATL) · 34,530 adds · rostered by Make Miami Great Again
-- Jacksonville Jaguars (DEF, JAX) · 33,564 adds · rostered by Thoroughbred Cheesehead
-- Washington Commanders (DEF, WAS) · 33,355 adds · AVAILABLE in my league
-- Aaron Rodgers (QB, PIT) · 32,160 adds · rostered by Holla
+- Roschon Johnson (RB, CHI) · 383,904 adds · AVAILABLE in my league
+- Marvin Harrison (WR, ARI) [Out] · 275,332 adds · rostered by Thoroughbred Cheesehead
+- Roman Wilson (WR, PIT) · 266,616 adds · on my roster
+- Darius Cooper (WR, PHI) · 155,988 adds · AVAILABLE in my league
+- Efton Chism (WR, NE) · 133,544 adds · AVAILABLE in my league
+- Dameon Pierce (RB, PHI) · 117,928 adds · AVAILABLE in my league
+- Kendrick Bourne (WR, ARI) · 103,950 adds · AVAILABLE in my league
+- Tyler Higbee (TE, LAR) · 84,906 adds · AVAILABLE in my league
+- Tre' Harris (WR, LAC) · 83,940 adds · AVAILABLE in my league
+- Malik Washington (WR, MIA) · 79,704 adds · AVAILABLE in my league
+- MarShawn Lloyd (RB, GB) · 77,472 adds · rostered by Make Miami Great Again
+- Keaton Mitchell (RB, LAC) · 67,662 adds · rostered by Thoroughbred Cheesehead
+- Pierre Strong (RB, GB) · 66,078 adds · AVAILABLE in my league
+- Romeo Doubs (WR, NE) · 65,816 adds · rostered by Holla
+- Keon Coleman (WR, BUF) · 65,043 adds · rostered by Team 9
+- Kirk Cousins (QB, LV) · 62,424 adds · rostered by Young Blood
+- Dohnte Meyers (WR, CIN) · 56,790 adds · AVAILABLE in my league
+- Cleveland Browns (DEF, CLE) · 50,533 adds · AVAILABLE in my league
+- Khalil Shakir (WR, BUF) · 50,175 adds · rostered by Young Blood
+- Michael Mayer (TE, LV) · 43,479 adds · AVAILABLE in my league
+- Washington Commanders (DEF, WAS) · 41,727 adds · AVAILABLE in my league
+- Jacksonville Jaguars (DEF, JAX) · 36,456 adds · rostered by Thoroughbred Cheesehead
+- Treylon Burks (WR, WAS) · 35,973 adds · AVAILABLE in my league
+- Isaiah Williams (WR, NYJ) · 35,532 adds · AVAILABLE in my league
+- Aaron Rodgers (QB, PIT) · 34,524 adds · rostered by Holla
 
 Data from the Sleeper API (sleeper.com). Injury tags in brackets are Sleeper's designations and may lag official reports.
