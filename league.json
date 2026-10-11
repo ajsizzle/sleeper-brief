@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-11T09:05:30.000944-04:00",
+  "generated": "2026-10-11T14:09:52.415711-04:00",
   "season": "2026",
   "week": 5,
   "league": {
@@ -269,17 +269,17 @@
         "DK Metcalf (WR, PIT)",
         "Nico Collins (WR, HOU)",
         "Brock Bowers (TE, LV)",
-        "Luther Burden (WR, CHI)",
+        "Brian Robinson (RB, ATL)",
         "Ka'imi Fairbairn (K, HOU)",
-        "Kansas City Chiefs (DEF, KC)"
+        "Cleveland Browns (DEF, CLE)"
       ],
       "bench": [
         "MarShawn Lloyd (RB, GB)",
         "Jaylen Wright (RB, MIA) [Questionable]",
         "Raheim Sanders (RB, CLE)",
+        "Luther Burden (WR, CHI)",
         "Josh Jacobs (RB, GB) [NA]",
-        "Juwan Johnson (TE, NO)",
-        "Brian Robinson (RB, ATL)"
+        "Juwan Johnson (TE, NO)"
       ],
       "ir": [
         "Jordyn Tyson (WR, NO) [IR]"
@@ -483,6 +483,7 @@
     }
   ],
   "transactions": [
+    "Week 5 \u00b7 free_agent \u00b7 complete \u00b7 Sun Oct 11 10:37 AM \u00b7 Make Miami Great Again \u00b7 added: Cleveland Browns (DEF, CLE) to Make Miami Great Again \u00b7 dropped: Kansas City Chiefs (DEF, KC) from Make Miami Great Again",
     "Week 5 \u00b7 free_agent \u00b7 complete \u00b7 Fri Oct 09 08:34 AM \u00b7 THE ACE OF SPADES \u00b7 added: Roman Wilson (WR, PIT) to THE ACE OF SPADES \u00b7 dropped: C.J. Stroud (QB, HOU) from THE ACE OF SPADES",
     "Week 5 \u00b7 free_agent \u00b7 complete \u00b7 Thu Oct 08 07:24 PM \u00b7 Drunk To Taste This CHX \u00b7 added: Jake Bates (K, DET) to Drunk To Taste This CHX \u00b7 dropped: Harrison Butker (K, KC) from Drunk To Taste This CHX",
     "Week 5 \u00b7 free_agent \u00b7 complete \u00b7 Thu Oct 08 06:01 PM \u00b7 Thoroughbred Cheesehead \u00b7 added: Keaton Mitchell (RB, LAC) to Thoroughbred Cheesehead \u00b7 dropped: Tyler Shough (QB, NO) from Thoroughbred Cheesehead",
@@ -518,6 +519,13 @@
     "Week 4 \u00b7 free_agent \u00b7 complete \u00b7 Wed Sep 30 03:24 AM \u00b7 Young Blood \u00b7 added: Pittsburgh Steelers (DEF, PIT) to Young Blood \u00b7 dropped: Cincinnati Bengals (DEF, CIN) from Young Blood"
   ],
   "dropped_unrostered": [
+    {
+      "player": "Kansas City Chiefs (DEF, KC)",
+      "dropped_by": "Make Miami Great Again",
+      "dropped_at": "2026-10-11T10:37:38.757000-04:00",
+      "on_waivers_until": "2026-10-13T10:37:38.757000-04:00",
+      "waiver_status": "on waivers until Tue Oct 13, 10:37 AM ET"
+    },
     {
       "player": "C.J. Stroud (QB, HOU)",
       "dropped_by": "THE ACE OF SPADES",
@@ -683,127 +691,127 @@
   "trending_adds": [
     {
       "player": "Roschon Johnson (RB, CHI)",
-      "adds": 418584,
+      "adds": 534904,
       "rostered_by": null
     },
     {
       "player": "Roman Wilson (WR, PIT)",
-      "adds": 296019,
+      "adds": 415044,
       "rostered_by": 11
     },
     {
-      "player": "Marvin Harrison (WR, ARI) [Out]",
-      "adds": 290296,
-      "rostered_by": 4
-    },
-    {
       "player": "Darius Cooper (WR, PHI)",
-      "adds": 181076,
-      "rostered_by": null
-    },
-    {
-      "player": "Efton Chism (WR, NE)",
-      "adds": 150480,
+      "adds": 279951,
       "rostered_by": null
     },
     {
       "player": "Kendrick Bourne (WR, ARI)",
-      "adds": 143922,
-      "rostered_by": null
-    },
-    {
-      "player": "Dameon Pierce (RB, PHI)",
-      "adds": 123616,
+      "adds": 235896,
       "rostered_by": null
     },
     {
       "player": "Tyler Higbee (TE, LAR)",
-      "adds": 110340,
+      "adds": 214956,
+      "rostered_by": null
+    },
+    {
+      "player": "Efton Chism (WR, NE)",
+      "adds": 192092,
       "rostered_by": null
     },
     {
       "player": "Tre' Harris (WR, LAC)",
-      "adds": 96984,
-      "rostered_by": null
-    },
-    {
-      "player": "Malik Washington (WR, MIA)",
-      "adds": 94336,
+      "adds": 166052,
       "rostered_by": null
     },
     {
       "player": "MarShawn Lloyd (RB, GB)",
-      "adds": 91791,
+      "adds": 161298,
       "rostered_by": 7
     },
     {
-      "player": "Keon Coleman (WR, BUF)",
-      "adds": 79947,
-      "rostered_by": 9
-    },
-    {
       "player": "Keaton Mitchell (RB, LAC)",
-      "adds": 79758,
+      "adds": 146592,
       "rostered_by": 4
     },
     {
-      "player": "Romeo Doubs (WR, NE)",
-      "adds": 76296,
-      "rostered_by": 2
+      "player": "Malik Washington (WR, MIA)",
+      "adds": 145240,
+      "rostered_by": null
     },
     {
-      "player": "Pierre Strong (RB, GB)",
-      "adds": 73863,
+      "player": "Marvin Harrison (WR, ARI) [Out]",
+      "adds": 141976,
+      "rostered_by": 4
+    },
+    {
+      "player": "Keon Coleman (WR, BUF)",
+      "adds": 140454,
+      "rostered_by": 9
+    },
+    {
+      "player": "Cleveland Browns (DEF, CLE)",
+      "adds": 135464,
+      "rostered_by": 7
+    },
+    {
+      "player": "Dameon Pierce (RB, PHI)",
+      "adds": 126536,
       "rostered_by": null
     },
     {
       "player": "Kirk Cousins (QB, LV)",
-      "adds": 72976,
+      "adds": 116528,
       "rostered_by": 12
     },
     {
-      "player": "Cleveland Browns (DEF, CLE)",
-      "adds": 66192,
-      "rostered_by": null
+      "player": "Romeo Doubs (WR, NE)",
+      "adds": 106784,
+      "rostered_by": 2
     },
     {
       "player": "Khalil Shakir (WR, BUF)",
-      "adds": 60084,
+      "adds": 101646,
       "rostered_by": 12
     },
     {
       "player": "Washington Commanders (DEF, WAS)",
-      "adds": 56938,
+      "adds": 100828,
       "rostered_by": null
     },
     {
-      "player": "Dohnte Meyers (WR, CIN)",
-      "adds": 55575,
+      "player": "Pierre Strong (RB, GB)",
+      "adds": 93429,
       "rostered_by": null
     },
     {
       "player": "Michael Mayer (TE, LV)",
-      "adds": 47826,
-      "rostered_by": null
-    },
-    {
-      "player": "Jacksonville Jaguars (DEF, JAX)",
-      "adds": 44976,
-      "rostered_by": 4
-    },
-    {
-      "player": "Treylon Burks (WR, WAS)",
-      "adds": 43050,
+      "adds": 67581,
       "rostered_by": null
     },
     {
       "player": "Aaron Rodgers (QB, PIT)",
-      "adds": 41696,
+      "adds": 66712,
       "rostered_by": 2
     },
     {
       "player": "C.J. Stroud (QB, HOU)",
-      "adds": 38766,
+      "adds": 61348,
+      "rostered_by": null
+    },
+    {
+      "player": "Matt Gay (K, LV)",
+      "adds": 55185,
+      "rostered_by": null
+    },
+    {
+      "player": "Brian Robinson (RB, ATL)",
+      "adds": 54888,
+      "rostered_by": 7
+    },
+    {
+      "player": "Treylon Burks (WR, WAS)",
+      "adds": 53340,
       "rostered_by": null
     }
   ]
