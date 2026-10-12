@@ -1,5 +1,5 @@
 # Sleeper league state
-Generated Sunday October 11, 2026 09:25 PM ET · Season 2026 · NFL week 5
+Generated Monday October 12, 2026 05:24 AM ET · Season 2026 · NFL week 5
 League: The Dudes Will Roll · 12 teams · waivers: FAAB (budget $200) · lineup: QB, RB, RB, WR, WR, TE, FLEX, K, DEF
 
 ## My team: THE ACE OF SPADES (roster 11)
@@ -161,30 +161,30 @@ Bench: Denzel Boston (WR, CLE); Saquon Barkley (RB, PHI) [Out]; Courtland Sutton
 - Jason Myers (K, SEA) · dropped by Young Blood on Wed Sep 30, 3:26 AM ET · free agent now
 
 ## Trending adds across Sleeper, last 24 hours
-- Roschon Johnson (RB, CHI) · 412,608 adds · AVAILABLE in my league
-- Darius Cooper (WR, PHI) · 358,708 adds · AVAILABLE in my league
-- Roman Wilson (WR, PIT) [Out] · 310,572 adds · on my roster
-- Tyler Higbee (TE, LAR) · 287,910 adds · AVAILABLE in my league
-- MarShawn Lloyd (RB, GB) · 282,564 adds · rostered by Make Miami Great Again
-- Kendrick Bourne (WR, ARI) · 248,271 adds · AVAILABLE in my league
-- Keon Coleman (WR, BUF) · 167,823 adds · rostered by Team 9
-- Efton Chism (WR, NE) · 157,128 adds · AVAILABLE in my league
-- Tre' Harris (WR, LAC) [Questionable] · 153,612 adds · AVAILABLE in my league
-- Keaton Mitchell (RB, LAC) · 151,992 adds · rostered by Thoroughbred Cheesehead
-- Malik Washington (WR, MIA) · 133,512 adds · AVAILABLE in my league
-- Cleveland Browns (DEF, CLE) · 131,628 adds · rostered by Make Miami Great Again
-- Brenton Strange (TE, JAX) · 123,030 adds · rostered by Strokin My Ditka
-- Khalil Shakir (WR, BUF) · 116,271 adds · rostered by Young Blood
-- Kirk Cousins (QB, LV) · 109,992 adds · rostered by Young Blood
-- Marvin Harrison (WR, HOU) [Out] · 103,828 adds · rostered by Thoroughbred Cheesehead
-- Dameon Pierce (RB, PHI) · 103,184 adds · AVAILABLE in my league
-- New England Patriots (DEF, NE) · 91,168 adds · AVAILABLE in my league
-- Washington Commanders (DEF, WAS) · 89,712 adds · AVAILABLE in my league
-- Romeo Doubs (WR, NE) · 88,592 adds · rostered by Holla
-- Aaron Rodgers (QB, PIT) · 84,680 adds · rostered by Holla
-- Jayden Daniels (QB, WAS) · 82,344 adds · rostered by Strokin My Ditka
-- C.J. Stroud (QB, HOU) · 77,924 adds · AVAILABLE in my league
-- Brian Robinson (RB, ATL) · 74,082 adds · rostered by Make Miami Great Again
-- Pierre Strong (RB, GB) · 69,066 adds · AVAILABLE in my league
+- Darius Cooper (WR, PHI) · 385,532 adds · AVAILABLE in my league
+- MarShawn Lloyd (RB, GB) · 335,151 adds · rostered by Make Miami Great Again
+- Roschon Johnson (RB, CHI) · 321,480 adds · AVAILABLE in my league
+- Tyler Higbee (TE, LAR) · 299,295 adds · AVAILABLE in my league
+- Roman Wilson (WR, PIT) [Out] · 238,446 adds · on my roster
+- Kendrick Bourne (WR, ARI) · 215,433 adds · AVAILABLE in my league
+- Brenton Strange (TE, JAX) · 165,258 adds · rostered by Strokin My Ditka
+- Keon Coleman (WR, BUF) · 160,974 adds · rostered by Team 9
+- Keaton Mitchell (RB, LAC) · 135,216 adds · rostered by Thoroughbred Cheesehead
+- Tre' Harris (WR, LAC) [Questionable] · 129,084 adds · AVAILABLE in my league
+- Efton Chism (WR, NE) · 128,172 adds · AVAILABLE in my league
+- Malik Washington (WR, MIA) · 118,392 adds · AVAILABLE in my league
+- Cleveland Browns (DEF, CLE) · 117,376 adds · rostered by Make Miami Great Again
+- New England Patriots (DEF, NE) · 113,113 adds · AVAILABLE in my league
+- Khalil Shakir (WR, BUF) · 109,476 adds · rostered by Young Blood
+- Kirk Cousins (QB, LV) · 94,688 adds · rostered by Young Blood
+- Jayden Daniels (QB, WAS) · 93,528 adds · rostered by Strokin My Ditka
+- Dameon Pierce (RB, PHI) · 88,792 adds · AVAILABLE in my league
+- Marvin Harrison (WR, HOU) [Out] · 85,892 adds · rostered by Thoroughbred Cheesehead
+- Aaron Rodgers (QB, PIT) · 85,868 adds · rostered by Holla
+- C.J. Stroud (QB, HOU) · 78,610 adds · AVAILABLE in my league
+- Kimani Vidal (RB, LAC) · 73,315 adds · AVAILABLE in my league
+- Washington Commanders (DEF, WAS) · 71,246 adds · AVAILABLE in my league
+- Romeo Doubs (WR, NE) · 69,808 adds · rostered by Holla
+- Brian Robinson (RB, ATL) · 67,686 adds · rostered by Make Miami Great Again
 
 Data from the Sleeper API (sleeper.com). Injury tags in brackets are Sleeper's designations and may lag official reports.

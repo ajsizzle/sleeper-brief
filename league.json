@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-11T21:25:08.078593-04:00",
+  "generated": "2026-10-12T05:24:16.271317-04:00",
   "season": "2026",
   "week": 5,
   "league": {
@@ -690,129 +690,129 @@
   ],
   "trending_adds": [
     {
-      "player": "Roschon Johnson (RB, CHI)",
-      "adds": 412608,
-      "rostered_by": null
-    },
-    {
       "player": "Darius Cooper (WR, PHI)",
-      "adds": 358708,
-      "rostered_by": null
-    },
-    {
-      "player": "Roman Wilson (WR, PIT) [Out]",
-      "adds": 310572,
-      "rostered_by": 11
-    },
-    {
-      "player": "Tyler Higbee (TE, LAR)",
-      "adds": 287910,
+      "adds": 385532,
       "rostered_by": null
     },
     {
       "player": "MarShawn Lloyd (RB, GB)",
-      "adds": 282564,
+      "adds": 335151,
       "rostered_by": 7
     },
     {
-      "player": "Kendrick Bourne (WR, ARI)",
-      "adds": 248271,
+      "player": "Roschon Johnson (RB, CHI)",
+      "adds": 321480,
       "rostered_by": null
+    },
+    {
+      "player": "Tyler Higbee (TE, LAR)",
+      "adds": 299295,
+      "rostered_by": null
+    },
+    {
+      "player": "Roman Wilson (WR, PIT) [Out]",
+      "adds": 238446,
+      "rostered_by": 11
+    },
+    {
+      "player": "Kendrick Bourne (WR, ARI)",
+      "adds": 215433,
+      "rostered_by": null
+    },
+    {
+      "player": "Brenton Strange (TE, JAX)",
+      "adds": 165258,
+      "rostered_by": 10
     },
     {
       "player": "Keon Coleman (WR, BUF)",
-      "adds": 167823,
+      "adds": 160974,
       "rostered_by": 9
     },
     {
-      "player": "Efton Chism (WR, NE)",
-      "adds": 157128,
-      "rostered_by": null
-    },
-    {
-      "player": "Tre' Harris (WR, LAC) [Questionable]",
-      "adds": 153612,
-      "rostered_by": null
-    },
-    {
       "player": "Keaton Mitchell (RB, LAC)",
-      "adds": 151992,
+      "adds": 135216,
       "rostered_by": 4
     },
     {
+      "player": "Tre' Harris (WR, LAC) [Questionable]",
+      "adds": 129084,
+      "rostered_by": null
+    },
+    {
+      "player": "Efton Chism (WR, NE)",
+      "adds": 128172,
+      "rostered_by": null
+    },
+    {
       "player": "Malik Washington (WR, MIA)",
-      "adds": 133512,
+      "adds": 118392,
       "rostered_by": null
     },
     {
       "player": "Cleveland Browns (DEF, CLE)",
-      "adds": 131628,
+      "adds": 117376,
       "rostered_by": 7
     },
     {
-      "player": "Brenton Strange (TE, JAX)",
-      "adds": 123030,
-      "rostered_by": 10
+      "player": "New England Patriots (DEF, NE)",
+      "adds": 113113,
+      "rostered_by": null
     },
     {
       "player": "Khalil Shakir (WR, BUF)",
-      "adds": 116271,
+      "adds": 109476,
       "rostered_by": 12
     },
     {
       "player": "Kirk Cousins (QB, LV)",
-      "adds": 109992,
+      "adds": 94688,
       "rostered_by": 12
     },
     {
-      "player": "Marvin Harrison (WR, HOU) [Out]",
-      "adds": 103828,
-      "rostered_by": 4
+      "player": "Jayden Daniels (QB, WAS)",
+      "adds": 93528,
+      "rostered_by": 10
     },
     {
       "player": "Dameon Pierce (RB, PHI)",
-      "adds": 103184,
+      "adds": 88792,
       "rostered_by": null
     },
     {
-      "player": "New England Patriots (DEF, NE)",
-      "adds": 91168,
+      "player": "Marvin Harrison (WR, HOU) [Out]",
+      "adds": 85892,
+      "rostered_by": 4
+    },
+    {
+      "player": "Aaron Rodgers (QB, PIT)",
+      "adds": 85868,
+      "rostered_by": 2
+    },
+    {
+      "player": "C.J. Stroud (QB, HOU)",
+      "adds": 78610,
+      "rostered_by": null
+    },
+    {
+      "player": "Kimani Vidal (RB, LAC)",
+      "adds": 73315,
       "rostered_by": null
     },
     {
       "player": "Washington Commanders (DEF, WAS)",
-      "adds": 89712,
+      "adds": 71246,
       "rostered_by": null
     },
     {
       "player": "Romeo Doubs (WR, NE)",
-      "adds": 88592,
+      "adds": 69808,
       "rostered_by": 2
-    },
-    {
-      "player": "Aaron Rodgers (QB, PIT)",
-      "adds": 84680,
-      "rostered_by": 2
-    },
-    {
-      "player": "Jayden Daniels (QB, WAS)",
-      "adds": 82344,
-      "rostered_by": 10
-    },
-    {
-      "player": "C.J. Stroud (QB, HOU)",
-      "adds": 77924,
-      "rostered_by": null
     },
     {
       "player": "Brian Robinson (RB, ATL)",
-      "adds": 74082,
+      "adds": 67686,
       "rostered_by": 7
-    },
-    {
-      "player": "Pierre Strong (RB, GB)",
-      "adds": 69066,
-      "rostered_by": null
     }
   ]
 }
