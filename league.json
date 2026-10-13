@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-13T05:33:18.481721-04:00",
+  "generated": "2026-10-13T13:39:52.589321-04:00",
   "season": "2026",
   "week": 6,
   "league": {
@@ -70,17 +70,17 @@
       "DK Metcalf (WR, PIT)",
       "Nico Collins (WR, HOU)",
       "Brock Bowers (TE, LV)",
-      "Brian Robinson (RB, ATL)",
+      "MarShawn Lloyd (RB, GB)",
       "Ka'imi Fairbairn (K, HOU)",
       "Cleveland Browns (DEF, CLE)"
     ],
     "bench": [
-      "MarShawn Lloyd (RB, GB)",
       "Jaylen Wright (RB, MIA)",
       "Raheim Sanders (RB, CLE) [Questionable]",
       "Luther Burden (WR, CHI)",
       "Josh Jacobs (RB, GB) [NA]",
-      "Juwan Johnson (TE, NO)"
+      "Juwan Johnson (TE, NO)",
+      "Brian Robinson (RB, ATL)"
     ],
     "ir": [
       "Jordyn Tyson (WR, NO) [IR]"
@@ -271,17 +271,17 @@
         "DK Metcalf (WR, PIT)",
         "Nico Collins (WR, HOU)",
         "Brock Bowers (TE, LV)",
-        "Brian Robinson (RB, ATL)",
+        "MarShawn Lloyd (RB, GB)",
         "Ka'imi Fairbairn (K, HOU)",
         "Cleveland Browns (DEF, CLE)"
       ],
       "bench": [
-        "MarShawn Lloyd (RB, GB)",
         "Jaylen Wright (RB, MIA)",
         "Raheim Sanders (RB, CLE) [Questionable]",
         "Luther Burden (WR, CHI)",
         "Josh Jacobs (RB, GB) [NA]",
-        "Juwan Johnson (TE, NO)"
+        "Juwan Johnson (TE, NO)",
+        "Brian Robinson (RB, ATL)"
       ],
       "ir": [
         "Jordyn Tyson (WR, NO) [IR]"
@@ -301,19 +301,19 @@
       "starters": [
         "Aaron Rodgers (QB, PIT)",
         "Christian McCaffrey (RB, SF)",
-        "Ollie Gordon (RB, MIA) [Questionable]",
-        "Ja'Marr Chase (WR, CIN)",
+        "Cam Skattebo (RB, NYG)",
+        "Romeo Doubs (WR, NE)",
         "Zay Flowers (WR, BAL)",
         "Tucker Kraft (TE, GB)",
-        "Romeo Doubs (WR, NE)",
+        "Breece Hall (RB, NYJ) [Out]",
         "Spencer Shrader (K, IND)",
         "Cincinnati Bengals (DEF, CIN)"
       ],
       "bench": [
-        "Cam Skattebo (RB, NYG)",
+        "Ollie Gordon (RB, MIA) [Questionable]",
         "Darren Waller (TE, CAR)",
         "Patrick Mahomes (QB, KC)",
-        "Breece Hall (RB, NYJ) [Out]",
+        "Ja'Marr Chase (WR, CIN)",
         "Dontayvion Wicks (WR, PHI)",
         "Quentin Johnston (WR, LAC) [Out]"
       ],
@@ -367,22 +367,22 @@
       "waiver_position": 6,
       "faab_used": 0,
       "starters": [
-        "Malik Willis (QB, MIA)",
-        "TreVeyon Henderson (RB, NE) [Out]",
+        "Jayden Daniels (QB, WAS)",
+        "Omarion Hampton (RB, LAC)",
         "Jaylen Warren (RB, PIT)",
         "Jaxon Smith-Njigba (WR, SEA) [Questionable]",
-        "Jakobi Meyers (WR, JAX)",
+        "Tetairoa McMillan (WR, CAR)",
         "Tyler Warren (TE, IND)",
-        "Omarion Hampton (RB, LAC)",
+        "Chris Godwin (WR, TB)",
         "Chase McLaughlin (K, TB)",
         "Philadelphia Eagles (DEF, PHI)"
       ],
       "bench": [
-        "Jayden Daniels (QB, WAS)",
-        "Tetairoa McMillan (WR, CAR)",
+        "TreVeyon Henderson (RB, NE) [Out]",
         "Stefon Diggs (WR, WAS) [Out]",
-        "Chris Godwin (WR, TB)",
+        "Jakobi Meyers (WR, JAX)",
         "Kenny Gainwell (RB, TB)",
+        "Malik Willis (QB, MIA)",
         "Brenton Strange (TE, JAX)"
       ],
       "ir": []
@@ -431,7 +431,7 @@
       "waiver_position": 2,
       "faab_used": 0,
       "starters": [
-        "Dak Prescott (QB, DAL)",
+        "Brock Purdy (QB, SF)",
         "Jeremiyah Love (RB, ARI)",
         "RJ Harvey (RB, DEN)",
         "Puka Nacua (WR, LAR)",
@@ -443,10 +443,10 @@
       ],
       "bench": [
         "Oronde Gadsden (TE, LAC)",
+        "Dak Prescott (QB, DAL)",
         "Alvin Kamara (RB, NO)",
         "DJ Moore (WR, BUF) [Out]",
         "Tyler Allgeier (RB, ARI)",
-        "Brock Purdy (QB, SF)",
         "Tyquan Thornton (WR, KC) [IR]"
       ],
       "ir": []
@@ -501,8 +501,8 @@
       "player": "Kansas City Chiefs (DEF, KC)",
       "dropped_by": "Make Miami Great Again",
       "dropped_at": "2026-10-11T10:37:38.757000-04:00",
-      "on_waivers_until": "2026-10-13T10:37:38.757000-04:00",
-      "waiver_status": "on waivers until Tue Oct 13, 10:37 AM ET"
+      "on_waivers_until": null,
+      "waiver_status": "free agent now"
     },
     {
       "player": "C.J. Stroud (QB, HOU)",
@@ -563,129 +563,129 @@
   ],
   "trending_adds": [
     {
+      "player": "Dameon Pierce (RB, PHI)",
+      "adds": 1535568,
+      "rostered_by": null
+    },
+    {
       "player": "MarShawn Lloyd (RB, GB)",
-      "adds": 631332,
+      "adds": 1267677,
       "rostered_by": 7
     },
     {
-      "player": "Dameon Pierce (RB, PHI)",
-      "adds": 590016,
-      "rostered_by": null
-    },
-    {
       "player": "Brenton Strange (TE, JAX)",
-      "adds": 372618,
+      "adds": 733248,
       "rostered_by": 10
     },
     {
-      "player": "Darius Cooper (WR, PHI)",
-      "adds": 356510,
+      "player": "New England Patriots (DEF, NE)",
+      "adds": 667464,
       "rostered_by": null
     },
     {
-      "player": "New England Patriots (DEF, NE)",
-      "adds": 263676,
+      "player": "Darius Cooper (WR, PHI)",
+      "adds": 565005,
       "rostered_by": null
     },
     {
       "player": "Tyler Higbee (TE, LAR)",
-      "adds": 257931,
-      "rostered_by": null
-    },
-    {
-      "player": "Kimani Vidal (RB, LAC)",
-      "adds": 177760,
+      "adds": 384777,
       "rostered_by": null
     },
     {
       "player": "Tyler Loop (K, BAL)",
-      "adds": 134076,
+      "adds": 352230,
       "rostered_by": 8
     },
     {
-      "player": "San Francisco 49ers (DEF, SF)",
-      "adds": 130650,
-      "rostered_by": 12
-    },
-    {
-      "player": "Keon Coleman (WR, BUF)",
-      "adds": 120510,
-      "rostered_by": 9
-    },
-    {
-      "player": "Kendrick Bourne (WR, ARI)",
-      "adds": 115599,
+      "player": "Kimani Vidal (RB, LAC)",
+      "adds": 342250,
       "rostered_by": null
-    },
-    {
-      "player": "Khalil Shakir (WR, BUF)",
-      "adds": 95670,
-      "rostered_by": 12
     },
     {
       "player": "Indianapolis Colts (DEF, IND)",
-      "adds": 94143,
+      "adds": 276279,
       "rostered_by": null
     },
     {
-      "player": "Konata Mumpfield (WR, LAR)",
-      "adds": 85212,
+      "player": "San Francisco 49ers (DEF, SF)",
+      "adds": 274668,
+      "rostered_by": 12
+    },
+    {
+      "player": "Kendrick Bourne (WR, ARI)",
+      "adds": 222855,
+      "rostered_by": null
+    },
+    {
+      "player": "Nick Folk (K, ATL)",
+      "adds": 209694,
       "rostered_by": null
     },
     {
       "player": "Efton Chism (WR, NE)",
-      "adds": 80248,
+      "adds": 198548,
       "rostered_by": null
     },
     {
       "player": "Aaron Rodgers (QB, PIT)",
-      "adds": 80112,
+      "adds": 176924,
       "rostered_by": 2
     },
     {
-      "player": "Nick Folk (K, ATL)",
-      "adds": 74574,
-      "rostered_by": null
-    },
-    {
-      "player": "Samaje Perine (RB, CIN)",
-      "adds": 74520,
-      "rostered_by": null
-    },
-    {
-      "player": "Jayden Daniels (QB, WAS)",
-      "adds": 72416,
-      "rostered_by": 10
-    },
-    {
       "player": "Germie Bernard (WR, PIT)",
-      "adds": 64554,
-      "rostered_by": null
-    },
-    {
-      "player": "Blake Corum (RB, LAR)",
-      "adds": 64408,
-      "rostered_by": 6
-    },
-    {
-      "player": "C.J. Stroud (QB, HOU)",
-      "adds": 61292,
+      "adds": 175315,
       "rostered_by": null
     },
     {
       "player": "Woody Marks (RB, HOU)",
-      "adds": 60170,
+      "adds": 137897,
       "rostered_by": 5
     },
     {
-      "player": "Raheim Sanders (RB, CLE) [Questionable]",
-      "adds": 57256,
-      "rostered_by": 7
+      "player": "Xavier Worthy (WR, KC)",
+      "adds": 134775,
+      "rostered_by": 5
     },
     {
-      "player": "Jacory Croskey-Merritt (RB, WAS)",
-      "adds": 51741,
+      "player": "Kendre Miller (RB, NO)",
+      "adds": 132670,
+      "rostered_by": null
+    },
+    {
+      "player": "Matt Gay (K, LV)",
+      "adds": 128395,
+      "rostered_by": null
+    },
+    {
+      "player": "Kirk Cousins (QB, LV)",
+      "adds": 126296,
+      "rostered_by": 12
+    },
+    {
+      "player": "Keon Coleman (WR, BUF)",
+      "adds": 122841,
+      "rostered_by": 9
+    },
+    {
+      "player": "Khalil Shakir (WR, BUF)",
+      "adds": 118035,
+      "rostered_by": 12
+    },
+    {
+      "player": "Blake Corum (RB, LAR)",
+      "adds": 111704,
+      "rostered_by": 6
+    },
+    {
+      "player": "Trey Smack (K, GB)",
+      "adds": 111360,
       "rostered_by": 4
+    },
+    {
+      "player": "C.J. Stroud (QB, HOU)",
+      "adds": 111349,
+      "rostered_by": null
     }
   ]
 }
