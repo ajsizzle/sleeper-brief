@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-13T13:39:52.589321-04:00",
+  "generated": "2026-10-13T18:55:07.388295-04:00",
   "season": "2026",
   "week": 6,
   "league": {
@@ -564,128 +564,128 @@
   "trending_adds": [
     {
       "player": "Dameon Pierce (RB, PHI)",
-      "adds": 1535568,
+      "adds": 2002048,
       "rostered_by": null
     },
     {
       "player": "MarShawn Lloyd (RB, GB)",
-      "adds": 1267677,
+      "adds": 1556136,
       "rostered_by": 7
     },
     {
       "player": "Brenton Strange (TE, JAX)",
-      "adds": 733248,
+      "adds": 896814,
       "rostered_by": 10
     },
     {
       "player": "New England Patriots (DEF, NE)",
-      "adds": 667464,
+      "adds": 849534,
       "rostered_by": null
     },
     {
       "player": "Darius Cooper (WR, PHI)",
-      "adds": 565005,
-      "rostered_by": null
-    },
-    {
-      "player": "Tyler Higbee (TE, LAR)",
-      "adds": 384777,
+      "adds": 652134,
       "rostered_by": null
     },
     {
       "player": "Tyler Loop (K, BAL)",
-      "adds": 352230,
+      "adds": 466128,
       "rostered_by": 8
     },
     {
+      "player": "Tyler Higbee (TE, LAR)",
+      "adds": 443061,
+      "rostered_by": null
+    },
+    {
       "player": "Kimani Vidal (RB, LAC)",
-      "adds": 342250,
+      "adds": 439630,
       "rostered_by": null
     },
     {
       "player": "Indianapolis Colts (DEF, IND)",
-      "adds": 276279,
+      "adds": 356043,
       "rostered_by": null
     },
     {
       "player": "San Francisco 49ers (DEF, SF)",
-      "adds": 274668,
+      "adds": 323592,
       "rostered_by": 12
     },
     {
-      "player": "Kendrick Bourne (WR, ARI)",
-      "adds": 222855,
+      "player": "Nick Folk (K, ATL)",
+      "adds": 290538,
       "rostered_by": null
     },
     {
-      "player": "Nick Folk (K, ATL)",
-      "adds": 209694,
+      "player": "Kendrick Bourne (WR, ARI)",
+      "adds": 279045,
       "rostered_by": null
     },
     {
       "player": "Efton Chism (WR, NE)",
-      "adds": 198548,
+      "adds": 260880,
+      "rostered_by": null
+    },
+    {
+      "player": "Germie Bernard (WR, PIT)",
+      "adds": 246955,
       "rostered_by": null
     },
     {
       "player": "Aaron Rodgers (QB, PIT)",
-      "adds": 176924,
+      "adds": 213572,
       "rostered_by": 2
     },
     {
-      "player": "Germie Bernard (WR, PIT)",
-      "adds": 175315,
+      "player": "Kendre Miller (RB, NO)",
+      "adds": 186792,
       "rostered_by": null
-    },
-    {
-      "player": "Woody Marks (RB, HOU)",
-      "adds": 137897,
-      "rostered_by": 5
     },
     {
       "player": "Xavier Worthy (WR, KC)",
-      "adds": 134775,
+      "adds": 182016,
       "rostered_by": 5
     },
     {
-      "player": "Kendre Miller (RB, NO)",
-      "adds": 132670,
-      "rostered_by": null
-    },
-    {
       "player": "Matt Gay (K, LV)",
-      "adds": 128395,
+      "adds": 179700,
       "rostered_by": null
     },
     {
       "player": "Kirk Cousins (QB, LV)",
-      "adds": 126296,
+      "adds": 175184,
       "rostered_by": 12
     },
     {
-      "player": "Keon Coleman (WR, BUF)",
-      "adds": 122841,
-      "rostered_by": 9
-    },
-    {
-      "player": "Khalil Shakir (WR, BUF)",
-      "adds": 118035,
-      "rostered_by": 12
-    },
-    {
-      "player": "Blake Corum (RB, LAR)",
-      "adds": 111704,
-      "rostered_by": 6
+      "player": "Woody Marks (RB, HOU)",
+      "adds": 170457,
+      "rostered_by": 5
     },
     {
       "player": "Trey Smack (K, GB)",
-      "adds": 111360,
+      "adds": 158020,
       "rostered_by": 4
     },
     {
+      "player": "Blake Corum (RB, LAR)",
+      "adds": 134296,
+      "rostered_by": 6
+    },
+    {
       "player": "C.J. Stroud (QB, HOU)",
-      "adds": 111349,
+      "adds": 133084,
       "rostered_by": null
+    },
+    {
+      "player": "Tyler Bass (K, BUF)",
+      "adds": 130465,
+      "rostered_by": null
+    },
+    {
+      "player": "Rhamondre Stevenson (RB, NE)",
+      "adds": 127593,
+      "rostered_by": 11
     }
   ]
 }

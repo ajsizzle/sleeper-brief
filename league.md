@@ -1,5 +1,5 @@
 # Sleeper league state
-Generated Tuesday October 13, 2026 01:39 PM ET · Season 2026 · NFL week 6
+Generated Tuesday October 13, 2026 06:55 PM ET · Season 2026 · NFL week 6
 League: The Dudes Will Roll · 12 teams · waivers: FAAB (budget $200) · lineup: QB, RB, RB, WR, WR, TE, FLEX, K, DEF
 
 ## My team: THE ACE OF SPADES (roster 11)
@@ -122,30 +122,30 @@ Bench: Denzel Boston (WR, CLE); Saquon Barkley (RB, PHI) [Out]; Courtland Sutton
 - Caleb Douglas (WR, MIA) [Out] · dropped by Whiskey Sippin Kings on Wed Oct 7, 4:23 AM ET · free agent now
 
 ## Trending adds across Sleeper, last 24 hours
-- Dameon Pierce (RB, PHI) · 1,535,568 adds · AVAILABLE in my league
-- MarShawn Lloyd (RB, GB) · 1,267,677 adds · rostered by Make Miami Great Again
-- Brenton Strange (TE, JAX) · 733,248 adds · rostered by Strokin My Ditka
-- New England Patriots (DEF, NE) · 667,464 adds · AVAILABLE in my league
-- Darius Cooper (WR, PHI) · 565,005 adds · AVAILABLE in my league
-- Tyler Higbee (TE, LAR) · 384,777 adds · AVAILABLE in my league
-- Tyler Loop (K, BAL) · 352,230 adds · rostered by Team 8
-- Kimani Vidal (RB, LAC) · 342,250 adds · AVAILABLE in my league
-- Indianapolis Colts (DEF, IND) · 276,279 adds · AVAILABLE in my league
-- San Francisco 49ers (DEF, SF) · 274,668 adds · rostered by Young Blood
-- Kendrick Bourne (WR, ARI) · 222,855 adds · AVAILABLE in my league
-- Nick Folk (K, ATL) · 209,694 adds · AVAILABLE in my league
-- Efton Chism (WR, NE) · 198,548 adds · AVAILABLE in my league
-- Aaron Rodgers (QB, PIT) · 176,924 adds · rostered by Holla
-- Germie Bernard (WR, PIT) · 175,315 adds · AVAILABLE in my league
-- Woody Marks (RB, HOU) · 137,897 adds · rostered by Springfield Atoms
-- Xavier Worthy (WR, KC) · 134,775 adds · rostered by Springfield Atoms
-- Kendre Miller (RB, NO) · 132,670 adds · AVAILABLE in my league
-- Matt Gay (K, LV) · 128,395 adds · AVAILABLE in my league
-- Kirk Cousins (QB, LV) · 126,296 adds · rostered by Young Blood
-- Keon Coleman (WR, BUF) · 122,841 adds · rostered by Team 9
-- Khalil Shakir (WR, BUF) · 118,035 adds · rostered by Young Blood
-- Blake Corum (RB, LAR) · 111,704 adds · rostered by FuelTheJET
-- Trey Smack (K, GB) · 111,360 adds · rostered by Thoroughbred Cheesehead
-- C.J. Stroud (QB, HOU) · 111,349 adds · AVAILABLE in my league
+- Dameon Pierce (RB, PHI) · 2,002,048 adds · AVAILABLE in my league
+- MarShawn Lloyd (RB, GB) · 1,556,136 adds · rostered by Make Miami Great Again
+- Brenton Strange (TE, JAX) · 896,814 adds · rostered by Strokin My Ditka
+- New England Patriots (DEF, NE) · 849,534 adds · AVAILABLE in my league
+- Darius Cooper (WR, PHI) · 652,134 adds · AVAILABLE in my league
+- Tyler Loop (K, BAL) · 466,128 adds · rostered by Team 8
+- Tyler Higbee (TE, LAR) · 443,061 adds · AVAILABLE in my league
+- Kimani Vidal (RB, LAC) · 439,630 adds · AVAILABLE in my league
+- Indianapolis Colts (DEF, IND) · 356,043 adds · AVAILABLE in my league
+- San Francisco 49ers (DEF, SF) · 323,592 adds · rostered by Young Blood
+- Nick Folk (K, ATL) · 290,538 adds · AVAILABLE in my league
+- Kendrick Bourne (WR, ARI) · 279,045 adds · AVAILABLE in my league
+- Efton Chism (WR, NE) · 260,880 adds · AVAILABLE in my league
+- Germie Bernard (WR, PIT) · 246,955 adds · AVAILABLE in my league
+- Aaron Rodgers (QB, PIT) · 213,572 adds · rostered by Holla
+- Kendre Miller (RB, NO) · 186,792 adds · AVAILABLE in my league
+- Xavier Worthy (WR, KC) · 182,016 adds · rostered by Springfield Atoms
+- Matt Gay (K, LV) · 179,700 adds · AVAILABLE in my league
+- Kirk Cousins (QB, LV) · 175,184 adds · rostered by Young Blood
+- Woody Marks (RB, HOU) · 170,457 adds · rostered by Springfield Atoms
+- Trey Smack (K, GB) · 158,020 adds · rostered by Thoroughbred Cheesehead
+- Blake Corum (RB, LAR) · 134,296 adds · rostered by FuelTheJET
+- C.J. Stroud (QB, HOU) · 133,084 adds · AVAILABLE in my league
+- Tyler Bass (K, BUF) · 130,465 adds · AVAILABLE in my league
+- Rhamondre Stevenson (RB, NE) · 127,593 adds · on my roster
 
 Data from the Sleeper API (sleeper.com). Injury tags in brackets are Sleeper's designations and may lag official reports.
