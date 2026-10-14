@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-14T03:47:12.277315-04:00",
+  "generated": "2026-10-14T09:50:50.949480-04:00",
   "season": "2026",
   "week": 6,
   "league": {
@@ -31,22 +31,22 @@
     "faab_used": 118,
     "starters": [
       "Drake Maye (QB, NE)",
-      "Chase Brown (RB, CIN)",
-      "Will Shipley (RB, PHI) [Doubtful]",
+      "Kenneth Walker (RB, KC)",
+      "Rhamondre Stevenson (RB, NE)",
       "Mike Evans (WR, SF)",
       "Rome Odunze (WR, CHI)",
       "George Kittle (TE, SF)",
-      "Rhamondre Stevenson (RB, NE)",
+      "Dameon Pierce (RB, PHI)",
       "Cameron Dicker (K, LAC)",
-      "Houston Texans (DEF, HOU)"
+      "New England Patriots (DEF, NE)"
     ],
     "bench": [
       "Roman Wilson (WR, PIT) [Out]",
       "Emmett Johnson (RB, KC)",
       "Tyreek Hill (WR, FA) [Out]",
-      "Dameon Pierce (RB, PHI)",
-      "Kenneth Walker (RB, KC)",
-      "Jordan Addison (WR, MIN) [Out]"
+      "Chase Brown (RB, CIN)",
+      "Jordan Addison (WR, MIN) [Out]",
+      "Houston Texans (DEF, HOU)"
     ],
     "ir": [
       "A.J. Brown (WR, NE) [IR]"
@@ -101,7 +101,7 @@
       "faab_used": 113,
       "starters": [
         "Jordan Love (QB, GB)",
-        "Jahmyr Gibbs (RB, DET)",
+        "Kaelon Black (RB, SF)",
         "Blake Corum (RB, LAR)",
         "Parker Washington (WR, JAX)",
         "Malik Nabers (WR, NYG)",
@@ -112,11 +112,11 @@
       ],
       "bench": [
         "Devaughn Vele (WR, NO)",
-        "Kenyon Sadiq (TE, NYJ) [Questionable]",
-        "Kaelon Black (RB, SF)",
         "Lamar Jackson (QB, BAL) [Questionable]",
+        "Nick Folk (K, ATL)",
         "DeVonta Smith (WR, PHI) [Questionable]",
-        "Rashod Bateman (WR, BAL)"
+        "Rashod Bateman (WR, BAL)",
+        "Jahmyr Gibbs (RB, DET)"
       ],
       "ir": [
         "Jonah Coleman (RB, DEN) [IR]"
@@ -205,16 +205,16 @@
         "Kyren Williams (RB, LAR)",
         "Carnell Tate (WR, TEN)",
         "Garrett Wilson (WR, NYJ)",
-        "Mike Gesicki (TE, CIN)",
+        "Travis Kelce (TE, KC)",
         "Braelon Allen (RB, NYJ)",
-        "Jake Bates (K, DET)",
+        "Jason Myers (K, SEA)",
         "Los Angeles Rams (DEF, LAR)"
       ],
       "bench": [
         "Bo Nix (QB, DEN)",
         "Ladd McConkey (WR, LAC) [Questionable]",
         "Travis Hunter (WR, JAX)",
-        "Travis Kelce (TE, KC)",
+        "Mike Gesicki (TE, CIN)",
         "Jameson Williams (WR, DET)",
         "Josh Downs (WR, IND)"
       ],
@@ -233,22 +233,22 @@
       "faab_used": 10,
       "starters": [
         "Josh Allen (QB, BUF)",
-        "David Montgomery (RB, HOU) [Doubtful]",
+        "Rachaad White (RB, WAS)",
         "Woody Marks (RB, HOU)",
         "CeeDee Lamb (WR, DAL) [Questionable]",
         "Terry McLaurin (WR, WAS)",
-        "Sam LaPorta (TE, DET)",
         "Isaiah Likely (TE, NYG)",
+        "Xavier Worthy (WR, KC)",
         "Brandon Aubrey (K, DAL)",
         "Baltimore Ravens (DEF, BAL)"
       ],
       "bench": [
-        "Xavier Worthy (WR, KC)",
+        "Sam LaPorta (TE, DET)",
         "Brian Thomas (WR, JAX)",
         "Makai Lemon (WR, PHI)",
         "Jared Goff (QB, DET)",
-        "Travis Etienne (RB, NO) [IR]",
-        "Rachaad White (RB, WAS)"
+        "David Montgomery (RB, HOU) [Doubtful]",
+        "Travis Etienne (RB, NO) [IR]"
       ],
       "ir": [
         "Jonathon Brooks (RB, CAR) [IR]"
@@ -301,7 +301,7 @@
       "waiver_position": 9,
       "faab_used": 200,
       "starters": [
-        "Aaron Rodgers (QB, PIT)",
+        "Patrick Mahomes (QB, KC)",
         "Christian McCaffrey (RB, SF)",
         "Cam Skattebo (RB, NYG)",
         "Romeo Doubs (WR, NE)",
@@ -309,14 +309,14 @@
         "Tucker Kraft (TE, GB)",
         "Breece Hall (RB, NYJ) [Questionable]",
         "Spencer Shrader (K, IND)",
-        "Cincinnati Bengals (DEF, CIN)"
+        "Kansas City Chiefs (DEF, KC)"
       ],
       "bench": [
         "Ollie Gordon (RB, MIA) [Questionable]",
-        "Darren Waller (TE, CAR)",
-        "Patrick Mahomes (QB, KC)",
+        "Dallas Goedert (TE, PHI)",
         "Ja'Marr Chase (WR, CIN)",
         "Dontayvion Wicks (WR, PHI)",
+        "Aaron Rodgers (QB, PIT)",
         "Quentin Johnston (WR, LAC) [Questionable]"
       ],
       "ir": [
@@ -336,22 +336,22 @@
       "faab_used": 118,
       "starters": [
         "Drake Maye (QB, NE)",
-        "Chase Brown (RB, CIN)",
-        "Will Shipley (RB, PHI) [Doubtful]",
+        "Kenneth Walker (RB, KC)",
+        "Rhamondre Stevenson (RB, NE)",
         "Mike Evans (WR, SF)",
         "Rome Odunze (WR, CHI)",
         "George Kittle (TE, SF)",
-        "Rhamondre Stevenson (RB, NE)",
+        "Dameon Pierce (RB, PHI)",
         "Cameron Dicker (K, LAC)",
-        "Houston Texans (DEF, HOU)"
+        "New England Patriots (DEF, NE)"
       ],
       "bench": [
         "Roman Wilson (WR, PIT) [Out]",
         "Emmett Johnson (RB, KC)",
         "Tyreek Hill (WR, FA) [Out]",
-        "Dameon Pierce (RB, PHI)",
-        "Kenneth Walker (RB, KC)",
-        "Jordan Addison (WR, MIN) [Out]"
+        "Chase Brown (RB, CIN)",
+        "Jordan Addison (WR, MIN) [Out]",
+        "Houston Texans (DEF, HOU)"
       ],
       "ir": [
         "A.J. Brown (WR, NE) [IR]"
@@ -370,7 +370,7 @@
       "faab_used": 0,
       "starters": [
         "Jayden Daniels (QB, WAS)",
-        "Omarion Hampton (RB, LAC)",
+        "Kendre Miller (RB, NO)",
         "Jaylen Warren (RB, PIT)",
         "Jaxon Smith-Njigba (WR, SEA) [Questionable]",
         "Tetairoa McMillan (WR, CAR)",
@@ -380,12 +380,12 @@
         "Philadelphia Eagles (DEF, PHI)"
       ],
       "bench": [
+        "Omarion Hampton (RB, LAC)",
         "TreVeyon Henderson (RB, NE) [Doubtful]",
         "Stefon Diggs (WR, WAS) [Questionable]",
         "Kenny Gainwell (RB, TB)",
         "Malik Willis (QB, MIA)",
-        "Brenton Strange (TE, JAX)",
-        "Kendre Miller (RB, NO)"
+        "Brenton Strange (TE, JAX)"
       ],
       "ir": []
     },
@@ -465,28 +465,36 @@
       "waiver_position": 7,
       "faab_used": 5,
       "starters": [
-        "Sam Darnold (QB, SEA)",
-        "Quinshon Judkins (RB, CLE) [Questionable]",
+        "Bryce Young (QB, CAR)",
+        "Chuba Hubbard (RB, CAR)",
         "Ashton Jeanty (RB, LV)",
         "Chris Olave (WR, NO)",
         "Emeka Egbuka (WR, TB)",
         "Pat Freiermuth (TE, PIT)",
         "Harold Fannin (TE, CLE)",
-        "Evan McPherson (K, CIN)",
-        "Dallas Cowboys (DEF, DAL)"
+        "Matt Gay (K, LV)",
+        "Chicago Bears (DEF, CHI)"
       ],
       "bench": [
+        "Quinshon Judkins (RB, CLE) [Questionable]",
+        "Tyler Shough (QB, NO)",
         "Denzel Boston (WR, CLE)",
         "Saquon Barkley (RB, PHI) [Questionable]",
         "Courtland Sutton (WR, DEN)",
-        "Chuba Hubbard (RB, CAR)",
-        "Bryce Young (QB, CAR)",
-        "Chicago Bears (DEF, CHI)"
+        "Evan McPherson (K, CIN)"
       ],
       "ir": []
     }
   ],
   "transactions": [
+    "Week 6 \u00b7 free_agent \u00b7 complete \u00b7 Wed Oct 14 09:42 AM \u00b7 Holla \u00b7 added: Dallas Goedert (TE, PHI) to Holla \u00b7 dropped: Darren Waller (TE, CAR) from Holla",
+    "Week 6 \u00b7 free_agent \u00b7 complete \u00b7 Wed Oct 14 09:41 AM \u00b7 Holla \u00b7 added: Kansas City Chiefs (DEF, KC) to Holla \u00b7 dropped: Cincinnati Bengals (DEF, CIN) from Holla",
+    "Week 6 \u00b7 free_agent \u00b7 complete \u00b7 Wed Oct 14 08:12 AM \u00b7 THE ACE OF SPADES \u00b7 added: New England Patriots (DEF, NE) to THE ACE OF SPADES \u00b7 dropped: Will Shipley (RB, PHI) [Doubtful] from THE ACE OF SPADES",
+    "Week 6 \u00b7 free_agent \u00b7 complete \u00b7 Wed Oct 14 07:54 AM \u00b7 Whiskey Sippin Kings \u00b7 added: Matt Gay (K, LV) to Whiskey Sippin Kings",
+    "Week 6 \u00b7 free_agent \u00b7 complete \u00b7 Wed Oct 14 07:52 AM \u00b7 Whiskey Sippin Kings \u00b7 added: Tyler Shough (QB, NO) to Whiskey Sippin Kings \u00b7 dropped: Sam Darnold (QB, SEA) from Whiskey Sippin Kings",
+    "Week 6 \u00b7 free_agent \u00b7 complete \u00b7 Wed Oct 14 07:52 AM \u00b7 Whiskey Sippin Kings \u00b7 dropped: Dallas Cowboys (DEF, DAL) from Whiskey Sippin Kings",
+    "Week 6 \u00b7 free_agent \u00b7 complete \u00b7 Wed Oct 14 06:46 AM \u00b7 FuelTheJET \u00b7 added: Nick Folk (K, ATL) to FuelTheJET \u00b7 dropped: Kenyon Sadiq (TE, NYJ) [Questionable] from FuelTheJET",
+    "Week 6 \u00b7 free_agent \u00b7 complete \u00b7 Wed Oct 14 05:05 AM \u00b7 Drunk To Taste This CHX \u00b7 added: Jason Myers (K, SEA) to Drunk To Taste This CHX \u00b7 dropped: Jake Bates (K, DET) from Drunk To Taste This CHX",
     "Week 5 \u00b7 waiver \u00b7 complete \u00b7 Tue Oct 13 10:14 PM \u00b7 THE ACE OF SPADES \u00b7 added: Dameon Pierce (RB, PHI) to THE ACE OF SPADES \u00b7 dropped: Mark Andrews (TE, BAL) from THE ACE OF SPADES \u00b7 bid $11 \u00b7 note: Your waiver claim was processed successfully!",
     "Week 5 \u00b7 waiver \u00b7 complete \u00b7 Tue Oct 13 12:56 PM \u00b7 Strokin My Ditka \u00b7 added: Kendre Miller (RB, NO) to Strokin My Ditka \u00b7 dropped: Jakobi Meyers (WR, JAX) from Strokin My Ditka \u00b7 bid $0 \u00b7 note: Your waiver claim was processed successfully!",
     "Week 5 \u00b7 waiver \u00b7 failed \u00b7 Tue Oct 13 12:19 PM \u00b7 Make Miami Great Again \u00b7 added: Dameon Pierce (RB, PHI) to Make Miami Great Again \u00b7 bid $0 \u00b7 note: This player was claimed by another owner.",
@@ -503,6 +511,55 @@
     "Week 5 \u00b7 free_agent \u00b7 complete \u00b7 Wed Oct 07 04:23 AM \u00b7 Whiskey Sippin Kings \u00b7 added: Dallas Cowboys (DEF, DAL) to Whiskey Sippin Kings \u00b7 dropped: Caleb Douglas (WR, MIA) [Out] from Whiskey Sippin Kings"
   ],
   "dropped_unrostered": [
+    {
+      "player": "Darren Waller (TE, CAR)",
+      "dropped_by": "Holla",
+      "dropped_at": "2026-10-14T09:42:27.627000-04:00",
+      "on_waivers_until": "2026-10-16T09:42:27.627000-04:00",
+      "waiver_status": "on waivers until Fri Oct 16, 9:42 AM ET"
+    },
+    {
+      "player": "Cincinnati Bengals (DEF, CIN)",
+      "dropped_by": "Holla",
+      "dropped_at": "2026-10-14T09:41:13.537000-04:00",
+      "on_waivers_until": "2026-10-16T09:41:13.537000-04:00",
+      "waiver_status": "on waivers until Fri Oct 16, 9:41 AM ET"
+    },
+    {
+      "player": "Will Shipley (RB, PHI) [Doubtful]",
+      "dropped_by": "THE ACE OF SPADES",
+      "dropped_at": "2026-10-14T08:12:24.428000-04:00",
+      "on_waivers_until": "2026-10-16T08:12:24.428000-04:00",
+      "waiver_status": "on waivers until Fri Oct 16, 8:12 AM ET"
+    },
+    {
+      "player": "Sam Darnold (QB, SEA)",
+      "dropped_by": "Whiskey Sippin Kings",
+      "dropped_at": "2026-10-14T07:52:50.225000-04:00",
+      "on_waivers_until": "2026-10-16T07:52:50.225000-04:00",
+      "waiver_status": "on waivers until Fri Oct 16, 7:52 AM ET"
+    },
+    {
+      "player": "Dallas Cowboys (DEF, DAL)",
+      "dropped_by": "Whiskey Sippin Kings",
+      "dropped_at": "2026-10-14T07:52:17.333000-04:00",
+      "on_waivers_until": "2026-10-16T07:52:17.333000-04:00",
+      "waiver_status": "on waivers until Fri Oct 16, 7:52 AM ET"
+    },
+    {
+      "player": "Kenyon Sadiq (TE, NYJ) [Questionable]",
+      "dropped_by": "FuelTheJET",
+      "dropped_at": "2026-10-14T06:46:05.525000-04:00",
+      "on_waivers_until": "2026-10-16T06:46:05.525000-04:00",
+      "waiver_status": "on waivers until Fri Oct 16, 6:46 AM ET"
+    },
+    {
+      "player": "Jake Bates (K, DET)",
+      "dropped_by": "Drunk To Taste This CHX",
+      "dropped_at": "2026-10-14T05:05:03.574000-04:00",
+      "on_waivers_until": "2026-10-16T05:05:03.574000-04:00",
+      "waiver_status": "on waivers until Fri Oct 16, 5:05 AM ET"
+    },
     {
       "player": "Mark Andrews (TE, BAL)",
       "dropped_by": "THE ACE OF SPADES",
@@ -525,13 +582,6 @@
       "waiver_status": "on waivers until Fri Oct 16, 3:09 AM ET"
     },
     {
-      "player": "Kansas City Chiefs (DEF, KC)",
-      "dropped_by": "Make Miami Great Again",
-      "dropped_at": "2026-10-11T10:37:38.757000-04:00",
-      "on_waivers_until": null,
-      "waiver_status": "free agent now"
-    },
-    {
       "player": "C.J. Stroud (QB, HOU)",
       "dropped_by": "THE ACE OF SPADES",
       "dropped_at": "2026-10-09T08:34:47.555000-04:00",
@@ -539,23 +589,9 @@
       "waiver_status": "free agent now"
     },
     {
-      "player": "Matt Gay (K, LV)",
-      "dropped_by": "Holla",
-      "dropped_at": "2026-10-09T04:19:20.643000-04:00",
-      "on_waivers_until": null,
-      "waiver_status": "free agent now"
-    },
-    {
       "player": "Harrison Butker (K, KC)",
       "dropped_by": "Drunk To Taste This CHX",
       "dropped_at": "2026-10-08T19:24:24.619000-04:00",
-      "on_waivers_until": null,
-      "waiver_status": "free agent now"
-    },
-    {
-      "player": "Tyler Shough (QB, NO)",
-      "dropped_by": "Thoroughbred Cheesehead",
-      "dropped_at": "2026-10-08T18:01:53.918000-04:00",
       "on_waivers_until": null,
       "waiver_status": "free agent now"
     },
@@ -591,128 +627,128 @@
   "trending_adds": [
     {
       "player": "Dameon Pierce (RB, PHI)",
-      "adds": 3001632,
+      "adds": 2979448,
       "rostered_by": 11
     },
     {
       "player": "MarShawn Lloyd (RB, GB)",
-      "adds": 1943325,
+      "adds": 1768446,
       "rostered_by": 7
     },
     {
       "player": "Brenton Strange (TE, JAX)",
-      "adds": 1184535,
+      "adds": 1175751,
       "rostered_by": 10
     },
     {
       "player": "New England Patriots (DEF, NE)",
-      "adds": 1159711,
-      "rostered_by": null
+      "adds": 1168692,
+      "rostered_by": 11
     },
     {
       "player": "Darius Cooper (WR, PHI)",
-      "adds": 778939,
+      "adds": 780927,
       "rostered_by": null
     },
     {
       "player": "Kimani Vidal (RB, LAC)",
-      "adds": 692610,
+      "adds": 729930,
+      "rostered_by": null
+    },
+    {
+      "player": "Jaleel McLaughlin (RB, CLE)",
+      "adds": 722110,
       "rostered_by": null
     },
     {
       "player": "Tyler Loop (K, BAL)",
-      "adds": 583290,
+      "adds": 632244,
       "rostered_by": 8
     },
     {
-      "player": "Jaleel McLaughlin (RB, CLE)",
-      "adds": 550450,
-      "rostered_by": null
-    },
-    {
       "player": "Indianapolis Colts (DEF, IND)",
-      "adds": 510900,
+      "adds": 611004,
       "rostered_by": 7
     },
     {
+      "player": "Nick Folk (K, ATL)",
+      "adds": 481476,
+      "rostered_by": 6
+    },
+    {
       "player": "Tyler Higbee (TE, LAR)",
-      "adds": 431892,
+      "adds": 451170,
       "rostered_by": null
     },
     {
       "player": "Kendrick Bourne (WR, ARI)",
-      "adds": 426405,
-      "rostered_by": null
-    },
-    {
-      "player": "Germie Bernard (WR, PIT)",
-      "adds": 414787,
+      "adds": 433563,
       "rostered_by": null
     },
     {
       "player": "San Francisco 49ers (DEF, SF)",
-      "adds": 396612,
+      "adds": 422928,
       "rostered_by": 12
     },
     {
       "player": "Efton Chism (WR, NE)",
-      "adds": 395516,
+      "adds": 409484,
       "rostered_by": null
     },
     {
-      "player": "Nick Folk (K, ATL)",
-      "adds": 375204,
+      "player": "Germie Bernard (WR, PIT)",
+      "adds": 393815,
       "rostered_by": null
     },
     {
       "player": "Corey Kiner (RB, NE)",
-      "adds": 310548,
+      "adds": 368526,
       "rostered_by": null
-    },
-    {
-      "player": "Kendre Miller (RB, NO)",
-      "adds": 298368,
-      "rostered_by": 10
-    },
-    {
-      "player": "Xavier Worthy (WR, KC)",
-      "adds": 271521,
-      "rostered_by": 5
     },
     {
       "player": "Kirk Cousins (QB, LV)",
-      "adds": 266600,
+      "adds": 338064,
       "rostered_by": 12
     },
     {
-      "player": "Aaron Rodgers (QB, PIT)",
-      "adds": 258796,
-      "rostered_by": 2
+      "player": "Kendre Miller (RB, NO)",
+      "adds": 317830,
+      "rostered_by": 10
     },
     {
       "player": "Matt Gay (K, LV)",
-      "adds": 239935,
-      "rostered_by": null
+      "adds": 295350,
+      "rostered_by": 1
     },
     {
-      "player": "Ryan Flournoy (WR, DAL)",
-      "adds": 226144,
-      "rostered_by": null
-    },
-    {
-      "player": "Woody Marks (RB, HOU)",
-      "adds": 216206,
+      "player": "Xavier Worthy (WR, KC)",
+      "adds": 295155,
       "rostered_by": 5
     },
     {
-      "player": "Brandin Cooks (WR, SF)",
-      "adds": 213484,
-      "rostered_by": null
+      "player": "Aaron Rodgers (QB, PIT)",
+      "adds": 261588,
+      "rostered_by": 2
     },
     {
       "player": "Trey Smack (K, GB)",
-      "adds": 210784,
+      "adds": 260584,
       "rostered_by": 4
+    },
+    {
+      "player": "Ryan Flournoy (WR, DAL)",
+      "adds": 259056,
+      "rostered_by": null
+    },
+    {
+      "player": "Tyler Bass (K, BUF)",
+      "adds": 244270,
+      "rostered_by": null
+    },
+    {
+      "player": "Brandin Cooks (WR, SF)",
+      "adds": 242428,
+      "rostered_by": null
     }
   ]
 }
