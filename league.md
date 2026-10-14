@@ -1,5 +1,5 @@
 # Sleeper league state
-Generated Tuesday October 13, 2026 06:55 PM ET · Season 2026 · NFL week 6
+Generated Tuesday October 13, 2026 09:59 PM ET · Season 2026 · NFL week 6
 League: The Dudes Will Roll · 12 teams · waivers: FAAB (budget $200) · lineup: QB, RB, RB, WR, WR, TE, FLEX, K, DEF
 
 ## My team: THE ACE OF SPADES (roster 11)
@@ -122,30 +122,30 @@ Bench: Denzel Boston (WR, CLE); Saquon Barkley (RB, PHI) [Out]; Courtland Sutton
 - Caleb Douglas (WR, MIA) [Out] · dropped by Whiskey Sippin Kings on Wed Oct 7, 4:23 AM ET · free agent now
 
 ## Trending adds across Sleeper, last 24 hours
-- Dameon Pierce (RB, PHI) · 2,002,048 adds · AVAILABLE in my league
-- MarShawn Lloyd (RB, GB) · 1,556,136 adds · rostered by Make Miami Great Again
-- Brenton Strange (TE, JAX) · 896,814 adds · rostered by Strokin My Ditka
-- New England Patriots (DEF, NE) · 849,534 adds · AVAILABLE in my league
-- Darius Cooper (WR, PHI) · 652,134 adds · AVAILABLE in my league
-- Tyler Loop (K, BAL) · 466,128 adds · rostered by Team 8
-- Tyler Higbee (TE, LAR) · 443,061 adds · AVAILABLE in my league
-- Kimani Vidal (RB, LAC) · 439,630 adds · AVAILABLE in my league
-- Indianapolis Colts (DEF, IND) · 356,043 adds · AVAILABLE in my league
-- San Francisco 49ers (DEF, SF) · 323,592 adds · rostered by Young Blood
-- Nick Folk (K, ATL) · 290,538 adds · AVAILABLE in my league
-- Kendrick Bourne (WR, ARI) · 279,045 adds · AVAILABLE in my league
-- Efton Chism (WR, NE) · 260,880 adds · AVAILABLE in my league
-- Germie Bernard (WR, PIT) · 246,955 adds · AVAILABLE in my league
-- Aaron Rodgers (QB, PIT) · 213,572 adds · rostered by Holla
-- Kendre Miller (RB, NO) · 186,792 adds · AVAILABLE in my league
-- Xavier Worthy (WR, KC) · 182,016 adds · rostered by Springfield Atoms
-- Matt Gay (K, LV) · 179,700 adds · AVAILABLE in my league
-- Kirk Cousins (QB, LV) · 175,184 adds · rostered by Young Blood
-- Woody Marks (RB, HOU) · 170,457 adds · rostered by Springfield Atoms
-- Trey Smack (K, GB) · 158,020 adds · rostered by Thoroughbred Cheesehead
-- Blake Corum (RB, LAR) · 134,296 adds · rostered by FuelTheJET
-- C.J. Stroud (QB, HOU) · 133,084 adds · AVAILABLE in my league
-- Tyler Bass (K, BUF) · 130,465 adds · AVAILABLE in my league
-- Rhamondre Stevenson (RB, NE) · 127,593 adds · on my roster
+- Dameon Pierce (RB, PHI) · 2,426,664 adds · AVAILABLE in my league
+- MarShawn Lloyd (RB, GB) · 1,778,697 adds · rostered by Make Miami Great Again
+- Brenton Strange (TE, JAX) · 1,038,195 adds · rostered by Strokin My Ditka
+- New England Patriots (DEF, NE) · 999,495 adds · AVAILABLE in my league
+- Darius Cooper (WR, PHI) · 722,680 adds · AVAILABLE in my league
+- Kimani Vidal (RB, LAC) · 538,835 adds · AVAILABLE in my league
+- Tyler Loop (K, BAL) · 531,192 adds · rostered by Team 8
+- Tyler Higbee (TE, LAR) · 433,872 adds · AVAILABLE in my league
+- Indianapolis Colts (DEF, IND) · 422,337 adds · AVAILABLE in my league
+- San Francisco 49ers (DEF, SF) · 363,588 adds · rostered by Young Blood
+- Kendrick Bourne (WR, ARI) · 340,950 adds · AVAILABLE in my league
+- Nick Folk (K, ATL) · 335,484 adds · AVAILABLE in my league
+- Germie Bernard (WR, PIT) · 317,885 adds · AVAILABLE in my league
+- Efton Chism (WR, NE) · 317,432 adds · AVAILABLE in my league
+- Jaleel McLaughlin (RB, CLE) · 251,675 adds · AVAILABLE in my league
+- Aaron Rodgers (QB, PIT) · 240,932 adds · rostered by Holla
+- Kendre Miller (RB, NO) · 235,300 adds · AVAILABLE in my league
+- Xavier Worthy (WR, KC) · 219,780 adds · rostered by Springfield Atoms
+- Kirk Cousins (QB, LV) · 214,152 adds · rostered by Young Blood
+- Matt Gay (K, LV) · 210,835 adds · AVAILABLE in my league
+- Woody Marks (RB, HOU) · 195,356 adds · rostered by Springfield Atoms
+- Corey Kiner (RB, NE) · 188,196 adds · AVAILABLE in my league
+- Trey Smack (K, GB) · 184,592 adds · rostered by Thoroughbred Cheesehead
+- Ryan Flournoy (WR, DAL) · 160,800 adds · AVAILABLE in my league
+- Tyler Bass (K, BUF) · 154,560 adds · AVAILABLE in my league
 
 Data from the Sleeper API (sleeper.com). Injury tags in brackets are Sleeper's designations and may lag official reports.
