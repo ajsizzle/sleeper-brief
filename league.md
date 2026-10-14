@@ -1,5 +1,5 @@
 # Sleeper league state
-Generated Wednesday October 14, 2026 09:50 AM ET · Season 2026 · NFL week 6
+Generated Wednesday October 14, 2026 02:43 PM ET · Season 2026 · NFL week 6
 League: The Dudes Will Roll · 12 teams · waivers: FAAB (budget $200) · lineup: QB, RB, RB, WR, WR, TE, FLEX, K, DEF
 
 ## My team: THE ACE OF SPADES (roster 11)
@@ -142,30 +142,30 @@ Bench: Quinshon Judkins (RB, CLE) [Questionable]; Tyler Shough (QB, NO); Denzel 
 - Caleb Douglas (WR, MIA) [Out] · dropped by Whiskey Sippin Kings on Wed Oct 7, 4:23 AM ET · free agent now
 
 ## Trending adds across Sleeper, last 24 hours
-- Dameon Pierce (RB, PHI) · 2,979,448 adds · on my roster
-- MarShawn Lloyd (RB, GB) · 1,768,446 adds · rostered by Make Miami Great Again
-- Brenton Strange (TE, JAX) · 1,175,751 adds · rostered by Strokin My Ditka
-- New England Patriots (DEF, NE) · 1,168,692 adds · on my roster
-- Darius Cooper (WR, PHI) · 780,927 adds · AVAILABLE in my league
-- Kimani Vidal (RB, LAC) · 729,930 adds · AVAILABLE in my league
-- Jaleel McLaughlin (RB, CLE) · 722,110 adds · AVAILABLE in my league
-- Tyler Loop (K, BAL) · 632,244 adds · rostered by Team 8
-- Indianapolis Colts (DEF, IND) · 611,004 adds · rostered by Make Miami Great Again
-- Nick Folk (K, ATL) · 481,476 adds · rostered by FuelTheJET
-- Tyler Higbee (TE, LAR) · 451,170 adds · AVAILABLE in my league
-- Kendrick Bourne (WR, ARI) · 433,563 adds · AVAILABLE in my league
-- San Francisco 49ers (DEF, SF) · 422,928 adds · rostered by Young Blood
-- Efton Chism (WR, NE) · 409,484 adds · AVAILABLE in my league
-- Germie Bernard (WR, PIT) · 393,815 adds · AVAILABLE in my league
-- Corey Kiner (RB, NE) · 368,526 adds · AVAILABLE in my league
-- Kirk Cousins (QB, LV) · 338,064 adds · rostered by Young Blood
-- Kendre Miller (RB, NO) · 317,830 adds · rostered by Strokin My Ditka
-- Matt Gay (K, LV) · 295,350 adds · rostered by Whiskey Sippin Kings
-- Xavier Worthy (WR, KC) · 295,155 adds · rostered by Springfield Atoms
-- Aaron Rodgers (QB, PIT) · 261,588 adds · rostered by Holla
-- Trey Smack (K, GB) · 260,584 adds · rostered by Thoroughbred Cheesehead
-- Ryan Flournoy (WR, DAL) · 259,056 adds · AVAILABLE in my league
-- Tyler Bass (K, BUF) · 244,270 adds · AVAILABLE in my league
-- Brandin Cooks (WR, SF) · 242,428 adds · AVAILABLE in my league
+- Dameon Pierce (RB, PHI) · 2,476,832 adds · on my roster
+- MarShawn Lloyd (RB, GB) · 1,362,474 adds · rostered by Make Miami Great Again
+- Brenton Strange (TE, JAX) · 994,824 adds · rostered by Strokin My Ditka
+- New England Patriots (DEF, NE) · 976,780 adds · on my roster
+- Jaleel McLaughlin (RB, CLE) · 837,215 adds · AVAILABLE in my league
+- Darius Cooper (WR, PHI) · 677,054 adds · AVAILABLE in my league
+- Kimani Vidal (RB, LAC) · 667,130 adds · AVAILABLE in my league
+- Indianapolis Colts (DEF, IND) · 595,197 adds · rostered by Make Miami Great Again
+- Tyler Loop (K, BAL) · 568,740 adds · rostered by Team 8
+- Nick Folk (K, ATL) · 514,836 adds · rostered by FuelTheJET
+- Tyler Higbee (TE, LAR) · 411,768 adds · AVAILABLE in my league
+- Kendrick Bourne (WR, ARI) · 388,554 adds · AVAILABLE in my league
+- San Francisco 49ers (DEF, SF) · 377,310 adds · rostered by Young Blood
+- Efton Chism (WR, NE) · 369,368 adds · AVAILABLE in my league
+- Corey Kiner (RB, NE) · 365,160 adds · AVAILABLE in my league
+- Kirk Cousins (QB, LV) · 351,480 adds · rostered by Young Blood
+- Germie Bernard (WR, PIT) · 331,812 adds · AVAILABLE in my league
+- Matt Gay (K, LV) · 298,235 adds · rostered by Whiskey Sippin Kings
+- Kendre Miller (RB, NO) · 287,688 adds · rostered by Strokin My Ditka
+- Xavier Worthy (WR, KC) · 271,521 adds · rostered by Springfield Atoms
+- Trey Smack (K, GB) · 269,936 adds · rostered by Thoroughbred Cheesehead
+- Ryan Flournoy (WR, DAL) · 261,616 adds · AVAILABLE in my league
+- Tyler Bass (K, BUF) · 249,805 adds · AVAILABLE in my league
+- Brandin Cooks (WR, SF) · 238,936 adds · AVAILABLE in my league
+- Aaron Rodgers (QB, PIT) · 235,800 adds · rostered by Holla
 
 Data from the Sleeper API (sleeper.com). Injury tags in brackets are Sleeper's designations and may lag official reports.
