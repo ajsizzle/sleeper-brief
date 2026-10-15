@@ -1,5 +1,5 @@
 # Sleeper league state
-Generated Wednesday October 14, 2026 06:22 PM ET · Season 2026 · NFL week 6
+Generated Wednesday October 14, 2026 09:34 PM ET · Season 2026 · NFL week 6
 League: The Dudes Will Roll · 12 teams · waivers: FAAB (budget $200) · lineup: QB, RB, RB, WR, WR, TE, FLEX, K, DEF
 
 ## My team: THE ACE OF SPADES (roster 11)
@@ -142,30 +142,30 @@ Bench: Quinshon Judkins (RB, CLE) [Questionable]; Tyler Shough (QB, NO); Denzel 
 - Caleb Douglas (WR, MIA) [Out] · dropped by Whiskey Sippin Kings on Wed Oct 7, 4:23 AM ET · free agent now
 
 ## Trending adds across Sleeper, last 24 hours
-- Dameon Pierce (RB, PHI) · 2,288,960 adds · on my roster
-- MarShawn Lloyd (RB, GB) · 1,209,807 adds · rostered by Make Miami Great Again
-- Brenton Strange (TE, JAX) · 933,057 adds · rostered by Strokin My Ditka
-- New England Patriots (DEF, NE) · 905,877 adds · on my roster
-- Jaleel McLaughlin (RB, CLE) · 865,250 adds · AVAILABLE in my league
-- Darius Cooper (WR, PHI) · 652,869 adds · AVAILABLE in my league
-- Kimani Vidal (RB, LAC) · 634,645 adds · AVAILABLE in my league
-- Indianapolis Colts (DEF, IND) · 594,711 adds · rostered by Make Miami Great Again
-- Tyler Loop (K, BAL) · 552,642 adds · rostered by Team 8
-- Nick Folk (K, ATL) · 543,546 adds · rostered by FuelTheJET
-- Tyler Higbee (TE, LAR) · 406,170 adds · AVAILABLE in my league
-- San Francisco 49ers (DEF, SF) · 369,429 adds · rostered by Young Blood
-- Kendrick Bourne (WR, ARI) · 368,499 adds · AVAILABLE in my league
-- Kirk Cousins (QB, LV) · 367,240 adds · rostered by Young Blood
-- Corey Kiner (RB, NE) · 346,908 adds · AVAILABLE in my league
-- Efton Chism (WR, NE) · 345,932 adds · AVAILABLE in my league
-- Matt Gay (K, LV) · 301,920 adds · rostered by Whiskey Sippin Kings
-- Germie Bernard (WR, PIT) · 295,035 adds · AVAILABLE in my league
-- Trey Smack (K, GB) · 279,908 adds · rostered by Thoroughbred Cheesehead
-- Kendre Miller (RB, NO) · 278,514 adds · rostered by Strokin My Ditka
-- Xavier Worthy (WR, KC) · 271,530 adds · rostered by Springfield Atoms
-- Ryan Flournoy (WR, DAL) · 264,112 adds · AVAILABLE in my league
-- Tyler Bass (K, BUF) · 254,085 adds · AVAILABLE in my league
-- Brandin Cooks (WR, SF) · 233,400 adds · AVAILABLE in my league
-- Aaron Rodgers (QB, PIT) · 232,284 adds · rostered by Holla
+- Dameon Pierce (RB, PHI) · 2,015,816 adds · on my roster
+- MarShawn Lloyd (RB, GB) · 1,023,273 adds · rostered by Make Miami Great Again
+- Brenton Strange (TE, JAX) · 839,889 adds · rostered by Strokin My Ditka
+- New England Patriots (DEF, NE) · 809,424 adds · on my roster
+- Jaleel McLaughlin (RB, CLE) · 805,850 adds · AVAILABLE in my league
+- Darius Cooper (WR, PHI) · 610,785 adds · AVAILABLE in my league
+- Kimani Vidal (RB, LAC) · 581,220 adds · AVAILABLE in my league
+- Indianapolis Colts (DEF, IND) · 576,999 adds · rostered by Make Miami Great Again
+- Nick Folk (K, ATL) · 570,252 adds · rostered by FuelTheJET
+- Tyler Loop (K, BAL) · 520,740 adds · rostered by Team 8
+- Tyler Higbee (TE, LAR) · 387,639 adds · AVAILABLE in my league
+- Kirk Cousins (QB, LV) · 371,472 adds · rostered by Young Blood
+- San Francisco 49ers (DEF, SF) · 351,066 adds · rostered by Young Blood
+- Kendrick Bourne (WR, ARI) · 331,704 adds · AVAILABLE in my league
+- Corey Kiner (RB, NE) · 315,912 adds · AVAILABLE in my league
+- Efton Chism (WR, NE) · 307,092 adds · AVAILABLE in my league
+- Matt Gay (K, LV) · 298,660 adds · rostered by Whiskey Sippin Kings
+- Trey Smack (K, GB) · 282,856 adds · rostered by Thoroughbred Cheesehead
+- Xavier Worthy (WR, KC) · 260,946 adds · rostered by Springfield Atoms
+- Kendre Miller (RB, NO) · 258,802 adds · rostered by Strokin My Ditka
+- Tyler Bass (K, BUF) · 254,755 adds · AVAILABLE in my league
+- Ryan Flournoy (WR, DAL) · 252,912 adds · AVAILABLE in my league
+- Germie Bernard (WR, PIT) · 243,819 adds · AVAILABLE in my league
+- Aaron Rodgers (QB, PIT) · 220,692 adds · rostered by Holla
+- Brandin Cooks (WR, SF) · 218,484 adds · AVAILABLE in my league
 
 Data from the Sleeper API (sleeper.com). Injury tags in brackets are Sleeper's designations and may lag official reports.
