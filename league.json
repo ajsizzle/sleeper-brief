@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-15T14:23:09.221337-04:00",
+  "generated": "2026-10-15T18:27:37.676517-04:00",
   "season": "2026",
   "week": 6,
   "league": {
@@ -168,7 +168,7 @@
       "waiver_position": 3,
       "faab_used": 0,
       "starters": [
-        "Deshaun Watson (QB, CLE)",
+        "Trevor Lawrence (QB, JAX)",
         "Bijan Robinson (RB, ATL)",
         "Javonte Williams (RB, DAL)",
         "Drake London (WR, ATL)",
@@ -176,15 +176,15 @@
         "Jake Ferguson (TE, DAL)",
         "Wan'Dale Robinson (WR, TEN)",
         "Tyler Loop (K, BAL)",
-        "Minnesota Vikings (DEF, MIN)"
+        "Carolina Panthers (DEF, CAR)"
       ],
       "bench": [
         "Rashee Rice (WR, KC) [Questionable]",
         "Kyle Monangai (RB, CHI) [Questionable]",
-        "Kalif Raymond (WR, CHI)",
+        "Deshaun Watson (QB, CLE)",
         "Dalton Schultz (TE, HOU)",
         "Tee Higgins (WR, CIN)",
-        "Trevor Lawrence (QB, JAX)"
+        "Minnesota Vikings (DEF, MIN)"
       ],
       "ir": []
     },
@@ -200,7 +200,7 @@
       "waiver_position": 8,
       "faab_used": 40,
       "starters": [
-        "Jalen Hurts (QB, PHI)",
+        "Geno Smith (QB, NYJ)",
         "Derrick Henry (RB, BAL)",
         "Kyren Williams (RB, LAR)",
         "Carnell Tate (WR, TEN)",
@@ -211,10 +211,10 @@
         "Los Angeles Rams (DEF, LAR)"
       ],
       "bench": [
-        "Bo Nix (QB, DEN)",
         "Ladd McConkey (WR, LAC) [Questionable]",
         "Travis Hunter (WR, JAX)",
         "Mike Gesicki (TE, CIN)",
+        "Jalen Hurts (QB, PHI)",
         "Jameson Williams (WR, DET)",
         "Josh Downs (WR, IND) [Questionable]"
       ],
@@ -487,6 +487,8 @@
     }
   ],
   "transactions": [
+    "Week 6 \u00b7 free_agent \u00b7 complete \u00b7 Thu Oct 15 05:52 PM \u00b7 Team 8 \u00b7 added: Carolina Panthers (DEF, CAR) to Team 8 \u00b7 dropped: Kalif Raymond (WR, CHI) from Team 8",
+    "Week 6 \u00b7 free_agent \u00b7 complete \u00b7 Thu Oct 15 04:43 PM \u00b7 Drunk To Taste This CHX \u00b7 added: Geno Smith (QB, NYJ) to Drunk To Taste This CHX \u00b7 dropped: Bo Nix (QB, DEN) from Drunk To Taste This CHX",
     "Week 6 \u00b7 free_agent \u00b7 complete \u00b7 Wed Oct 14 09:45 PM \u00b7 Young Blood \u00b7 added: Caleb Williams (QB, CHI) [Questionable] to Young Blood \u00b7 dropped: Khalil Shakir (WR, BUF) from Young Blood",
     "Week 6 \u00b7 free_agent \u00b7 complete \u00b7 Wed Oct 14 09:43 PM \u00b7 Young Blood \u00b7 added: Chris Boswell (K, PIT) to Young Blood \u00b7 dropped: Justin Herbert (QB, LAC) from Young Blood",
     "Week 6 \u00b7 free_agent \u00b7 complete \u00b7 Wed Oct 14 09:38 PM \u00b7 Young Blood \u00b7 added: Tyler Higbee (TE, LAR) to Young Blood \u00b7 dropped: T.J. Hockenson (TE, MIN) [Out] from Young Blood",
@@ -514,6 +516,20 @@
     "Week 5 \u00b7 free_agent \u00b7 complete \u00b7 Wed Oct 07 04:23 AM \u00b7 Whiskey Sippin Kings \u00b7 added: Dallas Cowboys (DEF, DAL) to Whiskey Sippin Kings \u00b7 dropped: Caleb Douglas (WR, MIA) [Out] from Whiskey Sippin Kings"
   ],
   "dropped_unrostered": [
+    {
+      "player": "Kalif Raymond (WR, CHI)",
+      "dropped_by": "Team 8",
+      "dropped_at": "2026-10-15T17:52:41.202000-04:00",
+      "on_waivers_until": "2026-10-17T17:52:41.202000-04:00",
+      "waiver_status": "on waivers until Sat Oct 17, 5:52 PM ET"
+    },
+    {
+      "player": "Bo Nix (QB, DEN)",
+      "dropped_by": "Drunk To Taste This CHX",
+      "dropped_at": "2026-10-15T16:43:46.243000-04:00",
+      "on_waivers_until": "2026-10-17T16:43:46.243000-04:00",
+      "waiver_status": "on waivers until Sat Oct 17, 4:43 PM ET"
+    },
     {
       "player": "Khalil Shakir (WR, BUF)",
       "dropped_by": "Young Blood",
@@ -643,129 +659,129 @@
   ],
   "trending_adds": [
     {
-      "player": "Dameon Pierce (RB, PHI)",
-      "adds": 571792,
-      "rostered_by": 11
-    },
-    {
       "player": "Tanner McKee (QB, PHI)",
-      "adds": 462952,
+      "adds": 806720,
       "rostered_by": null
     },
     {
+      "player": "Dameon Pierce (RB, PHI)",
+      "adds": 564344,
+      "rostered_by": 11
+    },
+    {
       "player": "Nick Folk (K, ATL)",
-      "adds": 395586,
+      "adds": 401592,
       "rostered_by": 6
     },
     {
       "player": "Kirk Cousins (QB, LV)",
-      "adds": 298712,
+      "adds": 347272,
       "rostered_by": 12
     },
     {
-      "player": "Jaleel McLaughlin (RB, CLE)",
-      "adds": 291440,
+      "player": "Darius Cooper (WR, PHI)",
+      "adds": 296891,
       "rostered_by": null
     },
     {
-      "player": "Darius Cooper (WR, PHI)",
-      "adds": 276619,
+      "player": "Jaleel McLaughlin (RB, CLE)",
+      "adds": 276400,
       "rostered_by": null
     },
     {
       "player": "Brenton Strange (TE, JAX)",
-      "adds": 258804,
+      "adds": 235836,
       "rostered_by": 10
     },
     {
-      "player": "MarShawn Lloyd (RB, GB)",
-      "adds": 227997,
+      "player": "Indianapolis Colts (DEF, IND)",
+      "adds": 208980,
       "rostered_by": 7
     },
     {
-      "player": "Indianapolis Colts (DEF, IND)",
-      "adds": 220497,
+      "player": "MarShawn Lloyd (RB, GB)",
+      "adds": 194922,
       "rostered_by": 7
     },
     {
       "player": "Kimani Vidal (RB, LAC)",
-      "adds": 198940,
+      "adds": 184840,
       "rostered_by": null
     },
     {
-      "player": "New England Patriots (DEF, NE)",
-      "adds": 198772,
-      "rostered_by": 11
-    },
-    {
-      "player": "Tyler Loop (K, BAL)",
-      "adds": 185310,
-      "rostered_by": 8
-    },
-    {
       "player": "Tyler Higbee (TE, LAR)",
-      "adds": 180000,
+      "adds": 176409,
       "rostered_by": 12
     },
     {
-      "player": "Trey Smack (K, GB)",
-      "adds": 156124,
-      "rostered_by": 4
+      "player": "New England Patriots (DEF, NE)",
+      "adds": 168966,
+      "rostered_by": 11
     },
     {
       "player": "Aaron Rodgers (QB, PIT)",
-      "adds": 143416,
+      "adds": 167564,
       "rostered_by": 2
     },
     {
-      "player": "Matt Gay (K, LV)",
-      "adds": 141505,
-      "rostered_by": 1
+      "player": "C.J. Stroud (QB, HOU)",
+      "adds": 154231,
+      "rostered_by": null
+    },
+    {
+      "player": "Trey Smack (K, GB)",
+      "adds": 152816,
+      "rostered_by": 4
+    },
+    {
+      "player": "Tyler Loop (K, BAL)",
+      "adds": 150024,
+      "rostered_by": 8
     },
     {
       "player": "Xavier Worthy (WR, KC)",
-      "adds": 139356,
+      "adds": 143784,
       "rostered_by": 5
     },
     {
-      "player": "C.J. Stroud (QB, HOU)",
-      "adds": 130634,
+      "player": "Matt Gay (K, LV)",
+      "adds": 131730,
+      "rostered_by": 1
+    },
+    {
+      "player": "Ryan Flournoy (WR, DAL)",
+      "adds": 125208,
       "rostered_by": null
     },
     {
       "player": "Tyler Bass (K, BUF)",
-      "adds": 124730,
-      "rostered_by": null
-    },
-    {
-      "player": "San Francisco 49ers (DEF, SF)",
-      "adds": 123438,
-      "rostered_by": 12
-    },
-    {
-      "player": "Corey Kiner (RB, NE)",
-      "adds": 121812,
-      "rostered_by": null
-    },
-    {
-      "player": "Ryan Flournoy (WR, DAL)",
-      "adds": 120488,
-      "rostered_by": null
-    },
-    {
-      "player": "Kendrick Bourne (WR, ARI)",
-      "adds": 107736,
+      "adds": 123365,
       "rostered_by": null
     },
     {
       "player": "Tre Tucker (WR, LV)",
-      "adds": 105336,
+      "adds": 113466,
       "rostered_by": null
     },
     {
-      "player": "Kendre Miller (RB, NO)",
-      "adds": 100442,
-      "rostered_by": 10
+      "player": "San Francisco 49ers (DEF, SF)",
+      "adds": 111267,
+      "rostered_by": 12
+    },
+    {
+      "player": "Corey Kiner (RB, NE)",
+      "adds": 104070,
+      "rostered_by": null
+    },
+    {
+      "player": "Michael Penix (QB, ATL)",
+      "adds": 103860,
+      "rostered_by": null
+    },
+    {
+      "player": "Brandin Cooks (WR, SF)",
+      "adds": 99748,
+      "rostered_by": null
     }
   ]
 }
