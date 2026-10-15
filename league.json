@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-15T09:31:48.181556-04:00",
+  "generated": "2026-10-15T14:23:09.221337-04:00",
   "season": "2026",
   "week": 6,
   "league": {
@@ -644,128 +644,128 @@
   "trending_adds": [
     {
       "player": "Dameon Pierce (RB, PHI)",
-      "adds": 671384,
+      "adds": 571792,
       "rostered_by": 11
     },
     {
+      "player": "Tanner McKee (QB, PHI)",
+      "adds": 462952,
+      "rostered_by": null
+    },
+    {
       "player": "Nick Folk (K, ATL)",
-      "adds": 424074,
+      "adds": 395586,
       "rostered_by": 6
     },
     {
+      "player": "Kirk Cousins (QB, LV)",
+      "adds": 298712,
+      "rostered_by": 12
+    },
+    {
       "player": "Jaleel McLaughlin (RB, CLE)",
-      "adds": 345115,
+      "adds": 291440,
+      "rostered_by": null
+    },
+    {
+      "player": "Darius Cooper (WR, PHI)",
+      "adds": 276619,
       "rostered_by": null
     },
     {
       "player": "Brenton Strange (TE, JAX)",
-      "adds": 328068,
+      "adds": 258804,
       "rostered_by": 10
     },
     {
-      "player": "Darius Cooper (WR, PHI)",
-      "adds": 308798,
-      "rostered_by": null
-    },
-    {
       "player": "MarShawn Lloyd (RB, GB)",
-      "adds": 303912,
+      "adds": 227997,
       "rostered_by": 7
-    },
-    {
-      "player": "New England Patriots (DEF, NE)",
-      "adds": 284046,
-      "rostered_by": 11
     },
     {
       "player": "Indianapolis Colts (DEF, IND)",
-      "adds": 282870,
+      "adds": 220497,
       "rostered_by": 7
     },
     {
-      "player": "Tyler Loop (K, BAL)",
-      "adds": 255834,
-      "rostered_by": 8
-    },
-    {
-      "player": "Kirk Cousins (QB, LV)",
-      "adds": 239800,
-      "rostered_by": 12
-    },
-    {
       "player": "Kimani Vidal (RB, LAC)",
-      "adds": 238650,
+      "adds": 198940,
       "rostered_by": null
     },
     {
+      "player": "New England Patriots (DEF, NE)",
+      "adds": 198772,
+      "rostered_by": 11
+    },
+    {
+      "player": "Tyler Loop (K, BAL)",
+      "adds": 185310,
+      "rostered_by": 8
+    },
+    {
       "player": "Tyler Higbee (TE, LAR)",
-      "adds": 211005,
+      "adds": 180000,
       "rostered_by": 12
     },
     {
       "player": "Trey Smack (K, GB)",
-      "adds": 185900,
+      "adds": 156124,
       "rostered_by": 4
     },
     {
+      "player": "Aaron Rodgers (QB, PIT)",
+      "adds": 143416,
+      "rostered_by": 2
+    },
+    {
       "player": "Matt Gay (K, LV)",
-      "adds": 179265,
+      "adds": 141505,
       "rostered_by": 1
     },
     {
-      "player": "San Francisco 49ers (DEF, SF)",
-      "adds": 163014,
-      "rostered_by": 12
-    },
-    {
-      "player": "Tyler Bass (K, BUF)",
-      "adds": 154745,
-      "rostered_by": null
-    },
-    {
       "player": "Xavier Worthy (WR, KC)",
-      "adds": 148788,
+      "adds": 139356,
       "rostered_by": 5
     },
     {
-      "player": "Corey Kiner (RB, NE)",
-      "adds": 139260,
+      "player": "C.J. Stroud (QB, HOU)",
+      "adds": 130634,
       "rostered_by": null
     },
     {
-      "player": "Kendrick Bourne (WR, ARI)",
-      "adds": 130515,
+      "player": "Tyler Bass (K, BUF)",
+      "adds": 124730,
+      "rostered_by": null
+    },
+    {
+      "player": "San Francisco 49ers (DEF, SF)",
+      "adds": 123438,
+      "rostered_by": 12
+    },
+    {
+      "player": "Corey Kiner (RB, NE)",
+      "adds": 121812,
       "rostered_by": null
     },
     {
       "player": "Ryan Flournoy (WR, DAL)",
-      "adds": 128392,
+      "adds": 120488,
+      "rostered_by": null
+    },
+    {
+      "player": "Kendrick Bourne (WR, ARI)",
+      "adds": 107736,
+      "rostered_by": null
+    },
+    {
+      "player": "Tre Tucker (WR, LV)",
+      "adds": 105336,
       "rostered_by": null
     },
     {
       "player": "Kendre Miller (RB, NO)",
-      "adds": 120636,
+      "adds": 100442,
       "rostered_by": 10
-    },
-    {
-      "player": "Aaron Rodgers (QB, PIT)",
-      "adds": 120488,
-      "rostered_by": 2
-    },
-    {
-      "player": "Tre Tucker (WR, LV)",
-      "adds": 115434,
-      "rostered_by": null
-    },
-    {
-      "player": "Blake Grupe (K, LAR)",
-      "adds": 112698,
-      "rostered_by": null
-    },
-    {
-      "player": "Efton Chism (WR, NE)",
-      "adds": 110812,
-      "rostered_by": null
     }
   ]
 }
