@@ -1,5 +1,5 @@
 # Scorecard: season to date
-Updated Thursday October 15, 2026 09:29 PM ET. Rebuilt from Sleeper every run.
+Updated Friday October 16, 2026 03:19 AM ET. Rebuilt from Sleeper every run.
 
 Record 2-3 · 527.6 pts scored · 551.7 optimal · lineup efficiency 95.6% · avg left on bench 4.8 · waiver claims won 9/16 · FAAB spent $118 · trades 0
 
