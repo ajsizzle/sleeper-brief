@@ -1,5 +1,5 @@
 # Sleeper league state
-Generated Friday October 16, 2026 03:19 AM ET · Season 2026 · NFL week 6
+Generated Friday October 16, 2026 08:35 AM ET · Season 2026 · NFL week 6
 League: The Dudes Will Roll · 12 teams · waivers: FAAB (budget $200) · lineup: QB, RB, RB, WR, WR, TE, FLEX, K, DEF
 
 ## My team: THE ACE OF SPADES (roster 11)
@@ -139,11 +139,11 @@ Bench: Quinshon Judkins (RB, CLE) [Questionable]; Tyler Shough (QB, NO); Denzel 
 - T.J. Hockenson (TE, MIN) [Out] · dropped by Young Blood on Wed Oct 14, 9:38 PM ET · on waivers until Fri Oct 16, 9:38 PM ET
 - Darren Waller (TE, CAR) [Questionable] · dropped by Holla on Wed Oct 14, 9:42 AM ET · on waivers until Fri Oct 16, 9:42 AM ET
 - Cincinnati Bengals (DEF, CIN) · dropped by Holla on Wed Oct 14, 9:41 AM ET · on waivers until Fri Oct 16, 9:41 AM ET
-- Will Shipley (RB, PHI) [Doubtful] · dropped by THE ACE OF SPADES on Wed Oct 14, 8:12 AM ET · on waivers until Fri Oct 16, 8:12 AM ET
-- Sam Darnold (QB, SEA) · dropped by Whiskey Sippin Kings on Wed Oct 14, 7:52 AM ET · on waivers until Fri Oct 16, 7:52 AM ET
-- Dallas Cowboys (DEF, DAL) · dropped by Whiskey Sippin Kings on Wed Oct 14, 7:52 AM ET · on waivers until Fri Oct 16, 7:52 AM ET
-- Kenyon Sadiq (TE, NYJ) [Questionable] · dropped by FuelTheJET on Wed Oct 14, 6:46 AM ET · on waivers until Fri Oct 16, 6:46 AM ET
-- Jake Bates (K, DET) · dropped by Drunk To Taste This CHX on Wed Oct 14, 5:05 AM ET · on waivers until Fri Oct 16, 5:05 AM ET
+- Will Shipley (RB, PHI) [Doubtful] · dropped by THE ACE OF SPADES on Wed Oct 14, 8:12 AM ET · free agent now
+- Sam Darnold (QB, SEA) · dropped by Whiskey Sippin Kings on Wed Oct 14, 7:52 AM ET · free agent now
+- Dallas Cowboys (DEF, DAL) · dropped by Whiskey Sippin Kings on Wed Oct 14, 7:52 AM ET · free agent now
+- Kenyon Sadiq (TE, NYJ) [Questionable] · dropped by FuelTheJET on Wed Oct 14, 6:46 AM ET · free agent now
+- Jake Bates (K, DET) · dropped by Drunk To Taste This CHX on Wed Oct 14, 5:05 AM ET · free agent now
 - Mark Andrews (TE, BAL) · dropped by THE ACE OF SPADES on Wed Oct 14, 3:09 AM ET · free agent now
 - Cleveland Browns (DEF, CLE) · dropped by Make Miami Great Again on Wed Oct 14, 3:09 AM ET · free agent now
 - C.J. Stroud (QB, HOU) · dropped by THE ACE OF SPADES on Fri Oct 9, 8:34 AM ET · free agent now
@@ -153,30 +153,30 @@ Bench: Quinshon Judkins (RB, CLE) [Questionable]; Tyler Shough (QB, NO); Denzel 
 - Caleb Douglas (WR, MIA) [Out] · dropped by Whiskey Sippin Kings on Wed Oct 7, 4:23 AM ET · free agent now
 
 ## Trending adds across Sleeper, last 24 hours
-- Tanner McKee (QB, PHI) · 1,210,512 adds · AVAILABLE in my league
-- Dameon Pierce (RB, PHI) · 571,672 adds · on my roster
-- Nick Folk (K, ATL) · 449,610 adds · rostered by FuelTheJET
-- Kirk Cousins (QB, LV) · 420,968 adds · rostered by Young Blood
-- Darius Cooper (WR, PHI) · 354,158 adds · AVAILABLE in my league
-- Jaleel McLaughlin (RB, CLE) · 229,665 adds · AVAILABLE in my league
-- Aaron Rodgers (QB, PIT) · 217,220 adds · rostered by Holla
-- Brenton Strange (TE, JAX) · 214,803 adds · rostered by Strokin My Ditka
-- Indianapolis Colts (DEF, IND) · 211,413 adds · rostered by Make Miami Great Again
-- C.J. Stroud (QB, HOU) · 194,817 adds · AVAILABLE in my league
-- Trey Smack (K, GB) · 190,260 adds · rostered by Thoroughbred Cheesehead
-- Tyler Higbee (TE, LAR) · 180,036 adds · rostered by Young Blood
-- Kimani Vidal (RB, LAC) · 163,265 adds · AVAILABLE in my league
-- Xavier Worthy (WR, KC) · 156,780 adds · rostered by Springfield Atoms
-- MarShawn Lloyd (RB, GB) · 156,114 adds · rostered by Make Miami Great Again
-- Tyler Bass (K, BUF) · 155,770 adds · AVAILABLE in my league
-- Ryan Flournoy (WR, DAL) · 145,864 adds · AVAILABLE in my league
-- Matt Gay (K, LV) · 145,070 adds · rostered by Whiskey Sippin Kings
-- New England Patriots (DEF, NE) · 140,609 adds · on my roster
-- Tre Tucker (WR, LV) · 127,140 adds · AVAILABLE in my league
-- Tyler Loop (K, BAL) · 123,150 adds · rostered by Team 8
-- Blake Grupe (K, LAR) · 118,755 adds · AVAILABLE in my league
-- Brandin Cooks (WR, SF) · 106,068 adds · AVAILABLE in my league
-- Michael Penix (QB, ATL) · 106,056 adds · AVAILABLE in my league
-- San Francisco 49ers (DEF, SF) · 102,930 adds · rostered by Young Blood
+- Tanner McKee (QB, PHI) · 1,248,832 adds · AVAILABLE in my league
+- Dameon Pierce (RB, PHI) · 559,592 adds · on my roster
+- Nick Folk (K, ATL) · 434,592 adds · rostered by FuelTheJET
+- Kirk Cousins (QB, LV) · 421,760 adds · rostered by Young Blood
+- Darius Cooper (WR, PHI) · 352,548 adds · AVAILABLE in my league
+- Aaron Rodgers (QB, PIT) · 220,788 adds · rostered by Holla
+- Jaleel McLaughlin (RB, CLE) · 213,740 adds · AVAILABLE in my league
+- Brenton Strange (TE, JAX) · 208,647 adds · rostered by Strokin My Ditka
+- Indianapolis Colts (DEF, IND) · 203,847 adds · rostered by Make Miami Great Again
+- C.J. Stroud (QB, HOU) · 196,973 adds · AVAILABLE in my league
+- Trey Smack (K, GB) · 186,796 adds · rostered by Thoroughbred Cheesehead
+- Tyler Higbee (TE, LAR) · 179,001 adds · rostered by Young Blood
+- Kimani Vidal (RB, LAC) · 158,275 adds · AVAILABLE in my league
+- Tyler Bass (K, BUF) · 153,950 adds · AVAILABLE in my league
+- Xavier Worthy (WR, KC) · 153,135 adds · rostered by Springfield Atoms
+- MarShawn Lloyd (RB, GB) · 150,363 adds · rostered by Make Miami Great Again
+- Ryan Flournoy (WR, DAL) · 145,144 adds · AVAILABLE in my league
+- Matt Gay (K, LV) · 140,610 adds · rostered by Whiskey Sippin Kings
+- New England Patriots (DEF, NE) · 132,986 adds · on my roster
+- Tre Tucker (WR, LV) · 125,838 adds · AVAILABLE in my league
+- Blake Grupe (K, LAR) · 116,748 adds · AVAILABLE in my league
+- Tyler Loop (K, BAL) · 116,520 adds · rostered by Team 8
+- Brandin Cooks (WR, SF) · 105,128 adds · AVAILABLE in my league
+- Michael Penix (QB, ATL) · 104,919 adds · AVAILABLE in my league
+- Tyler Shough (QB, NO) · 101,792 adds · rostered by Whiskey Sippin Kings
 
 Data from the Sleeper API (sleeper.com). Injury tags in brackets are Sleeper's designations and may lag official reports.

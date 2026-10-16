@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-16T03:19:22.998739-04:00",
+  "generated": "2026-10-16T08:35:20.140301-04:00",
   "season": "2026",
   "week": 6,
   "league": {
@@ -583,36 +583,36 @@
       "player": "Will Shipley (RB, PHI) [Doubtful]",
       "dropped_by": "THE ACE OF SPADES",
       "dropped_at": "2026-10-14T08:12:24.428000-04:00",
-      "on_waivers_until": "2026-10-16T08:12:24.428000-04:00",
-      "waiver_status": "on waivers until Fri Oct 16, 8:12 AM ET"
+      "on_waivers_until": null,
+      "waiver_status": "free agent now"
     },
     {
       "player": "Sam Darnold (QB, SEA)",
       "dropped_by": "Whiskey Sippin Kings",
       "dropped_at": "2026-10-14T07:52:50.225000-04:00",
-      "on_waivers_until": "2026-10-16T07:52:50.225000-04:00",
-      "waiver_status": "on waivers until Fri Oct 16, 7:52 AM ET"
+      "on_waivers_until": null,
+      "waiver_status": "free agent now"
     },
     {
       "player": "Dallas Cowboys (DEF, DAL)",
       "dropped_by": "Whiskey Sippin Kings",
       "dropped_at": "2026-10-14T07:52:17.333000-04:00",
-      "on_waivers_until": "2026-10-16T07:52:17.333000-04:00",
-      "waiver_status": "on waivers until Fri Oct 16, 7:52 AM ET"
+      "on_waivers_until": null,
+      "waiver_status": "free agent now"
     },
     {
       "player": "Kenyon Sadiq (TE, NYJ) [Questionable]",
       "dropped_by": "FuelTheJET",
       "dropped_at": "2026-10-14T06:46:05.525000-04:00",
-      "on_waivers_until": "2026-10-16T06:46:05.525000-04:00",
-      "waiver_status": "on waivers until Fri Oct 16, 6:46 AM ET"
+      "on_waivers_until": null,
+      "waiver_status": "free agent now"
     },
     {
       "player": "Jake Bates (K, DET)",
       "dropped_by": "Drunk To Taste This CHX",
       "dropped_at": "2026-10-14T05:05:03.574000-04:00",
-      "on_waivers_until": "2026-10-16T05:05:03.574000-04:00",
-      "waiver_status": "on waivers until Fri Oct 16, 5:05 AM ET"
+      "on_waivers_until": null,
+      "waiver_status": "free agent now"
     },
     {
       "player": "Mark Andrews (TE, BAL)",
@@ -667,128 +667,128 @@
   "trending_adds": [
     {
       "player": "Tanner McKee (QB, PHI)",
-      "adds": 1210512,
+      "adds": 1248832,
       "rostered_by": null
     },
     {
       "player": "Dameon Pierce (RB, PHI)",
-      "adds": 571672,
+      "adds": 559592,
       "rostered_by": 11
     },
     {
       "player": "Nick Folk (K, ATL)",
-      "adds": 449610,
+      "adds": 434592,
       "rostered_by": 6
     },
     {
       "player": "Kirk Cousins (QB, LV)",
-      "adds": 420968,
+      "adds": 421760,
       "rostered_by": 12
     },
     {
       "player": "Darius Cooper (WR, PHI)",
-      "adds": 354158,
-      "rostered_by": null
-    },
-    {
-      "player": "Jaleel McLaughlin (RB, CLE)",
-      "adds": 229665,
+      "adds": 352548,
       "rostered_by": null
     },
     {
       "player": "Aaron Rodgers (QB, PIT)",
-      "adds": 217220,
+      "adds": 220788,
       "rostered_by": 2
     },
     {
+      "player": "Jaleel McLaughlin (RB, CLE)",
+      "adds": 213740,
+      "rostered_by": null
+    },
+    {
       "player": "Brenton Strange (TE, JAX)",
-      "adds": 214803,
+      "adds": 208647,
       "rostered_by": 10
     },
     {
       "player": "Indianapolis Colts (DEF, IND)",
-      "adds": 211413,
+      "adds": 203847,
       "rostered_by": 7
     },
     {
       "player": "C.J. Stroud (QB, HOU)",
-      "adds": 194817,
+      "adds": 196973,
       "rostered_by": null
     },
     {
       "player": "Trey Smack (K, GB)",
-      "adds": 190260,
+      "adds": 186796,
       "rostered_by": 4
     },
     {
       "player": "Tyler Higbee (TE, LAR)",
-      "adds": 180036,
+      "adds": 179001,
       "rostered_by": 12
     },
     {
       "player": "Kimani Vidal (RB, LAC)",
-      "adds": 163265,
+      "adds": 158275,
+      "rostered_by": null
+    },
+    {
+      "player": "Tyler Bass (K, BUF)",
+      "adds": 153950,
       "rostered_by": null
     },
     {
       "player": "Xavier Worthy (WR, KC)",
-      "adds": 156780,
+      "adds": 153135,
       "rostered_by": 5
     },
     {
       "player": "MarShawn Lloyd (RB, GB)",
-      "adds": 156114,
+      "adds": 150363,
       "rostered_by": 7
     },
     {
-      "player": "Tyler Bass (K, BUF)",
-      "adds": 155770,
-      "rostered_by": null
-    },
-    {
       "player": "Ryan Flournoy (WR, DAL)",
-      "adds": 145864,
+      "adds": 145144,
       "rostered_by": null
     },
     {
       "player": "Matt Gay (K, LV)",
-      "adds": 145070,
+      "adds": 140610,
       "rostered_by": 1
     },
     {
       "player": "New England Patriots (DEF, NE)",
-      "adds": 140609,
+      "adds": 132986,
       "rostered_by": 11
     },
     {
       "player": "Tre Tucker (WR, LV)",
-      "adds": 127140,
+      "adds": 125838,
+      "rostered_by": null
+    },
+    {
+      "player": "Blake Grupe (K, LAR)",
+      "adds": 116748,
       "rostered_by": null
     },
     {
       "player": "Tyler Loop (K, BAL)",
-      "adds": 123150,
+      "adds": 116520,
       "rostered_by": 8
     },
     {
-      "player": "Blake Grupe (K, LAR)",
-      "adds": 118755,
-      "rostered_by": null
-    },
-    {
       "player": "Brandin Cooks (WR, SF)",
-      "adds": 106068,
+      "adds": 105128,
       "rostered_by": null
     },
     {
       "player": "Michael Penix (QB, ATL)",
-      "adds": 106056,
+      "adds": 104919,
       "rostered_by": null
     },
     {
-      "player": "San Francisco 49ers (DEF, SF)",
-      "adds": 102930,
-      "rostered_by": 12
+      "player": "Tyler Shough (QB, NO)",
+      "adds": 101792,
+      "rostered_by": 1
     }
   ]
 }
