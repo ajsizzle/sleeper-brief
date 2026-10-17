@@ -1,5 +1,5 @@
 # Sleeper league state
-Generated Friday October 16, 2026 05:21 PM ET · Season 2026 · NFL week 6
+Generated Friday October 16, 2026 08:35 PM ET · Season 2026 · NFL week 6
 League: The Dudes Will Roll · 12 teams · waivers: FAAB (budget $200) · lineup: QB, RB, RB, WR, WR, TE, FLEX, K, DEF
 
 ## My team: THE ACE OF SPADES (roster 11)
@@ -153,30 +153,30 @@ Bench: Quinshon Judkins (RB, CLE) [Questionable]; Tyler Shough (QB, NO); Denzel 
 - Caleb Douglas (WR, MIA) [Out] · dropped by Whiskey Sippin Kings on Wed Oct 7, 4:23 AM ET · free agent now
 
 ## Trending adds across Sleeper, last 24 hours
-- Tanner McKee (QB, PHI) · 745,792 adds · AVAILABLE in my league
-- Dameon Pierce (RB, PHI) · 574,504 adds · on my roster
-- Tyler Allgeier (RB, ARI) · 418,240 adds · rostered by Team 9
-- Darius Cooper (WR, PHI) · 340,249 adds · AVAILABLE in my league
-- Kirk Cousins (QB, LV) · 331,072 adds · rostered by Young Blood
-- Nick Folk (K, ATL) · 306,366 adds · rostered by FuelTheJET
-- Josh Jacobs (RB, GB) [NA] · 270,200 adds · rostered by Make Miami Great Again
-- Tyler Higbee (TE, LAR) · 224,613 adds · rostered by Young Blood
-- Aaron Rodgers (QB, PIT) · 197,304 adds · rostered by Holla
-- Jaleel McLaughlin (RB, CLE) · 186,385 adds · AVAILABLE in my league
-- Brenton Strange (TE, JAX) · 169,911 adds · rostered by Strokin My Ditka
-- Xavier Worthy (WR, KC) · 166,311 adds · rostered by Springfield Atoms
-- C.J. Stroud (QB, HOU) · 165,935 adds · AVAILABLE in my league
-- Kimani Vidal (RB, LAC) · 153,390 adds · AVAILABLE in my league
-- Indianapolis Colts (DEF, IND) · 145,878 adds · rostered by Make Miami Great Again
-- Trey Smack (K, GB) · 144,784 adds · rostered by Thoroughbred Cheesehead
-- Ryan Flournoy (WR, DAL) · 140,752 adds · AVAILABLE in my league
-- Joe Milton (QB, DAL) · 136,624 adds · AVAILABLE in my league
-- Tyler Bass (K, BUF) · 131,310 adds · AVAILABLE in my league
-- Tre Tucker (WR, LV) · 119,970 adds · AVAILABLE in my league
-- MarShawn Lloyd (RB, GB) · 118,755 adds · rostered by Make Miami Great Again
-- Matt Gay (K, LV) · 109,445 adds · rostered by Whiskey Sippin Kings
-- Brandin Cooks (WR, SF) · 107,140 adds · AVAILABLE in my league
-- Blake Grupe (K, LAR) · 99,747 adds · AVAILABLE in my league
-- Pierre Strong (RB, GB) · 99,207 adds · AVAILABLE in my league
+- Tanner McKee (QB, PHI) · 527,296 adds · AVAILABLE in my league
+- Dameon Pierce (RB, PHI) · 520,936 adds · on my roster
+- Tyler Allgeier (RB, ARI) · 481,365 adds · rostered by Team 9
+- Josh Jacobs (RB, GB) [NA] · 361,805 adds · rostered by Make Miami Great Again
+- Kirk Cousins (QB, LV) · 260,488 adds · rostered by Young Blood
+- Darius Cooper (WR, PHI) · 257,936 adds · AVAILABLE in my league
+- Tyler Higbee (TE, LAR) · 240,318 adds · rostered by Young Blood
+- Nick Folk (K, ATL) · 183,036 adds · rostered by FuelTheJET
+- Jaleel McLaughlin (RB, CLE) · 163,590 adds · AVAILABLE in my league
+- Aaron Rodgers (QB, PIT) · 160,664 adds · rostered by Holla
+- Joe Milton (QB, DAL) · 154,356 adds · AVAILABLE in my league
+- Xavier Worthy (WR, KC) · 147,096 adds · rostered by Springfield Atoms
+- C.J. Stroud (QB, HOU) · 134,680 adds · AVAILABLE in my league
+- Kimani Vidal (RB, LAC) · 132,085 adds · AVAILABLE in my league
+- Brenton Strange (TE, JAX) · 126,522 adds · rostered by Strokin My Ditka
+- Ryan Flournoy (WR, DAL) · 114,528 adds · AVAILABLE in my league
+- Indianapolis Colts (DEF, IND) · 97,383 adds · rostered by Make Miami Great Again
+- Tre Tucker (WR, LV) · 96,012 adds · AVAILABLE in my league
+- Brandin Cooks (WR, SF) · 91,912 adds · AVAILABLE in my league
+- Tyler Bass (K, BUF) · 91,100 adds · AVAILABLE in my league
+- Pierre Strong (RB, GB) · 89,064 adds · AVAILABLE in my league
+- Trey Smack (K, GB) · 87,140 adds · rostered by Thoroughbred Cheesehead
+- MarShawn Lloyd (RB, GB) · 85,104 adds · rostered by Make Miami Great Again
+- Tyler Shough (QB, NO) · 73,304 adds · rostered by Whiskey Sippin Kings
+- Keenan Allen (WR, IND) · 69,788 adds · AVAILABLE in my league
 
 Data from the Sleeper API (sleeper.com). Injury tags in brackets are Sleeper's designations and may lag official reports.

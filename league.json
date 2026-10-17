@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-16T17:21:58.418488-04:00",
+  "generated": "2026-10-16T20:35:23.338349-04:00",
   "season": "2026",
   "week": 6,
   "league": {
@@ -667,127 +667,127 @@
   "trending_adds": [
     {
       "player": "Tanner McKee (QB, PHI)",
-      "adds": 745792,
+      "adds": 527296,
       "rostered_by": null
     },
     {
       "player": "Dameon Pierce (RB, PHI)",
-      "adds": 574504,
+      "adds": 520936,
       "rostered_by": 11
     },
     {
       "player": "Tyler Allgeier (RB, ARI)",
-      "adds": 418240,
+      "adds": 481365,
       "rostered_by": 9
     },
     {
-      "player": "Darius Cooper (WR, PHI)",
-      "adds": 340249,
-      "rostered_by": null
+      "player": "Josh Jacobs (RB, GB) [NA]",
+      "adds": 361805,
+      "rostered_by": 7
     },
     {
       "player": "Kirk Cousins (QB, LV)",
-      "adds": 331072,
+      "adds": 260488,
+      "rostered_by": 12
+    },
+    {
+      "player": "Darius Cooper (WR, PHI)",
+      "adds": 257936,
+      "rostered_by": null
+    },
+    {
+      "player": "Tyler Higbee (TE, LAR)",
+      "adds": 240318,
       "rostered_by": 12
     },
     {
       "player": "Nick Folk (K, ATL)",
-      "adds": 306366,
+      "adds": 183036,
       "rostered_by": 6
     },
     {
-      "player": "Josh Jacobs (RB, GB) [NA]",
-      "adds": 270200,
-      "rostered_by": 7
-    },
-    {
-      "player": "Tyler Higbee (TE, LAR)",
-      "adds": 224613,
-      "rostered_by": 12
-    },
-    {
-      "player": "Aaron Rodgers (QB, PIT)",
-      "adds": 197304,
-      "rostered_by": 2
-    },
-    {
       "player": "Jaleel McLaughlin (RB, CLE)",
-      "adds": 186385,
+      "adds": 163590,
       "rostered_by": null
     },
     {
-      "player": "Brenton Strange (TE, JAX)",
-      "adds": 169911,
-      "rostered_by": 10
+      "player": "Aaron Rodgers (QB, PIT)",
+      "adds": 160664,
+      "rostered_by": 2
+    },
+    {
+      "player": "Joe Milton (QB, DAL)",
+      "adds": 154356,
+      "rostered_by": null
     },
     {
       "player": "Xavier Worthy (WR, KC)",
-      "adds": 166311,
+      "adds": 147096,
       "rostered_by": 5
     },
     {
       "player": "C.J. Stroud (QB, HOU)",
-      "adds": 165935,
+      "adds": 134680,
       "rostered_by": null
     },
     {
       "player": "Kimani Vidal (RB, LAC)",
-      "adds": 153390,
+      "adds": 132085,
+      "rostered_by": null
+    },
+    {
+      "player": "Brenton Strange (TE, JAX)",
+      "adds": 126522,
+      "rostered_by": 10
+    },
+    {
+      "player": "Ryan Flournoy (WR, DAL)",
+      "adds": 114528,
       "rostered_by": null
     },
     {
       "player": "Indianapolis Colts (DEF, IND)",
-      "adds": 145878,
+      "adds": 97383,
       "rostered_by": 7
     },
     {
-      "player": "Trey Smack (K, GB)",
-      "adds": 144784,
-      "rostered_by": 4
-    },
-    {
-      "player": "Ryan Flournoy (WR, DAL)",
-      "adds": 140752,
+      "player": "Tre Tucker (WR, LV)",
+      "adds": 96012,
       "rostered_by": null
     },
     {
-      "player": "Joe Milton (QB, DAL)",
-      "adds": 136624,
+      "player": "Brandin Cooks (WR, SF)",
+      "adds": 91912,
       "rostered_by": null
     },
     {
       "player": "Tyler Bass (K, BUF)",
-      "adds": 131310,
-      "rostered_by": null
-    },
-    {
-      "player": "Tre Tucker (WR, LV)",
-      "adds": 119970,
-      "rostered_by": null
-    },
-    {
-      "player": "MarShawn Lloyd (RB, GB)",
-      "adds": 118755,
-      "rostered_by": 7
-    },
-    {
-      "player": "Matt Gay (K, LV)",
-      "adds": 109445,
-      "rostered_by": 1
-    },
-    {
-      "player": "Brandin Cooks (WR, SF)",
-      "adds": 107140,
-      "rostered_by": null
-    },
-    {
-      "player": "Blake Grupe (K, LAR)",
-      "adds": 99747,
+      "adds": 91100,
       "rostered_by": null
     },
     {
       "player": "Pierre Strong (RB, GB)",
-      "adds": 99207,
+      "adds": 89064,
+      "rostered_by": null
+    },
+    {
+      "player": "Trey Smack (K, GB)",
+      "adds": 87140,
+      "rostered_by": 4
+    },
+    {
+      "player": "MarShawn Lloyd (RB, GB)",
+      "adds": 85104,
+      "rostered_by": 7
+    },
+    {
+      "player": "Tyler Shough (QB, NO)",
+      "adds": 73304,
+      "rostered_by": 1
+    },
+    {
+      "player": "Keenan Allen (WR, IND)",
+      "adds": 69788,
       "rostered_by": null
     }
   ]
