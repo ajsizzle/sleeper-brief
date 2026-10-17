@@ -1,5 +1,5 @@
 # Sleeper league state
-Generated Saturday October 17, 2026 03:34 PM ET · Season 2026 · NFL week 6
+Generated Saturday October 17, 2026 06:26 PM ET · Season 2026 · NFL week 6
 League: The Dudes Will Roll · 12 teams · waivers: FAAB (budget $200) · lineup: QB, RB, RB, WR, WR, TE, FLEX, K, DEF
 
 ## My team: THE ACE OF SPADES (roster 11)
@@ -60,7 +60,8 @@ Bench: Rashee Rice (WR, KC) [Out]; Kyle Monangai (RB, CHI) [Out]; Deshaun Watson
 
 ### Drunk To Taste This CHX · 3-2 · 578.4 pts · waiver priority 8
 Starters: Geno Smith (QB, NYJ); Derrick Henry (RB, BAL); Kyren Williams (RB, LAR); Carnell Tate (WR, TEN); Garrett Wilson (WR, NYJ); Travis Kelce (TE, KC); Braelon Allen (RB, NYJ); Jason Myers (K, SEA); Los Angeles Rams (DEF, LAR)
-Bench: Ladd McConkey (WR, LAC); Travis Hunter (WR, JAX); Mike Gesicki (TE, CIN); Jalen Hurts (QB, PHI) [Out]; Jameson Williams (WR, DET); Josh Downs (WR, IND)
+Bench: Ladd McConkey (WR, LAC); Travis Hunter (WR, JAX); Mike Gesicki (TE, CIN); Jameson Williams (WR, DET); Josh Downs (WR, IND)
+IR: Jalen Hurts (QB, PHI) [Out]
 
 ### Springfield Atoms · 3-2 · 562.1 pts · waiver priority 5
 Starters: Josh Allen (QB, BUF); Rachaad White (RB, WAS); Woody Marks (RB, HOU); CeeDee Lamb (WR, DAL); Terry McLaurin (WR, WAS); Isaiah Likely (TE, NYG); Xavier Worthy (WR, KC); Brandon Aubrey (K, DAL); Baltimore Ravens (DEF, BAL)
@@ -134,8 +135,8 @@ Bench: Quinshon Judkins (RB, CLE) [Questionable]; Tyler Shough (QB, NO); Denzel 
 - Roman Wilson (WR, PIT) [IR] · dropped by THE ACE OF SPADES on Fri Oct 16, 8:49 PM ET · on waivers until Sun Oct 18, 8:49 PM ET
 - Quentin Johnston (WR, LAC) · dropped by Holla on Fri Oct 16, 2:19 AM ET · on waivers until Sun Oct 18, 2:19 AM ET
 - Keaton Mitchell (RB, LAC) · dropped by Thoroughbred Cheesehead on Fri Oct 16, 1:10 AM ET · on waivers until Sun Oct 18, 1:10 AM ET
-- Kalif Raymond (WR, CHI) · dropped by Team 8 on Thu Oct 15, 5:52 PM ET · on waivers until Sat Oct 17, 5:52 PM ET
-- Bo Nix (QB, DEN) · dropped by Drunk To Taste This CHX on Thu Oct 15, 4:43 PM ET · on waivers until Sat Oct 17, 4:43 PM ET
+- Kalif Raymond (WR, CHI) · dropped by Team 8 on Thu Oct 15, 5:52 PM ET · free agent now
+- Bo Nix (QB, DEN) · dropped by Drunk To Taste This CHX on Thu Oct 15, 4:43 PM ET · free agent now
 - Justin Herbert (QB, LAC) · dropped by Young Blood on Wed Oct 14, 9:43 PM ET · free agent now
 - T.J. Hockenson (TE, MIN) [Out] · dropped by Young Blood on Wed Oct 14, 9:38 PM ET · free agent now
 - Darren Waller (TE, CAR) · dropped by Holla on Wed Oct 14, 9:42 AM ET · free agent now
@@ -154,30 +155,30 @@ Bench: Quinshon Judkins (RB, CLE) [Questionable]; Tyler Shough (QB, NO); Denzel 
 - Caleb Douglas (WR, MIA) [Out] · dropped by Whiskey Sippin Kings on Wed Oct 7, 4:23 AM ET · free agent now
 
 ## Trending adds across Sleeper, last 24 hours
-- Tyler Allgeier (RB, ARI) · 514,375 adds · rostered by Team 9
-- Dameon Pierce (RB, PHI) · 508,064 adds · on my roster
-- Josh Jacobs (RB, GB) [NA] · 456,400 adds · rostered by Make Miami Great Again
-- Tyler Higbee (TE, LAR) · 368,370 adds · rostered by Young Blood
-- Roschon Johnson (RB, CHI) · 170,912 adds · AVAILABLE in my league
-- Tanner McKee (QB, PHI) · 167,648 adds · AVAILABLE in my league
-- Jaleel McLaughlin (RB, CLE) · 136,095 adds · AVAILABLE in my league
-- Kirk Cousins (QB, LV) · 134,936 adds · rostered by Young Blood
-- Xavier Worthy (WR, KC) · 131,121 adds · rostered by Springfield Atoms
-- Darius Cooper (WR, PHI) · 111,839 adds · AVAILABLE in my league
-- Kimani Vidal (RB, LAC) · 107,410 adds · AVAILABLE in my league
-- Joe Milton (QB, PHI) · 85,100 adds · AVAILABLE in my league
-- Cyrus Allen (WR, KC) · 83,094 adds · AVAILABLE in my league
-- Aaron Rodgers (QB, PIT) · 80,552 adds · rostered by Holla
-- C.J. Stroud (QB, HOU) · 72,975 adds · AVAILABLE in my league
-- Ryan Flournoy (WR, DAL) · 72,400 adds · AVAILABLE in my league
-- Nick Folk (K, ATL) · 71,238 adds · rostered by FuelTheJET
-- Keenan Allen (WR, IND) · 70,860 adds · AVAILABLE in my league
-- Brandin Cooks (WR, SF) · 70,276 adds · AVAILABLE in my league
-- Brenton Strange (TE, JAX) · 68,706 adds · rostered by Strokin My Ditka
-- Pierre Strong (RB, GB) · 57,168 adds · AVAILABLE in my league
-- Tre Tucker (WR, LV) · 56,538 adds · AVAILABLE in my league
-- Keaton Mitchell (RB, LAC) · 56,448 adds · AVAILABLE in my league
-- Rachaad White (RB, WAS) · 54,957 adds · rostered by Springfield Atoms
-- Tyler Huntley (QB, BAL) · 54,438 adds · AVAILABLE in my league
+- Dameon Pierce (RB, PHI) · 403,184 adds · on my roster
+- Tyler Higbee (TE, LAR) · 358,596 adds · rostered by Young Blood
+- Tyler Allgeier (RB, ARI) · 326,460 adds · rostered by Team 9
+- Tanner McKee (QB, PHI) · 206,864 adds · AVAILABLE in my league
+- Roschon Johnson (RB, CHI) · 203,744 adds · AVAILABLE in my league
+- Josh Jacobs (RB, GB) [NA] · 199,640 adds · rostered by Make Miami Great Again
+- Kirk Cousins (QB, LV) · 120,928 adds · rostered by Young Blood
+- Xavier Worthy (WR, KC) · 108,180 adds · rostered by Springfield Atoms
+- Jaleel McLaughlin (RB, CLE) · 94,840 adds · AVAILABLE in my league
+- Kimani Vidal (RB, LAC) · 86,065 adds · AVAILABLE in my league
+- Cyrus Allen (WR, KC) · 86,046 adds · AVAILABLE in my league
+- Rachaad White (RB, WAS) · 85,482 adds · rostered by Springfield Atoms
+- Joe Milton (QB, PHI) · 84,168 adds · AVAILABLE in my league
+- C.J. Stroud (QB, HOU) · 73,493 adds · AVAILABLE in my league
+- Keenan Allen (WR, IND) · 71,248 adds · AVAILABLE in my league
+- Aaron Rodgers (QB, PIT) · 69,508 adds · rostered by Holla
+- Darius Cooper (WR, PHI) · 67,305 adds · AVAILABLE in my league
+- Nick Folk (K, ATL) · 63,432 adds · rostered by FuelTheJET
+- Brandin Cooks (WR, SF) · 61,004 adds · AVAILABLE in my league
+- Brenton Strange (TE, JAX) · 58,500 adds · rostered by Strokin My Ditka
+- Ryan Flournoy (WR, DAL) · 56,760 adds · AVAILABLE in my league
+- Keon Coleman (WR, BUF) · 48,258 adds · rostered by Team 9
+- Tyler Huntley (QB, BAL) · 45,720 adds · AVAILABLE in my league
+- Keaton Mitchell (RB, LAC) · 43,857 adds · AVAILABLE in my league
+- Tyler Bass (K, BUF) · 43,705 adds · AVAILABLE in my league
 
 Data from the Sleeper API (sleeper.com). Injury tags in brackets are Sleeper's designations and may lag official reports.
