@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-17T18:26:22.710630-04:00",
+  "generated": "2026-10-17T21:12:27.477749-04:00",
   "season": "2026",
   "week": 6,
   "league": {
@@ -669,127 +669,127 @@
   "trending_adds": [
     {
       "player": "Dameon Pierce (RB, PHI)",
-      "adds": 403184,
+      "adds": 360408,
       "rostered_by": 11
     },
     {
       "player": "Tyler Higbee (TE, LAR)",
-      "adds": 358596,
+      "adds": 354654,
       "rostered_by": 12
     },
     {
       "player": "Tyler Allgeier (RB, ARI)",
-      "adds": 326460,
+      "adds": 276195,
       "rostered_by": 9
     },
     {
       "player": "Tanner McKee (QB, PHI)",
-      "adds": 206864,
+      "adds": 205512,
       "rostered_by": null
     },
     {
       "player": "Roschon Johnson (RB, CHI)",
-      "adds": 203744,
+      "adds": 201328,
       "rostered_by": null
     },
     {
       "player": "Josh Jacobs (RB, GB) [NA]",
-      "adds": 199640,
+      "adds": 120955,
       "rostered_by": 7
     },
     {
       "player": "Kirk Cousins (QB, LV)",
-      "adds": 120928,
+      "adds": 112952,
       "rostered_by": 12
     },
     {
-      "player": "Xavier Worthy (WR, KC)",
-      "adds": 108180,
+      "player": "Rachaad White (RB, WAS)",
+      "adds": 104511,
       "rostered_by": 5
     },
     {
+      "player": "Xavier Worthy (WR, KC)",
+      "adds": 101277,
+      "rostered_by": 5
+    },
+    {
+      "player": "Cyrus Allen (WR, KC)",
+      "adds": 88494,
+      "rostered_by": null
+    },
+    {
       "player": "Jaleel McLaughlin (RB, CLE)",
-      "adds": 94840,
+      "adds": 82975,
       "rostered_by": null
     },
     {
       "player": "Kimani Vidal (RB, LAC)",
-      "adds": 86065,
+      "adds": 80690,
       "rostered_by": null
-    },
-    {
-      "player": "Cyrus Allen (WR, KC)",
-      "adds": 86046,
-      "rostered_by": null
-    },
-    {
-      "player": "Rachaad White (RB, WAS)",
-      "adds": 85482,
-      "rostered_by": 5
     },
     {
       "player": "Joe Milton (QB, PHI)",
-      "adds": 84168,
+      "adds": 74696,
       "rostered_by": null
     },
     {
       "player": "C.J. Stroud (QB, HOU)",
-      "adds": 73493,
+      "adds": 70644,
       "rostered_by": null
     },
     {
       "player": "Keenan Allen (WR, IND)",
-      "adds": 71248,
+      "adds": 69156,
       "rostered_by": null
     },
     {
       "player": "Aaron Rodgers (QB, PIT)",
-      "adds": 69508,
+      "adds": 63324,
       "rostered_by": 2
     },
     {
-      "player": "Darius Cooper (WR, PHI)",
-      "adds": 67305,
-      "rostered_by": null
-    },
-    {
       "player": "Nick Folk (K, ATL)",
-      "adds": 63432,
+      "adds": 60858,
       "rostered_by": 6
     },
     {
       "player": "Brandin Cooks (WR, SF)",
-      "adds": 61004,
+      "adds": 57664,
       "rostered_by": null
     },
     {
       "player": "Brenton Strange (TE, JAX)",
-      "adds": 58500,
+      "adds": 55458,
       "rostered_by": 10
     },
     {
+      "player": "Darius Cooper (WR, PHI)",
+      "adds": 55195,
+      "rostered_by": null
+    },
+    {
+      "player": "Austin Ekeler (RB, WAS)",
+      "adds": 50940,
+      "rostered_by": null
+    },
+    {
       "player": "Ryan Flournoy (WR, DAL)",
-      "adds": 56760,
+      "adds": 49504,
       "rostered_by": null
     },
     {
       "player": "Keon Coleman (WR, BUF)",
-      "adds": 48258,
+      "adds": 45612,
       "rostered_by": 9
     },
     {
-      "player": "Tyler Huntley (QB, BAL)",
-      "adds": 45720,
-      "rostered_by": null
-    },
-    {
-      "player": "Keaton Mitchell (RB, LAC)",
-      "adds": 43857,
-      "rostered_by": null
-    },
-    {
       "player": "Tyler Bass (K, BUF)",
-      "adds": 43705,
+      "adds": 43685,
+      "rostered_by": null
+    },
+    {
+      "player": "Darren Waller (TE, CAR)",
+      "adds": 42012,
       "rostered_by": null
     }
   ]
