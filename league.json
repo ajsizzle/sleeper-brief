@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-19T13:34:19.192357-04:00",
+  "generated": "2026-10-19T18:28:24.160048-04:00",
   "season": "2026",
   "week": 6,
   "league": {
@@ -136,14 +136,14 @@
         "Bucky Irving (RB, TB)",
         "KC Concepcion (WR, CLE)",
         "Christian Watson (WR, GB)",
-        "Dalton Kincaid (TE, BUF)",
+        "Dalton Kincaid (TE, BUF) [Questionable]",
         "Austin Ekeler (RB, WAS)",
         "Trey Smack (K, GB)",
         "Jacksonville Jaguars (DEF, JAX)"
       ],
       "bench": [
         "Marvin Harrison (WR, HOU)",
-        "Jacory Croskey-Merritt (RB, WAS) [Out]",
+        "Jacory Croskey-Merritt (RB, WAS) [IR]",
         "Deebo Samuel (WR, SF) [Out]",
         "Joe Burrow (QB, CIN)",
         "J.K. Dobbins (RB, DEN)",
@@ -301,7 +301,7 @@
         "Patrick Mahomes (QB, KC)",
         "Christian McCaffrey (RB, SF)",
         "Cam Skattebo (RB, NYG)",
-        "Romeo Doubs (WR, NE) [Out]",
+        "Romeo Doubs (WR, NE) [IR]",
         "Zay Flowers (WR, BAL)",
         "Tucker Kraft (TE, GB)",
         "Dallas Goedert (TE, PHI)",
@@ -400,7 +400,7 @@
         "Jonathan Taylor (RB, IND)",
         "D'Andre Swift (RB, CHI)",
         "George Pickens (WR, DAL)",
-        "Davante Adams (WR, LAR)",
+        "Davante Adams (WR, LAR) [Out]",
         "Tyler Higbee (TE, LAR)",
         "Jalen Coker (WR, CAR)",
         "Chris Boswell (K, PIT)",
@@ -512,10 +512,10 @@
     "Week 5 \u00b7 free_agent \u00b7 complete \u00b7 Thu Oct 08 07:24 PM \u00b7 Drunk To Taste This CHX \u00b7 added: Jake Bates (K, DET) to Drunk To Taste This CHX \u00b7 dropped: Harrison Butker (K, KC) from Drunk To Taste This CHX",
     "Week 5 \u00b7 free_agent \u00b7 complete \u00b7 Thu Oct 08 06:01 PM \u00b7 Thoroughbred Cheesehead \u00b7 added: Keaton Mitchell (RB, LAC) to Thoroughbred Cheesehead \u00b7 dropped: Tyler Shough (QB, NO) from Thoroughbred Cheesehead",
     "Week 5 \u00b7 free_agent \u00b7 complete \u00b7 Thu Oct 08 06:01 PM \u00b7 Thoroughbred Cheesehead \u00b7 added: Jacksonville Jaguars (DEF, JAX) to Thoroughbred Cheesehead \u00b7 dropped: Arizona Cardinals (DEF, ARI) from Thoroughbred Cheesehead",
-    "Week 5 \u00b7 waiver \u00b7 complete \u00b7 Wed Oct 07 08:20 AM \u00b7 Holla \u00b7 added: Romeo Doubs (WR, NE) [Out] to Holla \u00b7 dropped: Matt Gay (K, LV) from Holla \u00b7 bid $0 \u00b7 note: Your waiver claim was processed successfully!",
+    "Week 5 \u00b7 waiver \u00b7 complete \u00b7 Wed Oct 07 08:20 AM \u00b7 Holla \u00b7 added: Romeo Doubs (WR, NE) [IR] to Holla \u00b7 dropped: Matt Gay (K, LV) from Holla \u00b7 bid $0 \u00b7 note: Your waiver claim was processed successfully!",
     "Week 5 \u00b7 free_agent \u00b7 complete \u00b7 Wed Oct 07 08:19 AM \u00b7 Holla \u00b7 added: Cincinnati Bengals (DEF, CIN) to Holla \u00b7 dropped: Green Bay Packers (DEF, GB) from Holla",
     "Week 5 \u00b7 free_agent \u00b7 complete \u00b7 Wed Oct 07 08:18 AM \u00b7 Holla \u00b7 added: Aaron Rodgers (QB, PIT) to Holla \u00b7 dropped: Caleb Williams (QB, CHI) from Holla",
-    "Week 5 \u00b7 free_agent \u00b7 complete \u00b7 Wed Oct 07 05:18 AM \u00b7 Drunk To Taste This CHX \u00b7 added: Mike Gesicki (TE, CIN) to Drunk To Taste This CHX \u00b7 dropped: Romeo Doubs (WR, NE) [Out] from Drunk To Taste This CHX",
+    "Week 5 \u00b7 free_agent \u00b7 complete \u00b7 Wed Oct 07 05:18 AM \u00b7 Drunk To Taste This CHX \u00b7 added: Mike Gesicki (TE, CIN) to Drunk To Taste This CHX \u00b7 dropped: Romeo Doubs (WR, NE) [IR] from Drunk To Taste This CHX",
     "Week 5 \u00b7 free_agent \u00b7 complete \u00b7 Wed Oct 07 04:23 AM \u00b7 Whiskey Sippin Kings \u00b7 added: Dallas Cowboys (DEF, DAL) to Whiskey Sippin Kings \u00b7 dropped: Caleb Douglas (WR, MIA) [Out] from Whiskey Sippin Kings"
   ],
   "dropped_unrostered": [
@@ -705,128 +705,128 @@
   "trending_adds": [
     {
       "player": "Omar Cooper (WR, NYJ)",
-      "adds": 516456,
-      "rostered_by": null
-    },
-    {
-      "player": "Keon Coleman (WR, BUF)",
-      "adds": 198315,
-      "rostered_by": 9
-    },
-    {
-      "player": "Kyle Pitts (TE, ATL)",
-      "adds": 176848,
-      "rostered_by": 10
-    },
-    {
-      "player": "C.J. Stroud (QB, HOU)",
-      "adds": 170730,
+      "adds": 763120,
       "rostered_by": null
     },
     {
       "player": "Cleveland Browns (DEF, CLE)",
-      "adds": 162309,
+      "adds": 222530,
       "rostered_by": null
     },
     {
-      "player": "Ryan Flournoy (WR, DAL)",
-      "adds": 156296,
+      "player": "C.J. Stroud (QB, HOU)",
+      "adds": 202671,
+      "rostered_by": null
+    },
+    {
+      "player": "Kyle Pitts (TE, ATL)",
+      "adds": 183687,
+      "rostered_by": 10
+    },
+    {
+      "player": "Michael Mayer (TE, LV)",
+      "adds": 157410,
       "rostered_by": null
     },
     {
       "player": "Tre Tucker (WR, LV)",
-      "adds": 144060,
+      "adds": 139386,
       "rostered_by": null
     },
     {
-      "player": "Khalil Shakir (WR, BUF)",
-      "adds": 137124,
-      "rostered_by": 11
+      "player": "Keon Coleman (WR, BUF)",
+      "adds": 129195,
+      "rostered_by": 9
     },
     {
-      "player": "Tyler Higbee (TE, LAR)",
-      "adds": 127710,
-      "rostered_by": 12
-    },
-    {
-      "player": "Michael Mayer (TE, LV)",
-      "adds": 123831,
-      "rostered_by": null
-    },
-    {
-      "player": "Brandin Cooks (WR, SF)",
-      "adds": 101468,
-      "rostered_by": null
-    },
-    {
-      "player": "Roschon Johnson (RB, CHI)",
-      "adds": 97848,
-      "rostered_by": null
-    },
-    {
-      "player": "Xavier Worthy (WR, KC)",
-      "adds": 97632,
-      "rostered_by": 5
-    },
-    {
-      "player": "J.J. McCarthy (QB, NYG)",
-      "adds": 90900,
-      "rostered_by": null
-    },
-    {
-      "player": "Travis Hunter (WR, JAX)",
-      "adds": 67662,
-      "rostered_by": 3
-    },
-    {
-      "player": "Austin Ekeler (RB, WAS)",
-      "adds": 65764,
+      "player": "Tank Dell (WR, HOU) [IR]",
+      "adds": 120736,
       "rostered_by": 4
     },
     {
-      "player": "Kirk Cousins (QB, LV)",
-      "adds": 62056,
-      "rostered_by": 12
+      "player": "Roschon Johnson (RB, CHI)",
+      "adds": 118392,
+      "rostered_by": null
     },
     {
-      "player": "Tyrone Tracy (RB, NYG)",
-      "adds": 61478,
+      "player": "J.J. McCarthy (QB, NYG)",
+      "adds": 92469,
+      "rostered_by": null
+    },
+    {
+      "player": "Ryan Flournoy (WR, DAL)",
+      "adds": 89544,
+      "rostered_by": null
+    },
+    {
+      "player": "Austin Ekeler (RB, WAS)",
+      "adds": 88148,
+      "rostered_by": 4
+    },
+    {
+      "player": "Konata Mumpfield (WR, LAR)",
+      "adds": 78615,
       "rostered_by": null
     },
     {
       "player": "Jaleel McLaughlin (RB, CLE)",
-      "adds": 61375,
+      "adds": 69810,
       "rostered_by": null
     },
     {
-      "player": "Blake Corum (RB, LAR)",
-      "adds": 60912,
-      "rostered_by": 6
-    },
-    {
-      "player": "Najee Harris (RB, NYG)",
-      "adds": 59515,
-      "rostered_by": 2
+      "player": "Brandin Cooks (WR, SF)",
+      "adds": 67992,
+      "rostered_by": null
     },
     {
       "player": "Tanner McKee (QB, PHI)",
-      "adds": 55112,
-      "rostered_by": null
-    },
-    {
-      "player": "Tyler Bass (K, BUF)",
-      "adds": 54100,
+      "adds": 67272,
       "rostered_by": null
     },
     {
       "player": "Pierre Strong (RB, GB)",
-      "adds": 54036,
+      "adds": 64701,
       "rostered_by": null
     },
     {
-      "player": "Jacob Cowing (WR, SF)",
-      "adds": 52590,
+      "player": "Travis Hunter (WR, JAX)",
+      "adds": 64356,
+      "rostered_by": 3
+    },
+    {
+      "player": "Tyrone Tracy (RB, NYG)",
+      "adds": 61594,
       "rostered_by": null
+    },
+    {
+      "player": "Kirk Cousins (QB, LV)",
+      "adds": 61384,
+      "rostered_by": 12
+    },
+    {
+      "player": "Kyler Murray (QB, MIN)",
+      "adds": 59944,
+      "rostered_by": null
+    },
+    {
+      "player": "Blake Corum (RB, LAR)",
+      "adds": 57560,
+      "rostered_by": 6
+    },
+    {
+      "player": "Tyler Shough (QB, NO)",
+      "adds": 53288,
+      "rostered_by": 1
+    },
+    {
+      "player": "Tyler Higbee (TE, LAR)",
+      "adds": 51471,
+      "rostered_by": 12
+    },
+    {
+      "player": "Dameon Pierce (RB, PHI)",
+      "adds": 48176,
+      "rostered_by": 11
     }
   ]
 }
