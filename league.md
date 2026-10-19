@@ -1,5 +1,5 @@
 # Sleeper league state
-Generated Sunday October 18, 2026 08:14 PM ET · Season 2026 · NFL week 6
+Generated Monday October 19, 2026 12:53 AM ET · Season 2026 · NFL week 6
 League: The Dudes Will Roll · 12 teams · waivers: FAAB (budget $200) · lineup: QB, RB, RB, WR, WR, TE, FLEX, K, DEF
 
 ## My team: THE ACE OF SPADES (roster 11)
@@ -139,7 +139,7 @@ Bench: Quinshon Judkins (RB, CLE) [Out]; Tyler Shough (QB, NO); Denzel Boston (W
 - Malik Willis (QB, MIA) · dropped by Strokin My Ditka on Sun Oct 18, 11:40 AM ET · on waivers until Tue Oct 20, 11:40 AM ET
 - Tyquan Thornton (WR, KC) [IR] · dropped by Team 9 on Sun Oct 18, 10:08 AM ET · on waivers until Tue Oct 20, 10:08 AM ET
 - Jordan Addison (WR, MIN) [Out] · dropped by THE ACE OF SPADES on Sun Oct 18, 9:52 AM ET · on waivers until Tue Oct 20, 9:52 AM ET
-- Roman Wilson (WR, PIT) [IR] · dropped by THE ACE OF SPADES on Fri Oct 16, 8:49 PM ET · on waivers until Sun Oct 18, 8:49 PM ET
+- Roman Wilson (WR, PIT) [IR] · dropped by THE ACE OF SPADES on Fri Oct 16, 8:49 PM ET · free agent now
 - Quentin Johnston (WR, LAC) · dropped by Holla on Fri Oct 16, 2:19 AM ET · free agent now
 - Keaton Mitchell (RB, LAC) · dropped by Thoroughbred Cheesehead on Fri Oct 16, 1:10 AM ET · free agent now
 - Kalif Raymond (WR, CHI) · dropped by Team 8 on Thu Oct 15, 5:52 PM ET · free agent now
@@ -162,30 +162,30 @@ Bench: Quinshon Judkins (RB, CLE) [Out]; Tyler Shough (QB, NO); Denzel Boston (W
 - Caleb Douglas (WR, MIA) [Out] · dropped by Whiskey Sippin Kings on Wed Oct 7, 4:23 AM ET · free agent now
 
 ## Trending adds across Sleeper, last 24 hours
-- Tyler Higbee (TE, LAR) · 1,014,336 adds · rostered by Young Blood
-- Najee Harris (RB, NYG) · 410,610 adds · rostered by Holla
-- Dameon Pierce (RB, PHI) · 389,184 adds · on my roster
-- Jaleel McLaughlin (RB, CLE) · 378,080 adds · AVAILABLE in my league
-- Roschon Johnson (RB, CHI) · 322,144 adds · AVAILABLE in my league
-- Tyler Allgeier (RB, ARI) · 237,430 adds · rostered by Team 9
-- Rachaad White (RB, WAS) · 228,312 adds · rostered by Springfield Atoms
-- Darren Waller (TE, CAR) · 215,766 adds · AVAILABLE in my league
-- Xavier Worthy (WR, KC) · 200,952 adds · rostered by Springfield Atoms
-- Keon Coleman (WR, BUF) · 199,692 adds · rostered by Team 9
-- Tanner McKee (QB, PHI) · 182,288 adds · AVAILABLE in my league
-- Ryan Flournoy (WR, DAL) · 181,144 adds · AVAILABLE in my league
-- Khalil Shakir (WR, BUF) · 169,875 adds · on my roster
-- Omar Cooper (WR, NYJ) · 160,952 adds · AVAILABLE in my league
-- Kirk Cousins (QB, LV) · 152,232 adds · rostered by Young Blood
-- Cyrus Allen (WR, KC) · 148,548 adds · AVAILABLE in my league
-- Brandin Cooks (WR, SF) · 147,636 adds · AVAILABLE in my league
-- Tre Tucker (WR, LV) · 134,388 adds · AVAILABLE in my league
-- Tyler Bass (K, BUF) · 134,340 adds · AVAILABLE in my league
-- Austin Ekeler (RB, WAS) · 125,228 adds · rostered by Thoroughbred Cheesehead
-- Kimani Vidal (RB, LAC) · 121,010 adds · AVAILABLE in my league
-- Keenan Allen (WR, IND) · 116,440 adds · AVAILABLE in my league
-- C.J. Stroud (QB, HOU) · 115,577 adds · AVAILABLE in my league
-- Nick Folk (K, ATL) · 115,446 adds · rostered by FuelTheJET
-- Darnell Washington (TE, PIT) · 110,525 adds · AVAILABLE in my league
+- Tyler Higbee (TE, LAR) · 920,259 adds · rostered by Young Blood
+- Najee Harris (RB, NYG) · 420,400 adds · rostered by Holla
+- Jaleel McLaughlin (RB, CLE) · 377,405 adds · AVAILABLE in my league
+- Dameon Pierce (RB, PHI) · 327,768 adds · on my roster
+- Roschon Johnson (RB, CHI) · 301,896 adds · AVAILABLE in my league
+- Omar Cooper (WR, NYJ) · 272,064 adds · AVAILABLE in my league
+- Keon Coleman (WR, BUF) · 214,830 adds · rostered by Team 9
+- Darren Waller (TE, CAR) · 206,802 adds · AVAILABLE in my league
+- Tyler Allgeier (RB, ARI) · 194,055 adds · rostered by Team 9
+- Rachaad White (RB, WAS) · 194,040 adds · rostered by Springfield Atoms
+- Xavier Worthy (WR, KC) · 186,462 adds · rostered by Springfield Atoms
+- Ryan Flournoy (WR, DAL) · 183,264 adds · AVAILABLE in my league
+- Khalil Shakir (WR, BUF) · 170,172 adds · on my roster
+- Brandin Cooks (WR, SF) · 151,552 adds · AVAILABLE in my league
+- Tre Tucker (WR, LV) · 151,470 adds · AVAILABLE in my league
+- Kyle Pitts (TE, ATL) · 151,123 adds · rostered by Strokin My Ditka
+- Tanner McKee (QB, PHI) · 140,464 adds · AVAILABLE in my league
+- Kirk Cousins (QB, LV) · 138,928 adds · rostered by Young Blood
+- C.J. Stroud (QB, HOU) · 136,339 adds · AVAILABLE in my league
+- Tyler Bass (K, BUF) · 129,205 adds · AVAILABLE in my league
+- Cyrus Allen (WR, KC) · 124,308 adds · AVAILABLE in my league
+- Austin Ekeler (RB, WAS) · 119,168 adds · rostered by Thoroughbred Cheesehead
+- Cleveland Browns (DEF, CLE) · 108,374 adds · AVAILABLE in my league
+- Keenan Allen (WR, IND) · 107,296 adds · AVAILABLE in my league
+- Kimani Vidal (RB, LAC) · 105,150 adds · AVAILABLE in my league
 
 Data from the Sleeper API (sleeper.com). Injury tags in brackets are Sleeper's designations and may lag official reports.

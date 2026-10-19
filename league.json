@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-18T20:14:55.116241-04:00",
+  "generated": "2026-10-19T00:53:47.633060-04:00",
   "season": "2026",
   "week": 6,
   "league": {
@@ -558,8 +558,8 @@
       "player": "Roman Wilson (WR, PIT) [IR]",
       "dropped_by": "THE ACE OF SPADES",
       "dropped_at": "2026-10-16T20:49:12.091000-04:00",
-      "on_waivers_until": "2026-10-18T20:49:12.091000-04:00",
-      "waiver_status": "on waivers until Sun Oct 18, 8:49 PM ET"
+      "on_waivers_until": null,
+      "waiver_status": "free agent now"
     },
     {
       "player": "Quentin Johnston (WR, LAC)",
@@ -705,127 +705,127 @@
   "trending_adds": [
     {
       "player": "Tyler Higbee (TE, LAR)",
-      "adds": 1014336,
+      "adds": 920259,
       "rostered_by": 12
     },
     {
       "player": "Najee Harris (RB, NYG)",
-      "adds": 410610,
+      "adds": 420400,
       "rostered_by": 2
     },
     {
-      "player": "Dameon Pierce (RB, PHI)",
-      "adds": 389184,
-      "rostered_by": 11
-    },
-    {
       "player": "Jaleel McLaughlin (RB, CLE)",
-      "adds": 378080,
+      "adds": 377405,
       "rostered_by": null
     },
     {
+      "player": "Dameon Pierce (RB, PHI)",
+      "adds": 327768,
+      "rostered_by": 11
+    },
+    {
       "player": "Roschon Johnson (RB, CHI)",
-      "adds": 322144,
+      "adds": 301896,
+      "rostered_by": null
+    },
+    {
+      "player": "Omar Cooper (WR, NYJ)",
+      "adds": 272064,
+      "rostered_by": null
+    },
+    {
+      "player": "Keon Coleman (WR, BUF)",
+      "adds": 214830,
+      "rostered_by": 9
+    },
+    {
+      "player": "Darren Waller (TE, CAR)",
+      "adds": 206802,
       "rostered_by": null
     },
     {
       "player": "Tyler Allgeier (RB, ARI)",
-      "adds": 237430,
+      "adds": 194055,
       "rostered_by": 9
     },
     {
       "player": "Rachaad White (RB, WAS)",
-      "adds": 228312,
+      "adds": 194040,
       "rostered_by": 5
-    },
-    {
-      "player": "Darren Waller (TE, CAR)",
-      "adds": 215766,
-      "rostered_by": null
     },
     {
       "player": "Xavier Worthy (WR, KC)",
-      "adds": 200952,
+      "adds": 186462,
       "rostered_by": 5
     },
     {
-      "player": "Keon Coleman (WR, BUF)",
-      "adds": 199692,
-      "rostered_by": 9
-    },
-    {
-      "player": "Tanner McKee (QB, PHI)",
-      "adds": 182288,
-      "rostered_by": null
-    },
-    {
       "player": "Ryan Flournoy (WR, DAL)",
-      "adds": 181144,
+      "adds": 183264,
       "rostered_by": null
     },
     {
       "player": "Khalil Shakir (WR, BUF)",
-      "adds": 169875,
+      "adds": 170172,
       "rostered_by": 11
     },
     {
-      "player": "Omar Cooper (WR, NYJ)",
-      "adds": 160952,
-      "rostered_by": null
-    },
-    {
-      "player": "Kirk Cousins (QB, LV)",
-      "adds": 152232,
-      "rostered_by": 12
-    },
-    {
-      "player": "Cyrus Allen (WR, KC)",
-      "adds": 148548,
-      "rostered_by": null
-    },
-    {
       "player": "Brandin Cooks (WR, SF)",
-      "adds": 147636,
+      "adds": 151552,
       "rostered_by": null
     },
     {
       "player": "Tre Tucker (WR, LV)",
-      "adds": 134388,
+      "adds": 151470,
+      "rostered_by": null
+    },
+    {
+      "player": "Kyle Pitts (TE, ATL)",
+      "adds": 151123,
+      "rostered_by": 10
+    },
+    {
+      "player": "Tanner McKee (QB, PHI)",
+      "adds": 140464,
+      "rostered_by": null
+    },
+    {
+      "player": "Kirk Cousins (QB, LV)",
+      "adds": 138928,
+      "rostered_by": 12
+    },
+    {
+      "player": "C.J. Stroud (QB, HOU)",
+      "adds": 136339,
       "rostered_by": null
     },
     {
       "player": "Tyler Bass (K, BUF)",
-      "adds": 134340,
+      "adds": 129205,
+      "rostered_by": null
+    },
+    {
+      "player": "Cyrus Allen (WR, KC)",
+      "adds": 124308,
       "rostered_by": null
     },
     {
       "player": "Austin Ekeler (RB, WAS)",
-      "adds": 125228,
+      "adds": 119168,
       "rostered_by": 4
     },
     {
-      "player": "Kimani Vidal (RB, LAC)",
-      "adds": 121010,
+      "player": "Cleveland Browns (DEF, CLE)",
+      "adds": 108374,
       "rostered_by": null
     },
     {
       "player": "Keenan Allen (WR, IND)",
-      "adds": 116440,
+      "adds": 107296,
       "rostered_by": null
     },
     {
-      "player": "C.J. Stroud (QB, HOU)",
-      "adds": 115577,
-      "rostered_by": null
-    },
-    {
-      "player": "Nick Folk (K, ATL)",
-      "adds": 115446,
-      "rostered_by": 6
-    },
-    {
-      "player": "Darnell Washington (TE, PIT)",
-      "adds": 110525,
+      "player": "Kimani Vidal (RB, LAC)",
+      "adds": 105150,
       "rostered_by": null
     }
   ]
