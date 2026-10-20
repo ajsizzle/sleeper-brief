@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-20T09:39:31.863799-04:00",
+  "generated": "2026-10-20T14:31:52.564189-04:00",
   "season": "2026",
   "week": 7,
   "league": {
@@ -358,10 +358,10 @@
       "waiver_position": 11,
       "faab_used": 200,
       "starters": [
-        "Patrick Mahomes (QB, KC)",
+        "Aaron Rodgers (QB, PIT)",
         "Christian McCaffrey (RB, SF)",
-        "Cam Skattebo (RB, NYG)",
-        "Romeo Doubs (WR, NE) [IR]",
+        "Ollie Gordon (RB, MIA) [Questionable]",
+        "Ja'Marr Chase (WR, CIN)",
         "Zay Flowers (WR, BAL)",
         "Tucker Kraft (TE, GB)",
         "Dallas Goedert (TE, PHI)",
@@ -369,12 +369,12 @@
         "Kansas City Chiefs (DEF, KC)"
       ],
       "bench": [
-        "Ollie Gordon (RB, MIA) [Questionable]",
+        "Cam Skattebo (RB, NYG)",
+        "Patrick Mahomes (QB, KC)",
         "Jakobi Meyers (WR, JAX)",
         "Najee Harris (RB, NYG)",
-        "Ja'Marr Chase (WR, CIN)",
-        "Breece Hall (RB, NYJ) [Out]",
-        "Aaron Rodgers (QB, PIT)"
+        "Romeo Doubs (WR, NE) [IR]",
+        "Breece Hall (RB, NYJ) [Out]"
       ],
       "ir": [
         "Jordan Mason (RB, MIN) [IR]"
@@ -520,29 +520,29 @@
       "player": "Dontayvion Wicks (WR, PHI) [Questionable]",
       "dropped_by": "Holla",
       "dropped_at": "2026-10-18T12:59:39.305000-04:00",
-      "on_waivers_until": "2026-10-20T12:59:39.305000-04:00",
-      "waiver_status": "on waivers until Tue Oct 20, 12:59 PM ET"
+      "on_waivers_until": null,
+      "waiver_status": "free agent now"
     },
     {
       "player": "Malik Willis (QB, MIA)",
       "dropped_by": "Strokin My Ditka",
       "dropped_at": "2026-10-18T11:40:02.671000-04:00",
-      "on_waivers_until": "2026-10-20T11:40:02.671000-04:00",
-      "waiver_status": "on waivers until Tue Oct 20, 11:40 AM ET"
+      "on_waivers_until": null,
+      "waiver_status": "free agent now"
     },
     {
       "player": "Tyquan Thornton (WR, KC) [IR]",
       "dropped_by": "Team 9",
       "dropped_at": "2026-10-18T10:08:29.536000-04:00",
-      "on_waivers_until": "2026-10-20T10:08:29.536000-04:00",
-      "waiver_status": "on waivers until Tue Oct 20, 10:08 AM ET"
+      "on_waivers_until": null,
+      "waiver_status": "free agent now"
     },
     {
       "player": "Jordan Addison (WR, MIN) [Out]",
       "dropped_by": "THE ACE OF SPADES",
       "dropped_at": "2026-10-18T09:52:43.214000-04:00",
-      "on_waivers_until": "2026-10-20T09:52:43.214000-04:00",
-      "waiver_status": "on waivers until Tue Oct 20, 9:52 AM ET"
+      "on_waivers_until": null,
+      "waiver_status": "free agent now"
     },
     {
       "player": "Roman Wilson (WR, PIT) [IR]",
@@ -646,127 +646,127 @@
   "trending_adds": [
     {
       "player": "Omar Cooper (WR, NYJ)",
-      "adds": 2165720,
+      "adds": 3233312,
       "rostered_by": null
     },
     {
       "player": "Cleveland Browns (DEF, CLE)",
-      "adds": 817390,
+      "adds": 1271144,
       "rostered_by": null
     },
     {
       "player": "Konata Mumpfield (WR, LAR)",
-      "adds": 504279,
-      "rostered_by": null
-    },
-    {
-      "player": "Tank Dell (WR, HOU) [IR]",
-      "adds": 439440,
-      "rostered_by": 4
-    },
-    {
-      "player": "C.J. Stroud (QB, HOU)",
-      "adds": 407722,
+      "adds": 842301,
       "rostered_by": null
     },
     {
       "player": "Kyler Murray (QB, MIN)",
-      "adds": 346416,
+      "adds": 660032,
+      "rostered_by": null
+    },
+    {
+      "player": "Tank Dell (WR, HOU) [IR]",
+      "adds": 577816,
+      "rostered_by": 4
+    },
+    {
+      "player": "C.J. Stroud (QB, HOU)",
+      "adds": 535962,
       "rostered_by": null
     },
     {
       "player": "Michael Mayer (TE, LV)",
-      "adds": 334476,
+      "adds": 488178,
       "rostered_by": null
-    },
-    {
-      "player": "Tre Tucker (WR, LV)",
-      "adds": 260304,
-      "rostered_by": null
-    },
-    {
-      "player": "Kyle Pitts (TE, ATL)",
-      "adds": 256074,
-      "rostered_by": 10
     },
     {
       "player": "Roschon Johnson (RB, CHI)",
-      "adds": 250048,
+      "adds": 371912,
       "rostered_by": null
     },
     {
       "player": "Chase McLaughlin (K, TB)",
-      "adds": 218296,
+      "adds": 364496,
       "rostered_by": 10
     },
     {
       "player": "Terrance Ferguson (TE, LAR) [IR]",
-      "adds": 215488,
+      "adds": 360352,
+      "rostered_by": null
+    },
+    {
+      "player": "Tre Tucker (WR, LV)",
+      "adds": 352386,
       "rostered_by": null
     },
     {
       "player": "Minnesota Vikings (DEF, MIN)",
-      "adds": 199390,
+      "adds": 324225,
       "rostered_by": 8
     },
     {
       "player": "Tyrone Tracy (RB, NYG)",
-      "adds": 158632,
+      "adds": 321424,
       "rostered_by": null
     },
     {
+      "player": "Kyle Pitts (TE, ATL)",
+      "adds": 312368,
+      "rostered_by": 10
+    },
+    {
       "player": "Jake Bates (K, DET)",
-      "adds": 158240,
+      "adds": 309040,
+      "rostered_by": null
+    },
+    {
+      "player": "New York Jets (DEF, NYJ)",
+      "adds": 257052,
       "rostered_by": null
     },
     {
       "player": "Will Reichard (K, MIN)",
-      "adds": 155193,
+      "adds": 255513,
       "rostered_by": 12
     },
     {
-      "player": "New York Jets (DEF, NYJ)",
-      "adds": 150722,
+      "player": "Treylon Burks (WR, WAS)",
+      "adds": 185563,
       "rostered_by": null
     },
     {
-      "player": "Keon Coleman (WR, BUF)",
-      "adds": 147636,
-      "rostered_by": 9
-    },
-    {
       "player": "Ryan Flournoy (WR, DAL)",
-      "adds": 135792,
+      "adds": 173600,
       "rostered_by": null
     },
     {
       "player": "Tanner McKee (QB, PHI)",
-      "adds": 134104,
+      "adds": 173032,
+      "rostered_by": null
+    },
+    {
+      "player": "Keon Coleman (WR, BUF)",
+      "adds": 154098,
+      "rostered_by": 9
+    },
+    {
+      "player": "Pierre Strong (RB, GB)",
+      "adds": 150318,
       "rostered_by": null
     },
     {
       "player": "J.J. McCarthy (QB, NYG)",
-      "adds": 123336,
+      "adds": 143499,
       "rostered_by": null
     },
     {
-      "player": "Treylon Burks (WR, WAS)",
-      "adds": 106071,
-      "rostered_by": null
-    },
-    {
-      "player": "Pierre Strong (RB, GB)",
-      "adds": 104931,
-      "rostered_by": null
-    },
-    {
-      "player": "Travis Hunter (WR, JAX)",
-      "adds": 90870,
-      "rostered_by": 3
+      "player": "Houston Texans (DEF, HOU)",
+      "adds": 135735,
+      "rostered_by": 11
     },
     {
       "player": "Blake Corum (RB, LAR)",
-      "adds": 90608,
+      "adds": 132192,
       "rostered_by": 6
     }
   ]
