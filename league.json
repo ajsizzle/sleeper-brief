@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-20T03:44:07.903388-04:00",
+  "generated": "2026-10-20T09:39:31.863799-04:00",
   "season": "2026",
   "week": 7,
   "league": {
@@ -180,9 +180,7 @@
         "Jameson Williams (WR, DET)",
         "Josh Downs (WR, IND)"
       ],
-      "ir": [
-        "Jalen Hurts (QB, PHI) [IR]"
-      ]
+      "ir": []
     },
     {
       "roster_id": 5,
@@ -196,22 +194,22 @@
       "waiver_position": 5,
       "faab_used": 10,
       "starters": [
-        "Josh Allen (QB, BUF)",
-        "Rachaad White (RB, WAS)",
+        "Jared Goff (QB, DET)",
         "Woody Marks (RB, HOU)",
+        "Rachaad White (RB, WAS)",
         "CeeDee Lamb (WR, DAL)",
-        "Terry McLaurin (WR, WAS)",
-        "Isaiah Likely (TE, NYG)",
         "Xavier Worthy (WR, KC)",
+        "Isaiah Likely (TE, NYG)",
+        "Sam LaPorta (TE, DET)",
         "Brandon Aubrey (K, DAL)",
         "Baltimore Ravens (DEF, BAL)"
       ],
       "bench": [
-        "Sam LaPorta (TE, DET)",
         "Brian Thomas (WR, JAX)",
         "Makai Lemon (WR, PHI) [Questionable]",
-        "Jared Goff (QB, DET)",
+        "Josh Allen (QB, BUF)",
         "David Montgomery (RB, HOU) [Out]",
+        "Terry McLaurin (WR, WAS)",
         "Travis Etienne (RB, NO) [IR]"
       ],
       "ir": [
@@ -480,6 +478,7 @@
     }
   ],
   "transactions": [
+    "Week 6 \u00b7 free_agent \u00b7 complete \u00b7 Tue Oct 20 05:02 AM \u00b7 Drunk To Taste This CHX \u00b7 dropped: Jalen Hurts (QB, PHI) [IR] from Drunk To Taste This CHX",
     "Week 6 \u00b7 free_agent \u00b7 complete \u00b7 Sun Oct 18 07:39 PM \u00b7 Thoroughbred Cheesehead \u00b7 added: Austin Ekeler (RB, WAS) to Thoroughbred Cheesehead \u00b7 dropped: Jadarian Price (RB, SEA) [IR] from Thoroughbred Cheesehead",
     "Week 6 \u00b7 free_agent \u00b7 complete \u00b7 Sun Oct 18 12:59 PM \u00b7 Holla \u00b7 added: Najee Harris (RB, NYG) to Holla \u00b7 dropped: Dontayvion Wicks (WR, PHI) [Questionable] from Holla",
     "Week 6 \u00b7 free_agent \u00b7 complete \u00b7 Sun Oct 18 11:40 AM \u00b7 Strokin My Ditka \u00b7 added: Kyle Pitts (TE, ATL) to Strokin My Ditka \u00b7 dropped: Malik Willis (QB, MIA) from Strokin My Ditka",
@@ -503,6 +502,13 @@
     "Week 6 \u00b7 free_agent \u00b7 complete \u00b7 Wed Oct 14 05:05 AM \u00b7 Drunk To Taste This CHX \u00b7 added: Jason Myers (K, SEA) to Drunk To Taste This CHX \u00b7 dropped: Jake Bates (K, DET) from Drunk To Taste This CHX"
   ],
   "dropped_unrostered": [
+    {
+      "player": "Jalen Hurts (QB, PHI) [IR]",
+      "dropped_by": "Drunk To Taste This CHX",
+      "dropped_at": "2026-10-20T05:02:45.649000-04:00",
+      "on_waivers_until": "2026-10-22T05:02:45.649000-04:00",
+      "waiver_status": "on waivers until Thu Oct 22, 5:02 AM ET"
+    },
     {
       "player": "Jadarian Price (RB, SEA) [IR]",
       "dropped_by": "Thoroughbred Cheesehead",
@@ -640,128 +646,128 @@
   "trending_adds": [
     {
       "player": "Omar Cooper (WR, NYJ)",
-      "adds": 1454080,
+      "adds": 2165720,
       "rostered_by": null
     },
     {
       "player": "Cleveland Browns (DEF, CLE)",
-      "adds": 457555,
-      "rostered_by": null
-    },
-    {
-      "player": "Tank Dell (WR, HOU) [IR]",
-      "adds": 336008,
-      "rostered_by": 4
-    },
-    {
-      "player": "C.J. Stroud (QB, HOU)",
-      "adds": 289212,
+      "adds": 817390,
       "rostered_by": null
     },
     {
       "player": "Konata Mumpfield (WR, LAR)",
-      "adds": 282609,
+      "adds": 504279,
+      "rostered_by": null
+    },
+    {
+      "player": "Tank Dell (WR, HOU) [IR]",
+      "adds": 439440,
+      "rostered_by": 4
+    },
+    {
+      "player": "C.J. Stroud (QB, HOU)",
+      "adds": 407722,
+      "rostered_by": null
+    },
+    {
+      "player": "Kyler Murray (QB, MIN)",
+      "adds": 346416,
       "rostered_by": null
     },
     {
       "player": "Michael Mayer (TE, LV)",
-      "adds": 228006,
+      "adds": 334476,
+      "rostered_by": null
+    },
+    {
+      "player": "Tre Tucker (WR, LV)",
+      "adds": 260304,
       "rostered_by": null
     },
     {
       "player": "Kyle Pitts (TE, ATL)",
-      "adds": 209314,
+      "adds": 256074,
       "rostered_by": 10
     },
     {
-      "player": "Tre Tucker (WR, LV)",
-      "adds": 194382,
-      "rostered_by": null
-    },
-    {
       "player": "Roschon Johnson (RB, CHI)",
-      "adds": 177536,
-      "rostered_by": null
-    },
-    {
-      "player": "Keon Coleman (WR, BUF)",
-      "adds": 136701,
-      "rostered_by": 9
-    },
-    {
-      "player": "Kyler Murray (QB, MIN)",
-      "adds": 133848,
-      "rostered_by": null
-    },
-    {
-      "player": "Terrance Ferguson (TE, LAR) [IR]",
-      "adds": 124592,
+      "adds": 250048,
       "rostered_by": null
     },
     {
       "player": "Chase McLaughlin (K, TB)",
-      "adds": 120096,
+      "adds": 218296,
       "rostered_by": 10
     },
     {
-      "player": "Ryan Flournoy (WR, DAL)",
-      "adds": 106272,
+      "player": "Terrance Ferguson (TE, LAR) [IR]",
+      "adds": 215488,
       "rostered_by": null
     },
     {
       "player": "Minnesota Vikings (DEF, MIN)",
-      "adds": 105680,
+      "adds": 199390,
       "rostered_by": 8
     },
     {
-      "player": "J.J. McCarthy (QB, NYG)",
-      "adds": 102015,
-      "rostered_by": null
-    },
-    {
-      "player": "Tanner McKee (QB, PHI)",
-      "adds": 93752,
-      "rostered_by": null
-    },
-    {
       "player": "Tyrone Tracy (RB, NYG)",
-      "adds": 87882,
+      "adds": 158632,
       "rostered_by": null
     },
     {
-      "player": "Austin Ekeler (RB, WAS)",
-      "adds": 85312,
-      "rostered_by": 4
-    },
-    {
-      "player": "Jaleel McLaughlin (RB, CLE)",
-      "adds": 84845,
-      "rostered_by": null
-    },
-    {
-      "player": "New York Jets (DEF, NYJ)",
-      "adds": 77720,
-      "rostered_by": null
-    },
-    {
-      "player": "Pierre Strong (RB, GB)",
-      "adds": 76725,
+      "player": "Jake Bates (K, DET)",
+      "adds": 158240,
       "rostered_by": null
     },
     {
       "player": "Will Reichard (K, MIN)",
-      "adds": 76377,
+      "adds": 155193,
       "rostered_by": 12
+    },
+    {
+      "player": "New York Jets (DEF, NYJ)",
+      "adds": 150722,
+      "rostered_by": null
+    },
+    {
+      "player": "Keon Coleman (WR, BUF)",
+      "adds": 147636,
+      "rostered_by": 9
+    },
+    {
+      "player": "Ryan Flournoy (WR, DAL)",
+      "adds": 135792,
+      "rostered_by": null
+    },
+    {
+      "player": "Tanner McKee (QB, PHI)",
+      "adds": 134104,
+      "rostered_by": null
+    },
+    {
+      "player": "J.J. McCarthy (QB, NYG)",
+      "adds": 123336,
+      "rostered_by": null
+    },
+    {
+      "player": "Treylon Burks (WR, WAS)",
+      "adds": 106071,
+      "rostered_by": null
+    },
+    {
+      "player": "Pierre Strong (RB, GB)",
+      "adds": 104931,
+      "rostered_by": null
     },
     {
       "player": "Travis Hunter (WR, JAX)",
-      "adds": 74958,
+      "adds": 90870,
       "rostered_by": 3
     },
     {
-      "player": "Kirk Cousins (QB, LV)",
-      "adds": 70584,
-      "rostered_by": 12
+      "player": "Blake Corum (RB, LAR)",
+      "adds": 90608,
+      "rostered_by": 6
     }
   ]
 }
