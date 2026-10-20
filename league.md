@@ -1,5 +1,5 @@
 # Sleeper league state
-Generated Monday October 19, 2026 06:28 PM ET · Season 2026 · NFL week 6
+Generated Monday October 19, 2026 09:54 PM ET · Season 2026 · NFL week 6
 League: The Dudes Will Roll · 12 teams · waivers: FAAB (budget $200) · lineup: QB, RB, RB, WR, WR, TE, FLEX, K, DEF
 
 ## My team: THE ACE OF SPADES (roster 11)
@@ -162,30 +162,30 @@ Bench: Quinshon Judkins (RB, CLE) [Out]; Tyler Shough (QB, NO); Denzel Boston (W
 - Caleb Douglas (WR, MIA) [Out] · dropped by Whiskey Sippin Kings on Wed Oct 7, 4:23 AM ET · free agent now
 
 ## Trending adds across Sleeper, last 24 hours
-- Omar Cooper (WR, NYJ) · 763,120 adds · AVAILABLE in my league
-- Cleveland Browns (DEF, CLE) · 222,530 adds · AVAILABLE in my league
-- C.J. Stroud (QB, HOU) · 202,671 adds · AVAILABLE in my league
-- Kyle Pitts (TE, ATL) · 183,687 adds · rostered by Strokin My Ditka
-- Michael Mayer (TE, LV) · 157,410 adds · AVAILABLE in my league
-- Tre Tucker (WR, LV) · 139,386 adds · AVAILABLE in my league
-- Keon Coleman (WR, BUF) · 129,195 adds · rostered by Team 9
-- Tank Dell (WR, HOU) [IR] · 120,736 adds · rostered by Thoroughbred Cheesehead
-- Roschon Johnson (RB, CHI) · 118,392 adds · AVAILABLE in my league
-- J.J. McCarthy (QB, NYG) · 92,469 adds · AVAILABLE in my league
-- Ryan Flournoy (WR, DAL) · 89,544 adds · AVAILABLE in my league
-- Austin Ekeler (RB, WAS) · 88,148 adds · rostered by Thoroughbred Cheesehead
-- Konata Mumpfield (WR, LAR) · 78,615 adds · AVAILABLE in my league
-- Jaleel McLaughlin (RB, CLE) · 69,810 adds · AVAILABLE in my league
-- Brandin Cooks (WR, SF) · 67,992 adds · AVAILABLE in my league
-- Tanner McKee (QB, PHI) · 67,272 adds · AVAILABLE in my league
-- Pierre Strong (RB, GB) · 64,701 adds · AVAILABLE in my league
-- Travis Hunter (WR, JAX) · 64,356 adds · rostered by Drunk To Taste This CHX
-- Tyrone Tracy (RB, NYG) · 61,594 adds · AVAILABLE in my league
-- Kirk Cousins (QB, LV) · 61,384 adds · rostered by Young Blood
-- Kyler Murray (QB, MIN) · 59,944 adds · AVAILABLE in my league
-- Blake Corum (RB, LAR) · 57,560 adds · rostered by FuelTheJET
-- Tyler Shough (QB, NO) · 53,288 adds · rostered by Whiskey Sippin Kings
-- Tyler Higbee (TE, LAR) · 51,471 adds · rostered by Young Blood
-- Dameon Pierce (RB, PHI) · 48,176 adds · on my roster
+- Omar Cooper (WR, NYJ) · 954,416 adds · AVAILABLE in my league
+- Cleveland Browns (DEF, CLE) · 257,488 adds · AVAILABLE in my league
+- C.J. Stroud (QB, HOU) · 218,505 adds · AVAILABLE in my league
+- Tank Dell (WR, HOU) [IR] · 211,560 adds · rostered by Thoroughbred Cheesehead
+- Kyle Pitts (TE, ATL) · 179,172 adds · rostered by Strokin My Ditka
+- Michael Mayer (TE, LV) · 155,637 adds · AVAILABLE in my league
+- Tre Tucker (WR, LV) · 143,178 adds · AVAILABLE in my league
+- Konata Mumpfield (WR, LAR) · 136,008 adds · AVAILABLE in my league
+- Roschon Johnson (RB, CHI) · 129,288 adds · AVAILABLE in my league
+- Keon Coleman (WR, BUF) · 123,741 adds · rostered by Team 9
+- Austin Ekeler (RB, WAS) · 93,028 adds · rostered by Thoroughbred Cheesehead
+- J.J. McCarthy (QB, NYG) · 89,181 adds · AVAILABLE in my league
+- Ryan Flournoy (WR, DAL) · 82,032 adds · AVAILABLE in my league
+- Jaleel McLaughlin (RB, CLE) · 73,500 adds · AVAILABLE in my league
+- Tanner McKee (QB, PHI) · 71,752 adds · AVAILABLE in my league
+- Pierre Strong (RB, GB) · 66,600 adds · AVAILABLE in my league
+- Kyler Murray (QB, MIN) · 65,992 adds · AVAILABLE in my league
+- Travis Hunter (WR, JAX) · 64,224 adds · rostered by Drunk To Taste This CHX
+- Kirk Cousins (QB, LV) · 63,656 adds · rostered by Young Blood
+- Tyrone Tracy (RB, NYG) · 59,600 adds · AVAILABLE in my league
+- Chase McLaughlin (K, TB) · 59,384 adds · rostered by Strokin My Ditka
+- Terrance Ferguson (TE, LAR) [IR] · 55,712 adds · AVAILABLE in my league
+- Blake Corum (RB, LAR) · 54,320 adds · rostered by FuelTheJET
+- Brandin Cooks (WR, SF) · 54,116 adds · AVAILABLE in my league
+- Tyler Shough (QB, NO) · 51,984 adds · rostered by Whiskey Sippin Kings
 
 Data from the Sleeper API (sleeper.com). Injury tags in brackets are Sleeper's designations and may lag official reports.

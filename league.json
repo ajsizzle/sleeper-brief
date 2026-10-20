@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-19T18:28:24.160048-04:00",
+  "generated": "2026-10-19T21:54:45.658228-04:00",
   "season": "2026",
   "week": 6,
   "league": {
@@ -705,128 +705,128 @@
   "trending_adds": [
     {
       "player": "Omar Cooper (WR, NYJ)",
-      "adds": 763120,
+      "adds": 954416,
       "rostered_by": null
     },
     {
       "player": "Cleveland Browns (DEF, CLE)",
-      "adds": 222530,
+      "adds": 257488,
       "rostered_by": null
     },
     {
       "player": "C.J. Stroud (QB, HOU)",
-      "adds": 202671,
+      "adds": 218505,
       "rostered_by": null
     },
     {
+      "player": "Tank Dell (WR, HOU) [IR]",
+      "adds": 211560,
+      "rostered_by": 4
+    },
+    {
       "player": "Kyle Pitts (TE, ATL)",
-      "adds": 183687,
+      "adds": 179172,
       "rostered_by": 10
     },
     {
       "player": "Michael Mayer (TE, LV)",
-      "adds": 157410,
+      "adds": 155637,
       "rostered_by": null
     },
     {
       "player": "Tre Tucker (WR, LV)",
-      "adds": 139386,
+      "adds": 143178,
+      "rostered_by": null
+    },
+    {
+      "player": "Konata Mumpfield (WR, LAR)",
+      "adds": 136008,
+      "rostered_by": null
+    },
+    {
+      "player": "Roschon Johnson (RB, CHI)",
+      "adds": 129288,
       "rostered_by": null
     },
     {
       "player": "Keon Coleman (WR, BUF)",
-      "adds": 129195,
+      "adds": 123741,
       "rostered_by": 9
     },
     {
-      "player": "Tank Dell (WR, HOU) [IR]",
-      "adds": 120736,
+      "player": "Austin Ekeler (RB, WAS)",
+      "adds": 93028,
       "rostered_by": 4
     },
     {
-      "player": "Roschon Johnson (RB, CHI)",
-      "adds": 118392,
-      "rostered_by": null
-    },
-    {
       "player": "J.J. McCarthy (QB, NYG)",
-      "adds": 92469,
+      "adds": 89181,
       "rostered_by": null
     },
     {
       "player": "Ryan Flournoy (WR, DAL)",
-      "adds": 89544,
-      "rostered_by": null
-    },
-    {
-      "player": "Austin Ekeler (RB, WAS)",
-      "adds": 88148,
-      "rostered_by": 4
-    },
-    {
-      "player": "Konata Mumpfield (WR, LAR)",
-      "adds": 78615,
+      "adds": 82032,
       "rostered_by": null
     },
     {
       "player": "Jaleel McLaughlin (RB, CLE)",
-      "adds": 69810,
-      "rostered_by": null
-    },
-    {
-      "player": "Brandin Cooks (WR, SF)",
-      "adds": 67992,
+      "adds": 73500,
       "rostered_by": null
     },
     {
       "player": "Tanner McKee (QB, PHI)",
-      "adds": 67272,
+      "adds": 71752,
       "rostered_by": null
     },
     {
       "player": "Pierre Strong (RB, GB)",
-      "adds": 64701,
+      "adds": 66600,
+      "rostered_by": null
+    },
+    {
+      "player": "Kyler Murray (QB, MIN)",
+      "adds": 65992,
       "rostered_by": null
     },
     {
       "player": "Travis Hunter (WR, JAX)",
-      "adds": 64356,
+      "adds": 64224,
       "rostered_by": 3
     },
     {
-      "player": "Tyrone Tracy (RB, NYG)",
-      "adds": 61594,
-      "rostered_by": null
-    },
-    {
       "player": "Kirk Cousins (QB, LV)",
-      "adds": 61384,
+      "adds": 63656,
       "rostered_by": 12
     },
     {
-      "player": "Kyler Murray (QB, MIN)",
-      "adds": 59944,
+      "player": "Tyrone Tracy (RB, NYG)",
+      "adds": 59600,
+      "rostered_by": null
+    },
+    {
+      "player": "Chase McLaughlin (K, TB)",
+      "adds": 59384,
+      "rostered_by": 10
+    },
+    {
+      "player": "Terrance Ferguson (TE, LAR) [IR]",
+      "adds": 55712,
       "rostered_by": null
     },
     {
       "player": "Blake Corum (RB, LAR)",
-      "adds": 57560,
+      "adds": 54320,
       "rostered_by": 6
     },
     {
+      "player": "Brandin Cooks (WR, SF)",
+      "adds": 54116,
+      "rostered_by": null
+    },
+    {
       "player": "Tyler Shough (QB, NO)",
-      "adds": 53288,
+      "adds": 51984,
       "rostered_by": 1
-    },
-    {
-      "player": "Tyler Higbee (TE, LAR)",
-      "adds": 51471,
-      "rostered_by": 12
-    },
-    {
-      "player": "Dameon Pierce (RB, PHI)",
-      "adds": 48176,
-      "rostered_by": 11
     }
   ]
 }
