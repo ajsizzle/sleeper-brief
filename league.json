@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-20T14:31:52.564189-04:00",
+  "generated": "2026-10-20T18:24:14.508663-04:00",
   "season": "2026",
   "week": 7,
   "league": {
@@ -646,128 +646,128 @@
   "trending_adds": [
     {
       "player": "Omar Cooper (WR, NYJ)",
-      "adds": 3233312,
+      "adds": 3817464,
       "rostered_by": null
     },
     {
       "player": "Cleveland Browns (DEF, CLE)",
-      "adds": 1271144,
+      "adds": 1473724,
       "rostered_by": null
     },
     {
       "player": "Konata Mumpfield (WR, LAR)",
-      "adds": 842301,
+      "adds": 1025748,
       "rostered_by": null
     },
     {
       "player": "Kyler Murray (QB, MIN)",
-      "adds": 660032,
+      "adds": 753848,
       "rostered_by": null
     },
     {
-      "player": "Tank Dell (WR, HOU) [IR]",
-      "adds": 577816,
-      "rostered_by": 4
-    },
-    {
       "player": "C.J. Stroud (QB, HOU)",
-      "adds": 535962,
+      "adds": 598353,
       "rostered_by": null
     },
     {
       "player": "Michael Mayer (TE, LV)",
-      "adds": 488178,
+      "adds": 560385,
+      "rostered_by": null
+    },
+    {
+      "player": "Tank Dell (WR, HOU) [IR]",
+      "adds": 558696,
+      "rostered_by": 4
+    },
+    {
+      "player": "Terrance Ferguson (TE, LAR) [IR]",
+      "adds": 462576,
       "rostered_by": null
     },
     {
       "player": "Roschon Johnson (RB, CHI)",
-      "adds": 371912,
+      "adds": 431512,
       "rostered_by": null
     },
     {
       "player": "Chase McLaughlin (K, TB)",
-      "adds": 364496,
+      "adds": 425880,
       "rostered_by": 10
     },
     {
-      "player": "Terrance Ferguson (TE, LAR) [IR]",
-      "adds": 360352,
+      "player": "Tyrone Tracy (RB, NYG)",
+      "adds": 398762,
       "rostered_by": null
     },
     {
       "player": "Tre Tucker (WR, LV)",
-      "adds": 352386,
+      "adds": 395898,
       "rostered_by": null
     },
     {
       "player": "Minnesota Vikings (DEF, MIN)",
-      "adds": 324225,
+      "adds": 383035,
       "rostered_by": 8
     },
     {
-      "player": "Tyrone Tracy (RB, NYG)",
-      "adds": 321424,
+      "player": "Jake Bates (K, DET)",
+      "adds": 382168,
       "rostered_by": null
     },
     {
       "player": "Kyle Pitts (TE, ATL)",
-      "adds": 312368,
+      "adds": 322707,
       "rostered_by": 10
     },
     {
-      "player": "Jake Bates (K, DET)",
-      "adds": 309040,
-      "rostered_by": null
-    },
-    {
       "player": "New York Jets (DEF, NYJ)",
-      "adds": 257052,
+      "adds": 309638,
       "rostered_by": null
     },
     {
       "player": "Will Reichard (K, MIN)",
-      "adds": 255513,
+      "adds": 303333,
       "rostered_by": 12
     },
     {
       "player": "Treylon Burks (WR, WAS)",
-      "adds": 185563,
-      "rostered_by": null
-    },
-    {
-      "player": "Ryan Flournoy (WR, DAL)",
-      "adds": 173600,
+      "adds": 279531,
       "rostered_by": null
     },
     {
       "player": "Tanner McKee (QB, PHI)",
-      "adds": 173032,
+      "adds": 196952,
       "rostered_by": null
     },
     {
-      "player": "Keon Coleman (WR, BUF)",
-      "adds": 154098,
-      "rostered_by": 9
+      "player": "Ryan Flournoy (WR, DAL)",
+      "adds": 183560,
+      "rostered_by": null
     },
     {
       "player": "Pierre Strong (RB, GB)",
-      "adds": 150318,
-      "rostered_by": null
-    },
-    {
-      "player": "J.J. McCarthy (QB, NYG)",
-      "adds": 143499,
+      "adds": 175878,
       "rostered_by": null
     },
     {
       "player": "Houston Texans (DEF, HOU)",
-      "adds": 135735,
+      "adds": 160625,
       "rostered_by": 11
     },
     {
+      "player": "Malik Washington (WR, MIA)",
+      "adds": 156672,
+      "rostered_by": null
+    },
+    {
       "player": "Blake Corum (RB, LAR)",
-      "adds": 132192,
+      "adds": 150792,
       "rostered_by": 6
+    },
+    {
+      "player": "J.J. McCarthy (QB, NYG)",
+      "adds": 150468,
+      "rostered_by": null
     }
   ]
 }

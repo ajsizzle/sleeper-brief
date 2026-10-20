@@ -1,5 +1,5 @@
 # Sleeper league state
-Generated Tuesday October 20, 2026 02:31 PM ET · Season 2026 · NFL week 7
+Generated Tuesday October 20, 2026 06:24 PM ET · Season 2026 · NFL week 7
 League: The Dudes Will Roll · 12 teams · waivers: FAAB (budget $200) · lineup: QB, RB, RB, WR, WR, TE, FLEX, K, DEF
 
 ## My team: THE ACE OF SPADES (roster 11)
@@ -142,30 +142,30 @@ Bench: Quinshon Judkins (RB, CLE) [Out]; Tyler Shough (QB, NO); Denzel Boston (W
 - Jake Bates (K, DET) · dropped by Drunk To Taste This CHX on Wed Oct 14, 5:05 AM ET · free agent now
 
 ## Trending adds across Sleeper, last 24 hours
-- Omar Cooper (WR, NYJ) · 3,233,312 adds · AVAILABLE in my league
-- Cleveland Browns (DEF, CLE) · 1,271,144 adds · AVAILABLE in my league
-- Konata Mumpfield (WR, LAR) · 842,301 adds · AVAILABLE in my league
-- Kyler Murray (QB, MIN) · 660,032 adds · AVAILABLE in my league
-- Tank Dell (WR, HOU) [IR] · 577,816 adds · rostered by Thoroughbred Cheesehead
-- C.J. Stroud (QB, HOU) · 535,962 adds · AVAILABLE in my league
-- Michael Mayer (TE, LV) · 488,178 adds · AVAILABLE in my league
-- Roschon Johnson (RB, CHI) · 371,912 adds · AVAILABLE in my league
-- Chase McLaughlin (K, TB) · 364,496 adds · rostered by Strokin My Ditka
-- Terrance Ferguson (TE, LAR) [IR] · 360,352 adds · AVAILABLE in my league
-- Tre Tucker (WR, LV) · 352,386 adds · AVAILABLE in my league
-- Minnesota Vikings (DEF, MIN) · 324,225 adds · rostered by Team 8
-- Tyrone Tracy (RB, NYG) · 321,424 adds · AVAILABLE in my league
-- Kyle Pitts (TE, ATL) · 312,368 adds · rostered by Strokin My Ditka
-- Jake Bates (K, DET) · 309,040 adds · AVAILABLE in my league
-- New York Jets (DEF, NYJ) · 257,052 adds · AVAILABLE in my league
-- Will Reichard (K, MIN) · 255,513 adds · rostered by Young Blood
-- Treylon Burks (WR, WAS) · 185,563 adds · AVAILABLE in my league
-- Ryan Flournoy (WR, DAL) · 173,600 adds · AVAILABLE in my league
-- Tanner McKee (QB, PHI) · 173,032 adds · AVAILABLE in my league
-- Keon Coleman (WR, BUF) · 154,098 adds · rostered by Team 9
-- Pierre Strong (RB, GB) · 150,318 adds · AVAILABLE in my league
-- J.J. McCarthy (QB, NYG) · 143,499 adds · AVAILABLE in my league
-- Houston Texans (DEF, HOU) · 135,735 adds · on my roster
-- Blake Corum (RB, LAR) · 132,192 adds · rostered by FuelTheJET
+- Omar Cooper (WR, NYJ) · 3,817,464 adds · AVAILABLE in my league
+- Cleveland Browns (DEF, CLE) · 1,473,724 adds · AVAILABLE in my league
+- Konata Mumpfield (WR, LAR) · 1,025,748 adds · AVAILABLE in my league
+- Kyler Murray (QB, MIN) · 753,848 adds · AVAILABLE in my league
+- C.J. Stroud (QB, HOU) · 598,353 adds · AVAILABLE in my league
+- Michael Mayer (TE, LV) · 560,385 adds · AVAILABLE in my league
+- Tank Dell (WR, HOU) [IR] · 558,696 adds · rostered by Thoroughbred Cheesehead
+- Terrance Ferguson (TE, LAR) [IR] · 462,576 adds · AVAILABLE in my league
+- Roschon Johnson (RB, CHI) · 431,512 adds · AVAILABLE in my league
+- Chase McLaughlin (K, TB) · 425,880 adds · rostered by Strokin My Ditka
+- Tyrone Tracy (RB, NYG) · 398,762 adds · AVAILABLE in my league
+- Tre Tucker (WR, LV) · 395,898 adds · AVAILABLE in my league
+- Minnesota Vikings (DEF, MIN) · 383,035 adds · rostered by Team 8
+- Jake Bates (K, DET) · 382,168 adds · AVAILABLE in my league
+- Kyle Pitts (TE, ATL) · 322,707 adds · rostered by Strokin My Ditka
+- New York Jets (DEF, NYJ) · 309,638 adds · AVAILABLE in my league
+- Will Reichard (K, MIN) · 303,333 adds · rostered by Young Blood
+- Treylon Burks (WR, WAS) · 279,531 adds · AVAILABLE in my league
+- Tanner McKee (QB, PHI) · 196,952 adds · AVAILABLE in my league
+- Ryan Flournoy (WR, DAL) · 183,560 adds · AVAILABLE in my league
+- Pierre Strong (RB, GB) · 175,878 adds · AVAILABLE in my league
+- Houston Texans (DEF, HOU) · 160,625 adds · on my roster
+- Malik Washington (WR, MIA) · 156,672 adds · AVAILABLE in my league
+- Blake Corum (RB, LAR) · 150,792 adds · rostered by FuelTheJET
+- J.J. McCarthy (QB, NYG) · 150,468 adds · AVAILABLE in my league
 
 Data from the Sleeper API (sleeper.com). Injury tags in brackets are Sleeper's designations and may lag official reports.
