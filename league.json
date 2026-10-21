@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-21T14:45:07.110702-04:00",
+  "generated": "2026-10-21T18:27:36.344567-04:00",
   "season": "2026",
   "week": 7,
   "league": {
@@ -69,16 +69,16 @@
       "Emeka Egbuka (WR, TB)",
       "Pat Freiermuth (TE, PIT)",
       "Harold Fannin (TE, CLE)",
-      "Matt Gay (K, LV)",
-      "Chicago Bears (DEF, CHI)"
+      "Evan McPherson (K, CIN)",
+      "Cleveland Browns (DEF, CLE)"
     ],
     "bench": [
+      "Tyrone Tracy (RB, NYG)",
       "Quinshon Judkins (RB, CLE) [Out]",
       "Tyler Shough (QB, NO)",
       "Denzel Boston (WR, CLE)",
       "Saquon Barkley (RB, PHI) [Out]",
-      "Courtland Sutton (WR, DEN)",
-      "Evan McPherson (K, CIN)"
+      "Courtland Sutton (WR, DEN)"
     ],
     "ir": []
   },
@@ -328,22 +328,22 @@
       "faab_used": 0,
       "starters": [
         "Matthew Stafford (QB, LAR)",
-        "Bhayshul Tuten (RB, JAX)",
+        "Brian Robinson (RB, ATL)",
         "Emanuel Wilson (RB, SEA)",
         "DK Metcalf (WR, PIT)",
         "Nico Collins (WR, HOU)",
         "Brock Bowers (TE, LV)",
-        "MarShawn Lloyd (RB, GB)",
+        "Josh Jacobs (RB, GB) [NA]",
         "Ka'imi Fairbairn (K, HOU)",
-        "Indianapolis Colts (DEF, IND)"
+        "New York Jets (DEF, NYJ)"
       ],
       "bench": [
+        "MarShawn Lloyd (RB, GB)",
         "Jaylen Wright (RB, MIA)",
         "Raheim Sanders (RB, CLE) [IR]",
+        "Bhayshul Tuten (RB, JAX)",
         "Luther Burden (WR, CHI)",
-        "Josh Jacobs (RB, GB) [NA]",
-        "Juwan Johnson (TE, NO)",
-        "Brian Robinson (RB, ATL)"
+        "Juwan Johnson (TE, NO)"
       ],
       "ir": [
         "Jordyn Tyson (WR, NO) [IR]"
@@ -466,21 +466,25 @@
         "Emeka Egbuka (WR, TB)",
         "Pat Freiermuth (TE, PIT)",
         "Harold Fannin (TE, CLE)",
-        "Matt Gay (K, LV)",
-        "Chicago Bears (DEF, CHI)"
+        "Evan McPherson (K, CIN)",
+        "Cleveland Browns (DEF, CLE)"
       ],
       "bench": [
+        "Tyrone Tracy (RB, NYG)",
         "Quinshon Judkins (RB, CLE) [Out]",
         "Tyler Shough (QB, NO)",
         "Denzel Boston (WR, CLE)",
         "Saquon Barkley (RB, PHI) [Out]",
-        "Courtland Sutton (WR, DEN)",
-        "Evan McPherson (K, CIN)"
+        "Courtland Sutton (WR, DEN)"
       ],
       "ir": []
     }
   ],
   "transactions": [
+    "Week 7 \u00b7 free_agent \u00b7 complete \u00b7 Wed Oct 21 03:33 PM \u00b7 Make Miami Great Again \u00b7 added: New York Jets (DEF, NYJ) to Make Miami Great Again \u00b7 dropped: Indianapolis Colts (DEF, IND) from Make Miami Great Again",
+    "Week 7 \u00b7 free_agent \u00b7 complete \u00b7 Wed Oct 21 03:30 PM \u00b7 Whiskey Sippin Kings \u00b7 added: Cleveland Browns (DEF, CLE) to Whiskey Sippin Kings \u00b7 dropped: Chicago Bears (DEF, CHI) from Whiskey Sippin Kings",
+    "Week 7 \u00b7 free_agent \u00b7 complete \u00b7 Wed Oct 21 03:30 PM \u00b7 Whiskey Sippin Kings \u00b7 added: Tyrone Tracy (RB, NYG) to Whiskey Sippin Kings",
+    "Week 7 \u00b7 free_agent \u00b7 complete \u00b7 Wed Oct 21 03:29 PM \u00b7 Whiskey Sippin Kings \u00b7 dropped: Matt Gay (K, LV) from Whiskey Sippin Kings",
     "Week 7 \u00b7 free_agent \u00b7 complete \u00b7 Wed Oct 21 09:58 AM \u00b7 Holla \u00b7 added: Denver Broncos (DEF, DEN) to Holla \u00b7 dropped: Jaleel McLaughlin (RB, CLE) from Holla",
     "Week 7 \u00b7 free_agent \u00b7 complete \u00b7 Wed Oct 21 08:34 AM \u00b7 Springfield Atoms \u00b7 added: Roschon Johnson (RB, CHI) to Springfield Atoms \u00b7 dropped: Terry McLaurin (WR, WAS) [Out] from Springfield Atoms",
     "Week 7 \u00b7 free_agent \u00b7 complete \u00b7 Wed Oct 21 06:36 AM \u00b7 FuelTheJET \u00b7 added: Ja'Kobi Lane (WR, BAL) to FuelTheJET \u00b7 dropped: Rashod Bateman (WR, BAL) [Out] from FuelTheJET",
@@ -521,6 +525,27 @@
     "Week 6 \u00b7 free_agent \u00b7 complete \u00b7 Wed Oct 14 05:05 AM \u00b7 Drunk To Taste This CHX \u00b7 added: Jason Myers (K, SEA) to Drunk To Taste This CHX \u00b7 dropped: Jake Bates (K, DET) from Drunk To Taste This CHX"
   ],
   "dropped_unrostered": [
+    {
+      "player": "Indianapolis Colts (DEF, IND)",
+      "dropped_by": "Make Miami Great Again",
+      "dropped_at": "2026-10-21T15:33:55.996000-04:00",
+      "on_waivers_until": "2026-10-23T15:33:55.996000-04:00",
+      "waiver_status": "on waivers until Fri Oct 23, 3:33 PM ET"
+    },
+    {
+      "player": "Chicago Bears (DEF, CHI)",
+      "dropped_by": "Whiskey Sippin Kings",
+      "dropped_at": "2026-10-21T15:30:32.814000-04:00",
+      "on_waivers_until": "2026-10-23T15:30:32.814000-04:00",
+      "waiver_status": "on waivers until Fri Oct 23, 3:30 PM ET"
+    },
+    {
+      "player": "Matt Gay (K, LV)",
+      "dropped_by": "Whiskey Sippin Kings",
+      "dropped_at": "2026-10-21T15:29:40.697000-04:00",
+      "on_waivers_until": "2026-10-23T15:29:40.697000-04:00",
+      "waiver_status": "on waivers until Fri Oct 23, 3:29 PM ET"
+    },
     {
       "player": "Jaleel McLaughlin (RB, CLE)",
       "dropped_by": "Holla",
@@ -728,128 +753,128 @@
   "trending_adds": [
     {
       "player": "Omar Cooper (WR, NYJ)",
-      "adds": 3638224,
+      "adds": 3081760,
       "rostered_by": 11
     },
     {
       "player": "Cleveland Browns (DEF, CLE)",
-      "adds": 1567349,
-      "rostered_by": null
+      "adds": 1461740,
+      "rostered_by": 1
     },
     {
       "player": "Konata Mumpfield (WR, LAR)",
-      "adds": 1306305,
+      "adds": 1211382,
       "rostered_by": 3
     },
     {
-      "player": "Michael Mayer (TE, LV)",
-      "adds": 716706,
-      "rostered_by": 12
-    },
-    {
       "player": "Roschon Johnson (RB, CHI)",
-      "adds": 656936,
+      "adds": 906136,
       "rostered_by": 5
     },
     {
-      "player": "Kyler Murray (QB, MIN)",
-      "adds": 648768,
-      "rostered_by": null
+      "player": "Michael Mayer (TE, LV)",
+      "adds": 699039,
+      "rostered_by": 12
     },
     {
       "player": "Chase McLaughlin (K, TB)",
-      "adds": 600472,
+      "adds": 622576,
       "rostered_by": 10
     },
     {
-      "player": "C.J. Stroud (QB, HOU)",
-      "adds": 579992,
+      "player": "Kyler Murray (QB, MIN)",
+      "adds": 617672,
       "rostered_by": null
     },
     {
-      "player": "Treylon Burks (WR, WAS)",
-      "adds": 554918,
+      "player": "C.J. Stroud (QB, HOU)",
+      "adds": 554078,
       "rostered_by": null
     },
     {
       "player": "Jake Bates (K, DET)",
-      "adds": 532488,
+      "adds": 537168,
       "rostered_by": 11
     },
     {
-      "player": "Tyrone Tracy (RB, NYG)",
-      "adds": 498894,
+      "player": "Treylon Burks (WR, WAS)",
+      "adds": 524440,
       "rostered_by": null
+    },
+    {
+      "player": "Tyrone Tracy (RB, NYG)",
+      "adds": 454386,
+      "rostered_by": 1
     },
     {
       "player": "New York Jets (DEF, NYJ)",
-      "adds": 465282,
-      "rostered_by": null
+      "adds": 450912,
+      "rostered_by": 7
     },
     {
-      "player": "Terrance Ferguson (TE, LAR) [IR]",
-      "adds": 412472,
+      "player": "Tyler Higbee (TE, LAR)",
+      "adds": 408942,
       "rostered_by": null
     },
     {
       "player": "Tre Tucker (WR, LV)",
-      "adds": 402258,
+      "adds": 375882,
       "rostered_by": null
     },
     {
-      "player": "Tyler Higbee (TE, LAR)",
-      "adds": 377136,
+      "player": "Terrance Ferguson (TE, LAR) [IR]",
+      "adds": 340448,
       "rostered_by": null
     },
     {
       "player": "Kyle Pitts (TE, ATL)",
-      "adds": 345191,
+      "adds": 326235,
       "rostered_by": 10
     },
     {
+      "player": "Malik Washington (WR, MIA)",
+      "adds": 294232,
+      "rostered_by": null
+    },
+    {
       "player": "Minnesota Vikings (DEF, MIN)",
-      "adds": 325375,
+      "adds": 289795,
       "rostered_by": 8
     },
     {
+      "player": "Caleb Douglas (WR, MIA) [Out]",
+      "adds": 281736,
+      "rostered_by": null
+    },
+    {
       "player": "Tank Dell (WR, HOU) [IR]",
-      "adds": 312096,
+      "adds": 279296,
       "rostered_by": 4
     },
     {
-      "player": "Malik Washington (WR, MIA)",
-      "adds": 293888,
-      "rostered_by": null
-    },
-    {
       "player": "Will Reichard (K, MIN)",
-      "adds": 293661,
+      "adds": 273909,
       "rostered_by": 12
     },
     {
-      "player": "Caleb Douglas (WR, MIA) [Out]",
-      "adds": 281312,
-      "rostered_by": null
-    },
-    {
       "player": "Tanner McKee (QB, PHI)",
-      "adds": 258672,
-      "rostered_by": null
-    },
-    {
-      "player": "Jordan Mason (RB, MIN) [IR]",
-      "adds": 256365,
-      "rostered_by": 2
-    },
-    {
-      "player": "Pierre Strong (RB, GB)",
-      "adds": 238680,
+      "adds": 255472,
       "rostered_by": null
     },
     {
       "player": "Bo Nix (QB, DEN)",
-      "adds": 228372,
+      "adds": 232998,
       "rostered_by": 10
+    },
+    {
+      "player": "Jordan Mason (RB, MIN) [IR]",
+      "adds": 231715,
+      "rostered_by": 2
+    },
+    {
+      "player": "Pierre Strong (RB, GB)",
+      "adds": 230193,
+      "rostered_by": null
     }
   ]
 }
