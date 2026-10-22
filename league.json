@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-21T21:36:59.877282-04:00",
+  "generated": "2026-10-22T03:44:09.509965-04:00",
   "season": "2026",
   "week": 7,
   "league": {
@@ -31,10 +31,10 @@
     "faab_used": 172,
     "starters": [
       "Drake Maye (QB, NE)",
-      "Kenneth Walker (RB, KC)",
+      "Kenneth Walker III (RB, KC)",
       "Chase Brown (RB, CIN)",
-      "A.J. Brown (WR, NE) [Questionable]",
-      "Omar Cooper (WR, NYJ)",
+      "A.J. Brown (WR, NE)",
+      "Omar Cooper Jr. (WR, NYJ)",
       "George Kittle (TE, SF)",
       "Dameon Pierce (RB, PHI)",
       "Jake Bates (K, DET)",
@@ -43,7 +43,7 @@
     "bench": [
       "Emmett Johnson (RB, KC)",
       "Keenan Allen (WR, IND)",
-      "Mike Evans (WR, SF) [Out]",
+      "Mike Evans (WR, SF) [Questionable]",
       "Tyreek Hill (WR, FA)",
       "Rhamondre Stevenson (RB, NE)",
       "Cameron Dicker (K, LAC)"
@@ -66,18 +66,18 @@
       "Chuba Hubbard (RB, CAR)",
       "Ashton Jeanty (RB, LV)",
       "Chris Olave (WR, NO)",
-      "Emeka Egbuka (WR, TB)",
+      "Emeka Egbuka (WR, TB) [Questionable]",
       "Pat Freiermuth (TE, PIT)",
-      "Harold Fannin (TE, CLE)",
+      "Harold Fannin Jr. (TE, CLE)",
       "Evan McPherson (K, CIN)",
       "Cleveland Browns (DEF, CLE)"
     ],
     "bench": [
-      "Tyrone Tracy (RB, NYG)",
-      "Quinshon Judkins (RB, CLE) [Out]",
+      "Tyrone Tracy Jr. (RB, NYG)",
+      "Quinshon Judkins (RB, CLE) [Questionable]",
       "Tyler Shough (QB, NO)",
-      "Denzel Boston (WR, CLE)",
-      "Saquon Barkley (RB, PHI) [Out]",
+      "Denzel Boston (WR, CLE) [Questionable]",
+      "Saquon Barkley (RB, PHI) [Questionable]",
       "Courtland Sutton (WR, DEN)"
     ],
     "ir": []
@@ -95,13 +95,13 @@
       "waiver_position": 8,
       "faab_used": 123,
       "starters": [
-        "Jordan Love (QB, GB)",
+        "Jordan Love (QB, GB) [Questionable]",
         "Jahmyr Gibbs (RB, DET)",
         "Blake Corum (RB, LAR)",
         "DeVonta Smith (WR, PHI)",
         "Malik Nabers (WR, NYG)",
         "Trey McBride (TE, ARI)",
-        "Matthew Golden (WR, GB)",
+        "Matthew Golden (WR, GB) [Questionable]",
         "Brandon McManus (K, LAR)",
         "Seattle Seahawks (DEF, SEA)"
       ],
@@ -110,7 +110,7 @@
         "Germie Bernard (WR, PIT)",
         "Ja'Kobi Lane (WR, BAL)",
         "Kaelon Black (RB, SF)",
-        "Lamar Jackson (QB, BAL) [Out]",
+        "Lamar Jackson (QB, BAL) [Questionable]",
         "Parker Washington (WR, JAX)"
       ],
       "ir": [
@@ -130,19 +130,19 @@
       "faab_used": 0,
       "starters": [
         "Cam Ward (QB, TEN)",
-        "James Cook (RB, BUF)",
-        "Bucky Irving (RB, TB)",
-        "KC Concepcion (WR, CLE)",
-        "Christian Watson (WR, GB)",
+        "James Cook III (RB, BUF)",
+        "Bucky Irving (RB, TB) [Questionable]",
+        "KC Concepcion Jr. (WR, CLE) [Questionable]",
+        "Christian Watson (WR, GB) [Questionable]",
         "Dalton Kincaid (TE, BUF) [Questionable]",
         "Austin Ekeler (RB, WAS)",
         "Trey Smack (K, GB)",
         "Jacksonville Jaguars (DEF, JAX)"
       ],
       "bench": [
-        "Marvin Harrison (WR, HOU)",
+        "Marvin Harrison Jr. (WR, HOU)",
         "Jacory Croskey-Merritt (RB, WAS) [IR]",
-        "Deebo Samuel (WR, SF) [Out]",
+        "Deebo Samuel Sr. (WR, SF) [Out]",
         "Joe Burrow (QB, CIN)",
         "J.K. Dobbins (RB, DEN)",
         "Amon-Ra St. Brown (WR, DET)"
@@ -168,7 +168,7 @@
         "Kyren Williams (RB, LAR)",
         "Carnell Tate (WR, TEN)",
         "Garrett Wilson (WR, NYJ)",
-        "Travis Kelce (TE, KC)",
+        "Travis Kelce (TE, KC) [Questionable]",
         "Braelon Allen (RB, NYJ)",
         "Jason Myers (K, SEA)",
         "Los Angeles Rams (DEF, LAR)"
@@ -207,10 +207,10 @@
       ],
       "bench": [
         "Tre Tucker (WR, LV)",
-        "Brian Thomas (WR, JAX)",
+        "Brian Thomas Jr. (WR, JAX)",
         "Josh Allen (QB, BUF)",
-        "David Montgomery (RB, HOU) [Out]",
-        "Travis Etienne (RB, NO) [IR]",
+        "David Montgomery (RB, HOU) [Questionable]",
+        "Travis Etienne Jr. (RB, NO) [IR]",
         "Rachaad White (RB, WAS)"
       ],
       "ir": [
@@ -240,10 +240,10 @@
         "Carolina Panthers (DEF, CAR)"
       ],
       "bench": [
-        "Rashee Rice (WR, KC) [Out]",
+        "Rashee Rice (WR, KC) [Questionable]",
         "Kyle Monangai (RB, CHI) [Out]",
         "Deshaun Watson (QB, CLE)",
-        "Dalton Schultz (TE, HOU)",
+        "Dalton Schultz (TE, HOU) [Questionable]",
         "Tee Higgins (WR, CIN)",
         "Minnesota Vikings (DEF, MIN)"
       ],
@@ -262,10 +262,10 @@
       "faab_used": 172,
       "starters": [
         "Drake Maye (QB, NE)",
-        "Kenneth Walker (RB, KC)",
+        "Kenneth Walker III (RB, KC)",
         "Chase Brown (RB, CIN)",
-        "A.J. Brown (WR, NE) [Questionable]",
-        "Omar Cooper (WR, NYJ)",
+        "A.J. Brown (WR, NE)",
+        "Omar Cooper Jr. (WR, NYJ)",
         "George Kittle (TE, SF)",
         "Dameon Pierce (RB, PHI)",
         "Jake Bates (K, DET)",
@@ -274,7 +274,7 @@
       "bench": [
         "Emmett Johnson (RB, KC)",
         "Keenan Allen (WR, IND)",
-        "Mike Evans (WR, SF) [Out]",
+        "Mike Evans (WR, SF) [Questionable]",
         "Tyreek Hill (WR, FA)",
         "Rhamondre Stevenson (RB, NE)",
         "Cameron Dicker (K, LAC)"
@@ -297,7 +297,7 @@
         "Jonathan Taylor (RB, IND)",
         "D'Andre Swift (RB, CHI)",
         "George Pickens (WR, DAL)",
-        "Justin Jefferson (WR, MIN)",
+        "Justin Jefferson (WR, MIN) [Questionable]",
         "Michael Mayer (TE, LV)",
         "Jalen Coker (WR, CAR)",
         "Will Reichard (K, MIN)",
@@ -306,7 +306,7 @@
       "bench": [
         "Caleb Williams (QB, CHI)",
         "Chris Boswell (K, PIT)",
-        "Aaron Jones (RB, MIN) [Questionable]",
+        "Aaron Jones Sr. (RB, MIN)",
         "Tony Pollard (RB, TEN)",
         "San Francisco 49ers (DEF, SF)"
       ],
@@ -327,21 +327,21 @@
       "faab_used": 0,
       "starters": [
         "Matthew Stafford (QB, LAR)",
-        "Brian Robinson (RB, ATL)",
+        "Brian Robinson Jr. (RB, ATL) [Questionable]",
         "Emanuel Wilson (RB, SEA)",
         "DK Metcalf (WR, PIT)",
         "Nico Collins (WR, HOU)",
-        "Brock Bowers (TE, LV)",
-        "Josh Jacobs (RB, GB) [NA]",
+        "Brock Bowers (TE, LV) [Questionable]",
+        "Josh Jacobs (RB, GB)",
         "Ka'imi Fairbairn (K, HOU)",
         "New York Jets (DEF, NYJ)"
       ],
       "bench": [
         "MarShawn Lloyd (RB, GB)",
-        "Jaylen Wright (RB, MIA)",
+        "Jaylen Wright (RB, MIA) [Questionable]",
         "Raheim Sanders (RB, CLE) [IR]",
         "Bhayshul Tuten (RB, JAX)",
-        "Luther Burden (WR, CHI)",
+        "Luther Burden III (WR, CHI)",
         "Juwan Johnson (TE, NO)"
       ],
       "ir": [
@@ -362,11 +362,11 @@
       "starters": [
         "Aaron Rodgers (QB, PIT)",
         "Christian McCaffrey (RB, SF)",
-        "Ollie Gordon (RB, MIA) [Questionable]",
+        "Ollie Gordon II (RB, MIA)",
         "Ja'Marr Chase (WR, CIN)",
         "Zay Flowers (WR, BAL)",
         "Tucker Kraft (TE, GB)",
-        "Breece Hall (RB, NYJ) [Out]",
+        "Breece Hall (RB, NYJ) [Questionable]",
         "Spencer Shrader (K, IND)",
         "Denver Broncos (DEF, DEN)"
       ],
@@ -399,15 +399,15 @@
         "Jaylen Warren (RB, PIT)",
         "Jaxon Smith-Njigba (WR, SEA)",
         "Tetairoa McMillan (WR, CAR)",
-        "Kyle Pitts (TE, ATL)",
-        "Chris Godwin (WR, TB)",
+        "Kyle Pitts Sr. (TE, ATL)",
+        "Chris Godwin Jr. (WR, TB)",
         "Chase McLaughlin (K, TB)",
         "Philadelphia Eagles (DEF, PHI)"
       ],
       "bench": [
         "Bo Nix (QB, DEN)",
         "Omarion Hampton (RB, LAC)",
-        "Tyler Warren (TE, IND) [Out]",
+        "Tyler Warren (TE, IND) [Questionable]",
         "TreVeyon Henderson (RB, NE)",
         "Stefon Diggs (WR, WAS)",
         "Brenton Strange (TE, JAX)"
@@ -438,7 +438,7 @@
       ],
       "bench": [
         "Oronde Gadsden (TE, LAC)",
-        "Jeremiyah Love (RB, ARI) [Out]",
+        "Jeremiyah Love (RB, ARI) [Questionable]",
         "Dak Prescott (QB, DAL)",
         "Alvin Kamara (RB, NO) [Questionable]",
         "DJ Moore (WR, BUF) [Out]",
@@ -462,32 +462,32 @@
         "Chuba Hubbard (RB, CAR)",
         "Ashton Jeanty (RB, LV)",
         "Chris Olave (WR, NO)",
-        "Emeka Egbuka (WR, TB)",
+        "Emeka Egbuka (WR, TB) [Questionable]",
         "Pat Freiermuth (TE, PIT)",
-        "Harold Fannin (TE, CLE)",
+        "Harold Fannin Jr. (TE, CLE)",
         "Evan McPherson (K, CIN)",
         "Cleveland Browns (DEF, CLE)"
       ],
       "bench": [
-        "Tyrone Tracy (RB, NYG)",
-        "Quinshon Judkins (RB, CLE) [Out]",
+        "Tyrone Tracy Jr. (RB, NYG)",
+        "Quinshon Judkins (RB, CLE) [Questionable]",
         "Tyler Shough (QB, NO)",
-        "Denzel Boston (WR, CLE)",
-        "Saquon Barkley (RB, PHI) [Out]",
+        "Denzel Boston (WR, CLE) [Questionable]",
+        "Saquon Barkley (RB, PHI) [Questionable]",
         "Courtland Sutton (WR, DEN)"
       ],
       "ir": []
     }
   ],
   "transactions": [
-    "Week 7 \u00b7 free_agent \u00b7 complete \u00b7 Wed Oct 21 07:49 PM \u00b7 Springfield Atoms \u00b7 added: Tre Tucker (WR, LV) to Springfield Atoms \u00b7 dropped: Makai Lemon (WR, PHI) [Questionable] from Springfield Atoms",
+    "Week 7 \u00b7 free_agent \u00b7 complete \u00b7 Wed Oct 21 07:49 PM \u00b7 Springfield Atoms \u00b7 added: Tre Tucker (WR, LV) to Springfield Atoms \u00b7 dropped: Makai Lemon (WR, PHI) from Springfield Atoms",
     "Week 7 \u00b7 free_agent \u00b7 complete \u00b7 Wed Oct 21 03:33 PM \u00b7 Make Miami Great Again \u00b7 added: New York Jets (DEF, NYJ) to Make Miami Great Again \u00b7 dropped: Indianapolis Colts (DEF, IND) from Make Miami Great Again",
     "Week 7 \u00b7 free_agent \u00b7 complete \u00b7 Wed Oct 21 03:30 PM \u00b7 Whiskey Sippin Kings \u00b7 added: Cleveland Browns (DEF, CLE) to Whiskey Sippin Kings \u00b7 dropped: Chicago Bears (DEF, CHI) from Whiskey Sippin Kings",
-    "Week 7 \u00b7 free_agent \u00b7 complete \u00b7 Wed Oct 21 03:30 PM \u00b7 Whiskey Sippin Kings \u00b7 added: Tyrone Tracy (RB, NYG) to Whiskey Sippin Kings",
+    "Week 7 \u00b7 free_agent \u00b7 complete \u00b7 Wed Oct 21 03:30 PM \u00b7 Whiskey Sippin Kings \u00b7 added: Tyrone Tracy Jr. (RB, NYG) to Whiskey Sippin Kings",
     "Week 7 \u00b7 free_agent \u00b7 complete \u00b7 Wed Oct 21 03:29 PM \u00b7 Whiskey Sippin Kings \u00b7 dropped: Matt Gay (K, LV) from Whiskey Sippin Kings",
     "Week 7 \u00b7 free_agent \u00b7 complete \u00b7 Wed Oct 21 09:58 AM \u00b7 Holla \u00b7 added: Denver Broncos (DEF, DEN) to Holla \u00b7 dropped: Jaleel McLaughlin (RB, CLE) from Holla",
     "Week 7 \u00b7 free_agent \u00b7 complete \u00b7 Wed Oct 21 08:34 AM \u00b7 Springfield Atoms \u00b7 added: Roschon Johnson (RB, CHI) to Springfield Atoms \u00b7 dropped: Terry McLaurin (WR, WAS) [Out] from Springfield Atoms",
-    "Week 7 \u00b7 free_agent \u00b7 complete \u00b7 Wed Oct 21 06:36 AM \u00b7 FuelTheJET \u00b7 added: Ja'Kobi Lane (WR, BAL) to FuelTheJET \u00b7 dropped: Rashod Bateman (WR, BAL) [Out] from FuelTheJET",
+    "Week 7 \u00b7 free_agent \u00b7 complete \u00b7 Wed Oct 21 06:36 AM \u00b7 FuelTheJET \u00b7 added: Ja'Kobi Lane (WR, BAL) to FuelTheJET \u00b7 dropped: Rashod Bateman (WR, BAL) [Questionable] from FuelTheJET",
     "Week 7 \u00b7 free_agent \u00b7 complete \u00b7 Wed Oct 21 06:34 AM \u00b7 FuelTheJET \u00b7 added: Brandon McManus (K, LAR) to FuelTheJET \u00b7 dropped: Nick Folk (K, ATL) from FuelTheJET",
     "Week 7 \u00b7 free_agent \u00b7 complete \u00b7 Wed Oct 21 06:13 AM \u00b7 Drunk To Taste This CHX \u00b7 added: Konata Mumpfield (WR, LAR) to Drunk To Taste This CHX",
     "Week 6 \u00b7 waiver \u00b7 complete \u00b7 Wed Oct 21 02:36 AM \u00b7 Strokin My Ditka \u00b7 added: Bo Nix (QB, DEN) to Strokin My Ditka \u00b7 dropped: Kenny Gainwell (RB, TB) from Strokin My Ditka \u00b7 bid $0 \u00b7 note: Your waiver claim was processed successfully!",
@@ -495,25 +495,25 @@
     "Week 6 \u00b7 waiver \u00b7 failed \u00b7 Tue Oct 20 09:33 PM \u00b7 THE ACE OF SPADES \u00b7 added: Harrison Butker (K, KC) to THE ACE OF SPADES \u00b7 bid $2 \u00b7 note: Unfortunately, your roster will have too many players after this transaction.",
     "Week 6 \u00b7 waiver \u00b7 complete \u00b7 Tue Oct 20 09:32 PM \u00b7 THE ACE OF SPADES \u00b7 added: Jake Bates (K, DET) to THE ACE OF SPADES \u00b7 dropped: New England Patriots (DEF, NE) from THE ACE OF SPADES \u00b7 bid $5 \u00b7 note: Your waiver claim was processed successfully!",
     "Week 6 \u00b7 waiver \u00b7 complete \u00b7 Tue Oct 20 09:31 PM \u00b7 THE ACE OF SPADES \u00b7 added: Keenan Allen (WR, IND) to THE ACE OF SPADES \u00b7 dropped: Rome Odunze (WR, CHI) from THE ACE OF SPADES \u00b7 bid $9 \u00b7 note: Your waiver claim was processed successfully!",
-    "Week 6 \u00b7 waiver \u00b7 complete \u00b7 Tue Oct 20 09:30 PM \u00b7 THE ACE OF SPADES \u00b7 added: Omar Cooper (WR, NYJ) to THE ACE OF SPADES \u00b7 dropped: Khalil Shakir (WR, BUF) from THE ACE OF SPADES \u00b7 bid $33 \u00b7 note: Your waiver claim was processed successfully!",
-    "Week 6 \u00b7 waiver \u00b7 failed \u00b7 Tue Oct 20 08:37 PM \u00b7 Young Blood \u00b7 added: Omar Cooper (WR, NYJ) to Young Blood \u00b7 bid $10 \u00b7 note: This player was claimed by another owner.",
+    "Week 6 \u00b7 waiver \u00b7 complete \u00b7 Tue Oct 20 09:30 PM \u00b7 THE ACE OF SPADES \u00b7 added: Omar Cooper Jr. (WR, NYJ) to THE ACE OF SPADES \u00b7 dropped: Khalil Shakir (WR, BUF) from THE ACE OF SPADES \u00b7 bid $33 \u00b7 note: Your waiver claim was processed successfully!",
+    "Week 6 \u00b7 waiver \u00b7 failed \u00b7 Tue Oct 20 08:37 PM \u00b7 Young Blood \u00b7 added: Omar Cooper Jr. (WR, NYJ) to Young Blood \u00b7 bid $10 \u00b7 note: This player was claimed by another owner.",
     "Week 6 \u00b7 waiver \u00b7 complete \u00b7 Tue Oct 20 08:35 PM \u00b7 Young Blood \u00b7 added: Michael Mayer (TE, LV) to Young Blood \u00b7 dropped: Tyler Higbee (TE, LAR) from Young Blood \u00b7 bid $5 \u00b7 note: Your waiver claim was processed successfully!",
     "Week 6 \u00b7 waiver \u00b7 failed \u00b7 Tue Oct 20 07:30 PM \u00b7 FuelTheJET \u00b7 added: Jake Bates (K, DET) to FuelTheJET \u00b7 bid $0 \u00b7 note: This player was claimed by another owner.",
     "Week 6 \u00b7 waiver \u00b7 complete \u00b7 Tue Oct 20 07:28 PM \u00b7 FuelTheJET \u00b7 added: Germie Bernard (WR, PIT) to FuelTheJET \u00b7 dropped: Devaughn Vele (WR, NO) from FuelTheJET \u00b7 bid $10 \u00b7 note: Your waiver claim was processed successfully!",
     "Week 6 \u00b7 free_agent \u00b7 complete \u00b7 Tue Oct 20 05:02 AM \u00b7 Drunk To Taste This CHX \u00b7 dropped: Jalen Hurts (QB, PHI) [IR] from Drunk To Taste This CHX",
     "Week 6 \u00b7 waiver \u00b7 complete \u00b7 Mon Oct 19 09:57 AM \u00b7 Holla \u00b7 added: Jaleel McLaughlin (RB, CLE) to Holla \u00b7 dropped: Najee Harris (RB, FA) from Holla \u00b7 bid $0 \u00b7 note: Your waiver claim was processed successfully!",
     "Week 6 \u00b7 free_agent \u00b7 complete \u00b7 Sun Oct 18 07:39 PM \u00b7 Thoroughbred Cheesehead \u00b7 added: Austin Ekeler (RB, WAS) to Thoroughbred Cheesehead \u00b7 dropped: Jadarian Price (RB, SEA) [IR] from Thoroughbred Cheesehead",
-    "Week 6 \u00b7 free_agent \u00b7 complete \u00b7 Sun Oct 18 12:59 PM \u00b7 Holla \u00b7 added: Najee Harris (RB, FA) to Holla \u00b7 dropped: Dontayvion Wicks (WR, PHI) [Questionable] from Holla",
-    "Week 6 \u00b7 free_agent \u00b7 complete \u00b7 Sun Oct 18 11:40 AM \u00b7 Strokin My Ditka \u00b7 added: Kyle Pitts (TE, ATL) to Strokin My Ditka \u00b7 dropped: Malik Willis (QB, MIA) from Strokin My Ditka",
+    "Week 6 \u00b7 free_agent \u00b7 complete \u00b7 Sun Oct 18 12:59 PM \u00b7 Holla \u00b7 added: Najee Harris (RB, FA) to Holla \u00b7 dropped: Dontayvion Wicks (WR, PHI) from Holla",
+    "Week 6 \u00b7 free_agent \u00b7 complete \u00b7 Sun Oct 18 11:40 AM \u00b7 Strokin My Ditka \u00b7 added: Kyle Pitts Sr. (TE, ATL) to Strokin My Ditka \u00b7 dropped: Malik Willis (QB, MIA) from Strokin My Ditka",
     "Week 6 \u00b7 free_agent \u00b7 complete \u00b7 Sun Oct 18 10:08 AM \u00b7 Team 9 \u00b7 added: Buffalo Bills (DEF, BUF) to Team 9 \u00b7 dropped: Tyquan Thornton (WR, KC) [IR] from Team 9",
-    "Week 6 \u00b7 free_agent \u00b7 complete \u00b7 Sun Oct 18 09:52 AM \u00b7 THE ACE OF SPADES \u00b7 dropped: Jordan Addison (WR, MIN) [Out] from THE ACE OF SPADES",
+    "Week 6 \u00b7 free_agent \u00b7 complete \u00b7 Sun Oct 18 09:52 AM \u00b7 THE ACE OF SPADES \u00b7 dropped: Jordan Addison (WR, MIN) from THE ACE OF SPADES",
     "Week 6 \u00b7 free_agent \u00b7 complete \u00b7 Fri Oct 16 01:10 AM \u00b7 Thoroughbred Cheesehead \u00b7 added: Cam Ward (QB, TEN) to Thoroughbred Cheesehead \u00b7 dropped: Keaton Mitchell (RB, LAC) from Thoroughbred Cheesehead",
     "Week 6 \u00b7 free_agent \u00b7 complete \u00b7 Thu Oct 15 05:52 PM \u00b7 Team 8 \u00b7 added: Carolina Panthers (DEF, CAR) to Team 8 \u00b7 dropped: Kalif Raymond (WR, CHI) from Team 8",
     "Week 6 \u00b7 free_agent \u00b7 complete \u00b7 Thu Oct 15 04:43 PM \u00b7 Drunk To Taste This CHX \u00b7 added: Geno Smith (QB, NYJ) to Drunk To Taste This CHX \u00b7 dropped: Bo Nix (QB, DEN) from Drunk To Taste This CHX",
     "Week 6 \u00b7 waiver \u00b7 complete \u00b7 Thu Oct 15 07:45 AM \u00b7 THE ACE OF SPADES \u00b7 added: Khalil Shakir (WR, BUF) to THE ACE OF SPADES \u00b7 dropped: Roman Wilson (WR, PIT) [IR] from THE ACE OF SPADES \u00b7 bid $7 \u00b7 note: Your waiver claim was processed successfully!",
     "Week 6 \u00b7 free_agent \u00b7 complete \u00b7 Wed Oct 14 09:45 PM \u00b7 Young Blood \u00b7 added: Caleb Williams (QB, CHI) to Young Blood \u00b7 dropped: Khalil Shakir (WR, BUF) from Young Blood",
     "Week 6 \u00b7 free_agent \u00b7 complete \u00b7 Wed Oct 14 09:43 PM \u00b7 Young Blood \u00b7 added: Chris Boswell (K, PIT) to Young Blood \u00b7 dropped: Justin Herbert (QB, LAC) from Young Blood",
-    "Week 6 \u00b7 free_agent \u00b7 complete \u00b7 Wed Oct 14 09:38 PM \u00b7 Young Blood \u00b7 added: Tyler Higbee (TE, LAR) to Young Blood \u00b7 dropped: T.J. Hockenson (TE, MIN) [Out] from Young Blood",
+    "Week 6 \u00b7 free_agent \u00b7 complete \u00b7 Wed Oct 14 09:38 PM \u00b7 Young Blood \u00b7 added: Tyler Higbee (TE, LAR) to Young Blood \u00b7 dropped: T.J. Hockenson (TE, MIN) [Questionable] from Young Blood",
     "Week 6 \u00b7 waiver \u00b7 complete \u00b7 Wed Oct 14 09:43 AM \u00b7 Holla \u00b7 added: Jakobi Meyers (WR, JAX) to Holla \u00b7 dropped: Quentin Johnston (WR, LAC) from Holla \u00b7 bid $0 \u00b7 note: Your waiver claim was processed successfully!",
     "Week 6 \u00b7 free_agent \u00b7 complete \u00b7 Wed Oct 14 09:42 AM \u00b7 Holla \u00b7 added: Dallas Goedert (TE, PHI) to Holla \u00b7 dropped: Darren Waller (TE, CAR) from Holla",
     "Week 6 \u00b7 free_agent \u00b7 complete \u00b7 Wed Oct 14 09:41 AM \u00b7 Holla \u00b7 added: Kansas City Chiefs (DEF, KC) to Holla \u00b7 dropped: Cincinnati Bengals (DEF, CIN) from Holla",
@@ -526,7 +526,7 @@
   ],
   "dropped_unrostered": [
     {
-      "player": "Makai Lemon (WR, PHI) [Questionable]",
+      "player": "Makai Lemon (WR, PHI)",
       "dropped_by": "Springfield Atoms",
       "dropped_at": "2026-10-21T19:49:43.803000-04:00",
       "on_waivers_until": "2026-10-23T19:49:43.803000-04:00",
@@ -568,7 +568,7 @@
       "waiver_status": "on waivers until Fri Oct 23, 8:34 AM ET"
     },
     {
-      "player": "Rashod Bateman (WR, BAL) [Out]",
+      "player": "Rashod Bateman (WR, BAL) [Questionable]",
       "dropped_by": "FuelTheJET",
       "dropped_at": "2026-10-21T06:36:44.554000-04:00",
       "on_waivers_until": "2026-10-23T06:36:44.554000-04:00",
@@ -645,7 +645,7 @@
       "waiver_status": "free agent now"
     },
     {
-      "player": "Dontayvion Wicks (WR, PHI) [Questionable]",
+      "player": "Dontayvion Wicks (WR, PHI)",
       "dropped_by": "Holla",
       "dropped_at": "2026-10-18T12:59:39.305000-04:00",
       "on_waivers_until": null,
@@ -666,7 +666,7 @@
       "waiver_status": "free agent now"
     },
     {
-      "player": "Jordan Addison (WR, MIN) [Out]",
+      "player": "Jordan Addison (WR, MIN)",
       "dropped_by": "THE ACE OF SPADES",
       "dropped_at": "2026-10-18T09:52:43.214000-04:00",
       "on_waivers_until": null,
@@ -708,7 +708,7 @@
       "waiver_status": "free agent now"
     },
     {
-      "player": "T.J. Hockenson (TE, MIN) [Out]",
+      "player": "T.J. Hockenson (TE, MIN) [Questionable]",
       "dropped_by": "Young Blood",
       "dropped_at": "2026-10-14T21:38:06.394000-04:00",
       "on_waivers_until": null,
@@ -759,129 +759,129 @@
   ],
   "trending_adds": [
     {
-      "player": "Omar Cooper (WR, NYJ)",
-      "adds": 2429504,
-      "rostered_by": 11
-    },
-    {
-      "player": "Cleveland Browns (DEF, CLE)",
-      "adds": 1318065,
-      "rostered_by": 1
-    },
-    {
-      "player": "Konata Mumpfield (WR, LAR)",
-      "adds": 1054764,
-      "rostered_by": 3
-    },
-    {
       "player": "Roschon Johnson (RB, CHI)",
-      "adds": 1025600,
+      "adds": 980168,
       "rostered_by": 5
     },
     {
-      "player": "Michael Mayer (TE, LV)",
-      "adds": 668628,
-      "rostered_by": 12
+      "player": "Cleveland Browns (DEF, CLE)",
+      "adds": 800114,
+      "rostered_by": 1
     },
     {
-      "player": "Chase McLaughlin (K, TB)",
-      "adds": 628304,
-      "rostered_by": 10
-    },
-    {
-      "player": "Kyler Murray (QB, MIN)",
-      "adds": 566888,
-      "rostered_by": null
-    },
-    {
-      "player": "Jake Bates (K, DET)",
-      "adds": 528512,
+      "player": "Omar Cooper Jr. (WR, NYJ)",
+      "adds": 699328,
       "rostered_by": 11
     },
     {
+      "player": "Konata Mumpfield (WR, LAR)",
+      "adds": 565587,
+      "rostered_by": 3
+    },
+    {
+      "player": "Chase McLaughlin (K, TB)",
+      "adds": 548936,
+      "rostered_by": 10
+    },
+    {
+      "player": "Michael Mayer (TE, LV)",
+      "adds": 481095,
+      "rostered_by": 12
+    },
+    {
+      "player": "Jake Bates (K, DET)",
+      "adds": 447792,
+      "rostered_by": 11
+    },
+    {
+      "player": "Kyler Murray (QB, MIN)",
+      "adds": 372608,
+      "rostered_by": null
+    },
+    {
+      "player": "Tyler Higbee (TE, LAR)",
+      "adds": 335115,
+      "rostered_by": null
+    },
+    {
       "player": "C.J. Stroud (QB, HOU)",
-      "adds": 505624,
+      "adds": 326613,
       "rostered_by": null
     },
     {
       "player": "Treylon Burks (WR, WAS)",
-      "adds": 487515,
+      "adds": 309064,
       "rostered_by": null
     },
     {
       "player": "New York Jets (DEF, NYJ)",
-      "adds": 420426,
+      "adds": 285506,
       "rostered_by": 7
     },
     {
-      "player": "Tyler Higbee (TE, LAR)",
-      "adds": 408753,
-      "rostered_by": null
-    },
-    {
-      "player": "Tyrone Tracy (RB, NYG)",
-      "adds": 395934,
-      "rostered_by": 1
-    },
-    {
       "player": "Tre Tucker (WR, LV)",
-      "adds": 342126,
+      "adds": 232212,
       "rostered_by": 5
     },
     {
-      "player": "Terrance Ferguson (TE, LAR) [IR]",
-      "adds": 291592,
+      "player": "Malik Washington (WR, MIA)",
+      "adds": 219984,
       "rostered_by": null
     },
     {
-      "player": "Kyle Pitts (TE, ATL)",
-      "adds": 288498,
+      "player": "Tyrone Tracy Jr. (RB, NYG)",
+      "adds": 207484,
+      "rostered_by": 1
+    },
+    {
+      "player": "Bo Nix (QB, DEN)",
+      "adds": 190038,
       "rostered_by": 10
     },
     {
-      "player": "Malik Washington (WR, MIA)",
-      "adds": 286040,
-      "rostered_by": null
-    },
-    {
-      "player": "Caleb Douglas (WR, MIA) [Out]",
-      "adds": 263648,
+      "player": "Caleb Douglas (WR, MIA) [Questionable]",
+      "adds": 172888,
       "rostered_by": null
     },
     {
       "player": "Tank Dell (WR, HOU) [IR]",
-      "adds": 252488,
+      "adds": 172544,
       "rostered_by": 4
     },
     {
-      "player": "Minnesota Vikings (DEF, MIN)",
-      "adds": 244610,
-      "rostered_by": 8
-    },
-    {
-      "player": "Will Reichard (K, MIN)",
-      "adds": 243357,
-      "rostered_by": 12
-    },
-    {
       "player": "Tanner McKee (QB, PHI)",
-      "adds": 241688,
-      "rostered_by": null
-    },
-    {
-      "player": "Bo Nix (QB, DEN)",
-      "adds": 229068,
-      "rostered_by": 10
-    },
-    {
-      "player": "Pierre Strong (RB, GB)",
-      "adds": 217026,
+      "adds": 170472,
       "rostered_by": null
     },
     {
       "player": "J.J. McCarthy (QB, NYG)",
-      "adds": 207576,
+      "adds": 158130,
       "rostered_by": null
+    },
+    {
+      "player": "Geno Smith (QB, NYJ)",
+      "adds": 157616,
+      "rostered_by": 3
+    },
+    {
+      "player": "Kyle Pitts Sr. (TE, ATL)",
+      "adds": 156436,
+      "rostered_by": 10
+    },
+    {
+      "player": "Ryan Flournoy (WR, DAL)",
+      "adds": 155248,
+      "rostered_by": null
+    },
+    {
+      "player": "Aaron Rodgers (QB, PIT)",
+      "adds": 152092,
+      "rostered_by": 2
+    },
+    {
+      "player": "Will Reichard (K, MIN)",
+      "adds": 148956,
+      "rostered_by": 12
     }
   ]
 }
