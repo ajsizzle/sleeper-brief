@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-22T03:44:09.509965-04:00",
+  "generated": "2026-10-22T09:54:32.396326-04:00",
   "season": "2026",
   "week": 7,
   "league": {
@@ -634,8 +634,8 @@
       "player": "Jalen Hurts (QB, PHI) [IR]",
       "dropped_by": "Drunk To Taste This CHX",
       "dropped_at": "2026-10-20T05:02:45.649000-04:00",
-      "on_waivers_until": "2026-10-22T05:02:45.649000-04:00",
-      "waiver_status": "on waivers until Thu Oct 22, 5:02 AM ET"
+      "on_waivers_until": null,
+      "waiver_status": "free agent now"
     },
     {
       "player": "Jadarian Price (RB, SEA) [IR]",
@@ -760,128 +760,128 @@
   "trending_adds": [
     {
       "player": "Roschon Johnson (RB, CHI)",
-      "adds": 980168,
+      "adds": 1016256,
       "rostered_by": 5
     },
     {
       "player": "Cleveland Browns (DEF, CLE)",
-      "adds": 800114,
+      "adds": 501697,
       "rostered_by": 1
     },
     {
       "player": "Omar Cooper Jr. (WR, NYJ)",
-      "adds": 699328,
+      "adds": 436936,
       "rostered_by": 11
     },
     {
-      "player": "Konata Mumpfield (WR, LAR)",
-      "adds": 565587,
-      "rostered_by": 3
-    },
-    {
       "player": "Chase McLaughlin (K, TB)",
-      "adds": 548936,
+      "adds": 404296,
       "rostered_by": 10
     },
     {
+      "player": "Konata Mumpfield (WR, LAR)",
+      "adds": 383733,
+      "rostered_by": 3
+    },
+    {
       "player": "Michael Mayer (TE, LV)",
-      "adds": 481095,
+      "adds": 361899,
       "rostered_by": 12
     },
     {
       "player": "Jake Bates (K, DET)",
-      "adds": 447792,
+      "adds": 315296,
       "rostered_by": 11
     },
     {
-      "player": "Kyler Murray (QB, MIN)",
-      "adds": 372608,
+      "player": "Tyler Higbee (TE, LAR)",
+      "adds": 269514,
       "rostered_by": null
     },
     {
-      "player": "Tyler Higbee (TE, LAR)",
-      "adds": 335115,
+      "player": "Kyler Murray (QB, MIN)",
+      "adds": 256192,
       "rostered_by": null
     },
     {
       "player": "C.J. Stroud (QB, HOU)",
-      "adds": 326613,
+      "adds": 248108,
       "rostered_by": null
     },
     {
       "player": "Treylon Burks (WR, WAS)",
-      "adds": 309064,
+      "adds": 232169,
       "rostered_by": null
     },
     {
       "player": "New York Jets (DEF, NYJ)",
-      "adds": 285506,
+      "adds": 176754,
       "rostered_by": 7
     },
     {
       "player": "Tre Tucker (WR, LV)",
-      "adds": 232212,
+      "adds": 168114,
       "rostered_by": 5
     },
     {
       "player": "Malik Washington (WR, MIA)",
-      "adds": 219984,
+      "adds": 162192,
       "rostered_by": null
     },
     {
       "player": "Tyrone Tracy Jr. (RB, NYG)",
-      "adds": 207484,
+      "adds": 151200,
       "rostered_by": 1
     },
     {
-      "player": "Bo Nix (QB, DEN)",
-      "adds": 190038,
-      "rostered_by": 10
-    },
-    {
-      "player": "Caleb Douglas (WR, MIA) [Questionable]",
-      "adds": 172888,
+      "player": "J.J. McCarthy (QB, NYG)",
+      "adds": 146817,
       "rostered_by": null
     },
     {
+      "player": "Bo Nix (QB, DEN)",
+      "adds": 139764,
+      "rostered_by": 10
+    },
+    {
       "player": "Tank Dell (WR, HOU) [IR]",
-      "adds": 172544,
+      "adds": 135128,
       "rostered_by": 4
     },
     {
       "player": "Tanner McKee (QB, PHI)",
-      "adds": 170472,
+      "adds": 132312,
       "rostered_by": null
     },
     {
-      "player": "J.J. McCarthy (QB, NYG)",
-      "adds": 158130,
+      "player": "Zonovan Knight (RB, ARI)",
+      "adds": 118986,
+      "rostered_by": null
+    },
+    {
+      "player": "Ryan Flournoy (WR, DAL)",
+      "adds": 116400,
       "rostered_by": null
     },
     {
       "player": "Geno Smith (QB, NYJ)",
-      "adds": 157616,
+      "adds": 110952,
       "rostered_by": 3
     },
     {
-      "player": "Kyle Pitts Sr. (TE, ATL)",
-      "adds": 156436,
-      "rostered_by": 10
-    },
-    {
-      "player": "Ryan Flournoy (WR, DAL)",
-      "adds": 155248,
-      "rostered_by": null
-    },
-    {
       "player": "Aaron Rodgers (QB, PIT)",
-      "adds": 152092,
+      "adds": 110632,
       "rostered_by": 2
     },
     {
-      "player": "Will Reichard (K, MIN)",
-      "adds": 148956,
-      "rostered_by": 12
+      "player": "Pierre Strong Jr. (RB, GB)",
+      "adds": 108963,
+      "rostered_by": null
+    },
+    {
+      "player": "Jordan Addison (WR, MIN)",
+      "adds": 108351,
+      "rostered_by": null
     }
   ]
 }
