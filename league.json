@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-23T14:28:54.709909-04:00",
+  "generated": "2026-10-23T18:21:45.086654-04:00",
   "season": "2026",
   "week": 7,
   "league": {
@@ -583,22 +583,22 @@
       "player": "Indianapolis Colts (DEF, IND)",
       "dropped_by": "Make Miami Great Again",
       "dropped_at": "2026-10-21T15:33:55.996000-04:00",
-      "on_waivers_until": "2026-10-23T15:33:55.996000-04:00",
-      "waiver_status": "on waivers until Fri Oct 23, 3:33 PM ET"
+      "on_waivers_until": null,
+      "waiver_status": "free agent now"
     },
     {
       "player": "Chicago Bears (DEF, CHI)",
       "dropped_by": "Whiskey Sippin Kings",
       "dropped_at": "2026-10-21T15:30:32.814000-04:00",
-      "on_waivers_until": "2026-10-23T15:30:32.814000-04:00",
-      "waiver_status": "on waivers until Fri Oct 23, 3:30 PM ET"
+      "on_waivers_until": null,
+      "waiver_status": "free agent now"
     },
     {
       "player": "Matt Gay (K, LV)",
       "dropped_by": "Whiskey Sippin Kings",
       "dropped_at": "2026-10-21T15:29:40.697000-04:00",
-      "on_waivers_until": "2026-10-23T15:29:40.697000-04:00",
-      "waiver_status": "on waivers until Fri Oct 23, 3:29 PM ET"
+      "on_waivers_until": null,
+      "waiver_status": "free agent now"
     },
     {
       "player": "Jaleel McLaughlin (RB, CLE)",
@@ -800,128 +800,128 @@
   "trending_adds": [
     {
       "player": "Konata Mumpfield (WR, LAR)",
-      "adds": 781731,
+      "adds": 886095,
       "rostered_by": 3
     },
     {
+      "player": "Tyler Higbee (TE, LAR)",
+      "adds": 460863,
+      "rostered_by": null
+    },
+    {
       "player": "Roschon Johnson (RB, CHI)",
-      "adds": 565880,
+      "adds": 358016,
       "rostered_by": 5
     },
     {
-      "player": "Tyler Higbee (TE, LAR)",
-      "adds": 419598,
+      "player": "Seth McGowan (RB, IND)",
+      "adds": 349896,
       "rostered_by": null
     },
     {
       "player": "Chase McLaughlin (K, TB)",
-      "adds": 330024,
+      "adds": 284864,
       "rostered_by": 10
     },
     {
-      "player": "Seth McGowan (RB, IND)",
-      "adds": 297824,
-      "rostered_by": null
-    },
-    {
       "player": "Michael Mayer (TE, LV)",
-      "adds": 253143,
+      "adds": 233037,
       "rostered_by": 12
     },
     {
       "player": "Jake Bates (K, DET)",
-      "adds": 235864,
+      "adds": 201720,
       "rostered_by": 11
     },
     {
       "player": "Cleveland Browns (DEF, CLE)",
-      "adds": 230328,
+      "adds": 189196,
       "rostered_by": 1
     },
     {
       "player": "Zonovan Knight (RB, ARI)",
-      "adds": 191016,
+      "adds": 178542,
       "rostered_by": null
     },
     {
+      "player": "Chris Godwin Jr. (WR, TB)",
+      "adds": 161982,
+      "rostered_by": 10
+    },
+    {
       "player": "C.J. Stroud (QB, HOU)",
-      "adds": 167895,
+      "adds": 143948,
       "rostered_by": 3
     },
     {
       "player": "Brandon McManus (K, LAR)",
-      "adds": 157952,
+      "adds": 138368,
       "rostered_by": 6
     },
     {
-      "player": "Kyler Murray (QB, MIN)",
-      "adds": 145344,
+      "player": "Malik Washington (WR, MIA)",
+      "adds": 134448,
       "rostered_by": null
     },
     {
       "player": "Tyler Allgeier (RB, ARI)",
-      "adds": 142345,
+      "adds": 134260,
       "rostered_by": 9
     },
     {
-      "player": "Malik Washington (WR, MIA)",
-      "adds": 131160,
+      "player": "Ryan Flournoy (WR, DAL)",
+      "adds": 130152,
       "rostered_by": null
+    },
+    {
+      "player": "Kyler Murray (QB, MIN)",
+      "adds": 128328,
+      "rostered_by": null
+    },
+    {
+      "player": "Emanuel Wilson (RB, SEA)",
+      "adds": 112923,
+      "rostered_by": 7
     },
     {
       "player": "Omar Cooper Jr. (WR, NYJ)",
-      "adds": 127280,
+      "adds": 111664,
       "rostered_by": 11
     },
     {
-      "player": "Ryan Flournoy (WR, DAL)",
-      "adds": 119016,
-      "rostered_by": null
-    },
-    {
       "player": "Treylon Burks (WR, WAS)",
-      "adds": 118272,
-      "rostered_by": null
-    },
-    {
-      "player": "Bo Nix (QB, DEN)",
-      "adds": 101064,
-      "rostered_by": 10
-    },
-    {
-      "player": "Tre Tucker (WR, LV)",
-      "adds": 99720,
-      "rostered_by": 5
-    },
-    {
-      "player": "Chris Godwin Jr. (WR, TB)",
-      "adds": 99606,
-      "rostered_by": 10
-    },
-    {
-      "player": "Jordan Addison (WR, MIN)",
-      "adds": 97758,
+      "adds": 106218,
       "rostered_by": null
     },
     {
       "player": "Brandin Cooks (WR, SF)",
-      "adds": 89904,
+      "adds": 100788,
       "rostered_by": null
     },
     {
-      "player": "Tanner McKee (QB, PHI)",
-      "adds": 86576,
+      "player": "Jordan Addison (WR, MIN)",
+      "adds": 94050,
+      "rostered_by": null
+    },
+    {
+      "player": "Tre Tucker (WR, LV)",
+      "adds": 93930,
+      "rostered_by": 5
+    },
+    {
+      "player": "Bo Nix (QB, DEN)",
+      "adds": 89658,
+      "rostered_by": 10
+    },
+    {
+      "player": "Colby Parkinson (TE, LAR)",
+      "adds": 89124,
       "rostered_by": null
     },
     {
       "player": "Courtland Sutton (WR, DEN)",
-      "adds": 84843,
+      "adds": 85086,
       "rostered_by": null
-    },
-    {
-      "player": "New York Jets (DEF, NYJ)",
-      "adds": 83746,
-      "rostered_by": 7
     }
   ]
 }
