@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-23T09:35:25.630432-04:00",
+  "generated": "2026-10-23T14:28:54.709909-04:00",
   "season": "2026",
   "week": 7,
   "league": {
@@ -604,8 +604,8 @@
       "player": "Jaleel McLaughlin (RB, CLE)",
       "dropped_by": "Holla",
       "dropped_at": "2026-10-21T09:58:12.493000-04:00",
-      "on_waivers_until": "2026-10-23T09:58:12.493000-04:00",
-      "waiver_status": "on waivers until Fri Oct 23, 9:58 AM ET"
+      "on_waivers_until": null,
+      "waiver_status": "free agent now"
     },
     {
       "player": "Terry McLaurin (WR, WAS) [Out]",
@@ -799,129 +799,129 @@
   ],
   "trending_adds": [
     {
-      "player": "Roschon Johnson (RB, CHI)",
-      "adds": 824032,
-      "rostered_by": 5
-    },
-    {
       "player": "Konata Mumpfield (WR, LAR)",
-      "adds": 705789,
+      "adds": 781731,
       "rostered_by": 3
     },
     {
-      "player": "Chase McLaughlin (K, TB)",
-      "adds": 377336,
-      "rostered_by": 10
+      "player": "Roschon Johnson (RB, CHI)",
+      "adds": 565880,
+      "rostered_by": 5
     },
     {
       "player": "Tyler Higbee (TE, LAR)",
-      "adds": 360567,
+      "adds": 419598,
       "rostered_by": null
     },
     {
-      "player": "Cleveland Browns (DEF, CLE)",
-      "adds": 279972,
-      "rostered_by": 1
-    },
-    {
-      "player": "Jake Bates (K, DET)",
-      "adds": 269696,
-      "rostered_by": 11
-    },
-    {
-      "player": "Michael Mayer (TE, LV)",
-      "adds": 264456,
-      "rostered_by": 12
+      "player": "Chase McLaughlin (K, TB)",
+      "adds": 330024,
+      "rostered_by": 10
     },
     {
       "player": "Seth McGowan (RB, IND)",
-      "adds": 241552,
+      "adds": 297824,
       "rostered_by": null
     },
     {
+      "player": "Michael Mayer (TE, LV)",
+      "adds": 253143,
+      "rostered_by": 12
+    },
+    {
+      "player": "Jake Bates (K, DET)",
+      "adds": 235864,
+      "rostered_by": 11
+    },
+    {
+      "player": "Cleveland Browns (DEF, CLE)",
+      "adds": 230328,
+      "rostered_by": 1
+    },
+    {
       "player": "Zonovan Knight (RB, ARI)",
-      "adds": 214912,
+      "adds": 191016,
       "rostered_by": null
     },
     {
       "player": "C.J. Stroud (QB, HOU)",
-      "adds": 193711,
+      "adds": 167895,
       "rostered_by": 3
     },
     {
       "player": "Brandon McManus (K, LAR)",
-      "adds": 175912,
+      "adds": 157952,
       "rostered_by": 6
     },
     {
       "player": "Kyler Murray (QB, MIN)",
-      "adds": 168136,
+      "adds": 145344,
       "rostered_by": null
     },
     {
       "player": "Tyler Allgeier (RB, ARI)",
-      "adds": 156220,
+      "adds": 142345,
       "rostered_by": 9
     },
     {
+      "player": "Malik Washington (WR, MIA)",
+      "adds": 131160,
+      "rostered_by": null
+    },
+    {
       "player": "Omar Cooper Jr. (WR, NYJ)",
-      "adds": 148352,
+      "adds": 127280,
       "rostered_by": 11
     },
     {
-      "player": "Treylon Burks (WR, WAS)",
-      "adds": 134589,
-      "rostered_by": null
-    },
-    {
-      "player": "Malik Washington (WR, MIA)",
-      "adds": 132760,
-      "rostered_by": null
-    },
-    {
       "player": "Ryan Flournoy (WR, DAL)",
-      "adds": 115392,
+      "adds": 119016,
+      "rostered_by": null
+    },
+    {
+      "player": "Treylon Burks (WR, WAS)",
+      "adds": 118272,
       "rostered_by": null
     },
     {
       "player": "Bo Nix (QB, DEN)",
-      "adds": 113544,
+      "adds": 101064,
       "rostered_by": 10
     },
     {
       "player": "Tre Tucker (WR, LV)",
-      "adds": 109350,
+      "adds": 99720,
       "rostered_by": 5
     },
     {
+      "player": "Chris Godwin Jr. (WR, TB)",
+      "adds": 99606,
+      "rostered_by": 10
+    },
+    {
       "player": "Jordan Addison (WR, MIN)",
-      "adds": 102042,
-      "rostered_by": null
-    },
-    {
-      "player": "New York Jets (DEF, NYJ)",
-      "adds": 101038,
-      "rostered_by": 7
-    },
-    {
-      "player": "Tanner McKee (QB, PHI)",
-      "adds": 96808,
+      "adds": 97758,
       "rostered_by": null
     },
     {
       "player": "Brandin Cooks (WR, SF)",
-      "adds": 94116,
+      "adds": 89904,
       "rostered_by": null
     },
     {
-      "player": "Aaron Rodgers (QB, PIT)",
-      "adds": 90788,
-      "rostered_by": 2
+      "player": "Tanner McKee (QB, PHI)",
+      "adds": 86576,
+      "rostered_by": null
     },
     {
       "player": "Courtland Sutton (WR, DEN)",
-      "adds": 85644,
+      "adds": 84843,
       "rostered_by": null
+    },
+    {
+      "player": "New York Jets (DEF, NYJ)",
+      "adds": 83746,
+      "rostered_by": 7
     }
   ]
 }
