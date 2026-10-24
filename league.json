@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-24T03:24:41.031241-04:00",
+  "generated": "2026-10-24T08:46:17.015697-04:00",
   "season": "2026",
   "week": 7,
   "league": {
@@ -800,128 +800,128 @@
   "trending_adds": [
     {
       "player": "Konata Mumpfield (WR, LAR)",
-      "adds": 422658,
+      "adds": 402426,
       "rostered_by": 3
     },
     {
-      "player": "Tyler Higbee (TE, LAR)",
-      "adds": 311382,
+      "player": "Seth McGowan (RB, IND)",
+      "adds": 310944,
       "rostered_by": null
     },
     {
-      "player": "Seth McGowan (RB, IND)",
-      "adds": 311376,
+      "player": "Tyler Higbee (TE, LAR)",
+      "adds": 299106,
       "rostered_by": null
     },
     {
       "player": "Chris Godwin Jr. (WR, TB)",
-      "adds": 189294,
+      "adds": 197544,
       "rostered_by": 10
     },
     {
       "player": "Emanuel Wilson (RB, SEA)",
-      "adds": 170163,
+      "adds": 182142,
       "rostered_by": 7
     },
     {
       "player": "Michael Mayer (TE, LV)",
-      "adds": 135468,
+      "adds": 130833,
       "rostered_by": 12
     },
     {
       "player": "Ted Hurst III (WR, TB)",
-      "adds": 117270,
+      "adds": 126288,
       "rostered_by": null
     },
     {
       "player": "Zonovan Knight (RB, ARI)",
-      "adds": 105482,
+      "adds": 100830,
       "rostered_by": null
     },
     {
       "player": "Brandin Cooks (WR, SF)",
-      "adds": 88484,
+      "adds": 90104,
       "rostered_by": null
     },
     {
       "player": "Ryan Flournoy (WR, DAL)",
-      "adds": 86920,
+      "adds": 82264,
       "rostered_by": null
     },
     {
       "player": "Malik Washington (WR, MIA)",
-      "adds": 81248,
+      "adds": 77240,
       "rostered_by": null
     },
     {
-      "player": "Chase McLaughlin (K, TB)",
-      "adds": 78112,
-      "rostered_by": 10
-    },
-    {
       "player": "Tyler Allgeier (RB, ARI)",
-      "adds": 77710,
+      "adds": 73005,
       "rostered_by": 9
     },
     {
       "player": "Adonai Mitchell (WR, NYJ) [Questionable]",
-      "adds": 67336,
+      "adds": 71160,
       "rostered_by": null
     },
     {
+      "player": "Chase McLaughlin (K, TB)",
+      "adds": 68888,
+      "rostered_by": 10
+    },
+    {
       "player": "Caleb Douglas (WR, MIA) [Questionable]",
-      "adds": 61256,
+      "adds": 64696,
       "rostered_by": null
     },
     {
       "player": "Jordan Watkins (WR, SF)",
-      "adds": 59948,
+      "adds": 62372,
       "rostered_by": null
     },
     {
       "player": "Colby Parkinson (TE, LAR)",
-      "adds": 59622,
+      "adds": 58356,
       "rostered_by": null
     },
     {
+      "player": "Xavier Worthy (WR, KC)",
+      "adds": 54891,
+      "rostered_by": 5
+    },
+    {
       "player": "Cleveland Browns (DEF, CLE)",
-      "adds": 59535,
+      "adds": 53571,
       "rostered_by": 1
     },
     {
       "player": "Jordan Addison (WR, MIN)",
-      "adds": 54576,
+      "adds": 50823,
+      "rostered_by": null
+    },
+    {
+      "player": "Kyle Pitts Sr. (TE, ATL)",
+      "adds": 50379,
+      "rostered_by": 10
+    },
+    {
+      "player": "KC Concepcion Jr. (WR, CLE) [Questionable]",
+      "adds": 50355,
+      "rostered_by": null
+    },
+    {
+      "player": "Kyler Murray (QB, MIN)",
+      "adds": 48080,
       "rostered_by": null
     },
     {
       "player": "Jake Bates (K, DET)",
-      "adds": 53840,
+      "adds": 47256,
       "rostered_by": 11
     },
     {
-      "player": "Xavier Worthy (WR, KC)",
-      "adds": 52902,
-      "rostered_by": 5
-    },
-    {
-      "player": "Kyle Pitts Sr. (TE, ATL)",
-      "adds": 52269,
-      "rostered_by": 10
-    },
-    {
-      "player": "Kyler Murray (QB, MIN)",
-      "adds": 52248,
-      "rostered_by": null
-    },
-    {
-      "player": "Omar Cooper Jr. (WR, NYJ)",
-      "adds": 51248,
+      "player": "Keenan Allen (WR, IND)",
+      "adds": 47120,
       "rostered_by": 11
-    },
-    {
-      "player": "KC Concepcion Jr. (WR, CLE) [Questionable]",
-      "adds": 50319,
-      "rostered_by": null
     }
   ]
 }
