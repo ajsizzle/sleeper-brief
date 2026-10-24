@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-24T12:42:05.224207-04:00",
+  "generated": "2026-10-24T15:33:52.412153-04:00",
   "season": "2026",
   "week": 7,
   "league": {
@@ -799,129 +799,129 @@
   ],
   "trending_adds": [
     {
-      "player": "Konata Mumpfield (WR, LAR)",
-      "adds": 389286,
-      "rostered_by": 3
-    },
-    {
       "player": "Seth McGowan (RB, IND)",
-      "adds": 325608,
+      "adds": 342208,
       "rostered_by": null
     },
     {
+      "player": "Konata Mumpfield (WR, LAR)",
+      "adds": 294174,
+      "rostered_by": 3
+    },
+    {
+      "player": "Emanuel Wilson (RB, SEA)",
+      "adds": 224748,
+      "rostered_by": 7
+    },
+    {
       "player": "Tyler Higbee (TE, LAR)",
-      "adds": 298314,
+      "adds": 202959,
       "rostered_by": null
     },
     {
       "player": "Chris Godwin Jr. (WR, TB)",
-      "adds": 217680,
+      "adds": 172188,
       "rostered_by": 10
     },
     {
-      "player": "Emanuel Wilson (RB, SEA)",
-      "adds": 209421,
-      "rostered_by": 7
-    },
-    {
       "player": "Ted Hurst III (WR, TB)",
-      "adds": 143664,
-      "rostered_by": null
-    },
-    {
-      "player": "Michael Mayer (TE, LV)",
-      "adds": 130779,
-      "rostered_by": 12
-    },
-    {
-      "player": "Zonovan Knight (RB, ARI)",
-      "adds": 98794,
+      "adds": 114144,
       "rostered_by": null
     },
     {
       "player": "Brandin Cooks (WR, SF)",
-      "adds": 95968,
+      "adds": 89224,
       "rostered_by": null
     },
     {
-      "player": "Ryan Flournoy (WR, DAL)",
-      "adds": 79264,
-      "rostered_by": null
+      "player": "Michael Mayer (TE, LV)",
+      "adds": 85338,
+      "rostered_by": 12
     },
     {
-      "player": "Malik Washington (WR, MIA)",
-      "adds": 74120,
-      "rostered_by": null
-    },
-    {
-      "player": "Adonai Mitchell (WR, NYJ)",
-      "adds": 70928,
-      "rostered_by": null
-    },
-    {
-      "player": "Tyler Allgeier (RB, ARI)",
-      "adds": 69505,
-      "rostered_by": 9
-    },
-    {
-      "player": "Caleb Douglas (WR, MIA)",
-      "adds": 68144,
+      "player": "Zonovan Knight (RB, ARI)",
+      "adds": 79352,
       "rostered_by": null
     },
     {
       "player": "Jordan Watkins (WR, SF)",
-      "adds": 67244,
+      "adds": 64092,
       "rostered_by": null
     },
     {
       "player": "Xavier Worthy (WR, KC)",
-      "adds": 63306,
+      "adds": 62082,
       "rostered_by": 5
     },
     {
+      "player": "Adonai Mitchell (WR, NYJ)",
+      "adds": 59440,
+      "rostered_by": null
+    },
+    {
+      "player": "Caleb Douglas (WR, MIA)",
+      "adds": 55680,
+      "rostered_by": null
+    },
+    {
+      "player": "Ryan Flournoy (WR, DAL)",
+      "adds": 54024,
+      "rostered_by": null
+    },
+    {
+      "player": "Tyler Allgeier (RB, ARI)",
+      "adds": 53095,
+      "rostered_by": 9
+    },
+    {
       "player": "Chase McLaughlin (K, TB)",
-      "adds": 61320,
+      "adds": 51552,
       "rostered_by": 10
     },
     {
-      "player": "Colby Parkinson (TE, LAR)",
-      "adds": 58854,
-      "rostered_by": null
-    },
-    {
-      "player": "KC Concepcion Jr. (WR, CLE)",
-      "adds": 52461,
-      "rostered_by": null
-    },
-    {
-      "player": "Kyle Pitts Sr. (TE, ATL)",
-      "adds": 50344,
-      "rostered_by": 10
-    },
-    {
-      "player": "Cleveland Browns (DEF, CLE)",
-      "adds": 49924,
-      "rostered_by": 1
-    },
-    {
-      "player": "Keenan Allen (WR, IND)",
-      "adds": 48892,
-      "rostered_by": 11
-    },
-    {
-      "player": "Cade Otton (TE, TB)",
-      "adds": 46974,
+      "player": "Malik Washington (WR, MIA)",
+      "adds": 49368,
       "rostered_by": null
     },
     {
       "player": "Kyler Murray (QB, MIN)",
-      "adds": 46768,
+      "adds": 43840,
       "rostered_by": null
     },
     {
-      "player": "Jordan Addison (WR, MIN)",
-      "adds": 46764,
+      "player": "Cleveland Browns (DEF, CLE)",
+      "adds": 43253,
+      "rostered_by": 1
+    },
+    {
+      "player": "KC Concepcion Jr. (WR, CLE)",
+      "adds": 42336,
       "rostered_by": null
+    },
+    {
+      "player": "Justice Hill (RB, BAL)",
+      "adds": 42273,
+      "rostered_by": null
+    },
+    {
+      "player": "Colby Parkinson (TE, LAR)",
+      "adds": 40482,
+      "rostered_by": null
+    },
+    {
+      "player": "Will Mallory (TE, IND)",
+      "adds": 40176,
+      "rostered_by": null
+    },
+    {
+      "player": "Keenan Allen (WR, IND)",
+      "adds": 37544,
+      "rostered_by": 11
+    },
+    {
+      "player": "Jake Bates (K, DET)",
+      "adds": 36872,
+      "rostered_by": 11
     }
   ]
 }
