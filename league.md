@@ -1,5 +1,5 @@
 # Sleeper league state
-Generated Friday October 23, 2026 09:41 PM ET · Season 2026 · NFL week 7
+Generated Saturday October 24, 2026 03:24 AM ET · Season 2026 · NFL week 7
 League: The Dudes Will Roll · 12 teams · waivers: FAAB (budget $200) · lineup: QB, RB, RB, WR, WR, TE, FLEX, K, DEF
 
 ## My team: THE ACE OF SPADES (roster 11)
@@ -188,30 +188,30 @@ Bench: Tyrone Tracy Jr. (RB, NYG); Quinshon Judkins (RB, CLE) [Questionable]; Em
 - Kenyon Sadiq (TE, NYJ) · dropped by FuelTheJET on Wed Oct 14, 6:46 AM ET · free agent now
 
 ## Trending adds across Sleeper, last 24 hours
-- Konata Mumpfield (WR, LAR) · 488,808 adds · rostered by Drunk To Taste This CHX
-- Tyler Higbee (TE, LAR) · 341,199 adds · AVAILABLE in my league
-- Seth McGowan (RB, IND) · 309,920 adds · AVAILABLE in my league
-- Chris Godwin Jr. (WR, TB) · 170,034 adds · rostered by Strokin My Ditka
-- Michael Mayer (TE, LV) · 155,223 adds · rostered by Young Blood
-- Emanuel Wilson (RB, SEA) · 140,931 adds · rostered by Make Miami Great Again
-- Zonovan Knight (RB, ARI) · 122,364 adds · AVAILABLE in my league
-- Chase McLaughlin (K, TB) · 117,624 adds · rostered by Strokin My Ditka
-- Ryan Flournoy (WR, DAL) · 100,504 adds · AVAILABLE in my league
-- Ted Hurst III (WR, TB) · 98,706 adds · AVAILABLE in my league
-- Malik Washington (WR, MIA) · 95,600 adds · AVAILABLE in my league
-- Tyler Allgeier (RB, ARI) · 92,175 adds · rostered by Team 9
-- Brandin Cooks (WR, SF) · 84,212 adds · AVAILABLE in my league
-- Cleveland Browns (DEF, CLE) · 83,580 adds · rostered by Whiskey Sippin Kings
-- Jake Bates (K, DET) · 80,528 adds · on my roster
-- C.J. Stroud (QB, HOU) · 70,203 adds · rostered by Drunk To Taste This CHX
-- Kyler Murray (QB, MIN) · 67,528 adds · AVAILABLE in my league
-- Omar Cooper Jr. (WR, NYJ) · 67,000 adds · on my roster
-- Jordan Addison (WR, MIN) · 66,303 adds · AVAILABLE in my league
-- Treylon Burks (WR, WAS) · 66,122 adds · AVAILABLE in my league
-- Colby Parkinson (TE, LAR) · 64,200 adds · AVAILABLE in my league
-- Tre Tucker (WR, LV) · 61,206 adds · rostered by Springfield Atoms
-- Kyle Pitts Sr. (TE, ATL) · 58,982 adds · rostered by Strokin My Ditka
-- Courtland Sutton (WR, DEN) · 58,725 adds · AVAILABLE in my league
-- Adonai Mitchell (WR, NYJ) [Questionable] · 58,512 adds · AVAILABLE in my league
+- Konata Mumpfield (WR, LAR) · 422,658 adds · rostered by Drunk To Taste This CHX
+- Tyler Higbee (TE, LAR) · 311,382 adds · AVAILABLE in my league
+- Seth McGowan (RB, IND) · 311,376 adds · AVAILABLE in my league
+- Chris Godwin Jr. (WR, TB) · 189,294 adds · rostered by Strokin My Ditka
+- Emanuel Wilson (RB, SEA) · 170,163 adds · rostered by Make Miami Great Again
+- Michael Mayer (TE, LV) · 135,468 adds · rostered by Young Blood
+- Ted Hurst III (WR, TB) · 117,270 adds · AVAILABLE in my league
+- Zonovan Knight (RB, ARI) · 105,482 adds · AVAILABLE in my league
+- Brandin Cooks (WR, SF) · 88,484 adds · AVAILABLE in my league
+- Ryan Flournoy (WR, DAL) · 86,920 adds · AVAILABLE in my league
+- Malik Washington (WR, MIA) · 81,248 adds · AVAILABLE in my league
+- Chase McLaughlin (K, TB) · 78,112 adds · rostered by Strokin My Ditka
+- Tyler Allgeier (RB, ARI) · 77,710 adds · rostered by Team 9
+- Adonai Mitchell (WR, NYJ) [Questionable] · 67,336 adds · AVAILABLE in my league
+- Caleb Douglas (WR, MIA) [Questionable] · 61,256 adds · AVAILABLE in my league
+- Jordan Watkins (WR, SF) · 59,948 adds · AVAILABLE in my league
+- Colby Parkinson (TE, LAR) · 59,622 adds · AVAILABLE in my league
+- Cleveland Browns (DEF, CLE) · 59,535 adds · rostered by Whiskey Sippin Kings
+- Jordan Addison (WR, MIN) · 54,576 adds · AVAILABLE in my league
+- Jake Bates (K, DET) · 53,840 adds · on my roster
+- Xavier Worthy (WR, KC) · 52,902 adds · rostered by Springfield Atoms
+- Kyle Pitts Sr. (TE, ATL) · 52,269 adds · rostered by Strokin My Ditka
+- Kyler Murray (QB, MIN) · 52,248 adds · AVAILABLE in my league
+- Omar Cooper Jr. (WR, NYJ) · 51,248 adds · on my roster
+- KC Concepcion Jr. (WR, CLE) [Questionable] · 50,319 adds · AVAILABLE in my league
 
 Data from the Sleeper API (sleeper.com). Injury tags in brackets are Sleeper's designations and may lag official reports.

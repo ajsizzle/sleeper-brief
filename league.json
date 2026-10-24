@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-23T21:41:53.908673-04:00",
+  "generated": "2026-10-24T03:24:41.031241-04:00",
   "season": "2026",
   "week": 7,
   "league": {
@@ -800,127 +800,127 @@
   "trending_adds": [
     {
       "player": "Konata Mumpfield (WR, LAR)",
-      "adds": 488808,
+      "adds": 422658,
       "rostered_by": 3
     },
     {
       "player": "Tyler Higbee (TE, LAR)",
-      "adds": 341199,
+      "adds": 311382,
       "rostered_by": null
     },
     {
       "player": "Seth McGowan (RB, IND)",
-      "adds": 309920,
+      "adds": 311376,
       "rostered_by": null
     },
     {
       "player": "Chris Godwin Jr. (WR, TB)",
-      "adds": 170034,
+      "adds": 189294,
       "rostered_by": 10
-    },
-    {
-      "player": "Michael Mayer (TE, LV)",
-      "adds": 155223,
-      "rostered_by": 12
     },
     {
       "player": "Emanuel Wilson (RB, SEA)",
-      "adds": 140931,
+      "adds": 170163,
       "rostered_by": 7
     },
     {
-      "player": "Zonovan Knight (RB, ARI)",
-      "adds": 122364,
-      "rostered_by": null
-    },
-    {
-      "player": "Chase McLaughlin (K, TB)",
-      "adds": 117624,
-      "rostered_by": 10
-    },
-    {
-      "player": "Ryan Flournoy (WR, DAL)",
-      "adds": 100504,
-      "rostered_by": null
+      "player": "Michael Mayer (TE, LV)",
+      "adds": 135468,
+      "rostered_by": 12
     },
     {
       "player": "Ted Hurst III (WR, TB)",
-      "adds": 98706,
+      "adds": 117270,
+      "rostered_by": null
+    },
+    {
+      "player": "Zonovan Knight (RB, ARI)",
+      "adds": 105482,
+      "rostered_by": null
+    },
+    {
+      "player": "Brandin Cooks (WR, SF)",
+      "adds": 88484,
+      "rostered_by": null
+    },
+    {
+      "player": "Ryan Flournoy (WR, DAL)",
+      "adds": 86920,
       "rostered_by": null
     },
     {
       "player": "Malik Washington (WR, MIA)",
-      "adds": 95600,
+      "adds": 81248,
       "rostered_by": null
+    },
+    {
+      "player": "Chase McLaughlin (K, TB)",
+      "adds": 78112,
+      "rostered_by": 10
     },
     {
       "player": "Tyler Allgeier (RB, ARI)",
-      "adds": 92175,
+      "adds": 77710,
       "rostered_by": 9
     },
     {
-      "player": "Brandin Cooks (WR, SF)",
-      "adds": 84212,
+      "player": "Adonai Mitchell (WR, NYJ) [Questionable]",
+      "adds": 67336,
       "rostered_by": null
     },
     {
-      "player": "Cleveland Browns (DEF, CLE)",
-      "adds": 83580,
-      "rostered_by": 1
-    },
-    {
-      "player": "Jake Bates (K, DET)",
-      "adds": 80528,
-      "rostered_by": 11
-    },
-    {
-      "player": "C.J. Stroud (QB, HOU)",
-      "adds": 70203,
-      "rostered_by": 3
-    },
-    {
-      "player": "Kyler Murray (QB, MIN)",
-      "adds": 67528,
+      "player": "Caleb Douglas (WR, MIA) [Questionable]",
+      "adds": 61256,
       "rostered_by": null
     },
     {
-      "player": "Omar Cooper Jr. (WR, NYJ)",
-      "adds": 67000,
-      "rostered_by": 11
-    },
-    {
-      "player": "Jordan Addison (WR, MIN)",
-      "adds": 66303,
-      "rostered_by": null
-    },
-    {
-      "player": "Treylon Burks (WR, WAS)",
-      "adds": 66122,
+      "player": "Jordan Watkins (WR, SF)",
+      "adds": 59948,
       "rostered_by": null
     },
     {
       "player": "Colby Parkinson (TE, LAR)",
-      "adds": 64200,
+      "adds": 59622,
       "rostered_by": null
     },
     {
-      "player": "Tre Tucker (WR, LV)",
-      "adds": 61206,
+      "player": "Cleveland Browns (DEF, CLE)",
+      "adds": 59535,
+      "rostered_by": 1
+    },
+    {
+      "player": "Jordan Addison (WR, MIN)",
+      "adds": 54576,
+      "rostered_by": null
+    },
+    {
+      "player": "Jake Bates (K, DET)",
+      "adds": 53840,
+      "rostered_by": 11
+    },
+    {
+      "player": "Xavier Worthy (WR, KC)",
+      "adds": 52902,
       "rostered_by": 5
     },
     {
       "player": "Kyle Pitts Sr. (TE, ATL)",
-      "adds": 58982,
+      "adds": 52269,
       "rostered_by": 10
     },
     {
-      "player": "Courtland Sutton (WR, DEN)",
-      "adds": 58725,
+      "player": "Kyler Murray (QB, MIN)",
+      "adds": 52248,
       "rostered_by": null
     },
     {
-      "player": "Adonai Mitchell (WR, NYJ) [Questionable]",
-      "adds": 58512,
+      "player": "Omar Cooper Jr. (WR, NYJ)",
+      "adds": 51248,
+      "rostered_by": 11
+    },
+    {
+      "player": "KC Concepcion Jr. (WR, CLE) [Questionable]",
+      "adds": 50319,
       "rostered_by": null
     }
   ]
