@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-24T15:33:52.412153-04:00",
+  "generated": "2026-10-24T18:34:07.835423-04:00",
   "season": "2026",
   "week": 7,
   "league": {
@@ -98,19 +98,19 @@
         "Jordan Love (QB, GB)",
         "Jahmyr Gibbs (RB, DET)",
         "Blake Corum (RB, LAR)",
-        "DeVonta Smith (WR, PHI) [Questionable]",
+        "Germie Bernard (WR, PIT)",
         "Malik Nabers (WR, NYG)",
         "Trey McBride (TE, ARI)",
         "Matthew Golden (WR, GB)",
-        "Brandon McManus (K, LAR)",
+        "Matt Gay (K, LV)",
         "Seattle Seahawks (DEF, SEA)"
       ],
       "bench": [
         "Cam Little (K, JAX)",
-        "Germie Bernard (WR, PIT)",
         "Ja'Kobi Lane (WR, BAL)",
         "Kaelon Black (RB, SF)",
         "Lamar Jackson (QB, BAL) [Questionable]",
+        "DeVonta Smith (WR, PHI) [Questionable]",
         "Parker Washington (WR, JAX)"
       ],
       "ir": [
@@ -207,7 +207,7 @@
       ],
       "bench": [
         "Tre Tucker (WR, LV)",
-        "Brian Thomas Jr. (WR, JAX)",
+        "Devaughn Vele (WR, NO)",
         "Josh Allen (QB, BUF)",
         "David Montgomery (RB, HOU) [Out]",
         "Travis Etienne Jr. (RB, NO) [IR]",
@@ -374,12 +374,10 @@
         "Patrick Mahomes (QB, KC)",
         "Dallas Goedert (TE, PHI) [Questionable]",
         "Jakobi Meyers (WR, JAX)",
-        "Romeo Doubs (WR, NE) [IR]",
+        "Jordan Mason (RB, MIN) [IR]",
         "Kansas City Chiefs (DEF, KC)"
       ],
-      "ir": [
-        "Jordan Mason (RB, MIN) [IR]"
-      ]
+      "ir": []
     },
     {
       "roster_id": 10,
@@ -479,6 +477,9 @@
     }
   ],
   "transactions": [
+    "Week 7 \u00b7 free_agent \u00b7 complete \u00b7 Sat Oct 24 05:25 PM \u00b7 Holla \u00b7 dropped: Romeo Doubs (WR, NE) [IR] from Holla",
+    "Week 7 \u00b7 free_agent \u00b7 complete \u00b7 Sat Oct 24 04:09 PM \u00b7 Springfield Atoms \u00b7 added: Devaughn Vele (WR, NO) to Springfield Atoms \u00b7 dropped: Brian Thomas Jr. (WR, JAX) from Springfield Atoms",
+    "Week 7 \u00b7 free_agent \u00b7 complete \u00b7 Sat Oct 24 04:05 PM \u00b7 FuelTheJET \u00b7 added: Matt Gay (K, LV) to FuelTheJET \u00b7 dropped: Brandon McManus (K, LAR) from FuelTheJET",
     "Week 7 \u00b7 free_agent \u00b7 complete \u00b7 Thu Oct 22 10:16 PM \u00b7 Thoroughbred Cheesehead \u00b7 added: Dallas Cowboys (DEF, DAL) to Thoroughbred Cheesehead \u00b7 dropped: KC Concepcion Jr. (WR, CLE) from Thoroughbred Cheesehead",
     "Week 7 \u00b7 free_agent \u00b7 complete \u00b7 Thu Oct 22 10:15 PM \u00b7 Thoroughbred Cheesehead \u00b7 added: Rico Dowdle (RB, PIT) [Questionable] to Thoroughbred Cheesehead \u00b7 dropped: Cam Ward (QB, TEN) from Thoroughbred Cheesehead",
     "Week 7 \u00b7 free_agent \u00b7 complete \u00b7 Thu Oct 22 10:14 PM \u00b7 Thoroughbred Cheesehead \u00b7 added: Mark Andrews (TE, BAL) to Thoroughbred Cheesehead \u00b7 dropped: Austin Ekeler (RB, WAS) from Thoroughbred Cheesehead",
@@ -531,6 +532,27 @@
   ],
   "dropped_unrostered": [
     {
+      "player": "Romeo Doubs (WR, NE) [IR]",
+      "dropped_by": "Holla",
+      "dropped_at": "2026-10-24T17:25:26.266000-04:00",
+      "on_waivers_until": "2026-10-26T17:25:26.266000-04:00",
+      "waiver_status": "on waivers until Mon Oct 26, 5:25 PM ET"
+    },
+    {
+      "player": "Brian Thomas Jr. (WR, JAX)",
+      "dropped_by": "Springfield Atoms",
+      "dropped_at": "2026-10-24T16:09:55.318000-04:00",
+      "on_waivers_until": "2026-10-26T16:09:55.318000-04:00",
+      "waiver_status": "on waivers until Mon Oct 26, 4:09 PM ET"
+    },
+    {
+      "player": "Brandon McManus (K, LAR)",
+      "dropped_by": "FuelTheJET",
+      "dropped_at": "2026-10-24T16:05:30.740000-04:00",
+      "on_waivers_until": "2026-10-26T16:05:30.740000-04:00",
+      "waiver_status": "on waivers until Mon Oct 26, 4:05 PM ET"
+    },
+    {
       "player": "KC Concepcion Jr. (WR, CLE)",
       "dropped_by": "Thoroughbred Cheesehead",
       "dropped_at": "2026-10-22T22:16:37.602000-04:00",
@@ -562,8 +584,8 @@
       "player": "Courtland Sutton (WR, DEN)",
       "dropped_by": "Whiskey Sippin Kings",
       "dropped_at": "2026-10-22T16:38:31.627000-04:00",
-      "on_waivers_until": "2026-10-24T16:38:31.627000-04:00",
-      "waiver_status": "on waivers until Sat Oct 24, 4:38 PM ET"
+      "on_waivers_until": null,
+      "waiver_status": "free agent now"
     },
     {
       "player": "Mike Gesicki (TE, CIN)",
@@ -590,13 +612,6 @@
       "player": "Chicago Bears (DEF, CHI)",
       "dropped_by": "Whiskey Sippin Kings",
       "dropped_at": "2026-10-21T15:30:32.814000-04:00",
-      "on_waivers_until": null,
-      "waiver_status": "free agent now"
-    },
-    {
-      "player": "Matt Gay (K, LV)",
-      "dropped_by": "Whiskey Sippin Kings",
-      "dropped_at": "2026-10-21T15:29:40.697000-04:00",
       "on_waivers_until": null,
       "waiver_status": "free agent now"
     },
@@ -659,13 +674,6 @@
     {
       "player": "Tyler Higbee (TE, LAR)",
       "dropped_by": "Young Blood",
-      "dropped_at": "2026-10-21T03:09:21.344000-04:00",
-      "on_waivers_until": null,
-      "waiver_status": "free agent now"
-    },
-    {
-      "player": "Devaughn Vele (WR, NO)",
-      "dropped_by": "FuelTheJET",
       "dropped_at": "2026-10-21T03:09:21.344000-04:00",
       "on_waivers_until": null,
       "waiver_status": "free agent now"
@@ -800,128 +808,128 @@
   "trending_adds": [
     {
       "player": "Seth McGowan (RB, IND)",
-      "adds": 342208,
+      "adds": 451440,
       "rostered_by": null
     },
     {
       "player": "Konata Mumpfield (WR, LAR)",
-      "adds": 294174,
+      "adds": 285057,
       "rostered_by": 3
     },
     {
       "player": "Emanuel Wilson (RB, SEA)",
-      "adds": 224748,
+      "adds": 192213,
       "rostered_by": 7
     },
     {
       "player": "Tyler Higbee (TE, LAR)",
-      "adds": 202959,
+      "adds": 180216,
       "rostered_by": null
     },
     {
       "player": "Chris Godwin Jr. (WR, TB)",
-      "adds": 172188,
+      "adds": 164724,
       "rostered_by": 10
     },
     {
+      "player": "Justice Hill (RB, BAL)",
+      "adds": 127791,
+      "rostered_by": null
+    },
+    {
       "player": "Ted Hurst III (WR, TB)",
-      "adds": 114144,
+      "adds": 113298,
       "rostered_by": null
     },
     {
       "player": "Brandin Cooks (WR, SF)",
-      "adds": 89224,
-      "rostered_by": null
-    },
-    {
-      "player": "Michael Mayer (TE, LV)",
-      "adds": 85338,
-      "rostered_by": 12
-    },
-    {
-      "player": "Zonovan Knight (RB, ARI)",
-      "adds": 79352,
-      "rostered_by": null
-    },
-    {
-      "player": "Jordan Watkins (WR, SF)",
-      "adds": 64092,
-      "rostered_by": null
-    },
-    {
-      "player": "Xavier Worthy (WR, KC)",
-      "adds": 62082,
-      "rostered_by": 5
-    },
-    {
-      "player": "Adonai Mitchell (WR, NYJ)",
-      "adds": 59440,
-      "rostered_by": null
-    },
-    {
-      "player": "Caleb Douglas (WR, MIA)",
-      "adds": 55680,
-      "rostered_by": null
-    },
-    {
-      "player": "Ryan Flournoy (WR, DAL)",
-      "adds": 54024,
-      "rostered_by": null
-    },
-    {
-      "player": "Tyler Allgeier (RB, ARI)",
-      "adds": 53095,
-      "rostered_by": 9
-    },
-    {
-      "player": "Chase McLaughlin (K, TB)",
-      "adds": 51552,
-      "rostered_by": 10
-    },
-    {
-      "player": "Malik Washington (WR, MIA)",
-      "adds": 49368,
+      "adds": 83804,
       "rostered_by": null
     },
     {
       "player": "Kyler Murray (QB, MIN)",
-      "adds": 43840,
+      "adds": 75688,
       "rostered_by": null
     },
     {
-      "player": "Cleveland Browns (DEF, CLE)",
-      "adds": 43253,
-      "rostered_by": 1
+      "player": "Michael Mayer (TE, LV)",
+      "adds": 74574,
+      "rostered_by": 12
+    },
+    {
+      "player": "Xavier Worthy (WR, KC)",
+      "adds": 69156,
+      "rostered_by": 5
+    },
+    {
+      "player": "Zonovan Knight (RB, ARI)",
+      "adds": 65338,
+      "rostered_by": null
+    },
+    {
+      "player": "Jordan Watkins (WR, SF)",
+      "adds": 61364,
+      "rostered_by": null
+    },
+    {
+      "player": "Adonai Mitchell (WR, NYJ)",
+      "adds": 55088,
+      "rostered_by": null
+    },
+    {
+      "player": "Caleb Douglas (WR, MIA)",
+      "adds": 52144,
+      "rostered_by": null
+    },
+    {
+      "player": "Chase McLaughlin (K, TB)",
+      "adds": 50968,
+      "rostered_by": 10
+    },
+    {
+      "player": "Bo Nix (QB, DEN)",
+      "adds": 48948,
+      "rostered_by": 10
+    },
+    {
+      "player": "Darius Cooper (WR, PHI)",
+      "adds": 48279,
+      "rostered_by": null
+    },
+    {
+      "player": "C.J. Stroud (QB, HOU)",
+      "adds": 46263,
+      "rostered_by": 3
     },
     {
       "player": "KC Concepcion Jr. (WR, CLE)",
-      "adds": 42336,
+      "adds": 45981,
       "rostered_by": null
     },
     {
-      "player": "Justice Hill (RB, BAL)",
-      "adds": 42273,
+      "player": "Malik Washington (WR, MIA)",
+      "adds": 45752,
       "rostered_by": null
     },
     {
-      "player": "Colby Parkinson (TE, LAR)",
-      "adds": 40482,
+      "player": "Tyler Allgeier (RB, ARI)",
+      "adds": 44865,
+      "rostered_by": 9
+    },
+    {
+      "player": "Aaron Rodgers (QB, PIT)",
+      "adds": 44760,
+      "rostered_by": 2
+    },
+    {
+      "player": "Cleveland Browns (DEF, CLE)",
+      "adds": 44009,
+      "rostered_by": 1
+    },
+    {
+      "player": "Ryan Flournoy (WR, DAL)",
+      "adds": 43968,
       "rostered_by": null
-    },
-    {
-      "player": "Will Mallory (TE, IND)",
-      "adds": 40176,
-      "rostered_by": null
-    },
-    {
-      "player": "Keenan Allen (WR, IND)",
-      "adds": 37544,
-      "rostered_by": 11
-    },
-    {
-      "player": "Jake Bates (K, DET)",
-      "adds": 36872,
-      "rostered_by": 11
     }
   ]
 }
