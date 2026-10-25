@@ -138,6 +138,7 @@ class Harness(unittest.TestCase):
         sb.HISTORY = root / "history"
         sb.OUT_SCORE = root / "scorecard.md"
         sb.now_et = lambda: dt.datetime(2026, 9, 15, 10, 0, tzinfo=sb.ET)   # a Tuesday
+        sb.get_abs = lambda url: None   # no live projections call from tests
         os.environ["LEAGUE_ID"] = LEAGUE_ID
         os.environ["SLEEPER_USERNAME"] = USERNAME
 
@@ -422,6 +423,119 @@ class TestFailuresDoNotLeak(Harness):
         self.assertIn("Sleeper user id", str(exc))
         self.assertFalse(sb.OUT_MD.exists(), "guard must fire before files are written")
         self.assert_no_canaries(self.observable(out, err, exc))
+
+
+class TestProjections(Harness):
+    """Sleeper projections, scored with the league's own settings."""
+
+    SCORING = {"pass_yd": 0.04, "pass_td": 6, "pass_int": -2, "rush_yd": 0.1,
+               "rush_td": 6, "rec": 0, "rec_yd": 0.1, "rec_td": 6, "fum_lost": -2}
+
+    def rows(self):
+        return [
+            # mine, starter: 8 + 3 + 2 = 13.0 under no-PPR scoring (PPR would be 16)
+            {"player_id": "11", "company": "rotowire",
+             "stats": {"rush_yd": 80, "rush_td": 0.5, "rec": 3, "rec_yd": 20,
+                       "pts_std": 13.0, "pts_ppr": 16.0}},
+            # unrostered RB, should appear in best available
+            {"player_id": "35", "company": "rotowire",
+             "stats": {"rush_yd": 60, "rush_td": 0.4, "pts_std": 8.4}},
+            # rostered by the other team, must not appear in best available
+            {"player_id": "21", "company": "rotowire",
+             "stats": {"rush_yd": 90, "rush_td": 0.8, "pts_std": 13.8}},
+            # DEF prices at Sleeper standard
+            {"player_id": "HOU", "company": "rotowire",
+             "stats": {"sack": 3, "int": 1, "pts_std": 7.0}},
+            # junk rows are ignored
+            {"player_id": "38", "stats": {}},
+            "not a row",
+        ]
+
+    def setUp(self):
+        super().setUp()
+        self.api[f"/league/{LEAGUE_ID}"]["scoring_settings"] = dict(self.SCORING)
+        sb.get_abs = lambda url: self.rows()
+
+    def section(self):
+        md = sb.OUT_MD.read_text()
+        start = md.index("## Projections, week 3")
+        end = md.index("## Trending adds")
+        return md[start:end]
+
+    def test_scored_with_league_settings_not_ppr(self):
+        out, err, exc = self.run_script()
+        self.assertIsNone(exc, f"unexpected failure: {exc}")
+        sec = self.section()
+        self.assertIn("QB: Player 11 (RB, KC) · 13.0 projected · RB2", sec)
+        self.assertNotIn("16.0", sec)
+        self.assertIn("provider: rotowire", sec)
+
+    def test_best_available_excludes_rostered_players(self):
+        self.run_script()
+        best = self.section().split("### Best available")[1]
+        self.assertIn("Player 35 (RB, KC) · 8.4 projected · RB3", best)
+        self.assertNotIn("Player 21", best)
+        self.assertNotIn("Player 11", best)
+
+    def test_def_uses_sleeper_standard(self):
+        self.run_script()
+        self.assertIn("DEF: Houston Texans (DEF, HOU) · 7.0 projected (Sleeper standard) · DEF1",
+                      self.section())
+
+    def test_unprojected_player_is_marked(self):
+        self.run_script()
+        self.assertIn("RB: Player 13 (RB, KC) · no projection", self.section())
+
+    def test_opponent_starters_listed(self):
+        self.run_script()
+        opp = self.section().split("### Opponent's starters")[1].split("### Best available")[0]
+        self.assertIn("QB: Player 21 (RB, KC) · 13.8 projected · RB1", opp)
+
+    def test_dict_shape_fallback(self):
+        sb.get_abs = lambda url: None
+        self.api["/projections/nfl/regular/2026/3"] = {
+            "11": {"rush_yd": 50, "pts_std": 5.0}, "HOU": {"pts_std": 4.0}}
+        out, err, exc = self.run_script()
+        self.assertIsNone(exc, f"unexpected failure: {exc}")
+        self.assertIn("QB: Player 11 (RB, KC) · 5.0 projected · RB1", self.section())
+
+    def test_feed_down_fails_soft(self):
+        def boom(url):
+            raise RuntimeError("Could not reach Sleeper (timed out)")
+        sb.get_abs = boom
+        out, err, exc = self.run_script()
+        self.assertIsNone(exc, "a projections outage must not fail the run")
+        self.assertIn("- Unavailable this run", self.section())
+        data = json.loads(sb.OUT_JSON.read_text())
+        self.assertEqual(data["projections"], {"available": False})
+
+    def test_no_league_scoring_falls_back_to_standard(self):
+        del self.api[f"/league/{LEAGUE_ID}"]["scoring_settings"]
+        self.run_script()
+        sec = self.section()
+        self.assertIn("Sleeper's standard scoring (league settings unavailable)", sec)
+        self.assertIn("QB: Player 11 (RB, KC) · 13.0 projected (Sleeper standard)", sec)
+
+    def test_projections_output_is_clean(self):
+        out, err, exc = self.run_script()
+        self.assertIsNone(exc)
+        self.assert_no_canaries(self.observable(out, err, exc))
+
+    def test_projections_error_message_has_no_url(self):
+        import urllib.request
+        real = urllib.request.urlopen
+        try:
+            urllib.request.urlopen = lambda *a, **k: (_ for _ in ()).throw(
+                urllib.error.HTTPError("https://api.sleeper.com/projections/x", 503,
+                                       "Unavailable", {}, None))
+            SPEC.loader.exec_module(sb)
+            with self.assertRaises(RuntimeError) as cm:
+                sb.get_abs("https://api.sleeper.com/projections/nfl/2026/3")
+        finally:
+            urllib.request.urlopen = real
+            SPEC.loader.exec_module(sb)
+        self.assertNotIn("http", str(cm.exception))
+        self.assertIn("HTTP 503", str(cm.exception))
 
 
 class TestRepoHygiene(unittest.TestCase):

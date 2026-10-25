@@ -4,7 +4,7 @@ A one-script data pipe that keeps an AI fantasy football desk current.
 
 The desk is a Claude scheduled task that runs three times a day and reports on one Sleeper team: lineup, injuries, waivers, trades. A scheduled task can't call the Sleeper API itself, so this repo does it instead. Every hour, a GitHub Actions cron pulls the current state of the league, resolves player IDs to names, and commits the refreshed files when anything changed. The desk fetches `league.md` first, then does its research.
 
-Python 3.12, standard library only, about 400 lines. No server, no keys, no cost. Sleeper's API is public and read-only.
+Python 3.12, standard library only, about 800 lines. No server, no keys, no cost. Sleeper's API is public and read-only.
 
 ## What it produces
 
@@ -16,6 +16,7 @@ Python 3.12, standard library only, about 400 lines. No server, no keys, no cost
 - All waiver claims, pickups, and trades from this week and last, with FAAB bids and failure notes
 - Every player dropped in the last 14 days who is still unrostered, newest first, with who dropped them and whether they are on waivers (and until when) or already a free agent
 - The 25 most added players across Sleeper in the last 24 hours, each marked available in your league, on your roster, or rostered by whom
+- This week's projections from Sleeper's feed, scored with your league's own scoring settings: your roster with positional ranks, your opponent's starters, and the best unrostered players at each position, with waiver status where they were recently dropped
 
 `league.json` holds the same data for a future app. `scorecard.md` is a season-to-date record of results, rebuilt every run. `players_trim.json` is the ID-to-name cache, refreshed at most once a day. It keeps the fantasy positions only, plus a `_skipped` list of the IDs Sleeper knew about and the trim dropped, so a rostered long snapper cannot pass for a stale cache and re-pull the 5MB file on every run.
 
@@ -78,6 +79,7 @@ Run the tests locally any time you change the script: `python -m unittest -v` fr
 - **Week number.** The script uses Sleeper's own current week, which flips to the next week early in the week, so Tuesday runs already show next week's matchup. That is what you want for waivers.
 - **Two-way players.** Sleeper's `position` is the primary NFL position, so a player like Travis Hunter is filed under DB even when his owner rosters him as a WR. The trim keeps anyone whose `fantasy_positions` include a position the desk tracks, and files them under that one. A player outside those positions entirely renders as `Unlisted player <id>` rather than a name.
 - **Injury tags** come from Sleeper's player file and can lag the official report by hours. The desk's own news search is the authority; the tag is a hint.
+- **Projections feed.** Sleeper's projections are not part of its documented API. The script tries the two shapes the feed has been seen in and, if neither answers, writes "Unavailable this run" in that section and carries on, so an outage there never blocks the rest of the file. Projections rarely include per-game bonuses (100-yard games, long plays), so those are left out. K and DEF use Sleeper's standard scoring, because kicking by distance band and defense by points-allowed bracket don't map cleanly onto projected stats. The numbers are a model, not expert consensus.
 - **Read only.** Nothing here can set a lineup, submit a claim, or send a trade. You still tap those in Sleeper.
 
 ## Later, if you build the app

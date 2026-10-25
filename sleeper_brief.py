@@ -5,7 +5,9 @@ sleeper_brief.py
 Pulls the current state of one Sleeper league and writes two files the
 morning brief can fetch:
 
-  league.md     human-readable, names resolved, what the brief reads
+  league.md     human-readable, names resolved, what the brief reads,
+                including this week's projections scored with the
+                league's own settings when Sleeper's feed answers
   league.json   same data, machine-readable, for a future app
   scorecard.md  season-to-date record of how the team and the process
                 performed week by week: result, points, optimal lineup,
@@ -38,6 +40,7 @@ import re
 import sys
 import time
 import urllib.error
+import urllib.parse
 import urllib.request
 from datetime import datetime
 from pathlib import Path
@@ -315,6 +318,184 @@ def record(roster):
     return s.get("wins", 0), s.get("losses", 0), s.get("ties", 0), pts
 
 
+# ------------------------------------------------------------ projections
+
+PROJ_POSITIONS = ("QB", "RB", "WR", "TE", "K", "DEF")
+# K and DEF are priced with Sleeper's own standard score: kicking by
+# distance band and defense by points-allowed bracket rarely line up with
+# the projected stat keys, so a dot product would undercount them.
+STD_ONLY = {"K", "DEF"}
+# How many unrostered players to list at each position.
+AVAIL_DEPTH = {"QB": 3, "RB": 5, "WR": 5, "TE": 3, "K": 2, "DEF": 3}
+
+
+def get_abs(url):
+    """GET an absolute URL (Sleeper serves projections from a second host).
+    Same error hygiene as get(): the URL never reaches a message."""
+    req = urllib.request.Request(url, headers={"User-Agent": "sleeper-brief/1.0"})
+    try:
+        with urllib.request.urlopen(req, timeout=60) as resp:
+            return json.load(resp)
+    except urllib.error.HTTPError as e:
+        if e.code == 404:
+            return None
+        raise RuntimeError(f"Sleeper returned HTTP {e.code} for a projections request") from None
+    except urllib.error.URLError as e:
+        raise RuntimeError(f"Could not reach Sleeper ({e.reason})") from None
+
+
+def fetch_projections(season, week):
+    """Return ({player_id: stats}, provider) for the week, or ({}, None).
+
+    Sleeper does not document its projections, so this fails soft: it tries
+    the two shapes the feed has been seen in (a list of rows on
+    api.sleeper.com, a dict keyed by player id under /v1), treats anything
+    unexpected as no data, and never stops the league refresh."""
+    query = urllib.parse.urlencode(
+        [("season_type", "regular")] + [("position[]", p) for p in PROJ_POSITIONS])
+    attempts = (
+        lambda: get_abs(f"https://api.sleeper.com/projections/nfl/{season}/{week}?{query}"),
+        lambda: get(f"/projections/nfl/regular/{season}/{week}"),
+    )
+    for attempt in attempts:
+        try:
+            data = attempt()
+        except Exception:   # optional section: any failure means "no data"
+            continue
+        by_pid, provider = {}, None
+        if isinstance(data, list):
+            for row in data:
+                if not isinstance(row, dict):
+                    continue
+                pid, stats = row.get("player_id"), row.get("stats")
+                if pid and isinstance(stats, dict) and stats:
+                    by_pid[str(pid)] = stats
+                    provider = provider or row.get("company")
+        elif isinstance(data, dict):
+            for pid, stats in data.items():
+                if isinstance(stats, dict) and stats:
+                    by_pid[str(pid)] = stats
+        if by_pid:
+            return by_pid, (provider if isinstance(provider, str) else None)
+    return {}, None
+
+
+def league_points(stats, scoring, pos):
+    """Projected points under the league's own scoring settings, and how
+    they were priced ("league" or "std").
+
+    Projected stats use the same keys as Sleeper's scoring settings, so a
+    dot product prices yardage, touchdowns, receptions (at whatever the
+    league pays for one) and turnovers. Per-game bonuses are rarely
+    projected and drop out. K, DEF, and anything the dot product cannot
+    price fall back to Sleeper's standard score."""
+    std = stats.get("pts_std")
+    std = float(std) if isinstance(std, (int, float)) else None
+    if pos in STD_ONLY or not scoring:
+        return (round(std, 1), "std") if std is not None else (None, None)
+    total = 0.0
+    for key, weight in scoring.items():
+        val = stats.get(key)
+        if isinstance(val, (int, float)) and isinstance(weight, (int, float)):
+            total += val * weight
+    if total == 0 and std:
+        return round(std, 1), "std"
+    return round(total, 1), "league"
+
+
+def render_projections(proj_stats, provider, scoring, week, players, skipped,
+                       mine, opponent, slot_labels, on_a_roster, drop_status):
+    """Markdown lines and a JSON block for the projections section."""
+    md = [f"## Projections, week {week}"]
+    if not proj_stats:
+        md += ["- Unavailable this run: Sleeper's projections feed did not answer.", ""]
+        return md, {"available": False}
+
+    scored = {}
+    for pid, stats in proj_stats.items():
+        pos = (players.get(pid) or {}).get("pos")
+        if pos not in PROJ_POSITIONS:
+            continue
+        pts, how = league_points(stats, scoring, pos)
+        if pts is not None and pts > 0:
+            scored[pid] = (pts, how)
+    rank_of = {}
+    for pos in PROJ_POSITIONS:
+        ranked = sorted((pid for pid in scored if players[pid]["pos"] == pos),
+                        key=lambda pid: scored[pid][0], reverse=True)
+        for i, pid in enumerate(ranked, 1):
+            rank_of[pid] = f"{pos}{i}"
+
+    def row(pid, slot=None):
+        name = fmt(pid, players, skipped)
+        head = f"{slot}: {name}" if slot else name
+        entry = {"player": name, "slot": slot}
+        if pid not in scored:
+            entry.update(points=None, rank=None)
+            return f"- {head} · no projection (bye, out, or not projected)", entry
+        pts, how = scored[pid]
+        entry.update(points=pts, rank=rank_of[pid], scoring=how)
+        tag = " (Sleeper standard)" if how == "std" else ""
+        return f"- {head} · {pts:.1f} projected{tag} · {rank_of[pid]}", entry
+
+    source = "Sleeper's weekly projections" + (f" (provider: {provider})" if provider else "")
+    pricing = ("scored with this league's scoring settings" if scoring
+               else "scored with Sleeper's standard scoring (league settings unavailable)")
+    md.append(f"{source}, {pricing}. A model, not expert consensus. Per-game bonuses "
+              "(100-yard games, long plays) are mostly not projected, so they are left out. "
+              "K and DEF use Sleeper's standard scoring. Rank is among every projected "
+              "player at the position.")
+
+    md.append("### My roster")
+    mine_rows = []
+    starters = mine.get("starters") or []
+    for i, pid in enumerate(starters):
+        if pid in (None, "0", ""):
+            continue
+        line, entry = row(pid, slot_labels[i] if i < len(slot_labels) else "SLOT")
+        md.append(line)
+        mine_rows.append(entry)
+    reserve = set(mine.get("reserve") or [])
+    for pid in mine.get("players") or []:
+        if pid in starters or pid in reserve:
+            continue
+        line, entry = row(pid, "BN")
+        md.append(line)
+        mine_rows.append(entry)
+
+    opp_rows = []
+    if opponent:
+        md.append("### Opponent's starters")
+        opp_starters = opponent.get("starters") or []
+        for i, pid in enumerate(opp_starters):
+            if pid in (None, "0", ""):
+                continue
+            line, entry = row(pid, slot_labels[i] if i < len(slot_labels) else "SLOT")
+            md.append(line)
+            opp_rows.append(entry)
+
+    md.append("### Best available by projection (on no roster in my league)")
+    best = {}
+    for pos in PROJ_POSITIONS:
+        pool = sorted((pid for pid in scored
+                       if players[pid]["pos"] == pos and pid not in on_a_roster),
+                      key=lambda pid: scored[pid][0], reverse=True)[:AVAIL_DEPTH[pos]]
+        for pid in pool:
+            line, entry = row(pid)
+            status = drop_status.get(pid)
+            if status:
+                line += f" · {status}"
+                entry["waiver_status"] = status
+            md.append(line)
+            best.setdefault(pos, []).append(entry)
+    if not best:
+        md.append("- (none projected)")
+    md.append("")
+    return md, {"available": True, "provider": provider,
+                "scoring": "league" if scoring else "standard",
+                "mine": mine_rows, "opponent": opp_rows, "best_available": best}
+
+
 # ------------------------------------------------------------------ main
 
 def main():
@@ -530,6 +711,7 @@ def main():
             if pid not in last_drop or when_ms > last_drop[pid][0]:
                 last_drop[pid] = (when_ms, rid)
     drop_lines, drop_json = [], []
+    drop_status = {}   # player id -> waiver status, for projections
     for pid, (when_ms, rid) in sorted(last_drop.items(), key=lambda kv: kv[1][0], reverse=True):
         if pid in on_a_roster or when_ms < now_ms - 14 * 86400 * 1000:
             continue
@@ -537,6 +719,7 @@ def main():
         clears_ms = when_ms + clear_days * 86400 * 1000
         on_waivers = clears_ms > now_ms
         status = f"on waivers until {et_stamp(clears_ms)}" if on_waivers else "free agent now"
+        drop_status[pid] = status
         drop_lines.append(f"- {fmt(pid, players, skipped)} · dropped by {by} on {et_stamp(when_ms)} · {status}")
         drop_json.append({
             "player": fmt(pid, players, skipped), "dropped_by": by,
@@ -548,6 +731,15 @@ def main():
     md.append("## Dropped in the last 14 days, still unrostered")
     md += drop_lines or ["- (none)"]
     md.append("")
+
+    # ---- projections, scored with this league's own settings
+    proj_stats, provider = fetch_projections(season, week)
+    proj_md, proj_json = render_projections(
+        proj_stats, provider, league.get("scoring_settings") or {}, week,
+        players, skipped, mine, opponent, slot_labels, on_a_roster, drop_status)
+    md += proj_md
+    if not proj_stats:
+        print("Projections: unavailable this run; section marked as such.")
 
     # ---- trending adds
     md.append("## Trending adds across Sleeper, last 24 hours")
@@ -589,6 +781,7 @@ def main():
         "teams": [roster_json(r) for r in ordered],
         "transactions": [ln[2:] for ln in tx_lines],
         "dropped_unrostered": drop_json,
+        "projections": proj_json,
         "trending_adds": [
             {"player": fmt(t["player_id"], players, skipped), "adds": t.get("count", 0),
              "rostered_by": rostered.get(t["player_id"])} for t in trending
