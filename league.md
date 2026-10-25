@@ -1,5 +1,5 @@
 # Sleeper league state
-Generated Sunday October 25, 2026 02:18 AM ET · Season 2026 · NFL week 7
+Generated Sunday October 25, 2026 07:48 AM ET · Season 2026 · NFL week 7
 League: The Dudes Will Roll · 12 teams · waivers: FAAB (budget $200) · lineup: QB, RB, RB, WR, WR, TE, FLEX, K, DEF
 
 ## My team: THE ACE OF SPADES (roster 11)
@@ -191,30 +191,30 @@ Bench: Tyrone Tracy Jr. (RB, NYG); Quinshon Judkins (RB, CLE); Emeka Egbuka (WR,
 - Kenyon Sadiq (TE, NYJ) · dropped by FuelTheJET on Wed Oct 14, 6:46 AM ET · free agent now
 
 ## Trending adds across Sleeper, last 24 hours
-- Seth McGowan (RB, IND) · 562,680 adds · AVAILABLE in my league
-- Konata Mumpfield (WR, LAR) · 278,865 adds · rostered by Drunk To Taste This CHX
-- Darius Cooper (WR, PHI) · 272,853 adds · AVAILABLE in my league
-- Tyler Higbee (TE, LAR) · 185,661 adds · AVAILABLE in my league
-- Emanuel Wilson (RB, SEA) · 175,977 adds · rostered by Make Miami Great Again
-- Chris Godwin Jr. (WR, TB) · 163,392 adds · rostered by Strokin My Ditka
-- Justice Hill (RB, BAL) · 133,452 adds · AVAILABLE in my league
-- Ted Hurst III (WR, TB) · 107,454 adds · AVAILABLE in my league
-- Kyler Murray (QB, MIN) · 97,848 adds · AVAILABLE in my league
-- Xavier Worthy (WR, KC) · 78,561 adds · rostered by Springfield Atoms
-- Makai Lemon (WR, PHI) · 77,504 adds · AVAILABLE in my league
-- Michael Mayer (TE, LV) · 72,135 adds · rostered by Young Blood
-- Brandin Cooks (WR, SF) · 69,204 adds · AVAILABLE in my league
-- Bo Nix (QB, DEN) · 62,796 adds · rostered by Strokin My Ditka
-- Zonovan Knight (RB, ARI) · 62,234 adds · AVAILABLE in my league
-- Chase McLaughlin (K, TB) · 58,744 adds · rostered by Strokin My Ditka
-- Aaron Rodgers (QB, PIT) · 57,080 adds · rostered by Holla
-- KC Concepcion Jr. (WR, CLE) · 53,469 adds · AVAILABLE in my league
-- C.J. Stroud (QB, HOU) · 52,738 adds · rostered by Drunk To Taste This CHX
-- Caleb Douglas (WR, MIA) · 51,064 adds · AVAILABLE in my league
-- Adonai Mitchell (WR, NYJ) · 50,552 adds · AVAILABLE in my league
-- Cleveland Browns (DEF, CLE) · 50,533 adds · rostered by Whiskey Sippin Kings
-- Tyler Allgeier (RB, ARI) · 47,065 adds · rostered by Team 9
-- Jake Bates (K, DET) · 46,648 adds · on my roster
-- Jordan Watkins (WR, SF) · 46,584 adds · AVAILABLE in my league
+- Seth McGowan (RB, IND) · 596,816 adds · AVAILABLE in my league
+- Darius Cooper (WR, PHI) · 354,613 adds · AVAILABLE in my league
+- Konata Mumpfield (WR, LAR) · 276,381 adds · rostered by Drunk To Taste This CHX
+- Tyler Higbee (TE, LAR) · 195,984 adds · AVAILABLE in my league
+- Emanuel Wilson (RB, SEA) · 176,022 adds · rostered by Make Miami Great Again
+- Chris Godwin Jr. (WR, TB) · 165,708 adds · rostered by Strokin My Ditka
+- Justice Hill (RB, BAL) · 136,341 adds · AVAILABLE in my league
+- Ted Hurst III (WR, TB) · 106,272 adds · AVAILABLE in my league
+- Kyler Murray (QB, MIN) · 106,144 adds · AVAILABLE in my league
+- Makai Lemon (WR, PHI) · 90,900 adds · AVAILABLE in my league
+- Xavier Worthy (WR, KC) · 81,990 adds · rostered by Springfield Atoms
+- Michael Mayer (TE, LV) · 74,790 adds · rostered by Young Blood
+- Bo Nix (QB, DEN) · 67,908 adds · rostered by Strokin My Ditka
+- Brandin Cooks (WR, SF) · 67,188 adds · AVAILABLE in my league
+- Chase McLaughlin (K, TB) · 64,432 adds · rostered by Strokin My Ditka
+- Zonovan Knight (RB, ARI) · 63,316 adds · AVAILABLE in my league
+- Aaron Rodgers (QB, PIT) · 61,660 adds · rostered by Holla
+- KC Concepcion Jr. (WR, CLE) · 56,430 adds · AVAILABLE in my league
+- C.J. Stroud (QB, HOU) · 55,839 adds · rostered by Drunk To Taste This CHX
+- Cleveland Browns (DEF, CLE) · 54,901 adds · rostered by Whiskey Sippin Kings
+- Jake Bates (K, DET) · 53,688 adds · on my roster
+- Caleb Douglas (WR, MIA) · 53,560 adds · AVAILABLE in my league
+- Geno Smith (QB, NYJ) · 50,868 adds · rostered by Drunk To Taste This CHX
+- Tyler Allgeier (RB, ARI) · 50,435 adds · rostered by Team 9
+- Adonai Mitchell (WR, NYJ) · 49,144 adds · AVAILABLE in my league
 
 Data from the Sleeper API (sleeper.com). Injury tags in brackets are Sleeper's designations and may lag official reports.
