@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-24T18:34:07.835423-04:00",
+  "generated": "2026-10-24T21:17:32.640175-04:00",
   "season": "2026",
   "week": 7,
   "league": {
@@ -577,8 +577,8 @@
       "player": "Raheim Sanders (RB, CLE) [IR]",
       "dropped_by": "Make Miami Great Again",
       "dropped_at": "2026-10-22T19:24:32.262000-04:00",
-      "on_waivers_until": "2026-10-24T19:24:32.262000-04:00",
-      "waiver_status": "on waivers until Sat Oct 24, 7:24 PM ET"
+      "on_waivers_until": null,
+      "waiver_status": "free agent now"
     },
     {
       "player": "Courtland Sutton (WR, DEN)",
@@ -808,128 +808,128 @@
   "trending_adds": [
     {
       "player": "Seth McGowan (RB, IND)",
-      "adds": 451440,
+      "adds": 497064,
       "rostered_by": null
     },
     {
       "player": "Konata Mumpfield (WR, LAR)",
-      "adds": 285057,
+      "adds": 284184,
       "rostered_by": 3
     },
     {
       "player": "Emanuel Wilson (RB, SEA)",
-      "adds": 192213,
+      "adds": 184428,
       "rostered_by": 7
     },
     {
       "player": "Tyler Higbee (TE, LAR)",
-      "adds": 180216,
+      "adds": 181143,
       "rostered_by": null
     },
     {
       "player": "Chris Godwin Jr. (WR, TB)",
-      "adds": 164724,
-      "rostered_by": 10
-    },
-    {
-      "player": "Justice Hill (RB, BAL)",
-      "adds": 127791,
-      "rostered_by": null
-    },
-    {
-      "player": "Ted Hurst III (WR, TB)",
-      "adds": 113298,
-      "rostered_by": null
-    },
-    {
-      "player": "Brandin Cooks (WR, SF)",
-      "adds": 83804,
-      "rostered_by": null
-    },
-    {
-      "player": "Kyler Murray (QB, MIN)",
-      "adds": 75688,
-      "rostered_by": null
-    },
-    {
-      "player": "Michael Mayer (TE, LV)",
-      "adds": 74574,
-      "rostered_by": 12
-    },
-    {
-      "player": "Xavier Worthy (WR, KC)",
-      "adds": 69156,
-      "rostered_by": 5
-    },
-    {
-      "player": "Zonovan Knight (RB, ARI)",
-      "adds": 65338,
-      "rostered_by": null
-    },
-    {
-      "player": "Jordan Watkins (WR, SF)",
-      "adds": 61364,
-      "rostered_by": null
-    },
-    {
-      "player": "Adonai Mitchell (WR, NYJ)",
-      "adds": 55088,
-      "rostered_by": null
-    },
-    {
-      "player": "Caleb Douglas (WR, MIA)",
-      "adds": 52144,
-      "rostered_by": null
-    },
-    {
-      "player": "Chase McLaughlin (K, TB)",
-      "adds": 50968,
-      "rostered_by": 10
-    },
-    {
-      "player": "Bo Nix (QB, DEN)",
-      "adds": 48948,
+      "adds": 165360,
       "rostered_by": 10
     },
     {
       "player": "Darius Cooper (WR, PHI)",
-      "adds": 48279,
+      "adds": 131180,
       "rostered_by": null
     },
     {
+      "player": "Justice Hill (RB, BAL)",
+      "adds": 131139,
+      "rostered_by": null
+    },
+    {
+      "player": "Ted Hurst III (WR, TB)",
+      "adds": 112902,
+      "rostered_by": null
+    },
+    {
+      "player": "Kyler Murray (QB, MIN)",
+      "adds": 84696,
+      "rostered_by": null
+    },
+    {
+      "player": "Brandin Cooks (WR, SF)",
+      "adds": 77548,
+      "rostered_by": null
+    },
+    {
+      "player": "Michael Mayer (TE, LV)",
+      "adds": 73332,
+      "rostered_by": 12
+    },
+    {
+      "player": "Xavier Worthy (WR, KC)",
+      "adds": 73071,
+      "rostered_by": 5
+    },
+    {
+      "player": "Zonovan Knight (RB, ARI)",
+      "adds": 63820,
+      "rostered_by": null
+    },
+    {
+      "player": "Jordan Watkins (WR, SF)",
+      "adds": 56556,
+      "rostered_by": null
+    },
+    {
+      "player": "Bo Nix (QB, DEN)",
+      "adds": 54420,
+      "rostered_by": 10
+    },
+    {
+      "player": "Chase McLaughlin (K, TB)",
+      "adds": 54128,
+      "rostered_by": 10
+    },
+    {
+      "player": "Adonai Mitchell (WR, NYJ)",
+      "adds": 53368,
+      "rostered_by": null
+    },
+    {
+      "player": "Makai Lemon (WR, PHI)",
+      "adds": 53048,
+      "rostered_by": null
+    },
+    {
+      "player": "Caleb Douglas (WR, MIA)",
+      "adds": 51920,
+      "rostered_by": null
+    },
+    {
+      "player": "Aaron Rodgers (QB, PIT)",
+      "adds": 49992,
+      "rostered_by": 2
+    },
+    {
       "player": "C.J. Stroud (QB, HOU)",
-      "adds": 46263,
+      "adds": 49322,
       "rostered_by": 3
     },
     {
       "player": "KC Concepcion Jr. (WR, CLE)",
-      "adds": 45981,
+      "adds": 48321,
       "rostered_by": null
     },
     {
+      "player": "Cleveland Browns (DEF, CLE)",
+      "adds": 46291,
+      "rostered_by": 1
+    },
+    {
       "player": "Malik Washington (WR, MIA)",
-      "adds": 45752,
+      "adds": 45312,
       "rostered_by": null
     },
     {
       "player": "Tyler Allgeier (RB, ARI)",
-      "adds": 44865,
+      "adds": 44940,
       "rostered_by": 9
-    },
-    {
-      "player": "Aaron Rodgers (QB, PIT)",
-      "adds": 44760,
-      "rostered_by": 2
-    },
-    {
-      "player": "Cleveland Browns (DEF, CLE)",
-      "adds": 44009,
-      "rostered_by": 1
-    },
-    {
-      "player": "Ryan Flournoy (WR, DAL)",
-      "adds": 43968,
-      "rostered_by": null
     }
   ]
 }
