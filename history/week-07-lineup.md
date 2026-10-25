@@ -1,5 +1,5 @@
 # Sleeper league state
-Generated Sunday October 25, 2026 10:34 AM ET · Season 2026 · NFL week 7
+Generated Sunday October 25, 2026 12:34 PM ET · Season 2026 · NFL week 7
 League: The Dudes Will Roll · 12 teams · waivers: FAAB (budget $200) · lineup: QB, RB, RB, WR, WR, TE, FLEX, K, DEF
 
 ## My team: THE ACE OF SPADES (roster 11)
@@ -62,8 +62,8 @@ Bench: Tre Tucker (WR, LV); Devaughn Vele (WR, NO); Josh Allen (QB, BUF); David 
 IR: Jonathon Brooks (RB, CAR) [IR]
 
 ### Team 8 · 3-3 · 681.6 pts · waiver priority 3
-Starters: Trevor Lawrence (QB, JAX); Bijan Robinson (RB, ATL); Javonte Williams (RB, DAL); Drake London (WR, ATL); Michael Wilson (WR, ARI); Jake Ferguson (TE, DAL); Wan'Dale Robinson (WR, TEN); Tyler Loop (K, BAL); Carolina Panthers (DEF, CAR)
-Bench: Rashee Rice (WR, KC) [Out]; Kyle Monangai (RB, CHI) [Out]; Deshaun Watson (QB, CLE); Dalton Schultz (TE, HOU); Tee Higgins (WR, CIN); Minnesota Vikings (DEF, MIN)
+Starters: Deshaun Watson (QB, CLE); Bijan Robinson (RB, ATL); Javonte Williams (RB, DAL); Drake London (WR, ATL); Michael Wilson (WR, ARI); Jake Ferguson (TE, DAL); Tee Higgins (WR, CIN); Tyler Loop (K, BAL); Carolina Panthers (DEF, CAR)
+Bench: Rashee Rice (WR, KC) [Out]; Kyle Monangai (RB, CHI) [Out]; Dalton Schultz (TE, HOU); Trevor Lawrence (QB, JAX); Wan'Dale Robinson (WR, TEN); Minnesota Vikings (DEF, MIN)
 
 ### THE ACE OF SPADES (me) · 3-3 · 647.2 pts · waiver priority 10
 Starters: Drake Maye (QB, NE); Kenneth Walker III (RB, KC); Chase Brown (RB, CIN); A.J. Brown (WR, NE); Omar Cooper Jr. (WR, NYJ); George Kittle (TE, SF); Dameon Pierce (RB, PHI); Jake Bates (K, DET); Houston Texans (DEF, HOU)
@@ -80,8 +80,8 @@ Bench: MarShawn Lloyd (RB, GB); Jaylen Wright (RB, MIA); Bhayshul Tuten (RB, JAX
 IR: Jordyn Tyson (WR, NO) [IR]
 
 ### Holla · 2-4 · 675.5 pts · waiver priority 12
-Starters: Aaron Rodgers (QB, PIT); Christian McCaffrey (RB, SF); Ollie Gordon II (RB, MIA); Ja'Marr Chase (WR, CIN); Zay Flowers (WR, BAL); Tucker Kraft (TE, GB); Breece Hall (RB, NYJ) [Questionable]; Spencer Shrader (K, IND); Denver Broncos (DEF, DEN)
-Bench: Cam Skattebo (RB, NYG); Patrick Mahomes (QB, KC); Dallas Goedert (TE, PHI) [Questionable]; Jakobi Meyers (WR, JAX); Jordan Mason (RB, MIN) [IR]; Kansas City Chiefs (DEF, KC)
+Starters: Aaron Rodgers (QB, PIT); Christian McCaffrey (RB, SF); Ollie Gordon II (RB, MIA); Ja'Marr Chase (WR, CIN); Zay Flowers (WR, BAL); Tucker Kraft (TE, GB); Jordan Mason (RB, MIN) [IR]; Spencer Shrader (K, IND); Denver Broncos (DEF, DEN)
+Bench: Cam Skattebo (RB, NYG); Patrick Mahomes (QB, KC); Dallas Goedert (TE, PHI) [Questionable]; Jakobi Meyers (WR, JAX); Breece Hall (RB, NYJ) [Questionable]; Kansas City Chiefs (DEF, KC)
 
 ### Strokin My Ditka · 2-4 · 638.5 pts · waiver priority 11
 Starters: Bo Nix (QB, DEN); Kendre Miller (RB, NO); Jaylen Warren (RB, PIT); Jaxon Smith-Njigba (WR, SEA); Tetairoa McMillan (WR, CAR); Kyle Pitts Sr. (TE, ATL); Chris Godwin Jr. (WR, TB); Chase McLaughlin (K, TB); Philadelphia Eagles (DEF, PHI)
@@ -195,45 +195,45 @@ Sleeper's weekly projections (provider: rotowire), scored with this league's sco
 ### My roster
 - QB: Drake Maye (QB, NE) · 27.4 projected · QB1
 - RB: Kenneth Walker III (RB, KC) · 15.5 projected · RB5
-- RB: Chase Brown (RB, CIN) · 11.2 projected · RB18
+- RB: Chase Brown (RB, CIN) · 11.2 projected · RB19
 - WR: A.J. Brown (WR, NE) · 10.2 projected · WR15
 - WR: Omar Cooper Jr. (WR, NYJ) · 6.0 projected · WR36
 - TE: George Kittle (TE, SF) · 11.2 projected · TE1
-- FLEX: Dameon Pierce (RB, PHI) · 5.7 projected · RB34
+- FLEX: Dameon Pierce (RB, PHI) · 5.7 projected · RB35
 - K: Jake Bates (K, DET) · 8.6 projected (Sleeper standard) · K9
 - DEF: Houston Texans (DEF, HOU) · 9.3 projected (Sleeper standard) · DEF1
-- BN: Emmett Johnson (RB, KC) · 2.5 projected · RB58
+- BN: Emmett Johnson (RB, KC) · 2.5 projected · RB57
 - BN: Keenan Allen (WR, IND) · 5.2 projected · WR45
 - BN: Mike Evans (WR, SF) [Out] · no projection (bye, out, or not projected)
 - BN: Tyreek Hill (WR, FA) · no projection (bye, out, or not projected)
-- BN: Rhamondre Stevenson (RB, NE) · 8.9 projected · RB23
+- BN: Rhamondre Stevenson (RB, NE) · 8.9 projected · RB24
 - BN: Cameron Dicker (K, LAC) · no projection (bye, out, or not projected)
 ### Opponent's starters
-- QB: Bryce Young (QB, CAR) · 24.1 projected · QB9
-- RB: Chuba Hubbard (RB, CAR) · 13.5 projected · RB12
-- RB: Ashton Jeanty (RB, LV) · 12.1 projected · RB15
-- WR: Chris Olave (WR, NO) · 11.1 projected · WR9
+- QB: Bryce Young (QB, CAR) · 24.2 projected · QB8
+- RB: Chuba Hubbard (RB, CAR) · 13.8 projected · RB9
+- RB: Ashton Jeanty (RB, LV) · 12.2 projected · RB15
+- WR: Chris Olave (WR, NO) · 11.1 projected · WR10
 - WR: DeMario Douglas (WR, NE) · 5.6 projected · WR40
-- TE: Pat Freiermuth (TE, PIT) · 5.9 projected · TE14
-- FLEX: Harold Fannin Jr. (TE, CLE) · 6.8 projected · TE9
+- TE: Pat Freiermuth (TE, PIT) · 5.9 projected · TE13
+- FLEX: Harold Fannin Jr. (TE, CLE) · 6.9 projected · TE9
 - K: Evan McPherson (K, CIN) · 8.7 projected (Sleeper standard) · K7
 - DEF: Cleveland Browns (DEF, CLE) · 8.6 projected (Sleeper standard) · DEF3
 ### Best available by projection (on no roster in my league)
-- Michael Penix Jr. (QB, ATL) · 20.7 projected · QB16
+- Michael Penix Jr. (QB, ATL) · 20.6 projected · QB16
 - Kyler Murray (QB, MIN) · 20.6 projected · QB17
 - Sam Darnold (QB, SEA) · 19.7 projected · QB19 · free agent now
 - Zonovan Knight (RB, ARI) · 6.5 projected · RB33
-- Justice Hill (RB, BAL) · 5.5 projected · RB36
+- Justice Hill (RB, BAL) · 6.1 projected · RB34
 - Kenny Gainwell (RB, TB) · 5.4 projected · RB38 · free agent now
 - Dare Ogunbowale (RB, HOU) · 5.3 projected · RB40
-- Isaiah Davis (RB, NYJ) · 4.9 projected · RB41
+- Dylan Sampson (RB, CLE) [IR] · 4.9 projected · RB41
 - Rome Odunze (WR, CHI) · 7.2 projected · WR27 · free agent now
 - Darius Cooper (WR, PHI) · 6.5 projected · WR31
 - Courtland Sutton (WR, DEN) · 6.1 projected · WR34 · free agent now
 - Jaylin Noel (WR, HOU) · 6.1 projected · WR35
 - Malik Washington (WR, MIA) · 6.0 projected · WR37
 - Hunter Henry (TE, NE) · 6.1 projected · TE11
-- Tyler Higbee (TE, LAR) · 5.9 projected · TE13 · free agent now
+- Tyler Higbee (TE, LAR) · 5.9 projected · TE12 · free agent now
 - T.J. Hockenson (TE, MIN) · 5.8 projected · TE16 · free agent now
 - Ryan Fitzgerald (K, CAR) · 8.3 projected (Sleeper standard) · K11
 - Cairo Santos (K, CHI) · 8.2 projected (Sleeper standard) · K12
@@ -242,30 +242,30 @@ Sleeper's weekly projections (provider: rotowire), scored with this league's sco
 - Cincinnati Bengals (DEF, CIN) · 6.4 projected (Sleeper standard) · DEF14 · free agent now
 
 ## Trending adds across Sleeper, last 24 hours
-- Seth McGowan (RB, IND) · 715,008 adds · AVAILABLE in my league
-- Darius Cooper (WR, PHI) · 536,669 adds · AVAILABLE in my league
-- Konata Mumpfield (WR, LAR) · 297,639 adds · rostered by Drunk To Taste This CHX
-- Tyler Higbee (TE, LAR) · 245,304 adds · AVAILABLE in my league
-- Emanuel Wilson (RB, SEA) · 210,897 adds · rostered by Make Miami Great Again
-- Chris Godwin Jr. (WR, TB) · 194,628 adds · rostered by Strokin My Ditka
-- Justice Hill (RB, BAL) · 160,794 adds · AVAILABLE in my league
-- Kyler Murray (QB, MIN) · 135,920 adds · AVAILABLE in my league
-- Ted Hurst III (WR, TB) · 120,174 adds · AVAILABLE in my league
-- Makai Lemon (WR, PHI) · 117,100 adds · AVAILABLE in my league
-- Xavier Worthy (WR, KC) · 98,865 adds · rostered by Springfield Atoms
-- Michael Mayer (TE, LV) · 93,780 adds · rostered by Young Blood
-- Chase McLaughlin (K, TB) · 89,736 adds · rostered by Strokin My Ditka
-- Bo Nix (QB, DEN) · 85,896 adds · rostered by Strokin My Ditka
-- Zonovan Knight (RB, ARI) · 82,356 adds · AVAILABLE in my league
-- Brandin Cooks (WR, SF) · 77,508 adds · AVAILABLE in my league
-- Jake Bates (K, DET) · 74,952 adds · on my roster
-- Cleveland Browns (DEF, CLE) · 74,858 adds · rostered by Whiskey Sippin Kings
-- KC Concepcion Jr. (WR, CLE) · 71,991 adds · AVAILABLE in my league
-- Aaron Rodgers (QB, PIT) · 70,732 adds · rostered by Holla
-- Tyler Allgeier (RB, ARI) · 68,015 adds · rostered by Team 9
-- C.J. Stroud (QB, HOU) · 66,864 adds · rostered by Drunk To Taste This CHX
-- Geno Smith (QB, NYJ) · 66,452 adds · rostered by Drunk To Taste This CHX
-- Caleb Douglas (WR, MIA) · 66,200 adds · AVAILABLE in my league
-- Malik Washington (WR, MIA) · 63,752 adds · AVAILABLE in my league
+- Seth McGowan (RB, IND) · 818,024 adds · AVAILABLE in my league
+- Darius Cooper (WR, PHI) · 708,596 adds · AVAILABLE in my league
+- Konata Mumpfield (WR, LAR) · 310,167 adds · rostered by Drunk To Taste This CHX
+- Tyler Higbee (TE, LAR) · 291,168 adds · AVAILABLE in my league
+- Emanuel Wilson (RB, SEA) · 245,574 adds · rostered by Make Miami Great Again
+- Justice Hill (RB, BAL) · 224,406 adds · AVAILABLE in my league
+- Chris Godwin Jr. (WR, TB) · 220,260 adds · rostered by Strokin My Ditka
+- Kyler Murray (QB, MIN) · 171,824 adds · AVAILABLE in my league
+- Makai Lemon (WR, PHI) · 143,060 adds · AVAILABLE in my league
+- Ted Hurst III (WR, TB) · 131,160 adds · AVAILABLE in my league
+- Michael Mayer (TE, LV) · 117,261 adds · rostered by Young Blood
+- Chase McLaughlin (K, TB) · 116,256 adds · rostered by Strokin My Ditka
+- Xavier Worthy (WR, KC) · 116,208 adds · rostered by Springfield Atoms
+- Zonovan Knight (RB, ARI) · 108,882 adds · AVAILABLE in my league
+- Bo Nix (QB, DEN) · 105,468 adds · rostered by Strokin My Ditka
+- Jake Bates (K, DET) · 94,984 adds · on my roster
+- Cleveland Browns (DEF, CLE) · 91,203 adds · rostered by Whiskey Sippin Kings
+- KC Concepcion Jr. (WR, CLE) · 90,918 adds · AVAILABLE in my league
+- Tyler Allgeier (RB, ARI) · 87,355 adds · rostered by Team 9
+- Brandin Cooks (WR, SF) · 85,124 adds · AVAILABLE in my league
+- Geno Smith (QB, NYJ) · 84,760 adds · rostered by Drunk To Taste This CHX
+- Malik Washington (WR, MIA) · 79,632 adds · AVAILABLE in my league
+- C.J. Stroud (QB, HOU) · 77,581 adds · rostered by Drunk To Taste This CHX
+- Caleb Douglas (WR, MIA) · 76,192 adds · AVAILABLE in my league
+- Dameon Pierce (RB, PHI) · 70,608 adds · on my roster
 
 Data from the Sleeper API (sleeper.com). Injury tags in brackets are Sleeper's designations and may lag official reports.
