@@ -1,5 +1,5 @@
 # Sleeper league state
-Generated Saturday October 24, 2026 09:17 PM ET · Season 2026 · NFL week 7
+Generated Sunday October 25, 2026 02:18 AM ET · Season 2026 · NFL week 7
 League: The Dudes Will Roll · 12 teams · waivers: FAAB (budget $200) · lineup: QB, RB, RB, WR, WR, TE, FLEX, K, DEF
 
 ## My team: THE ACE OF SPADES (roster 11)
@@ -153,9 +153,9 @@ Bench: Tyrone Tracy Jr. (RB, NYG); Quinshon Judkins (RB, CLE); Emeka Egbuka (WR,
 - Romeo Doubs (WR, NE) [IR] · dropped by Holla on Sat Oct 24, 5:25 PM ET · on waivers until Mon Oct 26, 5:25 PM ET
 - Brian Thomas Jr. (WR, JAX) · dropped by Springfield Atoms on Sat Oct 24, 4:09 PM ET · on waivers until Mon Oct 26, 4:09 PM ET
 - Brandon McManus (K, LAR) · dropped by FuelTheJET on Sat Oct 24, 4:05 PM ET · on waivers until Mon Oct 26, 4:05 PM ET
-- KC Concepcion Jr. (WR, CLE) · dropped by Thoroughbred Cheesehead on Thu Oct 22, 10:16 PM ET · on waivers until Sat Oct 24, 10:16 PM ET
-- Cam Ward (QB, TEN) · dropped by Thoroughbred Cheesehead on Thu Oct 22, 10:15 PM ET · on waivers until Sat Oct 24, 10:15 PM ET
-- Austin Ekeler (RB, WAS) · dropped by Thoroughbred Cheesehead on Thu Oct 22, 10:14 PM ET · on waivers until Sat Oct 24, 10:14 PM ET
+- KC Concepcion Jr. (WR, CLE) · dropped by Thoroughbred Cheesehead on Thu Oct 22, 10:16 PM ET · free agent now
+- Cam Ward (QB, TEN) · dropped by Thoroughbred Cheesehead on Thu Oct 22, 10:15 PM ET · free agent now
+- Austin Ekeler (RB, WAS) · dropped by Thoroughbred Cheesehead on Thu Oct 22, 10:14 PM ET · free agent now
 - Raheim Sanders (RB, CLE) [IR] · dropped by Make Miami Great Again on Thu Oct 22, 7:24 PM ET · free agent now
 - Courtland Sutton (WR, DEN) · dropped by Whiskey Sippin Kings on Thu Oct 22, 4:38 PM ET · free agent now
 - Mike Gesicki (TE, CIN) · dropped by Drunk To Taste This CHX on Thu Oct 22, 12:20 PM ET · free agent now
@@ -191,30 +191,30 @@ Bench: Tyrone Tracy Jr. (RB, NYG); Quinshon Judkins (RB, CLE); Emeka Egbuka (WR,
 - Kenyon Sadiq (TE, NYJ) · dropped by FuelTheJET on Wed Oct 14, 6:46 AM ET · free agent now
 
 ## Trending adds across Sleeper, last 24 hours
-- Seth McGowan (RB, IND) · 497,064 adds · AVAILABLE in my league
-- Konata Mumpfield (WR, LAR) · 284,184 adds · rostered by Drunk To Taste This CHX
-- Emanuel Wilson (RB, SEA) · 184,428 adds · rostered by Make Miami Great Again
-- Tyler Higbee (TE, LAR) · 181,143 adds · AVAILABLE in my league
-- Chris Godwin Jr. (WR, TB) · 165,360 adds · rostered by Strokin My Ditka
-- Darius Cooper (WR, PHI) · 131,180 adds · AVAILABLE in my league
-- Justice Hill (RB, BAL) · 131,139 adds · AVAILABLE in my league
-- Ted Hurst III (WR, TB) · 112,902 adds · AVAILABLE in my league
-- Kyler Murray (QB, MIN) · 84,696 adds · AVAILABLE in my league
-- Brandin Cooks (WR, SF) · 77,548 adds · AVAILABLE in my league
-- Michael Mayer (TE, LV) · 73,332 adds · rostered by Young Blood
-- Xavier Worthy (WR, KC) · 73,071 adds · rostered by Springfield Atoms
-- Zonovan Knight (RB, ARI) · 63,820 adds · AVAILABLE in my league
-- Jordan Watkins (WR, SF) · 56,556 adds · AVAILABLE in my league
-- Bo Nix (QB, DEN) · 54,420 adds · rostered by Strokin My Ditka
-- Chase McLaughlin (K, TB) · 54,128 adds · rostered by Strokin My Ditka
-- Adonai Mitchell (WR, NYJ) · 53,368 adds · AVAILABLE in my league
-- Makai Lemon (WR, PHI) · 53,048 adds · AVAILABLE in my league
-- Caleb Douglas (WR, MIA) · 51,920 adds · AVAILABLE in my league
-- Aaron Rodgers (QB, PIT) · 49,992 adds · rostered by Holla
-- C.J. Stroud (QB, HOU) · 49,322 adds · rostered by Drunk To Taste This CHX
-- KC Concepcion Jr. (WR, CLE) · 48,321 adds · AVAILABLE in my league
-- Cleveland Browns (DEF, CLE) · 46,291 adds · rostered by Whiskey Sippin Kings
-- Malik Washington (WR, MIA) · 45,312 adds · AVAILABLE in my league
-- Tyler Allgeier (RB, ARI) · 44,940 adds · rostered by Team 9
+- Seth McGowan (RB, IND) · 562,680 adds · AVAILABLE in my league
+- Konata Mumpfield (WR, LAR) · 278,865 adds · rostered by Drunk To Taste This CHX
+- Darius Cooper (WR, PHI) · 272,853 adds · AVAILABLE in my league
+- Tyler Higbee (TE, LAR) · 185,661 adds · AVAILABLE in my league
+- Emanuel Wilson (RB, SEA) · 175,977 adds · rostered by Make Miami Great Again
+- Chris Godwin Jr. (WR, TB) · 163,392 adds · rostered by Strokin My Ditka
+- Justice Hill (RB, BAL) · 133,452 adds · AVAILABLE in my league
+- Ted Hurst III (WR, TB) · 107,454 adds · AVAILABLE in my league
+- Kyler Murray (QB, MIN) · 97,848 adds · AVAILABLE in my league
+- Xavier Worthy (WR, KC) · 78,561 adds · rostered by Springfield Atoms
+- Makai Lemon (WR, PHI) · 77,504 adds · AVAILABLE in my league
+- Michael Mayer (TE, LV) · 72,135 adds · rostered by Young Blood
+- Brandin Cooks (WR, SF) · 69,204 adds · AVAILABLE in my league
+- Bo Nix (QB, DEN) · 62,796 adds · rostered by Strokin My Ditka
+- Zonovan Knight (RB, ARI) · 62,234 adds · AVAILABLE in my league
+- Chase McLaughlin (K, TB) · 58,744 adds · rostered by Strokin My Ditka
+- Aaron Rodgers (QB, PIT) · 57,080 adds · rostered by Holla
+- KC Concepcion Jr. (WR, CLE) · 53,469 adds · AVAILABLE in my league
+- C.J. Stroud (QB, HOU) · 52,738 adds · rostered by Drunk To Taste This CHX
+- Caleb Douglas (WR, MIA) · 51,064 adds · AVAILABLE in my league
+- Adonai Mitchell (WR, NYJ) · 50,552 adds · AVAILABLE in my league
+- Cleveland Browns (DEF, CLE) · 50,533 adds · rostered by Whiskey Sippin Kings
+- Tyler Allgeier (RB, ARI) · 47,065 adds · rostered by Team 9
+- Jake Bates (K, DET) · 46,648 adds · on my roster
+- Jordan Watkins (WR, SF) · 46,584 adds · AVAILABLE in my league
 
 Data from the Sleeper API (sleeper.com). Injury tags in brackets are Sleeper's designations and may lag official reports.
