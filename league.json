@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-25T21:20:22.945762-04:00",
+  "generated": "2026-10-26T03:54:48.247188-04:00",
   "season": "2026",
   "week": 7,
   "league": {
@@ -1053,7 +1053,7 @@
         {
           "player": "Darius Cooper (WR, PHI)",
           "slot": null,
-          "points": 6.5,
+          "points": 6.4,
           "rank": "WR31",
           "scoring": "league"
         },
@@ -1151,128 +1151,128 @@
   "trending_adds": [
     {
       "player": "Darius Cooper (WR, PHI)",
-      "adds": 938595,
+      "adds": 800415,
       "rostered_by": null
     },
     {
       "player": "Seth McGowan (RB, IND)",
-      "adds": 617632,
+      "adds": 487848,
       "rostered_by": null
     },
     {
-      "player": "Tyler Higbee (TE, LAR)",
-      "adds": 245574,
+      "player": "Caleb Douglas (WR, MIA)",
+      "adds": 261600,
       "rostered_by": null
     },
     {
       "player": "Kaelon Black (RB, SF)",
-      "adds": 231161,
+      "adds": 252042,
       "rostered_by": 6
     },
     {
+      "player": "KC Concepcion Jr. (WR, CLE)",
+      "adds": 227340,
+      "rostered_by": null
+    },
+    {
+      "player": "Tyler Higbee (TE, LAR)",
+      "adds": 194202,
+      "rostered_by": null
+    },
+    {
       "player": "Emanuel Wilson (RB, SEA)",
-      "adds": 215307,
+      "adds": 192699,
       "rostered_by": 7
     },
     {
       "player": "Konata Mumpfield (WR, LAR)",
-      "adds": 208809,
+      "adds": 140436,
       "rostered_by": 3
     },
     {
-      "player": "Caleb Douglas (WR, MIA)",
-      "adds": 197392,
-      "rostered_by": null
-    },
-    {
-      "player": "KC Concepcion Jr. (WR, CLE)",
-      "adds": 193284,
+      "player": "Justice Hill (RB, BAL)",
+      "adds": 135261,
       "rostered_by": null
     },
     {
       "player": "Makai Lemon (WR, PHI)",
-      "adds": 155600,
+      "adds": 131504,
       "rostered_by": null
     },
     {
-      "player": "Chris Godwin Jr. (WR, TB)",
-      "adds": 148872,
-      "rostered_by": 10
-    },
-    {
-      "player": "Justice Hill (RB, BAL)",
-      "adds": 146538,
-      "rostered_by": null
-    },
-    {
-      "player": "Kyler Murray (QB, MIN)",
-      "adds": 133000,
-      "rostered_by": null
+      "player": "Omar Cooper Jr. (WR, NYJ)",
+      "adds": 130056,
+      "rostered_by": 11
     },
     {
       "player": "Chase McLaughlin (K, TB)",
-      "adds": 124560,
+      "adds": 119168,
       "rostered_by": 10
     },
     {
-      "player": "Xavier Worthy (WR, KC)",
-      "adds": 122859,
-      "rostered_by": 5
+      "player": "Chris Godwin Jr. (WR, TB)",
+      "adds": 110052,
+      "rostered_by": 10
+    },
+    {
+      "player": "Kyler Murray (QB, MIN)",
+      "adds": 108496,
+      "rostered_by": null
     },
     {
       "player": "Jake Bates (K, DET)",
-      "adds": 118840,
+      "adds": 108432,
       "rostered_by": 11
     },
     {
       "player": "Michael Mayer (TE, LV)",
-      "adds": 116712,
+      "adds": 102204,
       "rostered_by": 12
     },
     {
-      "player": "Omar Cooper Jr. (WR, NYJ)",
-      "adds": 108024,
-      "rostered_by": 11
-    },
-    {
-      "player": "Zonovan Knight (RB, ARI)",
-      "adds": 102582,
-      "rostered_by": null
+      "player": "Xavier Worthy (WR, KC)",
+      "adds": 101745,
+      "rostered_by": 5
     },
     {
       "player": "Dameon Pierce (RB, PHI)",
-      "adds": 97104,
+      "adds": 98736,
       "rostered_by": 11
     },
     {
+      "player": "Tre Tucker (WR, LV)",
+      "adds": 88182,
+      "rostered_by": 5
+    },
+    {
+      "player": "Zonovan Knight (RB, ARI)",
+      "adds": 87056,
+      "rostered_by": null
+    },
+    {
       "player": "Bo Nix (QB, DEN)",
-      "adds": 96180,
+      "adds": 84222,
       "rostered_by": 10
     },
     {
-      "player": "Tyler Allgeier (RB, ARI)",
-      "adds": 83815,
-      "rostered_by": 9
+      "player": "Braelon Allen (RB, NYJ)",
+      "adds": 76752,
+      "rostered_by": 3
     },
     {
-      "player": "Ted Hurst III (WR, TB)",
-      "adds": 80430,
-      "rostered_by": null
-    },
-    {
-      "player": "Cleveland Browns (DEF, CLE)",
-      "adds": 80416,
-      "rostered_by": 1
+      "player": "Kirk Cousins (QB, LV)",
+      "adds": 70600,
+      "rostered_by": 12
     },
     {
       "player": "Brandon McManus (K, LAR)",
-      "adds": 75472,
+      "adds": 70104,
       "rostered_by": null
     },
     {
-      "player": "Braelon Allen (RB, NYJ)",
-      "adds": 73676,
-      "rostered_by": 3
+      "player": "Tank Dell (WR, HOU)",
+      "adds": 69544,
+      "rostered_by": 4
     }
   ]
 }
