@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-26T11:17:19.609171-04:00",
+  "generated": "2026-10-26T16:37:19.939085-04:00",
   "season": "2026",
   "week": 7,
   "league": {
@@ -132,7 +132,7 @@
         "Joe Burrow (QB, CIN)",
         "J.K. Dobbins (RB, DEN)",
         "Bucky Irving (RB, TB)",
-        "Amon-Ra St. Brown (WR, DET)",
+        "Amon-Ra St. Brown (WR, DET) [Questionable]",
         "Christian Watson (WR, GB)",
         "Mark Andrews (TE, BAL)",
         "Rico Dowdle (RB, PIT)",
@@ -338,7 +338,7 @@
       ],
       "bench": [
         "MarShawn Lloyd (RB, GB)",
-        "Jaylen Wright (RB, MIA)",
+        "Jaylen Wright (RB, MIA) [Questionable]",
         "Bhayshul Tuten (RB, JAX)",
         "Juwan Johnson (TE, NO)",
         "Brian Robinson Jr. (RB, ATL) [Out]"
@@ -370,7 +370,7 @@
         "Denver Broncos (DEF, DEN)"
       ],
       "bench": [
-        "Cam Skattebo (RB, NYG)",
+        "Cam Skattebo (RB, NYG) [Questionable]",
         "Patrick Mahomes (QB, KC)",
         "Dallas Goedert (TE, PHI)",
         "Jakobi Meyers (WR, JAX)",
@@ -427,7 +427,7 @@
         "Tyler Allgeier (RB, ARI)",
         "RJ Harvey (RB, DEN)",
         "Puka Nacua (WR, LAR)",
-        "Jaylen Waddle (WR, DEN)",
+        "Jaylen Waddle (WR, DEN) [Questionable]",
         "Colston Loveland (TE, CHI)",
         "Alvin Kamara (RB, NO)",
         "Andy Borregales (K, NE)",
@@ -542,15 +542,15 @@
       "player": "Brian Thomas Jr. (WR, JAX)",
       "dropped_by": "Springfield Atoms",
       "dropped_at": "2026-10-24T16:09:55.318000-04:00",
-      "on_waivers_until": "2026-10-26T16:09:55.318000-04:00",
-      "waiver_status": "on waivers until Mon Oct 26, 4:09 PM ET"
+      "on_waivers_until": null,
+      "waiver_status": "free agent now"
     },
     {
       "player": "Brandon McManus (K, LAR)",
       "dropped_by": "FuelTheJET",
       "dropped_at": "2026-10-24T16:05:30.740000-04:00",
-      "on_waivers_until": "2026-10-26T16:05:30.740000-04:00",
-      "waiver_status": "on waivers until Mon Oct 26, 4:05 PM ET"
+      "on_waivers_until": null,
+      "waiver_status": "free agent now"
     },
     {
       "player": "KC Concepcion Jr. (WR, CLE)",
@@ -855,8 +855,8 @@
       {
         "player": "Dameon Pierce (RB, PHI)",
         "slot": "FLEX",
-        "points": 5.7,
-        "rank": "RB35",
+        "points": 5.6,
+        "rank": "RB36",
         "scoring": "league"
       },
       {
@@ -1053,7 +1053,7 @@
         {
           "player": "Darius Cooper (WR, PHI)",
           "slot": null,
-          "points": 6.4,
+          "points": 6.5,
           "rank": "WR31",
           "scoring": "league"
         },
@@ -1066,7 +1066,7 @@
           "waiver_status": "free agent now"
         },
         {
-          "player": "Jaylin Noel (WR, HOU)",
+          "player": "Jaylin Noel (WR, HOU) [Questionable]",
           "slot": null,
           "points": 6.0,
           "rank": "WR35",
@@ -1150,128 +1150,128 @@
   },
   "trending_adds": [
     {
+      "player": "Caleb Douglas (WR, MIA)",
+      "adds": 361448,
+      "rostered_by": null
+    },
+    {
       "player": "Darius Cooper (WR, PHI)",
-      "adds": 583058,
+      "adds": 270067,
+      "rostered_by": null
+    },
+    {
+      "player": "KC Concepcion Jr. (WR, CLE)",
+      "adds": 224352,
       "rostered_by": null
     },
     {
       "player": "Seth McGowan (RB, IND)",
-      "adds": 329168,
+      "adds": 165112,
       "rostered_by": null
     },
     {
-      "player": "Caleb Douglas (WR, MIA)",
-      "adds": 298960,
-      "rostered_by": null
+      "player": "Omar Cooper Jr. (WR, NYJ)",
+      "adds": 130976,
+      "rostered_by": 11
     },
     {
       "player": "Kaelon Black (RB, SF)",
-      "adds": 266224,
+      "adds": 111384,
       "rostered_by": 6
     },
     {
-      "player": "KC Concepcion Jr. (WR, CLE)",
-      "adds": 240669,
+      "player": "Tre Tucker (WR, LV)",
+      "adds": 95304,
+      "rostered_by": 5
+    },
+    {
+      "player": "New England Patriots (DEF, NE)",
+      "adds": 85232,
       "rostered_by": null
     },
     {
       "player": "Emanuel Wilson (RB, SEA)",
-      "adds": 146304,
+      "adds": 75798,
       "rostered_by": 7
     },
     {
-      "player": "Omar Cooper Jr. (WR, NYJ)",
-      "adds": 141488,
+      "player": "Chase McLaughlin (K, TB)",
+      "adds": 59072,
+      "rostered_by": 10
+    },
+    {
+      "player": "Blake Corum (RB, LAR)",
+      "adds": 57832,
+      "rostered_by": 6
+    },
+    {
+      "player": "Jacksonville Jaguars (DEF, JAX)",
+      "adds": 56820,
+      "rostered_by": 4
+    },
+    {
+      "player": "Dameon Pierce (RB, PHI)",
+      "adds": 55616,
       "rostered_by": 11
     },
     {
-      "player": "Tyler Higbee (TE, LAR)",
-      "adds": 117747,
-      "rostered_by": null
-    },
-    {
-      "player": "Justice Hill (RB, BAL)",
-      "adds": 104940,
+      "player": "Devin Singletary (RB, NYG)",
+      "adds": 53964,
       "rostered_by": null
     },
     {
       "player": "Makai Lemon (WR, PHI)",
-      "adds": 100672,
+      "adds": 53856,
       "rostered_by": null
-    },
-    {
-      "player": "Tre Tucker (WR, LV)",
-      "adds": 95622,
-      "rostered_by": 5
-    },
-    {
-      "player": "Chase McLaughlin (K, TB)",
-      "adds": 94168,
-      "rostered_by": 10
-    },
-    {
-      "player": "Konata Mumpfield (WR, LAR)",
-      "adds": 86886,
-      "rostered_by": 3
-    },
-    {
-      "player": "Dameon Pierce (RB, PHI)",
-      "adds": 85440,
-      "rostered_by": 11
-    },
-    {
-      "player": "Jake Bates (K, DET)",
-      "adds": 83768,
-      "rostered_by": 11
-    },
-    {
-      "player": "Michael Mayer (TE, LV)",
-      "adds": 75429,
-      "rostered_by": 12
-    },
-    {
-      "player": "Xavier Worthy (WR, KC)",
-      "adds": 75339,
-      "rostered_by": 5
-    },
-    {
-      "player": "Kyler Murray (QB, MIN)",
-      "adds": 69952,
-      "rostered_by": null
-    },
-    {
-      "player": "New England Patriots (DEF, NE)",
-      "adds": 66787,
-      "rostered_by": null
-    },
-    {
-      "player": "Tank Dell (WR, HOU)",
-      "adds": 65328,
-      "rostered_by": 4
     },
     {
       "player": "Ryan Flournoy (WR, DAL)",
-      "adds": 64848,
+      "adds": 53072,
+      "rostered_by": null
+    },
+    {
+      "player": "Kyle Pitts Sr. (TE, ATL)",
+      "adds": 49938,
+      "rostered_by": 10
+    },
+    {
+      "player": "Hunter Henry (TE, NE)",
+      "adds": 46785,
       "rostered_by": null
     },
     {
       "player": "Kirk Cousins (QB, LV)",
-      "adds": 64680,
+      "adds": 45584,
       "rostered_by": 12
     },
     {
-      "player": "Bo Nix (QB, DEN)",
-      "adds": 62910,
-      "rostered_by": 10
+      "player": "Tampa Bay Buccaneers (DEF, TB)",
+      "adds": 42415,
+      "rostered_by": null
     },
     {
-      "player": "Kyle Pitts Sr. (TE, ATL)",
-      "adds": 61306,
-      "rostered_by": 10
+      "player": "Tanner McKee (QB, PHI)",
+      "adds": 41432,
+      "rostered_by": null
     },
     {
-      "player": "Chris Godwin Jr. (WR, TB)",
-      "adds": 61044,
+      "player": "Jake Elliott (K, PHI)",
+      "adds": 37247,
+      "rostered_by": null
+    },
+    {
+      "player": "Jake Bates (K, DET)",
+      "adds": 36688,
+      "rostered_by": 11
+    },
+    {
+      "player": "Mason Taylor (TE, NYJ)",
+      "adds": 34640,
+      "rostered_by": null
+    },
+    {
+      "player": "Brenton Strange (TE, JAX)",
+      "adds": 34578,
       "rostered_by": 10
     }
   ]
