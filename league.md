@@ -1,5 +1,5 @@
 # Sleeper league state
-Generated Monday October 26, 2026 03:54 AM ET · Season 2026 · NFL week 7
+Generated Monday October 26, 2026 11:17 AM ET · Season 2026 · NFL week 7
 League: The Dudes Will Roll · 12 teams · waivers: FAAB (budget $200) · lineup: QB, RB, RB, WR, WR, TE, FLEX, K, DEF
 
 ## My team: THE ACE OF SPADES (roster 11)
@@ -242,30 +242,30 @@ Sleeper's weekly projections (provider: rotowire), scored with this league's sco
 - Cincinnati Bengals (DEF, CIN) · 6.4 projected (Sleeper standard) · DEF14 · free agent now
 
 ## Trending adds across Sleeper, last 24 hours
-- Darius Cooper (WR, PHI) · 800,415 adds · AVAILABLE in my league
-- Seth McGowan (RB, IND) · 487,848 adds · AVAILABLE in my league
-- Caleb Douglas (WR, MIA) · 261,600 adds · AVAILABLE in my league
-- Kaelon Black (RB, SF) · 252,042 adds · rostered by FuelTheJET
-- KC Concepcion Jr. (WR, CLE) · 227,340 adds · AVAILABLE in my league
-- Tyler Higbee (TE, LAR) · 194,202 adds · AVAILABLE in my league
-- Emanuel Wilson (RB, SEA) · 192,699 adds · rostered by Make Miami Great Again
-- Konata Mumpfield (WR, LAR) · 140,436 adds · rostered by Drunk To Taste This CHX
-- Justice Hill (RB, BAL) · 135,261 adds · AVAILABLE in my league
-- Makai Lemon (WR, PHI) · 131,504 adds · AVAILABLE in my league
-- Omar Cooper Jr. (WR, NYJ) · 130,056 adds · on my roster
-- Chase McLaughlin (K, TB) · 119,168 adds · rostered by Strokin My Ditka
-- Chris Godwin Jr. (WR, TB) · 110,052 adds · rostered by Strokin My Ditka
-- Kyler Murray (QB, MIN) · 108,496 adds · AVAILABLE in my league
-- Jake Bates (K, DET) · 108,432 adds · on my roster
-- Michael Mayer (TE, LV) · 102,204 adds · rostered by Young Blood
-- Xavier Worthy (WR, KC) · 101,745 adds · rostered by Springfield Atoms
-- Dameon Pierce (RB, PHI) · 98,736 adds · on my roster
-- Tre Tucker (WR, LV) · 88,182 adds · rostered by Springfield Atoms
-- Zonovan Knight (RB, ARI) · 87,056 adds · AVAILABLE in my league
-- Bo Nix (QB, DEN) · 84,222 adds · rostered by Strokin My Ditka
-- Braelon Allen (RB, NYJ) · 76,752 adds · rostered by Drunk To Taste This CHX
-- Kirk Cousins (QB, LV) · 70,600 adds · rostered by Young Blood
-- Brandon McManus (K, LAR) · 70,104 adds · AVAILABLE in my league
-- Tank Dell (WR, HOU) · 69,544 adds · rostered by Thoroughbred Cheesehead
+- Darius Cooper (WR, PHI) · 583,058 adds · AVAILABLE in my league
+- Seth McGowan (RB, IND) · 329,168 adds · AVAILABLE in my league
+- Caleb Douglas (WR, MIA) · 298,960 adds · AVAILABLE in my league
+- Kaelon Black (RB, SF) · 266,224 adds · rostered by FuelTheJET
+- KC Concepcion Jr. (WR, CLE) · 240,669 adds · AVAILABLE in my league
+- Emanuel Wilson (RB, SEA) · 146,304 adds · rostered by Make Miami Great Again
+- Omar Cooper Jr. (WR, NYJ) · 141,488 adds · on my roster
+- Tyler Higbee (TE, LAR) · 117,747 adds · AVAILABLE in my league
+- Justice Hill (RB, BAL) · 104,940 adds · AVAILABLE in my league
+- Makai Lemon (WR, PHI) · 100,672 adds · AVAILABLE in my league
+- Tre Tucker (WR, LV) · 95,622 adds · rostered by Springfield Atoms
+- Chase McLaughlin (K, TB) · 94,168 adds · rostered by Strokin My Ditka
+- Konata Mumpfield (WR, LAR) · 86,886 adds · rostered by Drunk To Taste This CHX
+- Dameon Pierce (RB, PHI) · 85,440 adds · on my roster
+- Jake Bates (K, DET) · 83,768 adds · on my roster
+- Michael Mayer (TE, LV) · 75,429 adds · rostered by Young Blood
+- Xavier Worthy (WR, KC) · 75,339 adds · rostered by Springfield Atoms
+- Kyler Murray (QB, MIN) · 69,952 adds · AVAILABLE in my league
+- New England Patriots (DEF, NE) · 66,787 adds · AVAILABLE in my league
+- Tank Dell (WR, HOU) · 65,328 adds · rostered by Thoroughbred Cheesehead
+- Ryan Flournoy (WR, DAL) · 64,848 adds · AVAILABLE in my league
+- Kirk Cousins (QB, LV) · 64,680 adds · rostered by Young Blood
+- Bo Nix (QB, DEN) · 62,910 adds · rostered by Strokin My Ditka
+- Kyle Pitts Sr. (TE, ATL) · 61,306 adds · rostered by Strokin My Ditka
+- Chris Godwin Jr. (WR, TB) · 61,044 adds · rostered by Strokin My Ditka
 
 Data from the Sleeper API (sleeper.com). Injury tags in brackets are Sleeper's designations and may lag official reports.

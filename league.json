@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-26T03:54:48.247188-04:00",
+  "generated": "2026-10-26T11:17:19.609171-04:00",
   "season": "2026",
   "week": 7,
   "league": {
@@ -1151,128 +1151,128 @@
   "trending_adds": [
     {
       "player": "Darius Cooper (WR, PHI)",
-      "adds": 800415,
+      "adds": 583058,
       "rostered_by": null
     },
     {
       "player": "Seth McGowan (RB, IND)",
-      "adds": 487848,
+      "adds": 329168,
       "rostered_by": null
     },
     {
       "player": "Caleb Douglas (WR, MIA)",
-      "adds": 261600,
+      "adds": 298960,
       "rostered_by": null
     },
     {
       "player": "Kaelon Black (RB, SF)",
-      "adds": 252042,
+      "adds": 266224,
       "rostered_by": 6
     },
     {
       "player": "KC Concepcion Jr. (WR, CLE)",
-      "adds": 227340,
-      "rostered_by": null
-    },
-    {
-      "player": "Tyler Higbee (TE, LAR)",
-      "adds": 194202,
+      "adds": 240669,
       "rostered_by": null
     },
     {
       "player": "Emanuel Wilson (RB, SEA)",
-      "adds": 192699,
+      "adds": 146304,
       "rostered_by": 7
     },
     {
-      "player": "Konata Mumpfield (WR, LAR)",
-      "adds": 140436,
-      "rostered_by": 3
+      "player": "Omar Cooper Jr. (WR, NYJ)",
+      "adds": 141488,
+      "rostered_by": 11
+    },
+    {
+      "player": "Tyler Higbee (TE, LAR)",
+      "adds": 117747,
+      "rostered_by": null
     },
     {
       "player": "Justice Hill (RB, BAL)",
-      "adds": 135261,
+      "adds": 104940,
       "rostered_by": null
     },
     {
       "player": "Makai Lemon (WR, PHI)",
-      "adds": 131504,
+      "adds": 100672,
       "rostered_by": null
     },
     {
-      "player": "Omar Cooper Jr. (WR, NYJ)",
-      "adds": 130056,
-      "rostered_by": 11
+      "player": "Tre Tucker (WR, LV)",
+      "adds": 95622,
+      "rostered_by": 5
     },
     {
       "player": "Chase McLaughlin (K, TB)",
-      "adds": 119168,
+      "adds": 94168,
       "rostered_by": 10
     },
     {
-      "player": "Chris Godwin Jr. (WR, TB)",
-      "adds": 110052,
-      "rostered_by": 10
+      "player": "Konata Mumpfield (WR, LAR)",
+      "adds": 86886,
+      "rostered_by": 3
     },
     {
-      "player": "Kyler Murray (QB, MIN)",
-      "adds": 108496,
-      "rostered_by": null
+      "player": "Dameon Pierce (RB, PHI)",
+      "adds": 85440,
+      "rostered_by": 11
     },
     {
       "player": "Jake Bates (K, DET)",
-      "adds": 108432,
+      "adds": 83768,
       "rostered_by": 11
     },
     {
       "player": "Michael Mayer (TE, LV)",
-      "adds": 102204,
+      "adds": 75429,
       "rostered_by": 12
     },
     {
       "player": "Xavier Worthy (WR, KC)",
-      "adds": 101745,
+      "adds": 75339,
       "rostered_by": 5
     },
     {
-      "player": "Dameon Pierce (RB, PHI)",
-      "adds": 98736,
-      "rostered_by": 11
-    },
-    {
-      "player": "Tre Tucker (WR, LV)",
-      "adds": 88182,
-      "rostered_by": 5
-    },
-    {
-      "player": "Zonovan Knight (RB, ARI)",
-      "adds": 87056,
+      "player": "Kyler Murray (QB, MIN)",
+      "adds": 69952,
       "rostered_by": null
     },
     {
-      "player": "Bo Nix (QB, DEN)",
-      "adds": 84222,
-      "rostered_by": 10
-    },
-    {
-      "player": "Braelon Allen (RB, NYJ)",
-      "adds": 76752,
-      "rostered_by": 3
-    },
-    {
-      "player": "Kirk Cousins (QB, LV)",
-      "adds": 70600,
-      "rostered_by": 12
-    },
-    {
-      "player": "Brandon McManus (K, LAR)",
-      "adds": 70104,
+      "player": "New England Patriots (DEF, NE)",
+      "adds": 66787,
       "rostered_by": null
     },
     {
       "player": "Tank Dell (WR, HOU)",
-      "adds": 69544,
+      "adds": 65328,
       "rostered_by": 4
+    },
+    {
+      "player": "Ryan Flournoy (WR, DAL)",
+      "adds": 64848,
+      "rostered_by": null
+    },
+    {
+      "player": "Kirk Cousins (QB, LV)",
+      "adds": 64680,
+      "rostered_by": 12
+    },
+    {
+      "player": "Bo Nix (QB, DEN)",
+      "adds": 62910,
+      "rostered_by": 10
+    },
+    {
+      "player": "Kyle Pitts Sr. (TE, ATL)",
+      "adds": 61306,
+      "rostered_by": 10
+    },
+    {
+      "player": "Chris Godwin Jr. (WR, TB)",
+      "adds": 61044,
+      "rostered_by": 10
     }
   ]
 }
