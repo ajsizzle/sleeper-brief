@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-26T16:37:19.939085-04:00",
+  "generated": "2026-10-26T20:34:40.762153-04:00",
   "season": "2026",
   "week": 7,
   "league": {
@@ -535,8 +535,8 @@
       "player": "Romeo Doubs (WR, NE) [IR]",
       "dropped_by": "Holla",
       "dropped_at": "2026-10-24T17:25:26.266000-04:00",
-      "on_waivers_until": "2026-10-26T17:25:26.266000-04:00",
-      "waiver_status": "on waivers until Mon Oct 26, 5:25 PM ET"
+      "on_waivers_until": null,
+      "waiver_status": "free agent now"
     },
     {
       "player": "Brian Thomas Jr. (WR, JAX)",
@@ -855,8 +855,8 @@
       {
         "player": "Dameon Pierce (RB, PHI)",
         "slot": "FLEX",
-        "points": 5.6,
-        "rank": "RB36",
+        "points": 5.3,
+        "rank": "RB40",
         "scoring": "league"
       },
       {
@@ -1022,7 +1022,7 @@
           "player": "Kenny Gainwell (RB, TB) [Questionable]",
           "slot": null,
           "points": 5.4,
-          "rank": "RB39",
+          "rank": "RB38",
           "scoring": "league",
           "waiver_status": "free agent now"
         },
@@ -1030,7 +1030,7 @@
           "player": "Dare Ogunbowale (RB, HOU)",
           "slot": null,
           "points": 5.3,
-          "rank": "RB40",
+          "rank": "RB39",
           "scoring": "league"
         },
         {
@@ -1151,128 +1151,128 @@
   "trending_adds": [
     {
       "player": "Caleb Douglas (WR, MIA)",
-      "adds": 361448,
-      "rostered_by": null
-    },
-    {
-      "player": "Darius Cooper (WR, PHI)",
-      "adds": 270067,
+      "adds": 331240,
       "rostered_by": null
     },
     {
       "player": "KC Concepcion Jr. (WR, CLE)",
-      "adds": 224352,
+      "adds": 185895,
+      "rostered_by": null
+    },
+    {
+      "player": "Darius Cooper (WR, PHI)",
+      "adds": 152803,
       "rostered_by": null
     },
     {
       "player": "Seth McGowan (RB, IND)",
-      "adds": 165112,
+      "adds": 150352,
       "rostered_by": null
     },
     {
       "player": "Omar Cooper Jr. (WR, NYJ)",
-      "adds": 130976,
+      "adds": 101656,
       "rostered_by": 11
     },
     {
       "player": "Kaelon Black (RB, SF)",
-      "adds": 111384,
+      "adds": 99869,
       "rostered_by": 6
-    },
-    {
-      "player": "Tre Tucker (WR, LV)",
-      "adds": 95304,
-      "rostered_by": 5
     },
     {
       "player": "New England Patriots (DEF, NE)",
-      "adds": 85232,
+      "adds": 81732,
       "rostered_by": null
+    },
+    {
+      "player": "Tre Tucker (WR, LV)",
+      "adds": 81072,
+      "rostered_by": 5
     },
     {
       "player": "Emanuel Wilson (RB, SEA)",
-      "adds": 75798,
+      "adds": 60417,
       "rostered_by": 7
     },
     {
-      "player": "Chase McLaughlin (K, TB)",
-      "adds": 59072,
-      "rostered_by": 10
-    },
-    {
-      "player": "Blake Corum (RB, LAR)",
-      "adds": 57832,
-      "rostered_by": 6
-    },
-    {
       "player": "Jacksonville Jaguars (DEF, JAX)",
-      "adds": 56820,
+      "adds": 56910,
       "rostered_by": 4
     },
     {
-      "player": "Dameon Pierce (RB, PHI)",
-      "adds": 55616,
-      "rostered_by": 11
-    },
-    {
-      "player": "Devin Singletary (RB, NYG)",
-      "adds": 53964,
-      "rostered_by": null
-    },
-    {
-      "player": "Makai Lemon (WR, PHI)",
-      "adds": 53856,
-      "rostered_by": null
-    },
-    {
-      "player": "Ryan Flournoy (WR, DAL)",
-      "adds": 53072,
-      "rostered_by": null
-    },
-    {
-      "player": "Kyle Pitts Sr. (TE, ATL)",
-      "adds": 49938,
+      "player": "Chase McLaughlin (K, TB)",
+      "adds": 49784,
       "rostered_by": 10
     },
     {
+      "player": "Devin Singletary (RB, NYG)",
+      "adds": 47241,
+      "rostered_by": null
+    },
+    {
+      "player": "Tampa Bay Buccaneers (DEF, TB)",
+      "adds": 45430,
+      "rostered_by": null
+    },
+    {
+      "player": "Blake Corum (RB, LAR)",
+      "adds": 45392,
+      "rostered_by": 6
+    },
+    {
       "player": "Hunter Henry (TE, NE)",
-      "adds": 46785,
+      "adds": 41562,
       "rostered_by": null
     },
     {
       "player": "Kirk Cousins (QB, LV)",
-      "adds": 45584,
+      "adds": 41432,
       "rostered_by": 12
     },
     {
-      "player": "Tampa Bay Buccaneers (DEF, TB)",
-      "adds": 42415,
+      "player": "Kyle Pitts Sr. (TE, ATL)",
+      "adds": 40467,
+      "rostered_by": 10
+    },
+    {
+      "player": "Ryan Flournoy (WR, DAL)",
+      "adds": 38624,
       "rostered_by": null
     },
     {
-      "player": "Tanner McKee (QB, PHI)",
-      "adds": 41432,
-      "rostered_by": null
+      "player": "Jonah Coleman (RB, DEN)",
+      "adds": 38304,
+      "rostered_by": 6
     },
     {
-      "player": "Jake Elliott (K, PHI)",
-      "adds": 37247,
-      "rostered_by": null
-    },
-    {
-      "player": "Jake Bates (K, DET)",
-      "adds": 36688,
+      "player": "Dameon Pierce (RB, PHI)",
+      "adds": 37224,
       "rostered_by": 11
     },
     {
-      "player": "Mason Taylor (TE, NYJ)",
-      "adds": 34640,
+      "player": "Makai Lemon (WR, PHI)",
+      "adds": 36404,
       "rostered_by": null
     },
     {
       "player": "Brenton Strange (TE, JAX)",
-      "adds": 34578,
+      "adds": 32121,
       "rostered_by": 10
+    },
+    {
+      "player": "Jake Elliott (K, PHI)",
+      "adds": 30380,
+      "rostered_by": null
+    },
+    {
+      "player": "Tanner McKee (QB, PHI)",
+      "adds": 29312,
+      "rostered_by": null
+    },
+    {
+      "player": "Mason Taylor (TE, NYJ)",
+      "adds": 28510,
+      "rostered_by": null
     }
   ]
 }

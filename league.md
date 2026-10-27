@@ -1,5 +1,5 @@
 # Sleeper league state
-Generated Monday October 26, 2026 04:37 PM ET · Season 2026 · NFL week 7
+Generated Monday October 26, 2026 08:34 PM ET · Season 2026 · NFL week 7
 League: The Dudes Will Roll · 12 teams · waivers: FAAB (budget $200) · lineup: QB, RB, RB, WR, WR, TE, FLEX, K, DEF
 
 ## My team: THE ACE OF SPADES (roster 11)
@@ -150,7 +150,7 @@ Bench: Tyrone Tracy Jr. (RB, NYG) [Questionable]; Quinshon Judkins (RB, CLE); Em
 - Week 6 · free_agent · complete · Wed Oct 14 05:05 AM · Drunk To Taste This CHX · added: Jason Myers (K, SEA) to Drunk To Taste This CHX · dropped: Jake Bates (K, DET) from Drunk To Taste This CHX
 
 ## Dropped in the last 14 days, still unrostered
-- Romeo Doubs (WR, NE) [IR] · dropped by Holla on Sat Oct 24, 5:25 PM ET · on waivers until Mon Oct 26, 5:25 PM ET
+- Romeo Doubs (WR, NE) [IR] · dropped by Holla on Sat Oct 24, 5:25 PM ET · free agent now
 - Brian Thomas Jr. (WR, JAX) · dropped by Springfield Atoms on Sat Oct 24, 4:09 PM ET · free agent now
 - Brandon McManus (K, LAR) · dropped by FuelTheJET on Sat Oct 24, 4:05 PM ET · free agent now
 - KC Concepcion Jr. (WR, CLE) · dropped by Thoroughbred Cheesehead on Thu Oct 22, 10:16 PM ET · free agent now
@@ -199,7 +199,7 @@ Sleeper's weekly projections (provider: rotowire), scored with this league's sco
 - WR: A.J. Brown (WR, NE) · 10.2 projected · WR15
 - WR: Omar Cooper Jr. (WR, NYJ) · 6.0 projected · WR36
 - TE: George Kittle (TE, SF) · 11.2 projected · TE2
-- FLEX: Dameon Pierce (RB, PHI) · 5.6 projected · RB36
+- FLEX: Dameon Pierce (RB, PHI) · 5.3 projected · RB40
 - K: Jake Bates (K, DET) · 8.6 projected (Sleeper standard) · K9
 - DEF: Houston Texans (DEF, HOU) · 9.3 projected (Sleeper standard) · DEF1
 - BN: Emmett Johnson (RB, KC) · 2.5 projected · RB57
@@ -224,8 +224,8 @@ Sleeper's weekly projections (provider: rotowire), scored with this league's sco
 - Sam Darnold (QB, SEA) · 20.0 projected · QB19 · free agent now
 - Zonovan Knight (RB, ARI) · 6.5 projected · RB33
 - Justice Hill (RB, BAL) · 6.1 projected · RB34
-- Kenny Gainwell (RB, TB) [Questionable] · 5.4 projected · RB39 · free agent now
-- Dare Ogunbowale (RB, HOU) · 5.3 projected · RB40
+- Kenny Gainwell (RB, TB) [Questionable] · 5.4 projected · RB38 · free agent now
+- Dare Ogunbowale (RB, HOU) · 5.3 projected · RB39
 - George Holani (RB, SEA) · 5.0 projected · RB41
 - Rome Odunze (WR, CHI) · 7.2 projected · WR27 · free agent now
 - Darius Cooper (WR, PHI) · 6.5 projected · WR31
@@ -242,30 +242,30 @@ Sleeper's weekly projections (provider: rotowire), scored with this league's sco
 - Cincinnati Bengals (DEF, CIN) · 6.4 projected (Sleeper standard) · DEF14 · free agent now
 
 ## Trending adds across Sleeper, last 24 hours
-- Caleb Douglas (WR, MIA) · 361,448 adds · AVAILABLE in my league
-- Darius Cooper (WR, PHI) · 270,067 adds · AVAILABLE in my league
-- KC Concepcion Jr. (WR, CLE) · 224,352 adds · AVAILABLE in my league
-- Seth McGowan (RB, IND) · 165,112 adds · AVAILABLE in my league
-- Omar Cooper Jr. (WR, NYJ) · 130,976 adds · on my roster
-- Kaelon Black (RB, SF) · 111,384 adds · rostered by FuelTheJET
-- Tre Tucker (WR, LV) · 95,304 adds · rostered by Springfield Atoms
-- New England Patriots (DEF, NE) · 85,232 adds · AVAILABLE in my league
-- Emanuel Wilson (RB, SEA) · 75,798 adds · rostered by Make Miami Great Again
-- Chase McLaughlin (K, TB) · 59,072 adds · rostered by Strokin My Ditka
-- Blake Corum (RB, LAR) · 57,832 adds · rostered by FuelTheJET
-- Jacksonville Jaguars (DEF, JAX) · 56,820 adds · rostered by Thoroughbred Cheesehead
-- Dameon Pierce (RB, PHI) · 55,616 adds · on my roster
-- Devin Singletary (RB, NYG) · 53,964 adds · AVAILABLE in my league
-- Makai Lemon (WR, PHI) · 53,856 adds · AVAILABLE in my league
-- Ryan Flournoy (WR, DAL) · 53,072 adds · AVAILABLE in my league
-- Kyle Pitts Sr. (TE, ATL) · 49,938 adds · rostered by Strokin My Ditka
-- Hunter Henry (TE, NE) · 46,785 adds · AVAILABLE in my league
-- Kirk Cousins (QB, LV) · 45,584 adds · rostered by Young Blood
-- Tampa Bay Buccaneers (DEF, TB) · 42,415 adds · AVAILABLE in my league
-- Tanner McKee (QB, PHI) · 41,432 adds · AVAILABLE in my league
-- Jake Elliott (K, PHI) · 37,247 adds · AVAILABLE in my league
-- Jake Bates (K, DET) · 36,688 adds · on my roster
-- Mason Taylor (TE, NYJ) · 34,640 adds · AVAILABLE in my league
-- Brenton Strange (TE, JAX) · 34,578 adds · rostered by Strokin My Ditka
+- Caleb Douglas (WR, MIA) · 331,240 adds · AVAILABLE in my league
+- KC Concepcion Jr. (WR, CLE) · 185,895 adds · AVAILABLE in my league
+- Darius Cooper (WR, PHI) · 152,803 adds · AVAILABLE in my league
+- Seth McGowan (RB, IND) · 150,352 adds · AVAILABLE in my league
+- Omar Cooper Jr. (WR, NYJ) · 101,656 adds · on my roster
+- Kaelon Black (RB, SF) · 99,869 adds · rostered by FuelTheJET
+- New England Patriots (DEF, NE) · 81,732 adds · AVAILABLE in my league
+- Tre Tucker (WR, LV) · 81,072 adds · rostered by Springfield Atoms
+- Emanuel Wilson (RB, SEA) · 60,417 adds · rostered by Make Miami Great Again
+- Jacksonville Jaguars (DEF, JAX) · 56,910 adds · rostered by Thoroughbred Cheesehead
+- Chase McLaughlin (K, TB) · 49,784 adds · rostered by Strokin My Ditka
+- Devin Singletary (RB, NYG) · 47,241 adds · AVAILABLE in my league
+- Tampa Bay Buccaneers (DEF, TB) · 45,430 adds · AVAILABLE in my league
+- Blake Corum (RB, LAR) · 45,392 adds · rostered by FuelTheJET
+- Hunter Henry (TE, NE) · 41,562 adds · AVAILABLE in my league
+- Kirk Cousins (QB, LV) · 41,432 adds · rostered by Young Blood
+- Kyle Pitts Sr. (TE, ATL) · 40,467 adds · rostered by Strokin My Ditka
+- Ryan Flournoy (WR, DAL) · 38,624 adds · AVAILABLE in my league
+- Jonah Coleman (RB, DEN) · 38,304 adds · rostered by FuelTheJET
+- Dameon Pierce (RB, PHI) · 37,224 adds · on my roster
+- Makai Lemon (WR, PHI) · 36,404 adds · AVAILABLE in my league
+- Brenton Strange (TE, JAX) · 32,121 adds · rostered by Strokin My Ditka
+- Jake Elliott (K, PHI) · 30,380 adds · AVAILABLE in my league
+- Tanner McKee (QB, PHI) · 29,312 adds · AVAILABLE in my league
+- Mason Taylor (TE, NYJ) · 28,510 adds · AVAILABLE in my league
 
 Data from the Sleeper API (sleeper.com). Injury tags in brackets are Sleeper's designations and may lag official reports.
