@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-28T07:58:43.485785-04:00",
+  "generated": "2026-10-28T09:12:34.680524-04:00",
   "season": "2026",
   "week": 8,
   "league": {
@@ -1003,127 +1003,127 @@
   "trending_adds": [
     {
       "player": "Caleb Douglas (WR, MIA)",
-      "adds": 1672640,
+      "adds": 1657896,
       "rostered_by": 4
     },
     {
       "player": "Jacksonville Jaguars (DEF, JAX)",
-      "adds": 1638138,
+      "adds": 1646946,
       "rostered_by": 4
     },
     {
       "player": "Seth McGowan (RB, IND)",
-      "adds": 1068832,
+      "adds": 1080552,
       "rostered_by": 4
     },
     {
       "player": "New England Patriots (DEF, NE)",
-      "adds": 872263,
-      "rostered_by": null
-    },
-    {
-      "player": "KC Concepcion Jr. (WR, CLE)",
-      "adds": 683856,
+      "adds": 876316,
       "rostered_by": null
     },
     {
       "player": "Washington Commanders (DEF, WAS)",
-      "adds": 633094,
+      "adds": 701575,
+      "rostered_by": null
+    },
+    {
+      "player": "KC Concepcion Jr. (WR, CLE)",
+      "adds": 675360,
+      "rostered_by": null
+    },
+    {
+      "player": "Devin Singletary (RB, NYG)",
+      "adds": 643725,
       "rostered_by": null
     },
     {
       "player": "Brenton Strange (TE, JAX)",
-      "adds": 630450,
+      "adds": 631377,
       "rostered_by": 10
     },
     {
-      "player": "Devin Singletary (RB, NYG)",
-      "adds": 623124,
-      "rostered_by": null
-    },
-    {
       "player": "Elijah Mitchell (RB, PHI)",
-      "adds": 509859,
+      "adds": 517986,
       "rostered_by": null
     },
     {
       "player": "Jonah Coleman (RB, DEN)",
-      "adds": 491258,
+      "adds": 481480,
       "rostered_by": 6
     },
     {
       "player": "Ryan Flournoy (WR, DAL)",
-      "adds": 450024,
+      "adds": 454096,
       "rostered_by": null
     },
     {
       "player": "Tampa Bay Buccaneers (DEF, TB)",
-      "adds": 407925,
+      "adds": 427915,
       "rostered_by": null
     },
     {
       "player": "Kaelon Black (RB, SF)",
-      "adds": 367402,
+      "adds": 364441,
       "rostered_by": 6
     },
     {
       "player": "Chase McLaughlin (K, TB)",
-      "adds": 345408,
+      "adds": 352824,
       "rostered_by": 10
     },
     {
       "player": "Tre Tucker (WR, LV)",
-      "adds": 345318,
+      "adds": 345054,
       "rostered_by": 5
     },
     {
       "player": "Omar Cooper Jr. (WR, NYJ)",
-      "adds": 290016,
+      "adds": 282304,
       "rostered_by": 11
     },
     {
       "player": "Makai Lemon (WR, PHI)",
-      "adds": 257552,
+      "adds": 260332,
       "rostered_by": null
     },
     {
       "player": "Tyler Bass (K, BUF)",
-      "adds": 244785,
+      "adds": 257010,
       "rostered_by": null
     },
     {
       "player": "Savion Williams (WR, GB)",
-      "adds": 243572,
+      "adds": 244601,
       "rostered_by": null
     },
     {
       "player": "Dylan Sampson (RB, CLE)",
-      "adds": 224300,
+      "adds": 227550,
       "rostered_by": null
     },
     {
       "player": "Mason Taylor (TE, NYJ)",
-      "adds": 224180,
+      "adds": 227060,
       "rostered_by": null
     },
     {
       "player": "Rachaad White (RB, WAS)",
-      "adds": 213720,
+      "adds": 212886,
       "rostered_by": 5
     },
     {
-      "player": "Hunter Henry (TE, NE)",
-      "adds": 210327,
-      "rostered_by": null
-    },
-    {
       "player": "Kirk Cousins (QB, LV)",
-      "adds": 206768,
+      "adds": 211960,
       "rostered_by": 12
     },
     {
+      "player": "Hunter Henry (TE, NE)",
+      "adds": 208269,
+      "rostered_by": null
+    },
+    {
       "player": "Keon Coleman (WR, BUF)",
-      "adds": 204507,
+      "adds": 204597,
       "rostered_by": 9
     }
   ]

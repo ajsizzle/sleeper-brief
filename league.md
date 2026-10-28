@@ -1,5 +1,5 @@
 # Sleeper league state
-Generated Wednesday October 28, 2026 07:58 AM ET · Season 2026 · NFL week 8
+Generated Wednesday October 28, 2026 09:12 AM ET · Season 2026 · NFL week 8
 League: The Dudes Will Roll · 12 teams · waivers: FAAB (budget $200) · lineup: QB, RB, RB, WR, WR, TE, FLEX, K, DEF
 
 ## My team: THE ACE OF SPADES (roster 11)
@@ -201,30 +201,30 @@ Sleeper's weekly projections (provider: rotowire), scored with this league's sco
 - Tampa Bay Buccaneers (DEF, TB) · 6.8 projected (Sleeper standard) · DEF10
 
 ## Trending adds across Sleeper, last 24 hours
-- Caleb Douglas (WR, MIA) · 1,672,640 adds · rostered by Thoroughbred Cheesehead
-- Jacksonville Jaguars (DEF, JAX) · 1,638,138 adds · rostered by Thoroughbred Cheesehead
-- Seth McGowan (RB, IND) · 1,068,832 adds · rostered by Thoroughbred Cheesehead
-- New England Patriots (DEF, NE) · 872,263 adds · AVAILABLE in my league
-- KC Concepcion Jr. (WR, CLE) · 683,856 adds · AVAILABLE in my league
-- Washington Commanders (DEF, WAS) · 633,094 adds · AVAILABLE in my league
-- Brenton Strange (TE, JAX) · 630,450 adds · rostered by Strokin My Ditka
-- Devin Singletary (RB, NYG) · 623,124 adds · AVAILABLE in my league
-- Elijah Mitchell (RB, PHI) · 509,859 adds · AVAILABLE in my league
-- Jonah Coleman (RB, DEN) · 491,258 adds · rostered by FuelTheJET
-- Ryan Flournoy (WR, DAL) · 450,024 adds · AVAILABLE in my league
-- Tampa Bay Buccaneers (DEF, TB) · 407,925 adds · AVAILABLE in my league
-- Kaelon Black (RB, SF) · 367,402 adds · rostered by FuelTheJET
-- Chase McLaughlin (K, TB) · 345,408 adds · rostered by Strokin My Ditka
-- Tre Tucker (WR, LV) · 345,318 adds · rostered by Springfield Atoms
-- Omar Cooper Jr. (WR, NYJ) · 290,016 adds · on my roster
-- Makai Lemon (WR, PHI) · 257,552 adds · AVAILABLE in my league
-- Tyler Bass (K, BUF) · 244,785 adds · AVAILABLE in my league
-- Savion Williams (WR, GB) · 243,572 adds · AVAILABLE in my league
-- Dylan Sampson (RB, CLE) · 224,300 adds · AVAILABLE in my league
-- Mason Taylor (TE, NYJ) · 224,180 adds · AVAILABLE in my league
-- Rachaad White (RB, WAS) · 213,720 adds · rostered by Springfield Atoms
-- Hunter Henry (TE, NE) · 210,327 adds · AVAILABLE in my league
-- Kirk Cousins (QB, LV) · 206,768 adds · rostered by Young Blood
-- Keon Coleman (WR, BUF) · 204,507 adds · rostered by Team 9
+- Caleb Douglas (WR, MIA) · 1,657,896 adds · rostered by Thoroughbred Cheesehead
+- Jacksonville Jaguars (DEF, JAX) · 1,646,946 adds · rostered by Thoroughbred Cheesehead
+- Seth McGowan (RB, IND) · 1,080,552 adds · rostered by Thoroughbred Cheesehead
+- New England Patriots (DEF, NE) · 876,316 adds · AVAILABLE in my league
+- Washington Commanders (DEF, WAS) · 701,575 adds · AVAILABLE in my league
+- KC Concepcion Jr. (WR, CLE) · 675,360 adds · AVAILABLE in my league
+- Devin Singletary (RB, NYG) · 643,725 adds · AVAILABLE in my league
+- Brenton Strange (TE, JAX) · 631,377 adds · rostered by Strokin My Ditka
+- Elijah Mitchell (RB, PHI) · 517,986 adds · AVAILABLE in my league
+- Jonah Coleman (RB, DEN) · 481,480 adds · rostered by FuelTheJET
+- Ryan Flournoy (WR, DAL) · 454,096 adds · AVAILABLE in my league
+- Tampa Bay Buccaneers (DEF, TB) · 427,915 adds · AVAILABLE in my league
+- Kaelon Black (RB, SF) · 364,441 adds · rostered by FuelTheJET
+- Chase McLaughlin (K, TB) · 352,824 adds · rostered by Strokin My Ditka
+- Tre Tucker (WR, LV) · 345,054 adds · rostered by Springfield Atoms
+- Omar Cooper Jr. (WR, NYJ) · 282,304 adds · on my roster
+- Makai Lemon (WR, PHI) · 260,332 adds · AVAILABLE in my league
+- Tyler Bass (K, BUF) · 257,010 adds · AVAILABLE in my league
+- Savion Williams (WR, GB) · 244,601 adds · AVAILABLE in my league
+- Dylan Sampson (RB, CLE) · 227,550 adds · AVAILABLE in my league
+- Mason Taylor (TE, NYJ) · 227,060 adds · AVAILABLE in my league
+- Rachaad White (RB, WAS) · 212,886 adds · rostered by Springfield Atoms
+- Kirk Cousins (QB, LV) · 211,960 adds · rostered by Young Blood
+- Hunter Henry (TE, NE) · 208,269 adds · AVAILABLE in my league
+- Keon Coleman (WR, BUF) · 204,597 adds · rostered by Team 9
 
 Data from the Sleeper API (sleeper.com). Injury tags in brackets are Sleeper's designations and may lag official reports.
