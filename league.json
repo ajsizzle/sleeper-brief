@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-31T22:20:03.314536-04:00",
+  "generated": "2026-11-01T04:27:27.130687-05:00",
   "season": "2026",
   "week": 8,
   "league": {
@@ -540,8 +540,8 @@
       "player": "Tyrone Tracy Jr. (RB, NYG) [IR]",
       "dropped_by": "Whiskey Sippin Kings",
       "dropped_at": "2026-10-29T23:17:25.137000-04:00",
-      "on_waivers_until": "2026-10-31T23:17:25.137000-04:00",
-      "waiver_status": "on waivers until Sat Oct 31, 11:17 PM ET"
+      "on_waivers_until": null,
+      "waiver_status": "free agent now"
     },
     {
       "player": "New York Giants (DEF, NYG)",
@@ -727,7 +727,7 @@
       {
         "player": "Kenneth Walker III (RB, KC)",
         "slot": "RB",
-        "points": 17.3,
+        "points": 17.2,
         "rank": "RB3",
         "scoring": "league"
       },
@@ -748,8 +748,8 @@
       {
         "player": "Omar Cooper Jr. (WR, NYJ)",
         "slot": "WR",
-        "points": 6.7,
-        "rank": "WR28",
+        "points": 6.6,
+        "rank": "WR29",
         "scoring": "league"
       },
       {
@@ -823,14 +823,14 @@
       {
         "player": "Trevor Lawrence (QB, JAX)",
         "slot": "QB",
-        "points": 27.0,
+        "points": 27.1,
         "rank": "QB5",
         "scoring": "league"
       },
       {
         "player": "Bijan Robinson (RB, ATL)",
         "slot": "RB",
-        "points": 18.5,
+        "points": 18.6,
         "rank": "RB2",
         "scoring": "league"
       },
@@ -844,8 +844,8 @@
       {
         "player": "Drake London (WR, ATL)",
         "slot": "WR",
-        "points": 11.0,
-        "rank": "WR12",
+        "points": 11.1,
+        "rank": "WR10",
         "scoring": "league"
       },
       {
@@ -994,8 +994,8 @@
         {
           "player": "Mike Gesicki (TE, CIN)",
           "slot": null,
-          "points": 5.5,
-          "rank": "TE15",
+          "points": 5.4,
+          "rank": "TE17",
           "scoring": "league",
           "waiver_status": "free agent now"
         },
@@ -1003,7 +1003,7 @@
           "player": "Mark Andrews (TE, BAL)",
           "slot": null,
           "points": 5.4,
-          "rank": "TE17",
+          "rank": "TE18",
           "scoring": "league",
           "waiver_status": "free agent now"
         }
@@ -1020,7 +1020,7 @@
           "player": "Matt Gay (K, LV)",
           "slot": null,
           "points": 8.6,
-          "rank": "K9",
+          "rank": "K8",
           "scoring": "std",
           "waiver_status": "free agent now"
         }
@@ -1054,128 +1054,128 @@
   "trending_adds": [
     {
       "player": "Seth McGowan (RB, IND)",
-      "adds": 271568,
+      "adds": 306528,
       "rostered_by": 4
     },
     {
       "player": "Devin Singletary (RB, NYG)",
-      "adds": 203913,
+      "adds": 223884,
       "rostered_by": 7
     },
     {
       "player": "Samaje Perine (RB, CIN)",
-      "adds": 153376,
+      "adds": 163452,
       "rostered_by": 9
     },
     {
-      "player": "Elijah Mitchell (RB, PHI)",
-      "adds": 146754,
+      "player": "Ryan Flournoy (WR, DAL)",
+      "adds": 137160,
       "rostered_by": null
     },
     {
-      "player": "Ryan Flournoy (WR, DAL)",
-      "adds": 128808,
+      "player": "Elijah Mitchell (RB, PHI)",
+      "adds": 135945,
       "rostered_by": null
     },
     {
       "player": "Makai Lemon (WR, PHI)",
-      "adds": 122068,
+      "adds": 119332,
       "rostered_by": 1
     },
     {
       "player": "Elic Ayomanor (WR, TEN)",
-      "adds": 93532,
+      "adds": 94316,
       "rostered_by": null
     },
     {
       "player": "Washington Commanders (DEF, WAS)",
-      "adds": 83503,
+      "adds": 91294,
+      "rostered_by": null
+    },
+    {
+      "player": "Corey Kiner (RB, NE)",
+      "adds": 86226,
       "rostered_by": null
     },
     {
       "player": "Chris Godwin Jr. (WR, TB)",
-      "adds": 79800,
+      "adds": 81102,
       "rostered_by": 10
     },
     {
-      "player": "Corey Kiner (RB, NE)",
-      "adds": 65982,
-      "rostered_by": null
-    },
-    {
       "player": "Jadarian Price (RB, SEA) [IR]",
-      "adds": 64638,
-      "rostered_by": null
-    },
-    {
-      "player": "Darius Cooper (WR, PHI)",
-      "adds": 60193,
-      "rostered_by": null
-    },
-    {
-      "player": "Mason Taylor (TE, NYJ)",
-      "adds": 59375,
+      "adds": 67077,
       "rostered_by": null
     },
     {
       "player": "Chris Rodriguez Jr. (RB, JAX)",
-      "adds": 57447,
+      "adds": 61056,
       "rostered_by": null
     },
     {
       "player": "Tampa Bay Buccaneers (DEF, TB)",
-      "adds": 56130,
+      "adds": 59445,
       "rostered_by": 1
     },
     {
+      "player": "Darius Cooper (WR, PHI)",
+      "adds": 59150,
+      "rostered_by": null
+    },
+    {
+      "player": "Mason Taylor (TE, NYJ)",
+      "adds": 58220,
+      "rostered_by": null
+    },
+    {
       "player": "Keon Coleman (WR, BUF)",
-      "adds": 54342,
+      "adds": 56547,
       "rostered_by": 9
     },
     {
       "player": "Jordan Addison (WR, MIN)",
-      "adds": 46980,
+      "adds": 49968,
       "rostered_by": null
     },
     {
       "player": "Kimani Vidal (RB, LAC)",
-      "adds": 46760,
+      "adds": 49665,
       "rostered_by": null
     },
     {
       "player": "MarShawn Lloyd (RB, GB)",
-      "adds": 39105,
+      "adds": 44217,
       "rostered_by": 7
     },
     {
       "player": "Khalil Shakir (WR, BUF)",
-      "adds": 38169,
+      "adds": 39159,
+      "rostered_by": null
+    },
+    {
+      "player": "Kyle Williams (WR, NE)",
+      "adds": 39155,
       "rostered_by": null
     },
     {
       "player": "KC Concepcion Jr. (WR, CLE)",
-      "adds": 36567,
+      "adds": 36756,
       "rostered_by": 9
     },
     {
-      "player": "Jaydon Blue (RB, PHI)",
-      "adds": 33552,
-      "rostered_by": 7
+      "player": "Hunter Henry (TE, NE)",
+      "adds": 35577,
+      "rostered_by": null
+    },
+    {
+      "player": "Tyler Bass (K, BUF)",
+      "adds": 34885,
+      "rostered_by": null
     },
     {
       "player": "Brenton Strange (TE, JAX)",
-      "adds": 32634,
+      "adds": 34506,
       "rostered_by": 10
-    },
-    {
-      "player": "Jacksonville Jaguars (DEF, JAX)",
-      "adds": 32004,
-      "rostered_by": 4
-    },
-    {
-      "player": "Hunter Henry (TE, NE)",
-      "adds": 31545,
-      "rostered_by": null
     }
   ]
 }
