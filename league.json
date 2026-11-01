@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-01T11:50:47.261463-05:00",
+  "generated": "2026-11-01T16:15:22.235261-05:00",
   "season": "2026",
   "week": 8,
   "league": {
@@ -334,7 +334,7 @@
         "Jaxon Smith-Njigba (WR, SEA)",
         "Tetairoa McMillan (WR, CAR)",
         "Kyle Pitts Sr. (TE, ATL)",
-        "Chris Godwin Jr. (WR, TB)",
+        "Stefon Diggs (WR, WAS)",
         "Chase McLaughlin (K, TB)",
         "Philadelphia Eagles (DEF, PHI)"
       ],
@@ -342,7 +342,7 @@
         "Bo Nix (QB, DEN)",
         "Tyler Warren (TE, IND)",
         "TreVeyon Henderson (RB, NE) [Out]",
-        "Stefon Diggs (WR, WAS)",
+        "Chris Godwin Jr. (WR, TB)",
         "Brenton Strange (TE, JAX)",
         "Kendre Miller (RB, NO)"
       ],
@@ -400,7 +400,7 @@
         "Ja'Marr Chase (WR, CIN)",
         "Zay Flowers (WR, BAL)",
         "Tucker Kraft (TE, GB)",
-        "Breece Hall (RB, NYJ) [Out]",
+        "Zach Charbonnet (RB, SEA)",
         "Spencer Shrader (K, IND)",
         "Kansas City Chiefs (DEF, KC)"
       ],
@@ -410,7 +410,7 @@
         "Patrick Mahomes (QB, KC)",
         "Dallas Goedert (TE, PHI)",
         "Jakobi Meyers (WR, JAX)",
-        "Zach Charbonnet (RB, SEA)"
+        "Breece Hall (RB, NYJ) [Out]"
       ],
       "ir": []
     },
@@ -430,15 +430,15 @@
         "Samaje Perine (RB, CIN)",
         "Jeremiyah Love (RB, ARI)",
         "Puka Nacua (WR, LAR)",
-        "KC Concepcion Jr. (WR, CLE)",
+        "DJ Moore (WR, BUF)",
         "Colston Loveland (TE, CHI)",
-        "Keon Coleman (WR, BUF)",
+        "KC Concepcion Jr. (WR, CLE)",
         "Andy Borregales (K, NE)",
         "Buffalo Bills (DEF, BUF)"
       ],
       "bench": [
+        "Keon Coleman (WR, BUF)",
         "Alvin Kamara (RB, NO)",
-        "DJ Moore (WR, BUF)",
         "Jaylen Waddle (WR, DEN) [Questionable]",
         "Tyler Allgeier (RB, ARI)",
         "Brock Purdy (QB, SF)"
@@ -728,7 +728,7 @@
       {
         "player": "Kenneth Walker III (RB, KC)",
         "slot": "RB",
-        "points": 17.3,
+        "points": 17.7,
         "rank": "RB3",
         "scoring": "league"
       },
@@ -736,21 +736,21 @@
         "player": "Chase Brown (RB, CIN)",
         "slot": "RB",
         "points": 14.5,
-        "rank": "RB9",
+        "rank": "RB8",
         "scoring": "league"
       },
       {
         "player": "Rome Odunze (WR, CHI)",
         "slot": "WR",
         "points": 6.5,
-        "rank": "WR32",
+        "rank": "WR31",
         "scoring": "league"
       },
       {
         "player": "Omar Cooper Jr. (WR, NYJ)",
         "slot": "WR",
-        "points": 6.6,
-        "rank": "WR29",
+        "points": 6.9,
+        "rank": "WR28",
         "scoring": "league"
       },
       {
@@ -764,7 +764,7 @@
         "player": "Rhamondre Stevenson (RB, NE)",
         "slot": "FLEX",
         "points": 12.0,
-        "rank": "RB17",
+        "rank": "RB16",
         "scoring": "league"
       },
       {
@@ -784,15 +784,15 @@
       {
         "player": "Emmett Johnson (RB, KC)",
         "slot": "BN",
-        "points": 3.2,
-        "rank": "RB53",
+        "points": 3.3,
+        "rank": "RB51",
         "scoring": "league"
       },
       {
         "player": "Keenan Allen (WR, IND)",
         "slot": "BN",
         "points": 5.2,
-        "rank": "WR51",
+        "rank": "WR50",
         "scoring": "league"
       },
       {
@@ -824,8 +824,8 @@
       {
         "player": "Trevor Lawrence (QB, JAX)",
         "slot": "QB",
-        "points": 26.6,
-        "rank": "QB5",
+        "points": 26.1,
+        "rank": "QB6",
         "scoring": "league"
       },
       {
@@ -838,7 +838,7 @@
       {
         "player": "Javonte Williams (RB, DAL)",
         "slot": "RB",
-        "points": 17.0,
+        "points": 17.2,
         "rank": "RB4",
         "scoring": "league"
       },
@@ -859,8 +859,8 @@
       {
         "player": "Jake Ferguson (TE, DAL)",
         "slot": "TE",
-        "points": 5.9,
-        "rank": "TE12",
+        "points": 6.0,
+        "rank": "TE13",
         "scoring": "league"
       },
       {
@@ -874,7 +874,7 @@
         "player": "Tyler Loop (K, BAL)",
         "slot": "K",
         "points": 7.8,
-        "rank": "K15",
+        "rank": "K16",
         "scoring": "std"
       },
       {
@@ -890,7 +890,7 @@
         {
           "player": "Jacoby Brissett (QB, ARI)",
           "slot": null,
-          "points": 25.2,
+          "points": 25.0,
           "rank": "QB7",
           "scoring": "league"
         },
@@ -898,7 +898,7 @@
           "player": "Kyler Murray (QB, MIN)",
           "slot": null,
           "points": 21.9,
-          "rank": "QB15",
+          "rank": "QB16",
           "scoring": "league"
         },
         {
@@ -934,17 +934,16 @@
         {
           "player": "Tyler Goodson (RB, DAL)",
           "slot": null,
-          "points": 5.0,
+          "points": 5.1,
           "rank": "RB41",
           "scoring": "league"
         },
         {
-          "player": "Austin Ekeler (RB, WAS)",
+          "player": "Dylan Sampson (RB, CLE)",
           "slot": null,
-          "points": 4.8,
+          "points": 4.7,
           "rank": "RB42",
-          "scoring": "league",
-          "waiver_status": "free agent now"
+          "scoring": "league"
         }
       ],
       "WR": [
@@ -956,14 +955,14 @@
           "scoring": "league"
         },
         {
-          "player": "Elic Ayomanor (WR, TEN)",
+          "player": "Kyle Williams (WR, NE)",
           "slot": null,
-          "points": 6.3,
-          "rank": "WR33",
+          "points": 6.1,
+          "rank": "WR35",
           "scoring": "league"
         },
         {
-          "player": "Kyle Williams (WR, NE)",
+          "player": "Elic Ayomanor (WR, TEN)",
           "slot": null,
           "points": 6.1,
           "rank": "WR36",
@@ -972,15 +971,15 @@
         {
           "player": "Ryan Flournoy (WR, DAL)",
           "slot": null,
-          "points": 5.9,
-          "rank": "WR39",
+          "points": 6.0,
+          "rank": "WR38",
           "scoring": "league"
         },
         {
           "player": "DeMario Douglas (WR, NE)",
           "slot": null,
           "points": 5.8,
-          "rank": "WR40",
+          "rank": "WR41",
           "scoring": "league",
           "waiver_status": "on waivers until Sun Nov 1, 7:03 PM ET"
         }
@@ -994,18 +993,17 @@
           "scoring": "league"
         },
         {
+          "player": "Tyler Higbee (TE, LAR)",
+          "slot": null,
+          "points": 6.0,
+          "rank": "TE12",
+          "scoring": "league"
+        },
+        {
           "player": "Mike Gesicki (TE, CIN)",
           "slot": null,
           "points": 5.5,
-          "rank": "TE15",
-          "scoring": "league",
-          "waiver_status": "free agent now"
-        },
-        {
-          "player": "Mark Andrews (TE, BAL)",
-          "slot": null,
-          "points": 5.4,
-          "rank": "TE17",
+          "rank": "TE16",
           "scoring": "league",
           "waiver_status": "free agent now"
         }
@@ -1056,128 +1054,128 @@
   "trending_adds": [
     {
       "player": "Devin Singletary (RB, NYG)",
-      "adds": 336411,
+      "adds": 524142,
       "rostered_by": 7
     },
     {
       "player": "Seth McGowan (RB, IND)",
-      "adds": 328056,
+      "adds": 297848,
       "rostered_by": 4
     },
     {
       "player": "Samaje Perine (RB, CIN)",
-      "adds": 268480,
+      "adds": 289220,
       "rostered_by": 9
     },
     {
       "player": "Ryan Flournoy (WR, DAL)",
-      "adds": 209368,
+      "adds": 256472,
       "rostered_by": null
     },
     {
       "player": "Washington Commanders (DEF, WAS)",
-      "adds": 166355,
+      "adds": 240366,
       "rostered_by": null
     },
     {
       "player": "Corey Kiner (RB, NE)",
-      "adds": 154608,
+      "adds": 220578,
       "rostered_by": null
     },
     {
       "player": "Makai Lemon (WR, PHI)",
-      "adds": 149432,
+      "adds": 166072,
       "rostered_by": 1
     },
     {
-      "player": "Elijah Mitchell (RB, PHI)",
-      "adds": 130545,
+      "player": "Tampa Bay Buccaneers (DEF, TB)",
+      "adds": 137700,
+      "rostered_by": 1
+    },
+    {
+      "player": "Adonai Mitchell (WR, NYJ)",
+      "adds": 123712,
       "rostered_by": null
     },
     {
       "player": "Elic Ayomanor (WR, TEN)",
-      "adds": 124164,
-      "rostered_by": null
-    },
-    {
-      "player": "Chris Godwin Jr. (WR, TB)",
-      "adds": 110190,
-      "rostered_by": 10
-    },
-    {
-      "player": "Tampa Bay Buccaneers (DEF, TB)",
-      "adds": 105915,
-      "rostered_by": 1
-    },
-    {
-      "player": "Chris Rodriguez Jr. (RB, JAX)",
-      "adds": 90828,
-      "rostered_by": null
-    },
-    {
-      "player": "Jadarian Price (RB, SEA) [IR]",
-      "adds": 84879,
-      "rostered_by": null
-    },
-    {
-      "player": "Keon Coleman (WR, BUF)",
-      "adds": 81207,
-      "rostered_by": 9
-    },
-    {
-      "player": "Mason Taylor (TE, NYJ)",
-      "adds": 80475,
+      "adds": 120112,
       "rostered_by": null
     },
     {
       "player": "Kimani Vidal (RB, LAC)",
-      "adds": 78060,
-      "rostered_by": null
-    },
-    {
-      "player": "Jordan Addison (WR, MIN)",
-      "adds": 74205,
-      "rostered_by": null
-    },
-    {
-      "player": "Darius Cooper (WR, PHI)",
-      "adds": 72338,
+      "adds": 119900,
       "rostered_by": null
     },
     {
       "player": "Kyle Williams (WR, NE)",
-      "adds": 69970,
+      "adds": 112240,
+      "rostered_by": null
+    },
+    {
+      "player": "Chris Godwin Jr. (WR, TB)",
+      "adds": 110880,
+      "rostered_by": 10
+    },
+    {
+      "player": "Chris Rodriguez Jr. (RB, JAX)",
+      "adds": 102357,
       "rostered_by": null
     },
     {
       "player": "Tyler Bass (K, BUF)",
-      "adds": 66390,
+      "adds": 97110,
+      "rostered_by": null
+    },
+    {
+      "player": "Elijah Mitchell (RB, PHI)",
+      "adds": 95436,
+      "rostered_by": null
+    },
+    {
+      "player": "Jadarian Price (RB, SEA) [IR]",
+      "adds": 89784,
       "rostered_by": null
     },
     {
       "player": "Detroit Lions (DEF, DET)",
-      "adds": 65529,
+      "adds": 89577,
       "rostered_by": null
     },
     {
-      "player": "Khalil Shakir (WR, BUF)",
-      "adds": 56358,
+      "player": "Tyler Higbee (TE, LAR)",
+      "adds": 88983,
       "rostered_by": null
     },
     {
-      "player": "Jacksonville Jaguars (DEF, JAX)",
-      "adds": 56226,
-      "rostered_by": 4
-    },
-    {
-      "player": "Hunter Henry (TE, NE)",
-      "adds": 54828,
+      "player": "Mason Taylor (TE, NYJ)",
+      "adds": 88860,
       "rostered_by": null
     },
     {
-      "player": "KC Concepcion Jr. (WR, CLE)",
-      "adds": 50157,
+      "player": "Jordan Addison (WR, MIN)",
+      "adds": 81441,
+      "rostered_by": null
+    },
+    {
+      "player": "Darius Cooper (WR, PHI)",
+      "adds": 79261,
+      "rostered_by": null
+    },
+    {
+      "player": "Keon Coleman (WR, BUF)",
+      "adds": 77976,
       "rostered_by": 9
+    },
+    {
+      "player": "Tyler Allgeier (RB, ARI)",
+      "adds": 77320,
+      "rostered_by": 9
+    },
+    {
+      "player": "Cooper Kupp (WR, SEA)",
+      "adds": 69516,
+      "rostered_by": null
     }
   ]
 }
