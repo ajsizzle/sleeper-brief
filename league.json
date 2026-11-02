@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-01T16:15:22.235261-05:00",
+  "generated": "2026-11-01T19:52:58.642961-05:00",
   "season": "2026",
   "week": 8,
   "league": {
@@ -527,8 +527,8 @@
       "player": "DeMario Douglas (WR, NE)",
       "dropped_by": "Whiskey Sippin Kings",
       "dropped_at": "2026-10-30T20:03:04.902000-04:00",
-      "on_waivers_until": "2026-11-01T19:03:04.902000-05:00",
-      "waiver_status": "on waivers until Sun Nov 1, 7:03 PM ET"
+      "on_waivers_until": null,
+      "waiver_status": "free agent now"
     },
     {
       "player": "Baltimore Ravens (DEF, BAL)",
@@ -721,7 +721,7 @@
       {
         "player": "Drake Maye (QB, NE)",
         "slot": "QB",
-        "points": 27.1,
+        "points": 26.9,
         "rank": "QB4",
         "scoring": "league"
       },
@@ -785,7 +785,7 @@
         "player": "Emmett Johnson (RB, KC)",
         "slot": "BN",
         "points": 3.3,
-        "rank": "RB51",
+        "rank": "RB50",
         "scoring": "league"
       },
       {
@@ -914,35 +914,35 @@
           "player": "Chris Rodriguez Jr. (RB, JAX)",
           "slot": null,
           "points": 5.8,
-          "rank": "RB35",
+          "rank": "RB34",
           "scoring": "league"
         },
         {
           "player": "Kimani Vidal (RB, LAC)",
           "slot": null,
           "points": 5.5,
-          "rank": "RB38",
+          "rank": "RB37",
           "scoring": "league"
         },
         {
           "player": "Corey Kiner (RB, NE)",
           "slot": null,
           "points": 5.5,
-          "rank": "RB39",
+          "rank": "RB38",
           "scoring": "league"
         },
         {
           "player": "Tyler Goodson (RB, DAL)",
           "slot": null,
           "points": 5.1,
-          "rank": "RB41",
+          "rank": "RB40",
           "scoring": "league"
         },
         {
           "player": "Dylan Sampson (RB, CLE)",
           "slot": null,
           "points": 4.7,
-          "rank": "RB42",
+          "rank": "RB41",
           "scoring": "league"
         }
       ],
@@ -981,7 +981,7 @@
           "points": 5.8,
           "rank": "WR41",
           "scoring": "league",
-          "waiver_status": "on waivers until Sun Nov 1, 7:03 PM ET"
+          "waiver_status": "free agent now"
         }
       ],
       "TE": [
@@ -1029,7 +1029,7 @@
         {
           "player": "Washington Commanders (DEF, WAS)",
           "slot": null,
-          "points": 8.5,
+          "points": 8.4,
           "rank": "DEF6",
           "scoring": "std"
         },
@@ -1054,127 +1054,127 @@
   "trending_adds": [
     {
       "player": "Devin Singletary (RB, NYG)",
-      "adds": 524142,
+      "adds": 549090,
       "rostered_by": 7
     },
     {
-      "player": "Seth McGowan (RB, IND)",
-      "adds": 297848,
-      "rostered_by": 4
+      "player": "Ryan Flournoy (WR, DAL)",
+      "adds": 260752,
+      "rostered_by": null
     },
     {
       "player": "Samaje Perine (RB, CIN)",
-      "adds": 289220,
+      "adds": 256740,
       "rostered_by": 9
     },
     {
-      "player": "Ryan Flournoy (WR, DAL)",
-      "adds": 256472,
+      "player": "Adonai Mitchell (WR, NYJ)",
+      "adds": 247552,
       "rostered_by": null
     },
     {
       "player": "Washington Commanders (DEF, WAS)",
-      "adds": 240366,
+      "adds": 244755,
       "rostered_by": null
+    },
+    {
+      "player": "Seth McGowan (RB, IND)",
+      "adds": 237416,
+      "rostered_by": 4
     },
     {
       "player": "Corey Kiner (RB, NE)",
-      "adds": 220578,
+      "adds": 207534,
       "rostered_by": null
     },
     {
+      "player": "Tyler Allgeier (RB, ARI)",
+      "adds": 168510,
+      "rostered_by": 9
+    },
+    {
       "player": "Makai Lemon (WR, PHI)",
-      "adds": 166072,
+      "adds": 157816,
       "rostered_by": 1
     },
     {
       "player": "Tampa Bay Buccaneers (DEF, TB)",
-      "adds": 137700,
+      "adds": 139070,
       "rostered_by": 1
     },
     {
-      "player": "Adonai Mitchell (WR, NYJ)",
-      "adds": 123712,
-      "rostered_by": null
-    },
-    {
-      "player": "Elic Ayomanor (WR, TEN)",
-      "adds": 120112,
-      "rostered_by": null
+      "player": "Emmett Johnson (RB, KC)",
+      "adds": 137457,
+      "rostered_by": 11
     },
     {
       "player": "Kimani Vidal (RB, LAC)",
-      "adds": 119900,
-      "rostered_by": null
-    },
-    {
-      "player": "Kyle Williams (WR, NE)",
-      "adds": 112240,
-      "rostered_by": null
-    },
-    {
-      "player": "Chris Godwin Jr. (WR, TB)",
-      "adds": 110880,
-      "rostered_by": 10
-    },
-    {
-      "player": "Chris Rodriguez Jr. (RB, JAX)",
-      "adds": 102357,
+      "adds": 110180,
       "rostered_by": null
     },
     {
       "player": "Tyler Bass (K, BUF)",
-      "adds": 97110,
+      "adds": 108375,
       "rostered_by": null
     },
     {
-      "player": "Elijah Mitchell (RB, PHI)",
-      "adds": 95436,
+      "player": "Kyle Williams (WR, NE)",
+      "adds": 103905,
       "rostered_by": null
     },
     {
-      "player": "Jadarian Price (RB, SEA) [IR]",
-      "adds": 89784,
+      "player": "Elic Ayomanor (WR, TEN)",
+      "adds": 102680,
+      "rostered_by": null
+    },
+    {
+      "player": "Chris Godwin Jr. (WR, TB)",
+      "adds": 96618,
+      "rostered_by": 10
+    },
+    {
+      "player": "Chris Rodriguez Jr. (RB, JAX)",
+      "adds": 95931,
       "rostered_by": null
     },
     {
       "player": "Detroit Lions (DEF, DET)",
-      "adds": 89577,
+      "adds": 94392,
+      "rostered_by": null
+    },
+    {
+      "player": "Elijah Mitchell (RB, PHI)",
+      "adds": 88290,
       "rostered_by": null
     },
     {
       "player": "Tyler Higbee (TE, LAR)",
-      "adds": 88983,
+      "adds": 86625,
       "rostered_by": null
     },
     {
-      "player": "Mason Taylor (TE, NYJ)",
-      "adds": 88860,
+      "player": "Cooper Kupp (WR, SEA)",
+      "adds": 86238,
       "rostered_by": null
     },
     {
-      "player": "Jordan Addison (WR, MIN)",
-      "adds": 81441,
+      "player": "Gardner Minshew II (QB, ARI)",
+      "adds": 83708,
       "rostered_by": null
     },
     {
       "player": "Darius Cooper (WR, PHI)",
-      "adds": 79261,
+      "adds": 81774,
       "rostered_by": null
     },
     {
-      "player": "Keon Coleman (WR, BUF)",
-      "adds": 77976,
-      "rostered_by": 9
+      "player": "Mason Taylor (TE, NYJ)",
+      "adds": 78695,
+      "rostered_by": null
     },
     {
-      "player": "Tyler Allgeier (RB, ARI)",
-      "adds": 77320,
-      "rostered_by": 9
-    },
-    {
-      "player": "Cooper Kupp (WR, SEA)",
-      "adds": 69516,
+      "player": "Jordan Addison (WR, MIN)",
+      "adds": 75375,
       "rostered_by": null
     }
   ]
