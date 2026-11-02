@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-02T02:46:19.405858-05:00",
+  "generated": "2026-11-02T13:31:36.746663-05:00",
   "season": "2026",
   "week": 8,
   "league": {
@@ -67,9 +67,9 @@
       "Trevor Lawrence (QB, JAX)",
       "Bijan Robinson (RB, ATL)",
       "Javonte Williams (RB, DAL)",
-      "Drake London (WR, ATL)",
-      "Michael Wilson (WR, ARI)",
-      "Jake Ferguson (TE, DAL)",
+      "Drake London (WR, ATL) [Questionable]",
+      "Michael Wilson (WR, ARI) [Questionable]",
+      "Jake Ferguson (TE, DAL) [Out]",
       "Tee Higgins (WR, CIN)",
       "Tyler Loop (K, BAL)",
       "Carolina Panthers (DEF, CAR)"
@@ -112,7 +112,7 @@
         "Germie Bernard (WR, PIT)",
         "Ja'Kobi Lane (WR, BAL)",
         "Kaelon Black (RB, SF)",
-        "Lamar Jackson (QB, BAL)",
+        "Lamar Jackson (QB, BAL) [Out]",
         "DeVonta Smith (WR, PHI) [Out]"
       ],
       "ir": []
@@ -130,9 +130,9 @@
       "faab_used": 42,
       "starters": [
         "Joe Burrow (QB, CIN)",
-        "James Cook III (RB, BUF)",
+        "James Cook III (RB, BUF) [Questionable]",
         "Bucky Irving (RB, TB)",
-        "Amon-Ra St. Brown (WR, DET)",
+        "Amon-Ra St. Brown (WR, DET) [Questionable]",
         "Christian Watson (WR, GB) [Questionable]",
         "Dalton Kincaid (TE, BUF)",
         "Rico Dowdle (RB, PIT)",
@@ -166,9 +166,9 @@
         "Trevor Lawrence (QB, JAX)",
         "Bijan Robinson (RB, ATL)",
         "Javonte Williams (RB, DAL)",
-        "Drake London (WR, ATL)",
-        "Michael Wilson (WR, ARI)",
-        "Jake Ferguson (TE, DAL)",
+        "Drake London (WR, ATL) [Questionable]",
+        "Michael Wilson (WR, ARI) [Questionable]",
+        "Jake Ferguson (TE, DAL) [Out]",
         "Tee Higgins (WR, CIN)",
         "Tyler Loop (K, BAL)",
         "Carolina Panthers (DEF, CAR)"
@@ -428,9 +428,9 @@
       "starters": [
         "Dak Prescott (QB, DAL)",
         "Samaje Perine (RB, CIN)",
-        "Jeremiyah Love (RB, ARI)",
+        "Jeremiyah Love (RB, ARI) [Out]",
         "Puka Nacua (WR, LAR)",
-        "DJ Moore (WR, BUF)",
+        "DJ Moore (WR, BUF) [Questionable]",
         "Colston Loveland (TE, CHI)",
         "KC Concepcion Jr. (WR, CLE)",
         "Andy Borregales (K, NE)",
@@ -439,7 +439,7 @@
       "bench": [
         "Keon Coleman (WR, BUF)",
         "Alvin Kamara (RB, NO)",
-        "Jaylen Waddle (WR, DEN) [Questionable]",
+        "Jaylen Waddle (WR, DEN)",
         "Tyler Allgeier (RB, ARI)",
         "Brock Purdy (QB, SF)"
       ],
@@ -843,21 +843,21 @@
         "scoring": "league"
       },
       {
-        "player": "Drake London (WR, ATL)",
+        "player": "Drake London (WR, ATL) [Questionable]",
         "slot": "WR",
         "points": 11.0,
         "rank": "WR11",
         "scoring": "league"
       },
       {
-        "player": "Michael Wilson (WR, ARI)",
+        "player": "Michael Wilson (WR, ARI) [Questionable]",
         "slot": "WR",
         "points": 10.2,
         "rank": "WR14",
         "scoring": "league"
       },
       {
-        "player": "Jake Ferguson (TE, DAL)",
+        "player": "Jake Ferguson (TE, DAL) [Out]",
         "slot": "TE",
         "points": 6.0,
         "rank": "TE13",
@@ -895,7 +895,7 @@
           "scoring": "league"
         },
         {
-          "player": "Kyler Murray (QB, MIN)",
+          "player": "Kyler Murray (QB, MIN) [Questionable]",
           "slot": null,
           "points": 21.9,
           "rank": "QB16",
@@ -986,7 +986,7 @@
       ],
       "TE": [
         {
-          "player": "Hunter Henry (TE, NE)",
+          "player": "Hunter Henry (TE, NE) [Out]",
           "slot": null,
           "points": 6.9,
           "rank": "TE4",
@@ -1053,128 +1053,128 @@
   },
   "trending_adds": [
     {
+      "player": "Adonai Mitchell (WR, NYJ)",
+      "adds": 573552,
+      "rostered_by": null
+    },
+    {
       "player": "Devin Singletary (RB, NYG)",
-      "adds": 565011,
+      "adds": 372555,
       "rostered_by": 7
     },
     {
-      "player": "Adonai Mitchell (WR, NYJ)",
-      "adds": 411160,
+      "player": "Tyler Allgeier (RB, ARI)",
+      "adds": 308815,
+      "rostered_by": 9
+    },
+    {
+      "player": "Emmett Johnson (RB, KC)",
+      "adds": 249309,
+      "rostered_by": 11
+    },
+    {
+      "player": "Gardner Minshew II (QB, ARI)",
+      "adds": 196184,
       "rostered_by": null
     },
     {
       "player": "Ryan Flournoy (WR, DAL)",
-      "adds": 252672,
+      "adds": 136136,
       "rostered_by": null
-    },
-    {
-      "player": "Tyler Allgeier (RB, ARI)",
-      "adds": 239960,
-      "rostered_by": 9
     },
     {
       "player": "Washington Commanders (DEF, WAS)",
-      "adds": 224777,
+      "adds": 94864,
       "rostered_by": null
-    },
-    {
-      "player": "Samaje Perine (RB, CIN)",
-      "adds": 224468,
-      "rostered_by": 9
-    },
-    {
-      "player": "Seth McGowan (RB, IND)",
-      "adds": 193528,
-      "rostered_by": 4
-    },
-    {
-      "player": "Emmett Johnson (RB, KC)",
-      "adds": 192483,
-      "rostered_by": 11
     },
     {
       "player": "Corey Kiner (RB, NE)",
-      "adds": 183786,
-      "rostered_by": null
-    },
-    {
-      "player": "Makai Lemon (WR, PHI)",
-      "adds": 139980,
-      "rostered_by": 1
-    },
-    {
-      "player": "Tampa Bay Buccaneers (DEF, TB)",
-      "adds": 137325,
-      "rostered_by": 1
-    },
-    {
-      "player": "Gardner Minshew II (QB, ARI)",
-      "adds": 135520,
-      "rostered_by": null
-    },
-    {
-      "player": "Tyler Bass (K, BUF)",
-      "adds": 116250,
-      "rostered_by": null
-    },
-    {
-      "player": "Detroit Lions (DEF, DET)",
-      "adds": 103032,
-      "rostered_by": null
-    },
-    {
-      "player": "Kimani Vidal (RB, LAC)",
-      "adds": 100085,
-      "rostered_by": null
-    },
-    {
-      "player": "Kyle Williams (WR, NE)",
-      "adds": 94060,
-      "rostered_by": null
-    },
-    {
-      "player": "Cooper Kupp (WR, SEA)",
-      "adds": 91926,
-      "rostered_by": null
-    },
-    {
-      "player": "Chris Rodriguez Jr. (RB, JAX)",
-      "adds": 90666,
+      "adds": 84750,
       "rostered_by": null
     },
     {
       "player": "Kirk Cousins (QB, LV)",
-      "adds": 85120,
+      "adds": 82768,
       "rostered_by": 12
     },
     {
-      "player": "Elic Ayomanor (WR, TEN)",
-      "adds": 84556,
+      "player": "Tyler Bass (K, BUF)",
+      "adds": 81950,
       "rostered_by": null
     },
     {
+      "player": "Cooper Kupp (WR, SEA)",
+      "adds": 70944,
+      "rostered_by": null
+    },
+    {
+      "player": "Detroit Lions (DEF, DET)",
+      "adds": 70452,
+      "rostered_by": null
+    },
+    {
+      "player": "Tampa Bay Buccaneers (DEF, TB)",
+      "adds": 66885,
+      "rostered_by": 1
+    },
+    {
+      "player": "Makai Lemon (WR, PHI)",
+      "adds": 64976,
+      "rostered_by": 1
+    },
+    {
       "player": "Kenny Gainwell (RB, TB)",
-      "adds": 83864,
+      "adds": 63208,
       "rostered_by": 5
     },
     {
       "player": "Tyler Higbee (TE, LAR)",
-      "adds": 82530,
+      "adds": 56169,
       "rostered_by": null
     },
     {
-      "player": "Chris Godwin Jr. (WR, TB)",
-      "adds": 81060,
-      "rostered_by": 10
+      "player": "Seth McGowan (RB, IND)",
+      "adds": 53776,
+      "rostered_by": 4
+    },
+    {
+      "player": "Kyle Williams (WR, NE)",
+      "adds": 52290,
+      "rostered_by": null
+    },
+    {
+      "player": "Malik Washington (WR, MIA)",
+      "adds": 49320,
+      "rostered_by": null
+    },
+    {
+      "player": "Kimani Vidal (RB, LAC)",
+      "adds": 49200,
+      "rostered_by": null
+    },
+    {
+      "player": "Mike Gesicki (TE, CIN)",
+      "adds": 47572,
+      "rostered_by": null
     },
     {
       "player": "Elijah Mitchell (RB, PHI)",
-      "adds": 79002,
+      "adds": 44946,
       "rostered_by": null
     },
     {
-      "player": "Darius Cooper (WR, PHI)",
-      "adds": 73024,
+      "player": "Treylon Burks (WR, WAS)",
+      "adds": 41167,
+      "rostered_by": null
+    },
+    {
+      "player": "Samaje Perine (RB, CIN)",
+      "adds": 40132,
+      "rostered_by": 9
+    },
+    {
+      "player": "AJ Barner (TE, SEA)",
+      "adds": 37764,
       "rostered_by": null
     }
   ]
