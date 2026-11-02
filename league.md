@@ -1,5 +1,5 @@
 # Sleeper league state
-Generated Sunday November 01, 2026 07:52 PM ET · Season 2026 · NFL week 8
+Generated Monday November 02, 2026 02:46 AM ET · Season 2026 · NFL week 8
 League: The Dudes Will Roll · 12 teams · waivers: FAAB (budget $200) · lineup: QB, RB, RB, WR, WR, TE, FLEX, K, DEF
 
 ## My team: THE ACE OF SPADES (roster 11)
@@ -221,30 +221,30 @@ Sleeper's weekly projections (provider: rotowire), scored with this league's sco
 - New York Jets (DEF, NYJ) · 6.4 projected (Sleeper standard) · DEF13 · free agent now
 
 ## Trending adds across Sleeper, last 24 hours
-- Devin Singletary (RB, NYG) · 549,090 adds · rostered by Make Miami Great Again
-- Ryan Flournoy (WR, DAL) · 260,752 adds · AVAILABLE in my league
-- Samaje Perine (RB, CIN) · 256,740 adds · rostered by Team 9
-- Adonai Mitchell (WR, NYJ) · 247,552 adds · AVAILABLE in my league
-- Washington Commanders (DEF, WAS) · 244,755 adds · AVAILABLE in my league
-- Seth McGowan (RB, IND) · 237,416 adds · rostered by Thoroughbred Cheesehead
-- Corey Kiner (RB, NE) · 207,534 adds · AVAILABLE in my league
-- Tyler Allgeier (RB, ARI) · 168,510 adds · rostered by Team 9
-- Makai Lemon (WR, PHI) · 157,816 adds · rostered by Whiskey Sippin Kings
-- Tampa Bay Buccaneers (DEF, TB) · 139,070 adds · rostered by Whiskey Sippin Kings
-- Emmett Johnson (RB, KC) · 137,457 adds · on my roster
-- Kimani Vidal (RB, LAC) · 110,180 adds · AVAILABLE in my league
-- Tyler Bass (K, BUF) · 108,375 adds · AVAILABLE in my league
-- Kyle Williams (WR, NE) · 103,905 adds · AVAILABLE in my league
-- Elic Ayomanor (WR, TEN) · 102,680 adds · AVAILABLE in my league
-- Chris Godwin Jr. (WR, TB) · 96,618 adds · rostered by Strokin My Ditka
-- Chris Rodriguez Jr. (RB, JAX) · 95,931 adds · AVAILABLE in my league
-- Detroit Lions (DEF, DET) · 94,392 adds · AVAILABLE in my league
-- Elijah Mitchell (RB, PHI) · 88,290 adds · AVAILABLE in my league
-- Tyler Higbee (TE, LAR) · 86,625 adds · AVAILABLE in my league
-- Cooper Kupp (WR, SEA) · 86,238 adds · AVAILABLE in my league
-- Gardner Minshew II (QB, ARI) · 83,708 adds · AVAILABLE in my league
-- Darius Cooper (WR, PHI) · 81,774 adds · AVAILABLE in my league
-- Mason Taylor (TE, NYJ) · 78,695 adds · AVAILABLE in my league
-- Jordan Addison (WR, MIN) · 75,375 adds · AVAILABLE in my league
+- Devin Singletary (RB, NYG) · 565,011 adds · rostered by Make Miami Great Again
+- Adonai Mitchell (WR, NYJ) · 411,160 adds · AVAILABLE in my league
+- Ryan Flournoy (WR, DAL) · 252,672 adds · AVAILABLE in my league
+- Tyler Allgeier (RB, ARI) · 239,960 adds · rostered by Team 9
+- Washington Commanders (DEF, WAS) · 224,777 adds · AVAILABLE in my league
+- Samaje Perine (RB, CIN) · 224,468 adds · rostered by Team 9
+- Seth McGowan (RB, IND) · 193,528 adds · rostered by Thoroughbred Cheesehead
+- Emmett Johnson (RB, KC) · 192,483 adds · on my roster
+- Corey Kiner (RB, NE) · 183,786 adds · AVAILABLE in my league
+- Makai Lemon (WR, PHI) · 139,980 adds · rostered by Whiskey Sippin Kings
+- Tampa Bay Buccaneers (DEF, TB) · 137,325 adds · rostered by Whiskey Sippin Kings
+- Gardner Minshew II (QB, ARI) · 135,520 adds · AVAILABLE in my league
+- Tyler Bass (K, BUF) · 116,250 adds · AVAILABLE in my league
+- Detroit Lions (DEF, DET) · 103,032 adds · AVAILABLE in my league
+- Kimani Vidal (RB, LAC) · 100,085 adds · AVAILABLE in my league
+- Kyle Williams (WR, NE) · 94,060 adds · AVAILABLE in my league
+- Cooper Kupp (WR, SEA) · 91,926 adds · AVAILABLE in my league
+- Chris Rodriguez Jr. (RB, JAX) · 90,666 adds · AVAILABLE in my league
+- Kirk Cousins (QB, LV) · 85,120 adds · rostered by Young Blood
+- Elic Ayomanor (WR, TEN) · 84,556 adds · AVAILABLE in my league
+- Kenny Gainwell (RB, TB) · 83,864 adds · rostered by Springfield Atoms
+- Tyler Higbee (TE, LAR) · 82,530 adds · AVAILABLE in my league
+- Chris Godwin Jr. (WR, TB) · 81,060 adds · rostered by Strokin My Ditka
+- Elijah Mitchell (RB, PHI) · 79,002 adds · AVAILABLE in my league
+- Darius Cooper (WR, PHI) · 73,024 adds · AVAILABLE in my league
 
 Data from the Sleeper API (sleeper.com). Injury tags in brackets are Sleeper's designations and may lag official reports.
