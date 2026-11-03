@@ -1,5 +1,5 @@
 # Sleeper league state
-Generated Monday November 02, 2026 01:31 PM ET · Season 2026 · NFL week 8
+Generated Monday November 02, 2026 08:39 PM ET · Season 2026 · NFL week 8
 League: The Dudes Will Roll · 12 teams · waivers: FAAB (budget $200) · lineup: QB, RB, RB, WR, WR, TE, FLEX, K, DEF
 
 ## My team: THE ACE OF SPADES (roster 11)
@@ -221,30 +221,30 @@ Sleeper's weekly projections (provider: rotowire), scored with this league's sco
 - New York Jets (DEF, NYJ) · 6.4 projected (Sleeper standard) · DEF13 · free agent now
 
 ## Trending adds across Sleeper, last 24 hours
-- Adonai Mitchell (WR, NYJ) · 573,552 adds · AVAILABLE in my league
-- Devin Singletary (RB, NYG) · 372,555 adds · rostered by Make Miami Great Again
-- Tyler Allgeier (RB, ARI) · 308,815 adds · rostered by Team 9
-- Emmett Johnson (RB, KC) · 249,309 adds · on my roster
-- Gardner Minshew II (QB, ARI) · 196,184 adds · AVAILABLE in my league
-- Ryan Flournoy (WR, DAL) · 136,136 adds · AVAILABLE in my league
-- Washington Commanders (DEF, WAS) · 94,864 adds · AVAILABLE in my league
-- Corey Kiner (RB, NE) · 84,750 adds · AVAILABLE in my league
-- Kirk Cousins (QB, LV) · 82,768 adds · rostered by Young Blood
-- Tyler Bass (K, BUF) · 81,950 adds · AVAILABLE in my league
-- Cooper Kupp (WR, SEA) · 70,944 adds · AVAILABLE in my league
-- Detroit Lions (DEF, DET) · 70,452 adds · AVAILABLE in my league
-- Tampa Bay Buccaneers (DEF, TB) · 66,885 adds · rostered by Whiskey Sippin Kings
-- Makai Lemon (WR, PHI) · 64,976 adds · rostered by Whiskey Sippin Kings
-- Kenny Gainwell (RB, TB) · 63,208 adds · rostered by Springfield Atoms
-- Tyler Higbee (TE, LAR) · 56,169 adds · AVAILABLE in my league
-- Seth McGowan (RB, IND) · 53,776 adds · rostered by Thoroughbred Cheesehead
-- Kyle Williams (WR, NE) · 52,290 adds · AVAILABLE in my league
-- Malik Washington (WR, MIA) · 49,320 adds · AVAILABLE in my league
-- Kimani Vidal (RB, LAC) · 49,200 adds · AVAILABLE in my league
-- Mike Gesicki (TE, CIN) · 47,572 adds · AVAILABLE in my league
-- Elijah Mitchell (RB, PHI) · 44,946 adds · AVAILABLE in my league
-- Treylon Burks (WR, WAS) · 41,167 adds · AVAILABLE in my league
-- Samaje Perine (RB, CIN) · 40,132 adds · rostered by Team 9
-- AJ Barner (TE, SEA) · 37,764 adds · AVAILABLE in my league
+- Adonai Mitchell (WR, NYJ) · 482,016 adds · AVAILABLE in my league
+- Gardner Minshew II (QB, ARI) · 344,592 adds · AVAILABLE in my league
+- Tyler Allgeier (RB, ARI) · 259,355 adds · rostered by Team 9
+- Emmett Johnson (RB, KC) · 197,019 adds · on my roster
+- Devin Singletary (RB, NYG) · 147,339 adds · rostered by Make Miami Great Again
+- Ryan Flournoy (WR, DAL) · 68,720 adds · AVAILABLE in my league
+- Detroit Lions (DEF, DET) · 64,467 adds · AVAILABLE in my league
+- Tyler Bass (K, BUF) · 58,905 adds · AVAILABLE in my league
+- Kirk Cousins (QB, LV) · 57,776 adds · rostered by Young Blood
+- Treylon Burks (WR, WAS) · 50,666 adds · AVAILABLE in my league
+- Mike Gesicki (TE, CIN) · 50,144 adds · AVAILABLE in my league
+- Kenny Gainwell (RB, TB) · 45,864 adds · rostered by Springfield Atoms
+- Tampa Bay Buccaneers (DEF, TB) · 37,845 adds · rostered by Whiskey Sippin Kings
+- Jadarian Price (RB, SEA) [IR] · 34,290 adds · AVAILABLE in my league
+- Malik Washington (WR, MIA) · 32,384 adds · AVAILABLE in my league
+- Houston Texans (DEF, HOU) · 32,175 adds · on my roster
+- Malik Willis (QB, MIA) · 29,687 adds · AVAILABLE in my league
+- Cooper Kupp (WR, SEA) · 28,926 adds · AVAILABLE in my league
+- Dylan Sampson (RB, CLE) · 27,875 adds · AVAILABLE in my league
+- Tyson Bagent (QB, CHI) · 27,612 adds · AVAILABLE in my league
+- Seth McGowan (RB, IND) · 27,336 adds · rostered by Thoroughbred Cheesehead
+- Chimere Dike (WR, TEN) · 24,840 adds · AVAILABLE in my league
+- Bo Nix (QB, DEN) · 24,792 adds · rostered by Strokin My Ditka
+- Jonah Coleman (RB, DEN) · 23,438 adds · rostered by FuelTheJET
+- Chase McLaughlin (K, TB) · 23,016 adds · rostered by Strokin My Ditka
 
 Data from the Sleeper API (sleeper.com). Injury tags in brackets are Sleeper's designations and may lag official reports.

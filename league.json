@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-02T13:31:36.746663-05:00",
+  "generated": "2026-11-02T20:39:44.333939-05:00",
   "season": "2026",
   "week": 8,
   "league": {
@@ -1054,128 +1054,128 @@
   "trending_adds": [
     {
       "player": "Adonai Mitchell (WR, NYJ)",
-      "adds": 573552,
+      "adds": 482016,
       "rostered_by": null
     },
     {
-      "player": "Devin Singletary (RB, NYG)",
-      "adds": 372555,
-      "rostered_by": 7
+      "player": "Gardner Minshew II (QB, ARI)",
+      "adds": 344592,
+      "rostered_by": null
     },
     {
       "player": "Tyler Allgeier (RB, ARI)",
-      "adds": 308815,
+      "adds": 259355,
       "rostered_by": 9
     },
     {
       "player": "Emmett Johnson (RB, KC)",
-      "adds": 249309,
+      "adds": 197019,
       "rostered_by": 11
     },
     {
-      "player": "Gardner Minshew II (QB, ARI)",
-      "adds": 196184,
-      "rostered_by": null
+      "player": "Devin Singletary (RB, NYG)",
+      "adds": 147339,
+      "rostered_by": 7
     },
     {
       "player": "Ryan Flournoy (WR, DAL)",
-      "adds": 136136,
-      "rostered_by": null
-    },
-    {
-      "player": "Washington Commanders (DEF, WAS)",
-      "adds": 94864,
-      "rostered_by": null
-    },
-    {
-      "player": "Corey Kiner (RB, NE)",
-      "adds": 84750,
-      "rostered_by": null
-    },
-    {
-      "player": "Kirk Cousins (QB, LV)",
-      "adds": 82768,
-      "rostered_by": 12
-    },
-    {
-      "player": "Tyler Bass (K, BUF)",
-      "adds": 81950,
-      "rostered_by": null
-    },
-    {
-      "player": "Cooper Kupp (WR, SEA)",
-      "adds": 70944,
+      "adds": 68720,
       "rostered_by": null
     },
     {
       "player": "Detroit Lions (DEF, DET)",
-      "adds": 70452,
+      "adds": 64467,
       "rostered_by": null
     },
     {
-      "player": "Tampa Bay Buccaneers (DEF, TB)",
-      "adds": 66885,
-      "rostered_by": 1
-    },
-    {
-      "player": "Makai Lemon (WR, PHI)",
-      "adds": 64976,
-      "rostered_by": 1
-    },
-    {
-      "player": "Kenny Gainwell (RB, TB)",
-      "adds": 63208,
-      "rostered_by": 5
-    },
-    {
-      "player": "Tyler Higbee (TE, LAR)",
-      "adds": 56169,
+      "player": "Tyler Bass (K, BUF)",
+      "adds": 58905,
       "rostered_by": null
     },
     {
-      "player": "Seth McGowan (RB, IND)",
-      "adds": 53776,
-      "rostered_by": 4
+      "player": "Kirk Cousins (QB, LV)",
+      "adds": 57776,
+      "rostered_by": 12
     },
     {
-      "player": "Kyle Williams (WR, NE)",
-      "adds": 52290,
-      "rostered_by": null
-    },
-    {
-      "player": "Malik Washington (WR, MIA)",
-      "adds": 49320,
-      "rostered_by": null
-    },
-    {
-      "player": "Kimani Vidal (RB, LAC)",
-      "adds": 49200,
+      "player": "Treylon Burks (WR, WAS)",
+      "adds": 50666,
       "rostered_by": null
     },
     {
       "player": "Mike Gesicki (TE, CIN)",
-      "adds": 47572,
+      "adds": 50144,
       "rostered_by": null
     },
     {
-      "player": "Elijah Mitchell (RB, PHI)",
-      "adds": 44946,
+      "player": "Kenny Gainwell (RB, TB)",
+      "adds": 45864,
+      "rostered_by": 5
+    },
+    {
+      "player": "Tampa Bay Buccaneers (DEF, TB)",
+      "adds": 37845,
+      "rostered_by": 1
+    },
+    {
+      "player": "Jadarian Price (RB, SEA) [IR]",
+      "adds": 34290,
       "rostered_by": null
     },
     {
-      "player": "Treylon Burks (WR, WAS)",
-      "adds": 41167,
+      "player": "Malik Washington (WR, MIA)",
+      "adds": 32384,
       "rostered_by": null
     },
     {
-      "player": "Samaje Perine (RB, CIN)",
-      "adds": 40132,
-      "rostered_by": 9
+      "player": "Houston Texans (DEF, HOU)",
+      "adds": 32175,
+      "rostered_by": 11
     },
     {
-      "player": "AJ Barner (TE, SEA)",
-      "adds": 37764,
+      "player": "Malik Willis (QB, MIA)",
+      "adds": 29687,
       "rostered_by": null
+    },
+    {
+      "player": "Cooper Kupp (WR, SEA)",
+      "adds": 28926,
+      "rostered_by": null
+    },
+    {
+      "player": "Dylan Sampson (RB, CLE)",
+      "adds": 27875,
+      "rostered_by": null
+    },
+    {
+      "player": "Tyson Bagent (QB, CHI)",
+      "adds": 27612,
+      "rostered_by": null
+    },
+    {
+      "player": "Seth McGowan (RB, IND)",
+      "adds": 27336,
+      "rostered_by": 4
+    },
+    {
+      "player": "Chimere Dike (WR, TEN)",
+      "adds": 24840,
+      "rostered_by": null
+    },
+    {
+      "player": "Bo Nix (QB, DEN)",
+      "adds": 24792,
+      "rostered_by": 10
+    },
+    {
+      "player": "Jonah Coleman (RB, DEN)",
+      "adds": 23438,
+      "rostered_by": 6
+    },
+    {
+      "player": "Chase McLaughlin (K, TB)",
+      "adds": 23016,
+      "rostered_by": 10
     }
   ]
 }
