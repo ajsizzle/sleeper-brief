@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-04T21:34:47.943792-05:00",
+  "generated": "2026-11-05T06:11:03.572451-05:00",
   "season": "2026",
   "week": 9,
   "league": {
@@ -612,14 +612,14 @@
       {
         "player": "Drake Maye (QB, NE)",
         "slot": "QB",
-        "points": 27.1,
-        "rank": "QB6",
+        "points": 27.2,
+        "rank": "QB5",
         "scoring": "league"
       },
       {
         "player": "Kenneth Walker III (RB, KC)",
         "slot": "RB",
-        "points": 18.4,
+        "points": 18.6,
         "rank": "RB4",
         "scoring": "league"
       },
@@ -641,7 +641,7 @@
         "player": "A.J. Brown (WR, NE) [Questionable]",
         "slot": "WR",
         "points": 8.8,
-        "rank": "WR24",
+        "rank": "WR23",
         "scoring": "league"
       },
       {
@@ -682,7 +682,7 @@
       {
         "player": "Omar Cooper Jr. (WR, NYJ)",
         "slot": "BN",
-        "points": 6.5,
+        "points": 6.4,
         "rank": "WR40",
         "scoring": "league"
       },
@@ -696,8 +696,8 @@
       {
         "player": "Emmett Johnson (RB, KC)",
         "slot": "BN",
-        "points": 4.9,
-        "rank": "RB49",
+        "points": 4.8,
+        "rank": "RB50",
         "scoring": "league"
       },
       {
@@ -720,7 +720,7 @@
         "player": "Josh Allen (QB, BUF)",
         "slot": "QB",
         "points": 27.2,
-        "rank": "QB5",
+        "rank": "QB6",
         "scoring": "league"
       },
       {
@@ -871,7 +871,7 @@
           "scoring": "league"
         },
         {
-          "player": "Courtland Sutton (WR, DEN)",
+          "player": "Quentin Johnston (WR, LAC)",
           "slot": null,
           "points": 5.0,
           "rank": "WR49",
@@ -883,7 +883,7 @@
           "player": "Mike Gesicki (TE, CIN)",
           "slot": null,
           "points": 6.9,
-          "rank": "TE9",
+          "rank": "TE10",
           "scoring": "league"
         },
         {
@@ -948,127 +948,127 @@
   "trending_adds": [
     {
       "player": "Adonai Mitchell (WR, NYJ)",
-      "adds": 1424320,
+      "adds": 718184,
       "rostered_by": 2
     },
     {
       "player": "Devin Singletary (RB, NYG)",
-      "adds": 1013004,
+      "adds": 674928,
       "rostered_by": 7
     },
     {
       "player": "Detroit Lions (DEF, DET)",
-      "adds": 660267,
+      "adds": 540387,
       "rostered_by": 3
     },
     {
       "player": "Chris Rodriguez Jr. (RB, JAX)",
-      "adds": 656226,
-      "rostered_by": null
-    },
-    {
-      "player": "Emmett Johnson (RB, KC)",
-      "adds": 622386,
-      "rostered_by": 11
-    },
-    {
-      "player": "Tyler Allgeier (RB, ARI)",
-      "adds": 593425,
-      "rostered_by": 9
-    },
-    {
-      "player": "Gardner Minshew II (QB, ARI)",
-      "adds": 484604,
-      "rostered_by": null
-    },
-    {
-      "player": "Houston Texans (DEF, HOU)",
-      "adds": 479980,
-      "rostered_by": 11
-    },
-    {
-      "player": "Malik Willis (QB, MIA)",
-      "adds": 478345,
-      "rostered_by": 6
-    },
-    {
-      "player": "New Orleans Saints (DEF, NO)",
-      "adds": 465785,
+      "adds": 536499,
       "rostered_by": null
     },
     {
       "player": "Joe Milton (QB, PHI)",
-      "adds": 399328,
+      "adds": 455504,
       "rostered_by": null
     },
     {
+      "player": "Malik Willis (QB, MIA)",
+      "adds": 376054,
+      "rostered_by": 6
+    },
+    {
+      "player": "New Orleans Saints (DEF, NO)",
+      "adds": 373880,
+      "rostered_by": null
+    },
+    {
+      "player": "Emmett Johnson (RB, KC)",
+      "adds": 335385,
+      "rostered_by": 11
+    },
+    {
       "player": "Cairo Santos (K, CHI)",
-      "adds": 397229,
+      "adds": 331282,
       "rostered_by": null
     },
     {
       "player": "Tyler Bass (K, BUF)",
-      "adds": 387330,
+      "adds": 285155,
       "rostered_by": null
+    },
+    {
+      "player": "Houston Texans (DEF, HOU)",
+      "adds": 252210,
+      "rostered_by": 11
     },
     {
       "player": "Mike Gesicki (TE, CIN)",
-      "adds": 332516,
-      "rostered_by": null
-    },
-    {
-      "player": "Jadarian Price (RB, SEA)",
-      "adds": 294372,
-      "rostered_by": null
-    },
-    {
-      "player": "Ryan Flournoy (WR, DAL)",
-      "adds": 280536,
-      "rostered_by": null
-    },
-    {
-      "player": "Elijah Mitchell (RB, PHI)",
-      "adds": 267633,
-      "rostered_by": null
-    },
-    {
-      "player": "New York Giants (DEF, NYG)",
-      "adds": 266040,
-      "rostered_by": 12
-    },
-    {
-      "player": "Malik Washington (WR, MIA)",
-      "adds": 245256,
-      "rostered_by": null
-    },
-    {
-      "player": "Dylan Sampson (RB, CLE)",
-      "adds": 244635,
-      "rostered_by": null
-    },
-    {
-      "player": "Treylon Burks (WR, WAS) [Questionable]",
-      "adds": 208922,
-      "rostered_by": null
-    },
-    {
-      "player": "Sione Vaki (RB, DET)",
-      "adds": 193480,
+      "adds": 218484,
       "rostered_by": null
     },
     {
       "player": "Shedeur Sanders (QB, CLE)",
-      "adds": 182768,
+      "adds": 207408,
       "rostered_by": null
     },
     {
-      "player": "Alvin Kamara (RB, NO) [Questionable]",
-      "adds": 173496,
+      "player": "Elijah Mitchell (RB, PHI)",
+      "adds": 195534,
+      "rostered_by": null
+    },
+    {
+      "player": "Jadarian Price (RB, SEA)",
+      "adds": 194049,
+      "rostered_by": null
+    },
+    {
+      "player": "New York Giants (DEF, NYG)",
+      "adds": 191284,
+      "rostered_by": 12
+    },
+    {
+      "player": "Gardner Minshew II (QB, ARI)",
+      "adds": 186296,
+      "rostered_by": null
+    },
+    {
+      "player": "Ryan Flournoy (WR, DAL)",
+      "adds": 177384,
+      "rostered_by": null
+    },
+    {
+      "player": "Malik Washington (WR, MIA)",
+      "adds": 164688,
+      "rostered_by": null
+    },
+    {
+      "player": "Dylan Sampson (RB, CLE)",
+      "adds": 154315,
+      "rostered_by": null
+    },
+    {
+      "player": "Tyler Allgeier (RB, ARI)",
+      "adds": 143040,
       "rostered_by": 9
     },
     {
+      "player": "Alvin Kamara (RB, NO) [Questionable]",
+      "adds": 123568,
+      "rostered_by": 9
+    },
+    {
+      "player": "Drew Lock (QB, SEA) [Questionable]",
+      "adds": 116502,
+      "rostered_by": null
+    },
+    {
+      "player": "Treylon Burks (WR, WAS) [Questionable]",
+      "adds": 115010,
+      "rostered_by": null
+    },
+    {
       "player": "Kirk Cousins (QB, LV)",
-      "adds": 151536,
+      "adds": 113672,
       "rostered_by": 12
     }
   ]
