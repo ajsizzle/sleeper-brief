@@ -1,5 +1,5 @@
 # Sleeper league state
-Generated Friday November 06, 2026 10:59 AM ET · Season 2026 · NFL week 9
+Generated Friday November 06, 2026 04:36 PM ET · Season 2026 · NFL week 9
 League: The Dudes Will Roll · 12 teams · waivers: FAAB (budget $200) · lineup: QB, RB, RB, WR, WR, TE, FLEX, K, DEF
 
 ## My team: THE ACE OF SPADES (roster 11)
@@ -58,8 +58,8 @@ Starters: Trevor Lawrence (QB, JAX); Bijan Robinson (RB, ATL); Javonte Williams 
 Bench: Rashee Rice (WR, KC); Kyle Monangai (RB, CHI) [Questionable]; Deshaun Watson (QB, CLE) [Questionable]; Dalton Schultz (TE, HOU); Jake Ferguson (TE, DAL) [Questionable]; Wan'Dale Robinson (WR, TEN)
 
 ### Drunk To Taste This CHX · 5-3 · 883.4 pts · waiver priority 4
-Starters: Geno Smith (QB, NYJ); Derrick Henry (RB, BAL); Kyren Williams (RB, LAR); Jameson Williams (WR, DET); Garrett Wilson (WR, NYJ) [Questionable]; Travis Kelce (TE, KC); Braelon Allen (RB, NYJ); Jason Myers (K, SEA); Detroit Lions (DEF, DET)
-Bench: Ladd McConkey (WR, LAC); Konata Mumpfield (WR, LAR); Carnell Tate (WR, TEN) [Out]; Josh Downs (WR, IND); C.J. Stroud (QB, HOU); Los Angeles Rams (DEF, LAR)
+Starters: Geno Smith (QB, NYJ); Derrick Henry (RB, BAL); Kyren Williams (RB, LAR); Jameson Williams (WR, DET); Ladd McConkey (WR, LAC); Travis Kelce (TE, KC); Braelon Allen (RB, NYJ); Jason Myers (K, SEA); Detroit Lions (DEF, DET)
+Bench: Konata Mumpfield (WR, LAR); Carnell Tate (WR, TEN) [Out]; Garrett Wilson (WR, NYJ) [Questionable]; Josh Downs (WR, IND); C.J. Stroud (QB, HOU); Los Angeles Rams (DEF, LAR)
 
 ### Springfield Atoms · 5-3 · 832.7 pts · waiver priority 9
 Starters: Josh Allen (QB, BUF); Rachaad White (RB, WAS); Woody Marks (RB, HOU); CeeDee Lamb (WR, DAL); Tre Tucker (WR, LV); Sam LaPorta (TE, DET); Isaiah Likely (TE, NYG); Brandon Aubrey (K, DAL); Denver Broncos (DEF, DEN)
@@ -131,7 +131,7 @@ Bench: Emeka Egbuka (WR, TB); Ashton Jeanty (RB, LV); Tyler Shough (QB, NO); Den
 - Tyler Loop (K, BAL) [IR] · dropped by Team 8 on Thu Nov 5, 7:36 PM ET · on waivers until Sat Nov 7, 7:36 PM ET
 - New England Patriots (DEF, NE) · dropped by Make Miami Great Again on Thu Nov 5, 7:21 PM ET · on waivers until Sat Nov 7, 7:21 PM ET
 - Samaje Perine (RB, CIN) · dropped by Team 9 on Thu Nov 5, 9:02 AM ET · on waivers until Sat Nov 7, 9:02 AM ET
-- San Francisco 49ers (DEF, SF) · dropped by Young Blood on Wed Nov 4, 3:25 PM ET · on waivers until Fri Nov 6, 3:25 PM ET
+- San Francisco 49ers (DEF, SF) · dropped by Young Blood on Wed Nov 4, 3:25 PM ET · free agent now
 - Travis Hunter (WR, JAX) · dropped by Drunk To Taste This CHX on Wed Nov 4, 9:19 AM ET · free agent now
 - Ja'Kobi Lane (WR, BAL) · dropped by FuelTheJET on Wed Nov 4, 3:09 AM ET · free agent now
 - Lamar Jackson (QB, BAL) [IR] · dropped by FuelTheJET on Wed Nov 4, 3:09 AM ET · free agent now
@@ -149,79 +149,79 @@ Bench: Emeka Egbuka (WR, TB); Ashton Jeanty (RB, LV); Tyler Shough (QB, NO); Den
 ## Projections, week 9
 Sleeper's weekly projections (provider: rotowire), scored with this league's scoring settings. A model, not expert consensus. Per-game bonuses (100-yard games, long plays) are mostly not projected, so they are left out. K and DEF use Sleeper's standard scoring. Rank is among every projected player at the position.
 ### My roster
-- QB: Drake Maye (QB, NE) · 26.9 projected · QB5
+- QB: Drake Maye (QB, NE) · 26.7 projected · QB6
 - RB: Kenneth Walker III (RB, KC) · 18.3 projected · RB4
-- RB: Chase Brown (RB, CIN) · 12.1 projected · RB12
+- RB: Chase Brown (RB, CIN) · 12.1 projected · RB14
 - WR: Keenan Allen (WR, IND) · 6.7 projected · WR33
 - WR: Rome Odunze (WR, CHI) · 7.8 projected · WR27
 - TE: George Kittle (TE, SF) · 10.2 projected · TE2
-- FLEX: Rhamondre Stevenson (RB, NE) · 9.1 projected · RB22
-- K: Jake Bates (K, DET) · 8.3 projected (Sleeper standard) · K10
-- DEF: Houston Texans (DEF, HOU) · 8.6 projected (Sleeper standard) · DEF3
-- BN: Omar Cooper Jr. (WR, NYJ) · 6.5 projected · WR36
+- FLEX: Rhamondre Stevenson (RB, NE) · 11.6 projected · RB17
+- K: Jake Bates (K, DET) · 8.3 projected (Sleeper standard) · K9
+- DEF: Houston Texans (DEF, HOU) · 8.6 projected (Sleeper standard) · DEF2
+- BN: Omar Cooper Jr. (WR, NYJ) · 9.3 projected · WR17
 - BN: Mike Washington Jr. (RB, LV) · 7.0 projected · RB35
 - BN: Emmett Johnson (RB, KC) · 4.8 projected · RB50
 - BN: Mike Evans (WR, SF) [Questionable] · no projection (bye, out, or not projected)
 - BN: T.J. Hockenson (TE, MIN) · 6.2 projected · TE15
 - BN: A.J. Brown (WR, NE) [Questionable] · no projection (bye, out, or not projected)
 ### Opponent's starters
-- QB: Josh Allen (QB, BUF) · 26.7 projected · QB7
-- RB: Rachaad White (RB, WAS) · 7.9 projected · RB31
-- RB: Woody Marks (RB, HOU) · 11.6 projected · RB14
-- WR: CeeDee Lamb (WR, DAL) · 13.4 projected · WR3
+- QB: Josh Allen (QB, BUF) · 26.5 projected · QB7
+- RB: Rachaad White (RB, WAS) · 8.1 projected · RB29
+- RB: Woody Marks (RB, HOU) · 11.6 projected · RB16
+- WR: CeeDee Lamb (WR, DAL) · 13.5 projected · WR3
 - WR: Tre Tucker (WR, LV) · 7.3 projected · WR29
 - TE: Sam LaPorta (TE, DET) · 8.3 projected · TE4
-- FLEX: Isaiah Likely (TE, NYG) · 7.4 projected · TE7
+- FLEX: Isaiah Likely (TE, NYG) · 7.3 projected · TE7
 - K: Brandon Aubrey (K, DAL) · 10.0 projected (Sleeper standard) · K1
 - DEF: Denver Broncos (DEF, DEN) · 7.5 projected (Sleeper standard) · DEF9
 ### Best available by projection (on no roster in my league)
-- Michael Penix Jr. (QB, ATL) · 23.3 projected · QB13
-- Drew Lock (QB, SEA) [Questionable] · 22.8 projected · QB15
-- J.J. McCarthy (QB, NYG) · 20.4 projected · QB19
-- Jadarian Price (RB, SEA) · 8.0 projected · RB29
-- Dylan Sampson (RB, CLE) · 6.2 projected · RB39
-- Austin Ekeler (RB, WAS) · 6.0 projected · RB41
-- Elijah Mitchell (RB, PHI) · 5.8 projected · RB43
-- Kimani Vidal (RB, LAC) · 5.6 projected · RB44
-- Malik Washington (WR, MIA) · 6.8 projected · WR31
-- Jordan Addison (WR, MIN) · 5.9 projected · WR39
-- Darius Cooper (WR, PHI) · 5.8 projected · WR40
-- Khalil Shakir (WR, BUF) · 5.7 projected · WR42
-- Jahan Dotson (WR, ATL) · 5.6 projected · WR43
+- Drew Lock (QB, SEA) [Questionable] · 22.9 projected · QB13
+- Michael Penix Jr. (QB, ATL) · 22.3 projected · QB16
+- Baker Mayfield (QB, TB) · 20.2 projected · QB20
+- Jadarian Price (RB, SEA) · 8.0 projected · RB31
+- Corey Kiner (RB, NE) · 6.4 projected · RB38
+- Dylan Sampson (RB, CLE) · 6.2 projected · RB40
+- Austin Ekeler (RB, WAS) · 6.2 projected · RB41
+- Kimani Vidal (RB, LAC) · 5.8 projected · RB43
+- Malik Washington (WR, MIA) · 6.7 projected · WR32
+- Jahan Dotson (WR, ATL) · 6.3 projected · WR37
+- Antonio Williams (WR, WAS) · 6.1 projected · WR39
+- Jordan Addison (WR, MIN) · 6.1 projected · WR40
+- Darius Cooper (WR, PHI) · 5.8 projected · WR42
 - Dallas Goedert (TE, PHI) · 6.3 projected · TE13 · free agent now
 - AJ Barner (TE, SEA) · 5.0 projected · TE19
-- Chig Okonkwo (TE, WAS) · 4.9 projected · TE20
+- Eli Raridon (TE, NE) · 4.8 projected · TE20
 - Ka'imi Fairbairn (K, HOU) · 9.0 projected (Sleeper standard) · K5 · free agent now
 - Eddy Pineiro (K, SF) · 8.6 projected (Sleeper standard) · K8
-- New Orleans Saints (DEF, NO) · 8.1 projected (Sleeper standard) · DEF5
-- San Francisco 49ers (DEF, SF) · 7.7 projected (Sleeper standard) · DEF7 · on waivers until Fri Nov 6, 3:25 PM ET
+- New Orleans Saints (DEF, NO) · 8.1 projected (Sleeper standard) · DEF4
+- San Francisco 49ers (DEF, SF) · 7.7 projected (Sleeper standard) · DEF7 · free agent now
 - New England Patriots (DEF, NE) · 7.6 projected (Sleeper standard) · DEF8 · on waivers until Sat Nov 7, 7:21 PM ET
 
 ## Trending adds across Sleeper, last 24 hours
-- Carson Wentz (QB, MIN) · 485,892 adds · AVAILABLE in my league
-- Chris Rodriguez Jr. (RB, JAX) · 436,140 adds · rostered by Team 9
-- Detroit Lions (DEF, DET) · 344,448 adds · rostered by Drunk To Taste This CHX
-- Devin Singletary (RB, NYG) · 340,767 adds · rostered by Make Miami Great Again
-- Demarcus Robinson (WR, SF) [IR] · 283,428 adds · AVAILABLE in my league
-- Cairo Santos (K, CHI) · 278,964 adds · AVAILABLE in my league
-- Malik Willis (QB, MIA) · 242,165 adds · rostered by FuelTheJET
-- Adonai Mitchell (WR, NYJ) · 231,352 adds · rostered by Holla
-- New Orleans Saints (DEF, NO) · 226,570 adds · AVAILABLE in my league
-- Emmett Johnson (RB, KC) · 134,937 adds · on my roster
-- Mike Gesicki (TE, CIN) · 124,012 adds · rostered by Team 8
-- Elijah Mitchell (RB, PHI) · 114,327 adds · AVAILABLE in my league
-- Malik Washington (WR, MIA) · 113,128 adds · AVAILABLE in my league
-- Tyler Bass (K, BUF) · 108,185 adds · rostered by Team 8
-- Ryan Flournoy (WR, DAL) · 106,552 adds · AVAILABLE in my league
-- Joe Milton (QB, PHI) · 101,052 adds · AVAILABLE in my league
-- Jadarian Price (RB, SEA) · 99,099 adds · AVAILABLE in my league
-- New York Giants (DEF, NYG) · 93,096 adds · rostered by Young Blood
-- Dylan Sampson (RB, CLE) · 81,225 adds · AVAILABLE in my league
-- Keenan Allen (WR, IND) · 80,840 adds · on my roster
-- Houston Texans (DEF, HOU) · 80,840 adds · on my roster
-- Kaelon Black (RB, SF) · 67,564 adds · rostered by FuelTheJET
-- Kirk Cousins (QB, LV) · 66,320 adds · rostered by Young Blood
-- Shedeur Sanders (QB, CLE) · 66,200 adds · AVAILABLE in my league
-- Caleb Douglas (WR, MIA) · 54,664 adds · rostered by Thoroughbred Cheesehead
+- Devin Singletary (RB, NYG) · 557,055 adds · rostered by Make Miami Great Again
+- Carson Wentz (QB, MIN) · 320,616 adds · AVAILABLE in my league
+- Demarcus Robinson (WR, SF) [IR] · 286,284 adds · AVAILABLE in my league
+- Adonai Mitchell (WR, NYJ) · 283,984 adds · rostered by Holla
+- Detroit Lions (DEF, DET) · 271,458 adds · rostered by Drunk To Taste This CHX
+- Cairo Santos (K, CHI) · 223,538 adds · AVAILABLE in my league
+- Chris Rodriguez Jr. (RB, JAX) · 190,143 adds · rostered by Team 9
+- Malik Willis (QB, MIA) · 186,529 adds · rostered by FuelTheJET
+- New Orleans Saints (DEF, NO) · 185,145 adds · AVAILABLE in my league
+- Omar Cooper Jr. (WR, NYJ) · 130,216 adds · on my roster
+- Emmett Johnson (RB, KC) · 124,740 adds · on my roster
+- Malik Washington (WR, MIA) · 109,432 adds · AVAILABLE in my league
+- Mike Gesicki (TE, CIN) · 108,808 adds · rostered by Team 8
+- Elijah Mitchell (RB, PHI) · 99,369 adds · AVAILABLE in my league
+- Ryan Flournoy (WR, DAL) · 97,192 adds · AVAILABLE in my league
+- Darius Cooper (WR, PHI) · 90,076 adds · AVAILABLE in my league
+- Jadarian Price (RB, SEA) · 84,456 adds · AVAILABLE in my league
+- Tyler Bass (K, BUF) · 82,845 adds · rostered by Team 8
+- Corey Kiner (RB, NE) · 78,498 adds · AVAILABLE in my league
+- New York Giants (DEF, NYG) · 78,164 adds · rostered by Young Blood
+- Dylan Sampson (RB, CLE) · 75,340 adds · AVAILABLE in my league
+- Keenan Allen (WR, IND) · 74,532 adds · on my roster
+- Kaelon Black (RB, SF) · 63,707 adds · rostered by FuelTheJET
+- Houston Texans (DEF, HOU) · 62,370 adds · on my roster
+- Terrance Ferguson (TE, LAR) [IR] · 61,624 adds · rostered by FuelTheJET
 
 Data from the Sleeper API (sleeper.com). Injury tags in brackets are Sleeper's designations and may lag official reports.
