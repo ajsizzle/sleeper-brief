@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-07T03:56:11.729890-05:00",
+  "generated": "2026-11-07T10:45:54.055341-05:00",
   "season": "2026",
   "week": 9,
   "league": {
@@ -48,9 +48,7 @@
       "T.J. Hockenson (TE, MIN)",
       "A.J. Brown (WR, NE) [Out]"
     ],
-    "ir": [
-      "Dameon Pierce (RB, PHI) [Questionable]"
-    ]
+    "ir": []
   },
   "opponent": {
     "roster_id": 5,
@@ -348,9 +346,7 @@
         "T.J. Hockenson (TE, MIN)",
         "A.J. Brown (WR, NE) [Out]"
       ],
-      "ir": [
-        "Dameon Pierce (RB, PHI) [Questionable]"
-      ]
+      "ir": []
     },
     {
       "roster_id": 10,
@@ -483,6 +479,7 @@
     }
   ],
   "transactions": [
+    "Week 9 \u00b7 free_agent \u00b7 complete \u00b7 Sat Nov 07 09:21 AM \u00b7 THE ACE OF SPADES \u00b7 dropped: Dameon Pierce (RB, PHI) [Questionable] from THE ACE OF SPADES",
     "Week 9 \u00b7 free_agent \u00b7 complete \u00b7 Thu Nov 05 07:39 PM \u00b7 Team 8 \u00b7 added: Mike Gesicki (TE, CIN) to Team 8",
     "Week 9 \u00b7 free_agent \u00b7 complete \u00b7 Thu Nov 05 07:36 PM \u00b7 Team 8 \u00b7 dropped: Carolina Panthers (DEF, CAR) from Team 8",
     "Week 9 \u00b7 free_agent \u00b7 complete \u00b7 Thu Nov 05 07:36 PM \u00b7 Team 8 \u00b7 added: Tyler Bass (K, BUF) to Team 8",
@@ -512,6 +509,13 @@
   ],
   "dropped_unrostered": [
     {
+      "player": "Dameon Pierce (RB, PHI) [Questionable]",
+      "dropped_by": "THE ACE OF SPADES",
+      "dropped_at": "2026-11-07T09:21:47.812000-05:00",
+      "on_waivers_until": "2026-11-09T09:21:47.812000-05:00",
+      "waiver_status": "on waivers until Mon Nov 9, 9:21 AM ET"
+    },
+    {
       "player": "Carolina Panthers (DEF, CAR)",
       "dropped_by": "Team 8",
       "dropped_at": "2026-11-05T19:36:50.603000-05:00",
@@ -536,8 +540,8 @@
       "player": "Samaje Perine (RB, CIN)",
       "dropped_by": "Team 9",
       "dropped_at": "2026-11-05T09:02:40.722000-05:00",
-      "on_waivers_until": "2026-11-07T09:02:40.722000-05:00",
-      "waiver_status": "on waivers until Sat Nov 7, 9:02 AM ET"
+      "on_waivers_until": null,
+      "waiver_status": "free agent now"
     },
     {
       "player": "San Francisco 49ers (DEF, SF)",
@@ -653,7 +657,7 @@
       {
         "player": "Kenneth Walker III (RB, KC)",
         "slot": "RB",
-        "points": 18.6,
+        "points": 18.3,
         "rank": "RB4",
         "scoring": "league"
       },
@@ -668,7 +672,7 @@
         "player": "Keenan Allen (WR, IND)",
         "slot": "WR",
         "points": 6.7,
-        "rank": "WR35",
+        "rank": "WR34",
         "scoring": "league"
       },
       {
@@ -681,7 +685,7 @@
       {
         "player": "George Kittle (TE, SF)",
         "slot": "TE",
-        "points": 10.6,
+        "points": 10.5,
         "rank": "TE2",
         "scoring": "league"
       },
@@ -703,7 +707,7 @@
         "player": "Houston Texans (DEF, HOU)",
         "slot": "DEF",
         "points": 8.6,
-        "rank": "DEF3",
+        "rank": "DEF2",
         "scoring": "std"
       },
       {
@@ -716,7 +720,7 @@
       {
         "player": "Mike Washington Jr. (RB, LV)",
         "slot": "BN",
-        "points": 7.0,
+        "points": 7.1,
         "rank": "RB35",
         "scoring": "league"
       },
@@ -817,7 +821,7 @@
         {
           "player": "Drew Lock (QB, SEA)",
           "slot": null,
-          "points": 22.8,
+          "points": 22.9,
           "rank": "QB14",
           "scoring": "league"
         },
@@ -832,7 +836,7 @@
           "player": "Baker Mayfield (QB, TB)",
           "slot": null,
           "points": 20.2,
-          "rank": "QB21",
+          "rank": "QB20",
           "scoring": "league"
         }
       ],
@@ -878,7 +882,7 @@
           "player": "Malik Washington (WR, MIA)",
           "slot": null,
           "points": 6.7,
-          "rank": "WR34",
+          "rank": "WR33",
           "scoring": "league"
         },
         {
@@ -946,7 +950,7 @@
         {
           "player": "Eddy Pineiro (K, SF)",
           "slot": null,
-          "points": 8.6,
+          "points": 8.5,
           "rank": "K8",
           "scoring": "std"
         }
@@ -981,128 +985,128 @@
   "trending_adds": [
     {
       "player": "Devin Singletary (RB, NYG)",
-      "adds": 724761,
+      "adds": 782442,
       "rostered_by": 7
     },
     {
       "player": "Adonai Mitchell (WR, NYJ)",
-      "adds": 252416,
+      "adds": 263648,
       "rostered_by": 2
     },
     {
       "player": "Demarcus Robinson (WR, SF) [IR]",
-      "adds": 228606,
+      "adds": 244458,
       "rostered_by": null
     },
     {
       "player": "Omar Cooper Jr. (WR, NYJ)",
-      "adds": 175360,
+      "adds": 186848,
       "rostered_by": 11
     },
     {
       "player": "Corey Kiner (RB, NE)",
-      "adds": 134322,
+      "adds": 150804,
       "rostered_by": null
     },
     {
       "player": "Carson Wentz (QB, MIN)",
-      "adds": 124182,
+      "adds": 104700,
       "rostered_by": null
-    },
-    {
-      "player": "Detroit Lions (DEF, DET)",
-      "adds": 90234,
-      "rostered_by": 3
     },
     {
       "player": "Darius Cooper (WR, PHI)",
-      "adds": 90167,
-      "rostered_by": null
-    },
-    {
-      "player": "New Orleans Saints (DEF, NO)",
-      "adds": 79345,
-      "rostered_by": null
-    },
-    {
-      "player": "Emmett Johnson (RB, KC)",
-      "adds": 78606,
-      "rostered_by": 11
-    },
-    {
-      "player": "Malik Willis (QB, MIA)",
-      "adds": 71155,
-      "rostered_by": 6
-    },
-    {
-      "player": "Malik Washington (WR, MIA)",
-      "adds": 67224,
-      "rostered_by": null
-    },
-    {
-      "player": "Elijah Mitchell (RB, PHI)",
-      "adds": 64971,
+      "adds": 92960,
       "rostered_by": null
     },
     {
       "player": "Gregory Desrosiers (RB, NYG)",
-      "adds": 64808,
+      "adds": 85632,
+      "rostered_by": null
+    },
+    {
+      "player": "Detroit Lions (DEF, DET)",
+      "adds": 80235,
+      "rostered_by": 3
+    },
+    {
+      "player": "New Orleans Saints (DEF, NO)",
+      "adds": 76230,
+      "rostered_by": null
+    },
+    {
+      "player": "Emmett Johnson (RB, KC)",
+      "adds": 74727,
+      "rostered_by": 11
+    },
+    {
+      "player": "Malik Willis (QB, MIA)",
+      "adds": 65373,
+      "rostered_by": 6
+    },
+    {
+      "player": "Malik Washington (WR, MIA)",
+      "adds": 63160,
+      "rostered_by": null
+    },
+    {
+      "player": "Elijah Mitchell (RB, PHI)",
+      "adds": 61047,
       "rostered_by": null
     },
     {
       "player": "Ryan Flournoy (WR, DAL)",
-      "adds": 60512,
+      "adds": 56648,
       "rostered_by": null
     },
     {
       "player": "Mike Gesicki (TE, CIN)",
-      "adds": 57540,
+      "adds": 53860,
       "rostered_by": 8
     },
     {
       "player": "Cairo Santos (K, CHI)",
-      "adds": 57267,
+      "adds": 50610,
       "rostered_by": null
     },
     {
       "player": "Terrance Ferguson (TE, LAR) [IR]",
-      "adds": 53072,
-      "rostered_by": 6
-    },
-    {
-      "player": "Dylan Sampson (RB, CLE)",
-      "adds": 45865,
-      "rostered_by": null
-    },
-    {
-      "player": "Kaelon Black (RB, SF)",
-      "adds": 45164,
+      "adds": 50448,
       "rostered_by": 6
     },
     {
       "player": "Jordan Watkins (WR, SF)",
-      "adds": 44920,
+      "adds": 48504,
       "rostered_by": null
     },
     {
       "player": "Jahan Dotson (WR, ATL)",
-      "adds": 43950,
+      "adds": 48078,
       "rostered_by": null
     },
     {
-      "player": "Keenan Allen (WR, IND)",
-      "adds": 42864,
-      "rostered_by": 11
-    },
-    {
-      "player": "Jadarian Price (RB, SEA)",
-      "adds": 42669,
+      "player": "Dylan Sampson (RB, CLE)",
+      "adds": 44425,
       "rostered_by": null
     },
     {
       "player": "Shedeur Sanders (QB, CLE)",
-      "adds": 41168,
+      "adds": 41400,
       "rostered_by": null
+    },
+    {
+      "player": "New York Giants (DEF, NYG)",
+      "adds": 41376,
+      "rostered_by": 12
+    },
+    {
+      "player": "Kaelon Black (RB, SF)",
+      "adds": 41370,
+      "rostered_by": 6
+    },
+    {
+      "player": "Keenan Allen (WR, IND)",
+      "adds": 40920,
+      "rostered_by": 11
     }
   ]
 }
