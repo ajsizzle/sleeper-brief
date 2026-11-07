@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-06T16:36:55.372663-05:00",
+  "generated": "2026-11-06T20:21:06.423149-05:00",
   "season": "2026",
   "week": 9,
   "league": {
@@ -681,15 +681,15 @@
       {
         "player": "George Kittle (TE, SF)",
         "slot": "TE",
-        "points": 10.2,
+        "points": 10.6,
         "rank": "TE2",
         "scoring": "league"
       },
       {
         "player": "Rhamondre Stevenson (RB, NE)",
         "slot": "FLEX",
-        "points": 11.6,
-        "rank": "RB17",
+        "points": 10.8,
+        "rank": "RB19",
         "scoring": "league"
       },
       {
@@ -736,7 +736,7 @@
       {
         "player": "T.J. Hockenson (TE, MIN)",
         "slot": "BN",
-        "points": 6.2,
+        "points": 6.1,
         "rank": "TE15",
         "scoring": "league"
       },
@@ -818,7 +818,7 @@
           "player": "Drew Lock (QB, SEA) [Questionable]",
           "slot": null,
           "points": 22.9,
-          "rank": "QB13",
+          "rank": "QB14",
           "scoring": "league"
         },
         {
@@ -840,33 +840,33 @@
         {
           "player": "Jadarian Price (RB, SEA)",
           "slot": null,
-          "points": 8.0,
-          "rank": "RB31",
-          "scoring": "league"
-        },
-        {
-          "player": "Corey Kiner (RB, NE)",
-          "slot": null,
-          "points": 6.4,
-          "rank": "RB38",
+          "points": 8.2,
+          "rank": "RB28",
           "scoring": "league"
         },
         {
           "player": "Dylan Sampson (RB, CLE)",
           "slot": null,
           "points": 6.2,
-          "rank": "RB40",
+          "rank": "RB38",
           "scoring": "league"
         },
         {
           "player": "Austin Ekeler (RB, WAS)",
           "slot": null,
           "points": 6.2,
-          "rank": "RB41",
+          "rank": "RB39",
           "scoring": "league"
         },
         {
           "player": "Kimani Vidal (RB, LAC)",
+          "slot": null,
+          "points": 5.8,
+          "rank": "RB42",
+          "scoring": "league"
+        },
+        {
+          "player": "Elijah Mitchell (RB, PHI)",
           "slot": null,
           "points": 5.8,
           "rank": "RB43",
@@ -889,14 +889,14 @@
           "scoring": "league"
         },
         {
-          "player": "Antonio Williams (WR, WAS)",
+          "player": "Jordan Addison (WR, MIN)",
           "slot": null,
-          "points": 6.1,
+          "points": 6.2,
           "rank": "WR39",
           "scoring": "league"
         },
         {
-          "player": "Jordan Addison (WR, MIN)",
+          "player": "Antonio Williams (WR, WAS)",
           "slot": null,
           "points": 6.1,
           "rank": "WR40",
@@ -920,16 +920,16 @@
           "waiver_status": "free agent now"
         },
         {
-          "player": "AJ Barner (TE, SEA)",
+          "player": "Tyler Higbee (TE, LAR)",
           "slot": null,
-          "points": 5.0,
+          "points": 5.1,
           "rank": "TE19",
           "scoring": "league"
         },
         {
-          "player": "Eli Raridon (TE, NE)",
+          "player": "AJ Barner (TE, SEA)",
           "slot": null,
-          "points": 4.8,
+          "points": 5.0,
           "rank": "TE20",
           "scoring": "league"
         }
@@ -981,128 +981,128 @@
   "trending_adds": [
     {
       "player": "Devin Singletary (RB, NYG)",
-      "adds": 557055,
+      "adds": 676179,
       "rostered_by": 7
     },
     {
-      "player": "Carson Wentz (QB, MIN)",
-      "adds": 320616,
-      "rostered_by": null
-    },
-    {
-      "player": "Demarcus Robinson (WR, SF) [IR]",
-      "adds": 286284,
-      "rostered_by": null
-    },
-    {
       "player": "Adonai Mitchell (WR, NYJ)",
-      "adds": 283984,
+      "adds": 274536,
       "rostered_by": 2
     },
     {
+      "player": "Demarcus Robinson (WR, SF) [IR]",
+      "adds": 265602,
+      "rostered_by": null
+    },
+    {
+      "player": "Carson Wentz (QB, MIN)",
+      "adds": 218142,
+      "rostered_by": null
+    },
+    {
       "player": "Detroit Lions (DEF, DET)",
-      "adds": 271458,
+      "adds": 180351,
       "rostered_by": 3
     },
     {
-      "player": "Cairo Santos (K, CHI)",
-      "adds": 223538,
-      "rostered_by": null
-    },
-    {
-      "player": "Chris Rodriguez Jr. (RB, JAX)",
-      "adds": 190143,
-      "rostered_by": 9
-    },
-    {
-      "player": "Malik Willis (QB, MIA)",
-      "adds": 186529,
-      "rostered_by": 6
+      "player": "Omar Cooper Jr. (WR, NYJ)",
+      "adds": 160920,
+      "rostered_by": 11
     },
     {
       "player": "New Orleans Saints (DEF, NO)",
-      "adds": 185145,
+      "adds": 130235,
       "rostered_by": null
     },
     {
-      "player": "Omar Cooper Jr. (WR, NYJ)",
-      "adds": 130216,
-      "rostered_by": 11
+      "player": "Malik Willis (QB, MIA)",
+      "adds": 124726,
+      "rostered_by": 6
+    },
+    {
+      "player": "Cairo Santos (K, CHI)",
+      "adds": 123774,
+      "rostered_by": null
+    },
+    {
+      "player": "Corey Kiner (RB, NE)",
+      "adds": 109800,
+      "rostered_by": null
     },
     {
       "player": "Emmett Johnson (RB, KC)",
-      "adds": 124740,
+      "adds": 107334,
       "rostered_by": 11
     },
     {
+      "player": "Darius Cooper (WR, PHI)",
+      "adds": 103523,
+      "rostered_by": null
+    },
+    {
       "player": "Malik Washington (WR, MIA)",
-      "adds": 109432,
+      "adds": 93480,
       "rostered_by": null
     },
     {
       "player": "Mike Gesicki (TE, CIN)",
-      "adds": 108808,
+      "adds": 84120,
       "rostered_by": 8
     },
     {
       "player": "Elijah Mitchell (RB, PHI)",
-      "adds": 99369,
+      "adds": 83628,
       "rostered_by": null
     },
     {
       "player": "Ryan Flournoy (WR, DAL)",
-      "adds": 97192,
+      "adds": 81648,
       "rostered_by": null
     },
     {
-      "player": "Darius Cooper (WR, PHI)",
-      "adds": 90076,
-      "rostered_by": null
+      "player": "Chris Rodriguez Jr. (RB, JAX)",
+      "adds": 75672,
+      "rostered_by": 9
     },
     {
       "player": "Jadarian Price (RB, SEA)",
-      "adds": 84456,
+      "adds": 65637,
       "rostered_by": null
-    },
-    {
-      "player": "Tyler Bass (K, BUF)",
-      "adds": 82845,
-      "rostered_by": 8
-    },
-    {
-      "player": "Corey Kiner (RB, NE)",
-      "adds": 78498,
-      "rostered_by": null
-    },
-    {
-      "player": "New York Giants (DEF, NYG)",
-      "adds": 78164,
-      "rostered_by": 12
     },
     {
       "player": "Dylan Sampson (RB, CLE)",
-      "adds": 75340,
+      "adds": 62495,
       "rostered_by": null
     },
     {
+      "player": "Terrance Ferguson (TE, LAR) [IR]",
+      "adds": 61608,
+      "rostered_by": 6
+    },
+    {
       "player": "Keenan Allen (WR, IND)",
-      "adds": 74532,
+      "adds": 61132,
       "rostered_by": 11
+    },
+    {
+      "player": "New York Giants (DEF, NYG)",
+      "adds": 60444,
+      "rostered_by": 12
     },
     {
       "player": "Kaelon Black (RB, SF)",
-      "adds": 63707,
+      "adds": 58002,
       "rostered_by": 6
     },
     {
-      "player": "Houston Texans (DEF, HOU)",
-      "adds": 62370,
-      "rostered_by": 11
+      "player": "Shedeur Sanders (QB, CLE)",
+      "adds": 49712,
+      "rostered_by": null
     },
     {
-      "player": "Terrance Ferguson (TE, LAR) [IR]",
-      "adds": 61624,
-      "rostered_by": 6
+      "player": "Justice Hill (RB, BAL)",
+      "adds": 49122,
+      "rostered_by": null
     }
   ]
 }
