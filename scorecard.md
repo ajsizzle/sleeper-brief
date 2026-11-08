@@ -1,7 +1,7 @@
 # Scorecard: season to date
-Updated Sunday November 08, 2026 01:18 AM ET. Rebuilt from Sleeper every run.
+Updated Sunday November 08, 2026 08:40 AM ET. Rebuilt from Sleeper every run.
 
-Record 4-4 · 857.8 pts scored · 921.5 optimal · lineup efficiency 93.1% · avg left on bench 8.0 · waiver claims won 16/25 · FAAB spent $200 · trades 0
+Record 4-4 · 857.8 pts scored · 921.5 optimal · lineup efficiency 93.1% · avg left on bench 8.0 · waiver claims won 16/25 · FAAB spent $200 · trades 2
 
 | Week | Result | Me | Opponent | Optimal | Left on bench | Pts rank (of 12) | Waivers won/lost | Trades |
 |---|---|---|---|---|---|---|---|---|
@@ -12,6 +12,6 @@ Record 4-4 · 857.8 pts scored · 921.5 optimal · lineup efficiency 93.1% · av
 | 5 | W vs Strokin My Ditka | 130.7 | 118.65 | 130.7 | 0.0 | 4 | 1/0 ($11) | 0 |
 | 6 | W vs Make Miami Great Again | 119.65 | 93.2 | 126.65 | 7.0 | 2 | 4/1 ($54) | 0 |
 | 7 | W vs Whiskey Sippin Kings | 110.05 | 68.65 | 121.85 | 11.8 | 6 | 2/0 ($5) | 0 |
-| 8 | L vs Team 8 | 100.45 | 110.9 | 121.35 | 20.9 | 8 | 1/1 ($23) | 0 |
+| 8 | L vs Team 8 | 100.45 | 110.9 | 121.35 | 20.9 | 8 | 1/1 ($23) | 2 |
 
 Left on bench is optimal minus actual: the cost of start/sit calls that week. Lineup efficiency is actual divided by optimal for the season. Points rank is where my score landed among all teams that week.
