@@ -1,5 +1,5 @@
 # Sleeper league state
-Generated Saturday November 07, 2026 06:43 PM ET · Season 2026 · NFL week 9
+Generated Sunday November 08, 2026 01:18 AM ET · Season 2026 · NFL week 9
 League: The Dudes Will Roll · 12 teams · waivers: FAAB (budget $200) · lineup: QB, RB, RB, WR, WR, TE, FLEX, K, DEF
 
 ## My team: THE ACE OF SPADES (roster 11)
@@ -126,9 +126,9 @@ Bench: Emeka Egbuka (WR, TB) [Questionable]; Ashton Jeanty (RB, LV); Tyler Shoug
 
 ## Dropped in the last 14 days, still unrostered
 - Dameon Pierce (RB, PHI) [Questionable] · dropped by THE ACE OF SPADES on Sat Nov 7, 9:21 AM ET · on waivers until Mon Nov 9, 9:21 AM ET
-- Carolina Panthers (DEF, CAR) · dropped by Team 8 on Thu Nov 5, 7:36 PM ET · on waivers until Sat Nov 7, 7:36 PM ET
-- Tyler Loop (K, BAL) [IR] · dropped by Team 8 on Thu Nov 5, 7:36 PM ET · on waivers until Sat Nov 7, 7:36 PM ET
-- New England Patriots (DEF, NE) · dropped by Make Miami Great Again on Thu Nov 5, 7:21 PM ET · on waivers until Sat Nov 7, 7:21 PM ET
+- Carolina Panthers (DEF, CAR) · dropped by Team 8 on Thu Nov 5, 7:36 PM ET · free agent now
+- Tyler Loop (K, BAL) [IR] · dropped by Team 8 on Thu Nov 5, 7:36 PM ET · free agent now
+- New England Patriots (DEF, NE) · dropped by Make Miami Great Again on Thu Nov 5, 7:21 PM ET · free agent now
 - Samaje Perine (RB, CIN) · dropped by Team 9 on Thu Nov 5, 9:02 AM ET · free agent now
 - San Francisco 49ers (DEF, SF) · dropped by Young Blood on Wed Nov 4, 3:25 PM ET · free agent now
 - Travis Hunter (WR, JAX) · dropped by Drunk To Taste This CHX on Wed Nov 4, 9:19 AM ET · free agent now
@@ -149,15 +149,15 @@ Bench: Emeka Egbuka (WR, TB) [Questionable]; Ashton Jeanty (RB, LV); Tyler Shoug
 Sleeper's weekly projections (provider: rotowire), scored with this league's scoring settings. A model, not expert consensus. Per-game bonuses (100-yard games, long plays) are mostly not projected, so they are left out. K and DEF use Sleeper's standard scoring. Rank is among every projected player at the position.
 ### My roster
 - QB: Drake Maye (QB, NE) · 26.7 projected · QB5
-- RB: Kenneth Walker III (RB, KC) · 18.3 projected · RB4
+- RB: Kenneth Walker III (RB, KC) · 18.6 projected · RB4
 - RB: Chase Brown (RB, CIN) · 12.1 projected · RB15
-- WR: Keenan Allen (WR, IND) · 6.7 projected · WR34
+- WR: Keenan Allen (WR, IND) · 6.7 projected · WR35
 - WR: Rome Odunze (WR, CHI) · 7.8 projected · WR27
 - TE: George Kittle (TE, SF) · 10.5 projected · TE2
 - FLEX: Rhamondre Stevenson (RB, NE) · 10.8 projected · RB19
 - K: Jake Bates (K, DET) · 8.3 projected (Sleeper standard) · K9
 - DEF: Houston Texans (DEF, HOU) · 8.6 projected (Sleeper standard) · DEF2
-- BN: Omar Cooper Jr. (WR, NYJ) · 8.8 projected · WR21
+- BN: Omar Cooper Jr. (WR, NYJ) · 8.9 projected · WR21
 - BN: Mike Washington Jr. (RB, LV) · 7.0 projected · RB36
 - BN: Emmett Johnson (RB, KC) · 4.8 projected · RB50
 - BN: Mike Evans (WR, SF) [Out] · no projection (bye, out, or not projected)
@@ -174,15 +174,15 @@ Sleeper's weekly projections (provider: rotowire), scored with this league's sco
 - K: Brandon Aubrey (K, DAL) · 9.9 projected (Sleeper standard) · K1
 - DEF: Denver Broncos (DEF, DEN) · 7.2 projected (Sleeper standard) · DEF12
 ### Best available by projection (on no roster in my league)
-- Drew Lock (QB, SEA) · 22.8 projected · QB14
+- Drew Lock (QB, SEA) · 22.9 projected · QB14
 - Michael Penix Jr. (QB, ATL) · 22.3 projected · QB16
-- Baker Mayfield (QB, TB) · 20.2 projected · QB20
+- Baker Mayfield (QB, TB) · 20.2 projected · QB21
 - Jadarian Price (RB, SEA) · 8.2 projected · RB27
 - Audric Estime (RB, NO) · 7.1 projected · RB35
 - Dylan Sampson (RB, CLE) · 6.2 projected · RB38
 - Austin Ekeler (RB, WAS) · 6.2 projected · RB39
 - Kimani Vidal (RB, LAC) · 5.8 projected · RB42
-- Malik Washington (WR, MIA) · 6.7 projected · WR33
+- Malik Washington (WR, MIA) · 6.7 projected · WR34
 - Jordan Addison (WR, MIN) · 6.5 projected · WR37
 - Jahan Dotson (WR, ATL) · 6.3 projected · WR38
 - Antonio Williams (WR, WAS) · 6.1 projected · WR40
@@ -193,34 +193,34 @@ Sleeper's weekly projections (provider: rotowire), scored with this league's sco
 - Ka'imi Fairbairn (K, HOU) · 9.0 projected (Sleeper standard) · K5 · free agent now
 - Eddy Pineiro (K, SF) · 8.5 projected (Sleeper standard) · K8
 - New Orleans Saints (DEF, NO) · 8.1 projected (Sleeper standard) · DEF4
-- New England Patriots (DEF, NE) · 7.6 projected (Sleeper standard) · DEF8 · on waivers until Sat Nov 7, 7:21 PM ET
+- New England Patriots (DEF, NE) · 7.6 projected (Sleeper standard) · DEF8 · free agent now
 - San Francisco 49ers (DEF, SF) · 7.2 projected (Sleeper standard) · DEF11 · free agent now
 
 ## Trending adds across Sleeper, last 24 hours
-- Devin Singletary (RB, NYG) · 505,521 adds · rostered by Make Miami Great Again
-- Demarcus Robinson (WR, SF) [IR] · 251,856 adds · AVAILABLE in my league
-- Adonai Mitchell (WR, NYJ) · 138,792 adds · rostered by Holla
-- Gregory Desrosiers (RB, NYG) · 107,072 adds · AVAILABLE in my league
-- Corey Kiner (RB, NE) · 105,252 adds · AVAILABLE in my league
-- Omar Cooper Jr. (WR, NYJ) · 91,040 adds · on my roster
-- Alvin Kamara (RB, NO) · 73,104 adds · rostered by Team 9
-- Carson Wentz (QB, MIN) · 70,980 adds · AVAILABLE in my league
-- Darius Cooper (WR, PHI) · 70,749 adds · AVAILABLE in my league
-- New Orleans Saints (DEF, NO) · 62,435 adds · AVAILABLE in my league
-- Audric Estime (RB, NO) · 58,899 adds · AVAILABLE in my league
-- Detroit Lions (DEF, DET) · 53,595 adds · rostered by Drunk To Taste This CHX
-- Malik Willis (QB, MIA) · 52,451 adds · rostered by FuelTheJET
-- Emmett Johnson (RB, KC) · 49,032 adds · on my roster
-- Elijah Mitchell (RB, PHI) · 44,712 adds · AVAILABLE in my league
-- Jordan Watkins (WR, SF) · 40,596 adds · AVAILABLE in my league
-- Mike Gesicki (TE, CIN) · 38,532 adds · rostered by Team 8
-- New York Giants (DEF, NYG) · 37,228 adds · rostered by Young Blood
-- Dylan Sampson (RB, CLE) · 37,020 adds · AVAILABLE in my league
-- Cairo Santos (K, CHI) · 35,588 adds · AVAILABLE in my league
-- Malik Washington (WR, MIA) · 34,792 adds · AVAILABLE in my league
-- Ryan Flournoy (WR, DAL) · 33,904 adds · AVAILABLE in my league
-- Jahan Dotson (WR, ATL) · 33,738 adds · AVAILABLE in my league
-- Austin Ekeler (RB, WAS) · 32,908 adds · AVAILABLE in my league
-- Shedeur Sanders (QB, CLE) · 30,160 adds · AVAILABLE in my league
+- Devin Singletary (RB, NYG) · 471,645 adds · rostered by Make Miami Great Again
+- Demarcus Robinson (WR, SF) [IR] · 321,834 adds · AVAILABLE in my league
+- Audric Estime (RB, NO) · 135,786 adds · AVAILABLE in my league
+- Adonai Mitchell (WR, NYJ) · 122,728 adds · rostered by Holla
+- Gregory Desrosiers (RB, NYG) · 117,584 adds · AVAILABLE in my league
+- Alvin Kamara (RB, NO) · 107,776 adds · rostered by Team 9
+- Corey Kiner (RB, NE) · 95,772 adds · AVAILABLE in my league
+- New Orleans Saints (DEF, NO) · 76,455 adds · AVAILABLE in my league
+- Omar Cooper Jr. (WR, NYJ) · 74,600 adds · on my roster
+- Carson Wentz (QB, MIN) · 71,742 adds · AVAILABLE in my league
+- Darius Cooper (WR, PHI) · 70,077 adds · AVAILABLE in my league
+- Malik Willis (QB, MIA) · 58,478 adds · rostered by FuelTheJET
+- Khalil Herbert (RB, ATL) · 57,096 adds · AVAILABLE in my league
+- Detroit Lions (DEF, DET) · 52,389 adds · rostered by Drunk To Taste This CHX
+- New York Giants (DEF, NYG) · 45,420 adds · rostered by Young Blood
+- Emmett Johnson (RB, KC) · 44,397 adds · on my roster
+- Elijah Mitchell (RB, PHI) · 43,389 adds · AVAILABLE in my league
+- Dylan Sampson (RB, CLE) · 42,625 adds · AVAILABLE in my league
+- Jordyn Tyson (WR, NO) [IR] · 41,984 adds · rostered by Make Miami Great Again
+- Cairo Santos (K, CHI) · 38,766 adds · AVAILABLE in my league
+- Mike Gesicki (TE, CIN) · 38,200 adds · rostered by Team 8
+- Jordan Watkins (WR, SF) · 37,016 adds · AVAILABLE in my league
+- Malik Washington (WR, MIA) · 34,680 adds · AVAILABLE in my league
+- Austin Ekeler (RB, WAS) · 34,600 adds · AVAILABLE in my league
+- Jahan Dotson (WR, ATL) · 32,316 adds · AVAILABLE in my league
 
 Data from the Sleeper API (sleeper.com). Injury tags in brackets are Sleeper's designations and may lag official reports.
