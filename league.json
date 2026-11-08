@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-08T08:40:43.202237-05:00",
+  "generated": "2026-11-08T09:31:42.988771-05:00",
   "season": "2026",
   "week": 9,
   "league": {
@@ -262,18 +262,18 @@
       "waiver_position": 6,
       "faab_used": 15,
       "starters": [
-        "Kirk Cousins (QB, LV)",
+        "Caleb Williams (QB, CHI)",
         "Jonathan Taylor (RB, IND)",
         "D'Andre Swift (RB, CHI)",
-        "George Pickens (WR, DAL) [Questionable]",
+        "Jalen Coker (WR, CAR)",
         "Justin Jefferson (WR, MIN)",
         "Michael Mayer (TE, LV)",
-        "Jalen Coker (WR, CAR)",
+        "George Pickens (WR, DAL) [Questionable]",
         "Will Reichard (K, MIN)",
         "New York Giants (DEF, NYG)"
       ],
       "bench": [
-        "Caleb Williams (QB, CHI)",
+        "Kirk Cousins (QB, LV)",
         "Chris Boswell (K, PIT)",
         "Aaron Jones Sr. (RB, MIN)",
         "Tony Pollard (RB, TEN)",
@@ -682,7 +682,7 @@
       {
         "player": "Rome Odunze (WR, CHI)",
         "slot": "WR",
-        "points": 7.8,
+        "points": 8.1,
         "rank": "WR27",
         "scoring": "league"
       },
@@ -732,7 +732,7 @@
         "player": "Emmett Johnson (RB, KC)",
         "slot": "BN",
         "points": 4.8,
-        "rank": "RB50",
+        "rank": "RB49",
         "scoring": "league"
       },
       {
@@ -877,7 +877,7 @@
           "player": "Kimani Vidal (RB, LAC)",
           "slot": null,
           "points": 5.9,
-          "rank": "RB42",
+          "rank": "RB41",
           "scoring": "league"
         }
       ],
@@ -885,8 +885,8 @@
         {
           "player": "Malik Washington (WR, MIA)",
           "slot": null,
-          "points": 6.7,
-          "rank": "WR34",
+          "points": 6.8,
+          "rank": "WR31",
           "scoring": "league"
         },
         {
@@ -989,127 +989,127 @@
   "trending_adds": [
     {
       "player": "Devin Singletary (RB, NYG)",
-      "adds": 500094,
+      "adds": 548109,
       "rostered_by": 7
     },
     {
       "player": "Demarcus Robinson (WR, SF)",
-      "adds": 376476,
+      "adds": 410688,
       "rostered_by": null
     },
     {
       "player": "Audric Estime (RB, NO)",
-      "adds": 198354,
+      "adds": 224622,
       "rostered_by": null
     },
     {
       "player": "Alvin Kamara (RB, NO)",
-      "adds": 132320,
+      "adds": 145424,
       "rostered_by": 9
     },
     {
       "player": "Adonai Mitchell (WR, NYJ)",
-      "adds": 126520,
+      "adds": 139640,
       "rostered_by": 2
     },
     {
       "player": "Gregory Desrosiers (RB, NYG)",
-      "adds": 120768,
+      "adds": 127600,
       "rostered_by": null
     },
     {
       "player": "New Orleans Saints (DEF, NO)",
-      "adds": 99545,
+      "adds": 118025,
       "rostered_by": null
     },
     {
       "player": "Corey Kiner (RB, NE)",
-      "adds": 93126,
+      "adds": 98358,
       "rostered_by": null
     },
     {
       "player": "Carson Wentz (QB, MIN)",
-      "adds": 78456,
+      "adds": 85884,
       "rostered_by": null
     },
     {
       "player": "Khalil Herbert (RB, ATL)",
-      "adds": 76626,
+      "adds": 84834,
       "rostered_by": null
     },
     {
       "player": "Darius Cooper (WR, PHI)",
-      "adds": 74970,
+      "adds": 83048,
       "rostered_by": null
     },
     {
       "player": "Omar Cooper Jr. (WR, NYJ)",
-      "adds": 74120,
+      "adds": 79760,
       "rostered_by": 11
     },
     {
       "player": "Malik Willis (QB, MIA)",
-      "adds": 67984,
+      "adds": 76174,
       "rostered_by": 6
     },
     {
       "player": "Detroit Lions (DEF, DET)",
-      "adds": 60714,
+      "adds": 70290,
       "rostered_by": 3
     },
     {
       "player": "New York Giants (DEF, NYG)",
-      "adds": 59220,
+      "adds": 69924,
       "rostered_by": 12
     },
     {
-      "player": "Jordyn Tyson (WR, NO) [Questionable]",
-      "adds": 49560,
-      "rostered_by": 7
+      "player": "Cairo Santos (K, CHI)",
+      "adds": 55622,
+      "rostered_by": null
     },
     {
       "player": "Dylan Sampson (RB, CLE)",
-      "adds": 49445,
+      "adds": 55475,
       "rostered_by": null
+    },
+    {
+      "player": "Jordyn Tyson (WR, NO) [Questionable]",
+      "adds": 52736,
+      "rostered_by": 7
     },
     {
       "player": "Elijah Mitchell (RB, PHI)",
-      "adds": 47925,
+      "adds": 52389,
       "rostered_by": null
-    },
-    {
-      "player": "Cairo Santos (K, CHI)",
-      "adds": 47572,
-      "rostered_by": null
-    },
-    {
-      "player": "Emmett Johnson (RB, KC)",
-      "adds": 44856,
-      "rostered_by": 11
     },
     {
       "player": "Mike Gesicki (TE, CIN)",
-      "adds": 43508,
+      "adds": 48880,
       "rostered_by": 8
     },
     {
+      "player": "Emmett Johnson (RB, KC)",
+      "adds": 47979,
+      "rostered_by": 11
+    },
+    {
       "player": "Malik Washington (WR, MIA)",
-      "adds": 39416,
+      "adds": 43904,
       "rostered_by": null
     },
     {
       "player": "Austin Ekeler (RB, WAS)",
-      "adds": 38568,
+      "adds": 42000,
       "rostered_by": null
     },
     {
       "player": "Jordan Watkins (WR, SF)",
-      "adds": 37248,
+      "adds": 40184,
       "rostered_by": null
     },
     {
       "player": "Jahan Dotson (WR, ATL)",
-      "adds": 35106,
+      "adds": 39390,
       "rostered_by": null
     }
   ]
