@@ -1,5 +1,5 @@
 # Sleeper league state
-Generated Sunday November 08, 2026 05:57 PM ET · Season 2026 · NFL week 9
+Generated Sunday November 08, 2026 09:44 PM ET · Season 2026 · NFL week 9
 League: The Dudes Will Roll · 12 teams · waivers: FAAB (budget $200) · lineup: QB, RB, RB, WR, WR, TE, FLEX, K, DEF
 
 ## My team: THE ACE OF SPADES (roster 11)
@@ -157,7 +157,7 @@ Sleeper's weekly projections (provider: rotowire), scored with this league's sco
 - RB: Kenneth Walker III (RB, KC) · 18.3 projected · RB4
 - RB: Chase Brown (RB, CIN) · 12.0 projected · RB15
 - WR: Rashee Rice (WR, KC) · 10.4 projected · WR11
-- WR: Rome Odunze (WR, CHI) · 7.9 projected · WR26
+- WR: Rome Odunze (WR, CHI) · 8.0 projected · WR26
 - TE: George Kittle (TE, SF) · 10.4 projected · TE2
 - FLEX: Saquon Barkley (RB, PHI) · 11.1 projected · RB19
 - K: Jake Bates (K, DET) · 8.3 projected (Sleeper standard) · K10
@@ -181,7 +181,7 @@ Sleeper's weekly projections (provider: rotowire), scored with this league's sco
 ### Best available by projection (on no roster in my league)
 - Drew Lock (QB, SEA) · 23.0 projected · QB13
 - Michael Penix Jr. (QB, ATL) · 22.2 projected · QB16
-- Baker Mayfield (QB, TB) · 20.2 projected · QB20
+- Baker Mayfield (QB, TB) · 20.1 projected · QB20
 - Audric Estime (RB, NO) · 7.2 projected · RB35
 - Dylan Sampson (RB, CLE) · 6.1 projected · RB38
 - Austin Ekeler (RB, WAS) · 6.1 projected · RB39
@@ -202,30 +202,30 @@ Sleeper's weekly projections (provider: rotowire), scored with this league's sco
 - San Francisco 49ers (DEF, SF) · 7.1 projected (Sleeper standard) · DEF12 · free agent now
 
 ## Trending adds across Sleeper, last 24 hours
-- Devin Singletary (RB, NYG) · 596,421 adds · rostered by Make Miami Great Again
-- Demarcus Robinson (WR, SF) · 547,458 adds · AVAILABLE in my league
-- Audric Estime (RB, NO) · 344,439 adds · AVAILABLE in my league
-- Ryan Flournoy (WR, DAL) · 263,296 adds · AVAILABLE in my league
-- Alvin Kamara (RB, NO) · 180,352 adds · rostered by Team 9
-- New Orleans Saints (DEF, NO) · 178,170 adds · AVAILABLE in my league
-- Adonai Mitchell (WR, NYJ) · 169,208 adds · rostered by Holla
-- Carson Wentz (QB, MIN) · 117,690 adds · AVAILABLE in my league
-- Darius Cooper (WR, PHI) · 114,121 adds · AVAILABLE in my league
-- Gregory Desrosiers (RB, NYG) · 111,544 adds · AVAILABLE in my league
-- Cairo Santos (K, CHI) · 106,008 adds · AVAILABLE in my league
-- New York Giants (DEF, NYG) · 103,220 adds · rostered by Young Blood
-- Corey Kiner (RB, NE) · 98,004 adds · AVAILABLE in my league
-- Malik Willis (QB, MIA) · 96,460 adds · rostered by FuelTheJET
-- Omar Cooper Jr. (WR, NYJ) · 95,864 adds · on my roster
-- Detroit Lions (DEF, DET) · 84,924 adds · rostered by Drunk To Taste This CHX
-- Dylan Sampson (RB, CLE) · 76,545 adds · AVAILABLE in my league
-- Tank Dell (WR, HOU) · 70,048 adds · rostered by Thoroughbred Cheesehead
-- Khalil Herbert (RB, ATL) · 67,185 adds · AVAILABLE in my league
-- Kenny Gainwell (RB, TB) · 66,016 adds · rostered by Springfield Atoms
-- Jadarian Price (RB, SEA) · 65,106 adds · rostered by Strokin My Ditka
-- Jordan Addison (WR, MIN) · 63,909 adds · AVAILABLE in my league
-- Malik Washington (WR, MIA) · 63,848 adds · AVAILABLE in my league
-- Jordyn Tyson (WR, NO) [Questionable] · 57,600 adds · rostered by Make Miami Great Again
-- Shedeur Sanders (QB, CLE) · 53,208 adds · AVAILABLE in my league
+- Devin Singletary (RB, NYG) · 516,771 adds · rostered by Make Miami Great Again
+- Demarcus Robinson (WR, SF) · 481,950 adds · AVAILABLE in my league
+- Audric Estime (RB, NO) · 344,622 adds · AVAILABLE in my league
+- Ryan Flournoy (WR, DAL) · 267,840 adds · AVAILABLE in my league
+- Tank Dell (WR, HOU) · 231,480 adds · rostered by Thoroughbred Cheesehead
+- New Orleans Saints (DEF, NO) · 163,090 adds · AVAILABLE in my league
+- Alvin Kamara (RB, NO) · 156,328 adds · rostered by Team 9
+- Adonai Mitchell (WR, NYJ) · 149,624 adds · rostered by Holla
+- Corey Kiner (RB, NE) · 130,980 adds · AVAILABLE in my league
+- Carson Wentz (QB, MIN) · 119,856 adds · AVAILABLE in my league
+- Cairo Santos (K, CHI) · 107,023 adds · AVAILABLE in my league
+- Darius Cooper (WR, PHI) · 102,382 adds · AVAILABLE in my league
+- New York Giants (DEF, NYG) · 95,200 adds · rostered by Young Blood
+- Omar Cooper Jr. (WR, NYJ) · 91,288 adds · on my roster
+- Gregory Desrosiers (RB, NYG) · 88,544 adds · AVAILABLE in my league
+- Malik Willis (QB, MIA) · 87,423 adds · rostered by FuelTheJET
+- Kenny Gainwell (RB, TB) · 85,336 adds · rostered by Springfield Atoms
+- Detroit Lions (DEF, DET) · 77,985 adds · rostered by Drunk To Taste This CHX
+- Jadarian Price (RB, SEA) · 73,458 adds · rostered by Strokin My Ditka
+- Dylan Sampson (RB, CLE) · 70,335 adds · AVAILABLE in my league
+- Jordan Addison (WR, MIN) · 69,111 adds · AVAILABLE in my league
+- Jordan Watkins (WR, SF) · 64,548 adds · AVAILABLE in my league
+- Shedeur Sanders (QB, CLE) · 64,464 adds · AVAILABLE in my league
+- Malik Washington (WR, MIA) · 57,840 adds · AVAILABLE in my league
+- C.J. Stroud (QB, HOU) · 54,117 adds · rostered by Drunk To Taste This CHX
 
 Data from the Sleeper API (sleeper.com). Injury tags in brackets are Sleeper's designations and may lag official reports.
