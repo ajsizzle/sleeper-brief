@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-08T21:44:39.952055-05:00",
+  "generated": "2026-11-09T06:49:20.339834-05:00",
   "season": "2026",
   "week": 9,
   "league": {
@@ -771,8 +771,8 @@
       {
         "player": "Josh Allen (QB, BUF)",
         "slot": "QB",
-        "points": 26.6,
-        "rank": "QB6",
+        "points": 26.5,
+        "rank": "QB7",
         "scoring": "league"
       },
       {
@@ -1001,128 +1001,128 @@
   "trending_adds": [
     {
       "player": "Devin Singletary (RB, NYG)",
-      "adds": 516771,
+      "adds": 393012,
       "rostered_by": 7
     },
     {
+      "player": "Tank Dell (WR, HOU)",
+      "adds": 383616,
+      "rostered_by": 4
+    },
+    {
       "player": "Demarcus Robinson (WR, SF)",
-      "adds": 481950,
+      "adds": 379914,
       "rostered_by": null
     },
     {
       "player": "Audric Estime (RB, NO)",
-      "adds": 344622,
+      "adds": 317991,
       "rostered_by": null
     },
     {
       "player": "Ryan Flournoy (WR, DAL)",
-      "adds": 267840,
+      "adds": 268176,
       "rostered_by": null
     },
     {
-      "player": "Tank Dell (WR, HOU)",
-      "adds": 231480,
-      "rostered_by": 4
+      "player": "Corey Kiner (RB, NE)",
+      "adds": 159732,
+      "rostered_by": null
     },
     {
       "player": "New Orleans Saints (DEF, NO)",
-      "adds": 163090,
+      "adds": 132155,
       "rostered_by": null
     },
     {
       "player": "Alvin Kamara (RB, NO)",
-      "adds": 156328,
+      "adds": 124656,
       "rostered_by": 9
     },
     {
       "player": "Adonai Mitchell (WR, NYJ)",
-      "adds": 149624,
+      "adds": 118720,
       "rostered_by": 2
     },
     {
-      "player": "Corey Kiner (RB, NE)",
-      "adds": 130980,
-      "rostered_by": null
-    },
-    {
       "player": "Carson Wentz (QB, MIN)",
-      "adds": 119856,
+      "adds": 110778,
       "rostered_by": null
     },
     {
       "player": "Cairo Santos (K, CHI)",
-      "adds": 107023,
+      "adds": 94507,
       "rostered_by": null
     },
     {
       "player": "Darius Cooper (WR, PHI)",
-      "adds": 102382,
+      "adds": 83727,
       "rostered_by": null
-    },
-    {
-      "player": "New York Giants (DEF, NYG)",
-      "adds": 95200,
-      "rostered_by": 12
-    },
-    {
-      "player": "Omar Cooper Jr. (WR, NYJ)",
-      "adds": 91288,
-      "rostered_by": 11
-    },
-    {
-      "player": "Gregory Desrosiers (RB, NYG)",
-      "adds": 88544,
-      "rostered_by": null
-    },
-    {
-      "player": "Malik Willis (QB, MIA)",
-      "adds": 87423,
-      "rostered_by": 6
     },
     {
       "player": "Kenny Gainwell (RB, TB)",
-      "adds": 85336,
+      "adds": 82432,
       "rostered_by": 5
     },
     {
-      "player": "Detroit Lions (DEF, DET)",
-      "adds": 77985,
-      "rostered_by": 3
+      "player": "Omar Cooper Jr. (WR, NYJ)",
+      "adds": 80464,
+      "rostered_by": 11
     },
     {
-      "player": "Jadarian Price (RB, SEA)",
-      "adds": 73458,
-      "rostered_by": 10
-    },
-    {
-      "player": "Dylan Sampson (RB, CLE)",
-      "adds": 70335,
-      "rostered_by": null
-    },
-    {
-      "player": "Jordan Addison (WR, MIN)",
-      "adds": 69111,
-      "rostered_by": null
+      "player": "New York Giants (DEF, NYG)",
+      "adds": 77928,
+      "rostered_by": 12
     },
     {
       "player": "Jordan Watkins (WR, SF)",
-      "adds": 64548,
+      "adds": 74960,
       "rostered_by": null
     },
     {
-      "player": "Shedeur Sanders (QB, CLE)",
-      "adds": 64464,
-      "rostered_by": null
-    },
-    {
-      "player": "Malik Washington (WR, MIA)",
-      "adds": 57840,
+      "player": "Darren Waller (TE, CAR)",
+      "adds": 73755,
       "rostered_by": null
     },
     {
       "player": "C.J. Stroud (QB, HOU)",
-      "adds": 54117,
+      "adds": 73360,
       "rostered_by": 3
+    },
+    {
+      "player": "Jadarian Price (RB, SEA)",
+      "adds": 73305,
+      "rostered_by": 10
+    },
+    {
+      "player": "Malik Willis (QB, MIA)",
+      "adds": 70140,
+      "rostered_by": 6
+    },
+    {
+      "player": "Shedeur Sanders (QB, CLE)",
+      "adds": 69808,
+      "rostered_by": null
+    },
+    {
+      "player": "Jordan Addison (WR, MIN)",
+      "adds": 67356,
+      "rostered_by": null
+    },
+    {
+      "player": "Detroit Lions (DEF, DET)",
+      "adds": 63315,
+      "rostered_by": 3
+    },
+    {
+      "player": "Dylan Sampson (RB, CLE)",
+      "adds": 59270,
+      "rostered_by": null
+    },
+    {
+      "player": "Pat Bryant (WR, DEN) [Questionable]",
+      "adds": 59176,
+      "rostered_by": null
     }
   ]
 }

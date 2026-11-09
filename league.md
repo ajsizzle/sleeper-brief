@@ -1,5 +1,5 @@
 # Sleeper league state
-Generated Sunday November 08, 2026 09:44 PM ET · Season 2026 · NFL week 9
+Generated Monday November 09, 2026 06:49 AM ET · Season 2026 · NFL week 9
 League: The Dudes Will Roll · 12 teams · waivers: FAAB (budget $200) · lineup: QB, RB, RB, WR, WR, TE, FLEX, K, DEF
 
 ## My team: THE ACE OF SPADES (roster 11)
@@ -169,7 +169,7 @@ Sleeper's weekly projections (provider: rotowire), scored with this league's sco
 - BN: Mike Evans (WR, SF) [Out] · no projection (bye, out, or not projected)
 - BN: A.J. Brown (WR, NE) [Out] · no projection (bye, out, or not projected)
 ### Opponent's starters
-- QB: Josh Allen (QB, BUF) · 26.6 projected · QB6
+- QB: Josh Allen (QB, BUF) · 26.5 projected · QB7
 - RB: Rachaad White (RB, WAS) · 8.2 projected · RB27
 - RB: Woody Marks (RB, HOU) · 11.5 projected · RB17
 - WR: CeeDee Lamb (WR, DAL) · 14.3 projected · WR3
@@ -202,30 +202,30 @@ Sleeper's weekly projections (provider: rotowire), scored with this league's sco
 - San Francisco 49ers (DEF, SF) · 7.1 projected (Sleeper standard) · DEF12 · free agent now
 
 ## Trending adds across Sleeper, last 24 hours
-- Devin Singletary (RB, NYG) · 516,771 adds · rostered by Make Miami Great Again
-- Demarcus Robinson (WR, SF) · 481,950 adds · AVAILABLE in my league
-- Audric Estime (RB, NO) · 344,622 adds · AVAILABLE in my league
-- Ryan Flournoy (WR, DAL) · 267,840 adds · AVAILABLE in my league
-- Tank Dell (WR, HOU) · 231,480 adds · rostered by Thoroughbred Cheesehead
-- New Orleans Saints (DEF, NO) · 163,090 adds · AVAILABLE in my league
-- Alvin Kamara (RB, NO) · 156,328 adds · rostered by Team 9
-- Adonai Mitchell (WR, NYJ) · 149,624 adds · rostered by Holla
-- Corey Kiner (RB, NE) · 130,980 adds · AVAILABLE in my league
-- Carson Wentz (QB, MIN) · 119,856 adds · AVAILABLE in my league
-- Cairo Santos (K, CHI) · 107,023 adds · AVAILABLE in my league
-- Darius Cooper (WR, PHI) · 102,382 adds · AVAILABLE in my league
-- New York Giants (DEF, NYG) · 95,200 adds · rostered by Young Blood
-- Omar Cooper Jr. (WR, NYJ) · 91,288 adds · on my roster
-- Gregory Desrosiers (RB, NYG) · 88,544 adds · AVAILABLE in my league
-- Malik Willis (QB, MIA) · 87,423 adds · rostered by FuelTheJET
-- Kenny Gainwell (RB, TB) · 85,336 adds · rostered by Springfield Atoms
-- Detroit Lions (DEF, DET) · 77,985 adds · rostered by Drunk To Taste This CHX
-- Jadarian Price (RB, SEA) · 73,458 adds · rostered by Strokin My Ditka
-- Dylan Sampson (RB, CLE) · 70,335 adds · AVAILABLE in my league
-- Jordan Addison (WR, MIN) · 69,111 adds · AVAILABLE in my league
-- Jordan Watkins (WR, SF) · 64,548 adds · AVAILABLE in my league
-- Shedeur Sanders (QB, CLE) · 64,464 adds · AVAILABLE in my league
-- Malik Washington (WR, MIA) · 57,840 adds · AVAILABLE in my league
-- C.J. Stroud (QB, HOU) · 54,117 adds · rostered by Drunk To Taste This CHX
+- Devin Singletary (RB, NYG) · 393,012 adds · rostered by Make Miami Great Again
+- Tank Dell (WR, HOU) · 383,616 adds · rostered by Thoroughbred Cheesehead
+- Demarcus Robinson (WR, SF) · 379,914 adds · AVAILABLE in my league
+- Audric Estime (RB, NO) · 317,991 adds · AVAILABLE in my league
+- Ryan Flournoy (WR, DAL) · 268,176 adds · AVAILABLE in my league
+- Corey Kiner (RB, NE) · 159,732 adds · AVAILABLE in my league
+- New Orleans Saints (DEF, NO) · 132,155 adds · AVAILABLE in my league
+- Alvin Kamara (RB, NO) · 124,656 adds · rostered by Team 9
+- Adonai Mitchell (WR, NYJ) · 118,720 adds · rostered by Holla
+- Carson Wentz (QB, MIN) · 110,778 adds · AVAILABLE in my league
+- Cairo Santos (K, CHI) · 94,507 adds · AVAILABLE in my league
+- Darius Cooper (WR, PHI) · 83,727 adds · AVAILABLE in my league
+- Kenny Gainwell (RB, TB) · 82,432 adds · rostered by Springfield Atoms
+- Omar Cooper Jr. (WR, NYJ) · 80,464 adds · on my roster
+- New York Giants (DEF, NYG) · 77,928 adds · rostered by Young Blood
+- Jordan Watkins (WR, SF) · 74,960 adds · AVAILABLE in my league
+- Darren Waller (TE, CAR) · 73,755 adds · AVAILABLE in my league
+- C.J. Stroud (QB, HOU) · 73,360 adds · rostered by Drunk To Taste This CHX
+- Jadarian Price (RB, SEA) · 73,305 adds · rostered by Strokin My Ditka
+- Malik Willis (QB, MIA) · 70,140 adds · rostered by FuelTheJET
+- Shedeur Sanders (QB, CLE) · 69,808 adds · AVAILABLE in my league
+- Jordan Addison (WR, MIN) · 67,356 adds · AVAILABLE in my league
+- Detroit Lions (DEF, DET) · 63,315 adds · rostered by Drunk To Taste This CHX
+- Dylan Sampson (RB, CLE) · 59,270 adds · AVAILABLE in my league
+- Pat Bryant (WR, DEN) [Questionable] · 59,176 adds · AVAILABLE in my league
 
 Data from the Sleeper API (sleeper.com). Injury tags in brackets are Sleeper's designations and may lag official reports.
