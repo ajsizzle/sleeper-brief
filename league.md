@@ -1,5 +1,5 @@
 # Sleeper league state
-Generated Monday November 09, 2026 05:30 PM ET · Season 2026 · NFL week 9
+Generated Monday November 09, 2026 11:40 PM ET · Season 2026 · NFL week 9
 League: The Dudes Will Roll · 12 teams · waivers: FAAB (budget $200) · lineup: QB, RB, RB, WR, WR, TE, FLEX, K, DEF
 
 ## My team: THE ACE OF SPADES (roster 11)
@@ -181,7 +181,7 @@ Sleeper's weekly projections (provider: rotowire), scored with this league's sco
 ### Best available by projection (on no roster in my league)
 - Drew Lock (QB, SEA) [Questionable] · 23.0 projected · QB13
 - Michael Penix Jr. (QB, ATL) · 22.2 projected · QB16
-- Baker Mayfield (QB, TB) · 20.1 projected · QB20
+- Carson Wentz (QB, MIN) · 20.2 projected · QB20
 - Audric Estime (RB, NO) · 7.2 projected · RB35
 - Dylan Sampson (RB, CLE) · 6.1 projected · RB38
 - Austin Ekeler (RB, WAS) · 6.1 projected · RB39
@@ -202,30 +202,30 @@ Sleeper's weekly projections (provider: rotowire), scored with this league's sco
 - San Francisco 49ers (DEF, SF) · 7.1 projected (Sleeper standard) · DEF11 · free agent now
 
 ## Trending adds across Sleeper, last 24 hours
-- Tank Dell (WR, HOU) · 821,968 adds · rostered by Thoroughbred Cheesehead
-- Corey Kiner (RB, NE) · 242,826 adds · AVAILABLE in my league
-- Audric Estime (RB, NO) · 220,956 adds · AVAILABLE in my league
-- Darren Waller (TE, CAR) · 120,528 adds · AVAILABLE in my league
-- C.J. Stroud (QB, HOU) · 102,914 adds · rostered by Drunk To Taste This CHX
-- Konata Mumpfield (WR, LAR) · 92,844 adds · rostered by Drunk To Taste This CHX
-- Jordan Watkins (WR, SF) · 89,324 adds · AVAILABLE in my league
-- Pat Bryant (WR, DEN) · 70,560 adds · AVAILABLE in my league
-- Seth McGowan (RB, IND) · 62,688 adds · rostered by Thoroughbred Cheesehead
-- Shedeur Sanders (QB, CLE) · 58,416 adds · AVAILABLE in my league
-- Justice Hill (RB, BAL) · 55,422 adds · AVAILABLE in my league
-- Caleb Douglas (WR, MIA) · 52,400 adds · rostered by Thoroughbred Cheesehead
-- Carson Wentz (QB, MIN) · 51,234 adds · AVAILABLE in my league
-- Kenny Gainwell (RB, TB) · 48,528 adds · rostered by Springfield Atoms
-- Ryan Flournoy (WR, DAL) · 44,176 adds · AVAILABLE in my league
-- Devin Singletary (RB, NYG) · 41,400 adds · rostered by Make Miami Great Again
-- Ty Johnson (RB, BUF) · 40,818 adds · AVAILABLE in my league
-- Jadarian Price (RB, SEA) · 40,662 adds · rostered by Strokin My Ditka
-- Tampa Bay Buccaneers (DEF, TB) · 39,520 adds · rostered by Whiskey Sippin Kings
-- Jordan Addison (WR, MIN) · 36,729 adds · AVAILABLE in my league
-- Khalil Shakir (WR, BUF) · 32,481 adds · AVAILABLE in my league
-- Omar Cooper Jr. (WR, NYJ) · 32,264 adds · on my roster
-- KC Concepcion Jr. (WR, CLE) [Questionable] · 31,374 adds · rostered by Team 9
-- Bryce Young (QB, CAR) · 30,808 adds · rostered by Whiskey Sippin Kings
-- Pierre Strong Jr. (RB, GB) · 29,574 adds · AVAILABLE in my league
+- Tank Dell (WR, HOU) · 971,216 adds · rostered by Thoroughbred Cheesehead
+- Corey Kiner (RB, NE) · 488,064 adds · AVAILABLE in my league
+- Konata Mumpfield (WR, LAR) · 445,491 adds · rostered by Drunk To Taste This CHX
+- Audric Estime (RB, NO) · 228,951 adds · AVAILABLE in my league
+- Darren Waller (TE, CAR) · 144,549 adds · AVAILABLE in my league
+- Jordan Watkins (WR, SF) · 113,372 adds · AVAILABLE in my league
+- C.J. Stroud (QB, HOU) · 96,348 adds · rostered by Drunk To Taste This CHX
+- Pat Bryant (WR, DEN) · 88,960 adds · AVAILABLE in my league
+- Tutu Atwell (WR, LAR) · 83,209 adds · AVAILABLE in my league
+- Seth McGowan (RB, IND) · 78,984 adds · rostered by Thoroughbred Cheesehead
+- Caleb Douglas (WR, MIA) · 71,416 adds · rostered by Thoroughbred Cheesehead
+- Justice Hill (RB, BAL) · 59,058 adds · AVAILABLE in my league
+- Shedeur Sanders (QB, CLE) · 54,144 adds · AVAILABLE in my league
+- Ryan Flournoy (WR, DAL) · 51,376 adds · AVAILABLE in my league
+- Pierre Strong Jr. (RB, GB) · 49,617 adds · AVAILABLE in my league
+- Omar Cooper Jr. (WR, NYJ) · 40,840 adds · on my roster
+- Jacksonville Jaguars (DEF, JAX) · 40,512 adds · rostered by Thoroughbred Cheesehead
+- Carson Wentz (QB, MIN) · 39,114 adds · AVAILABLE in my league
+- Devin Singletary (RB, NYG) · 38,070 adds · rostered by Make Miami Great Again
+- Tampa Bay Buccaneers (DEF, TB) · 37,725 adds · rostered by Whiskey Sippin Kings
+- Jadarian Price (RB, SEA) · 35,235 adds · rostered by Strokin My Ditka
+- KC Concepcion Jr. (WR, CLE) [Questionable] · 32,769 adds · rostered by Team 9
+- Khalil Shakir (WR, BUF) · 32,634 adds · AVAILABLE in my league
+- DJ Uiagalelei (QB, LAC) · 32,247 adds · AVAILABLE in my league
+- Bryce Young (QB, CAR) · 31,544 adds · rostered by Whiskey Sippin Kings
 
 Data from the Sleeper API (sleeper.com). Injury tags in brackets are Sleeper's designations and may lag official reports.
