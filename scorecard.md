@@ -1,7 +1,7 @@
 # Scorecard: season to date
-Updated Wednesday November 11, 2026 02:50 AM ET. Rebuilt from Sleeper every run.
+Updated Wednesday November 11, 2026 08:13 AM ET. Rebuilt from Sleeper every run.
 
-Record 5-4 · 991.7 pts scored · 1058.3 optimal · lineup efficiency 93.7% · avg left on bench 7.4 · waiver claims won 16/25 · FAAB spent $200 · trades 2
+Record 5-4 · 991.7 pts scored · 1058.3 optimal · lineup efficiency 93.7% · avg left on bench 7.4 · waiver claims won 17/26 · FAAB spent $200 · trades 2
 
 | Week | Result | Me | Opponent | Optimal | Left on bench | Pts rank (of 12) | Waivers won/lost | Trades |
 |---|---|---|---|---|---|---|---|---|
@@ -13,6 +13,6 @@ Record 5-4 · 991.7 pts scored · 1058.3 optimal · lineup efficiency 93.7% · a
 | 6 | W vs Make Miami Great Again | 119.65 | 93.2 | 126.65 | 7.0 | 2 | 4/1 ($54) | 0 |
 | 7 | W vs Whiskey Sippin Kings | 110.05 | 68.65 | 121.85 | 11.8 | 6 | 2/0 ($5) | 0 |
 | 8 | L vs Team 8 | 100.45 | 110.9 | 121.35 | 20.9 | 8 | 1/1 ($23) | 2 |
-| 9 | W vs Springfield Atoms | 133.95 | 98.0 | 136.75 | 2.8 | 3 | 0/0 | 0 |
+| 9 | W vs Springfield Atoms | 133.95 | 98.0 | 136.75 | 2.8 | 3 | 1/0 ($0) | 0 |
 
 Left on bench is optimal minus actual: the cost of start/sit calls that week. Lineup efficiency is actual divided by optimal for the season. Points rank is where my score landed among all teams that week.
