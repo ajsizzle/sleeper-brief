@@ -1,5 +1,5 @@
 # Sleeper league state
-Generated Tuesday November 10, 2026 08:18 PM ET · Season 2026 · NFL week 10
+Generated Wednesday November 11, 2026 02:50 AM ET · Season 2026 · NFL week 10
 League: The Dudes Will Roll · 12 teams · waivers: FAAB (budget $200) · lineup: QB, RB, RB, WR, WR, TE, FLEX, K, DEF
 
 ## My team: THE ACE OF SPADES (roster 11)
@@ -122,11 +122,11 @@ IR: RJ Harvey (RB, DEN) [IR]
 ## Projections, week 10
 Sleeper's weekly projections (provider: rotowire), scored with this league's scoring settings. A model, not expert consensus. Per-game bonuses (100-yard games, long plays) are mostly not projected, so they are left out. K and DEF use Sleeper's standard scoring. Rank is among every projected player at the position.
 ### My roster
-- QB: Drake Maye (QB, NE) · 30.2 projected · QB4
+- QB: Drake Maye (QB, NE) · 30.0 projected · QB4
 - RB: Kenneth Walker III (RB, KC) · 18.3 projected · RB2
 - RB: Chase Brown (RB, CIN) · 9.1 projected · RB18
-- WR: Rashee Rice (WR, KC) · 9.5 projected · WR16
-- WR: Omar Cooper Jr. (WR, NYJ) · 6.2 projected · WR34
+- WR: Rashee Rice (WR, KC) · 9.5 projected · WR17
+- WR: Omar Cooper Jr. (WR, NYJ) · 6.3 projected · WR32
 - TE: George Kittle (TE, SF) · 10.7 projected · TE1
 - FLEX: A.J. Brown (WR, NE) [Out] · 9.2 projected · WR19
 - K: Jake Bates (K, DET) · 8.8 projected (Sleeper standard) · K5
@@ -134,67 +134,67 @@ Sleeper's weekly projections (provider: rotowire), scored with this league's sco
 - BN: Rome Odunze (WR, CHI) · no projection (bye, out, or not projected)
 - BN: Mike Washington Jr. (RB, LV) · 4.4 projected · RB50
 - BN: Emmett Johnson (RB, KC) · 5.1 projected · RB43
-- BN: Keenan Allen (WR, SF) · 3.7 projected · WR60
+- BN: Keenan Allen (WR, SF) · 3.7 projected · WR61
 - BN: Mike Evans (WR, SF) [Out] · no projection (bye, out, or not projected)
 - BN: Saquon Barkley (RB, PHI) · no projection (bye, out, or not projected)
 ### Opponent's starters
 - QB: Joe Burrow (QB, CIN) · 30.6 projected · QB2
-- RB: James Cook III (RB, BUF) · 13.8 projected · RB12
-- RB: Rico Dowdle (RB, PIT) · 7.8 projected · RB26
+- RB: James Cook III (RB, BUF) · 13.7 projected · RB12
+- RB: Rico Dowdle (RB, PIT) · 7.8 projected · RB24
 - WR: Amon-Ra St. Brown (WR, DET) · 12.4 projected · WR4
-- WR: Christian Watson (WR, GB) · 11.9 projected · WR6
-- TE: Dalton Kincaid (TE, BUF) · 6.9 projected · TE10
+- WR: Christian Watson (WR, GB) · 12.1 projected · WR5
+- TE: Dalton Kincaid (TE, BUF) · 6.5 projected · TE11
 - FLEX: Deebo Samuel Sr. (WR, SF) [Out] · 6.9 projected · WR28
 - K: Trey Smack (K, GB) · 8.0 projected (Sleeper standard) · K15
 - DEF: Jacksonville Jaguars (DEF, JAX) · 8.8 projected (Sleeper standard) · DEF1
 ### Best available by projection (on no roster in my league)
-- J.J. McCarthy (QB, NYG) [Questionable] · 21.8 projected · QB16
+- J.J. McCarthy (QB, NYG) [Questionable] · 21.9 projected · QB17
 - Drew Lock (QB, SEA) [Questionable] · 21.3 projected · QB18
-- Michael Penix Jr. (QB, ATL) · 19.7 projected · QB19
-- Corey Kiner (RB, NE) · 7.7 projected · RB28
+- Michael Penix Jr. (QB, ATL) · 19.6 projected · QB19
+- Corey Kiner (RB, NE) · 7.7 projected · RB26
+- Audric Estime (RB, NO) · 7.0 projected · RB32
 - Austin Ekeler (RB, WAS) · 6.8 projected · RB34
 - Zonovan Knight (RB, ARI) [Out] · 6.6 projected · RB35
-- Kaleb Johnson (RB, GB) · 6.1 projected · RB37
-- Kimani Vidal (RB, LAC) · 5.6 projected · RB39
+- Kaleb Johnson (RB, GB) · 6.0 projected · RB38
 - Khalil Shakir (WR, BUF) · 6.5 projected · WR29
 - Demarcus Robinson (WR, SF) · 6.4 projected · WR31
-- Malik Washington (WR, MIA) · 5.9 projected · WR37
-- Jordan Addison (WR, MIN) · 5.9 projected · WR38
-- Ryan Flournoy (WR, DAL) · 5.5 projected · WR41
-- Hunter Henry (TE, NE) · 6.2 projected · TE15
+- Malik Washington (WR, MIA) · 6.0 projected · WR37
+- Jordan Addison (WR, MIN) · 5.8 projected · WR39
+- DeMario Douglas (WR, NE) · 5.7 projected · WR40
+- Hunter Henry (TE, NE) · 6.1 projected · TE15
 - Darren Waller (TE, CAR) · 5.4 projected · TE17
-- Tyler Higbee (TE, LAR) · 5.3 projected · TE19
+- Tyler Higbee (TE, LAR) · 5.3 projected · TE18
 - Dominic Zvada (K, NYG) · 8.7 projected (Sleeper standard) · K7
 - Ryan Fitzgerald (K, CAR) · 8.3 projected (Sleeper standard) · K10
 - Baltimore Ravens (DEF, BAL) · 8.4 projected (Sleeper standard) · DEF3
 - Indianapolis Colts (DEF, IND) · 8.0 projected (Sleeper standard) · DEF6
-- Green Bay Packers (DEF, GB) · 7.9 projected (Sleeper standard) · DEF7
+- Green Bay Packers (DEF, GB) · 7.8 projected (Sleeper standard) · DEF7
 
 ## Trending adds across Sleeper, last 24 hours
-- Corey Kiner (RB, NE) · 2,762,268 adds · AVAILABLE in my league
-- Tank Dell (WR, HOU) · 2,156,496 adds · rostered by Thoroughbred Cheesehead
-- Konata Mumpfield (WR, LAR) · 1,884,204 adds · rostered by Drunk To Taste This CHX
-- Fernando Mendoza (QB, LV) · 717,544 adds · AVAILABLE in my league
-- Darren Waller (TE, CAR) · 669,024 adds · AVAILABLE in my league
-- Audric Estime (RB, NO) · 560,916 adds · AVAILABLE in my league
-- Tutu Atwell (WR, LAR) · 490,987 adds · AVAILABLE in my league
-- Baltimore Ravens (DEF, BAL) · 387,006 adds · AVAILABLE in my league
-- Kyle McCord (QB, MIA) · 331,272 adds · AVAILABLE in my league
-- Pierre Strong Jr. (RB, GB) · 319,203 adds · AVAILABLE in my league
-- Jordan Watkins (WR, SF) · 285,524 adds · AVAILABLE in my league
-- Justice Hill (RB, BAL) · 280,449 adds · AVAILABLE in my league
-- Tyler Higbee (TE, LAR) · 248,193 adds · AVAILABLE in my league
-- C.J. Stroud (QB, HOU) · 219,184 adds · rostered by Drunk To Taste This CHX
-- Pat Bryant (WR, DEN) · 205,024 adds · AVAILABLE in my league
-- Aaron Rodgers (QB, PIT) · 203,060 adds · rostered by Holla
-- Jake Bates (K, DET) · 199,368 adds · on my roster
-- Jacksonville Jaguars (DEF, JAX) · 198,072 adds · rostered by Thoroughbred Cheesehead
-- Demarcus Robinson (WR, SF) · 196,746 adds · AVAILABLE in my league
-- Caleb Douglas (WR, MIA) · 194,440 adds · rostered by Thoroughbred Cheesehead
-- Green Bay Packers (DEF, GB) · 183,596 adds · AVAILABLE in my league
-- Josh Downs (WR, KC) · 178,390 adds · rostered by Drunk To Taste This CHX
-- Tyler Shough (QB, NO) · 168,176 adds · rostered by Whiskey Sippin Kings
-- Bryce Young (QB, CAR) · 155,464 adds · rostered by Whiskey Sippin Kings
-- Jordyn Tyson (WR, NO) · 145,016 adds · rostered by Make Miami Great Again
+- Corey Kiner (RB, NE) · 3,751,482 adds · AVAILABLE in my league
+- Tank Dell (WR, HOU) · 2,477,576 adds · rostered by Thoroughbred Cheesehead
+- Konata Mumpfield (WR, LAR) · 2,340,189 adds · rostered by Drunk To Taste This CHX
+- Fernando Mendoza (QB, LV) · 1,036,888 adds · AVAILABLE in my league
+- Audric Estime (RB, NO) · 872,544 adds · AVAILABLE in my league
+- Darren Waller (TE, CAR) · 846,342 adds · AVAILABLE in my league
+- Tutu Atwell (WR, LAR) · 789,334 adds · AVAILABLE in my league
+- Kyle McCord (QB, MIA) · 648,472 adds · AVAILABLE in my league
+- Baltimore Ravens (DEF, BAL) · 506,250 adds · AVAILABLE in my league
+- Pierre Strong Jr. (RB, GB) · 449,172 adds · AVAILABLE in my league
+- Tyler Higbee (TE, LAR) · 355,428 adds · AVAILABLE in my league
+- Justice Hill (RB, BAL) · 316,656 adds · AVAILABLE in my league
+- Jordan Watkins (WR, SF) · 310,116 adds · AVAILABLE in my league
+- Ashton Dulin (WR, IND) · 308,178 adds · AVAILABLE in my league
+- Aaron Rodgers (QB, PIT) · 258,568 adds · rostered by Holla
+- Pat Bryant (WR, DEN) · 254,840 adds · AVAILABLE in my league
+- Demarcus Robinson (WR, SF) · 254,334 adds · AVAILABLE in my league
+- Jake Bates (K, DET) · 238,448 adds · on my roster
+- C.J. Stroud (QB, HOU) · 237,370 adds · rostered by Drunk To Taste This CHX
+- Josh Downs (WR, KC) · 236,025 adds · rostered by Drunk To Taste This CHX
+- Jacksonville Jaguars (DEF, JAX) · 220,698 adds · rostered by Thoroughbred Cheesehead
+- Caleb Douglas (WR, MIA) · 210,576 adds · rostered by Thoroughbred Cheesehead
+- Green Bay Packers (DEF, GB) · 205,552 adds · AVAILABLE in my league
+- Tyler Shough (QB, NO) · 197,896 adds · rostered by Whiskey Sippin Kings
+- Bryce Young (QB, CAR) · 183,376 adds · rostered by Whiskey Sippin Kings
 
 Data from the Sleeper API (sleeper.com). Injury tags in brackets are Sleeper's designations and may lag official reports.
