@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T22:54:41.850836-05:00",
+  "generated": "2026-11-12T07:55:59.692717-05:00",
   "season": "2026",
   "week": 10,
   "league": {
@@ -36,17 +36,17 @@
       "Rashee Rice (WR, KC)",
       "Omar Cooper Jr. (WR, NYJ) [Questionable]",
       "George Kittle (TE, SF)",
-      "A.J. Brown (WR, NE) [Questionable]",
+      "Audric Estime (RB, NO)",
       "Jake Bates (K, DET)",
       "Houston Texans (DEF, HOU)"
     ],
     "bench": [
-      "Audric Estime (RB, NO)",
+      "J.J. McCarthy (QB, NYG)",
       "Rome Odunze (WR, CHI)",
       "Emmett Johnson (RB, KC)",
-      "Keenan Allen (WR, SF)",
       "Mike Evans (WR, SF) [Questionable]",
-      "Saquon Barkley (RB, PHI)"
+      "Saquon Barkley (RB, PHI)",
+      "A.J. Brown (WR, NE) [Questionable]"
     ],
     "ir": []
   },
@@ -203,17 +203,17 @@
         "Rashee Rice (WR, KC)",
         "Omar Cooper Jr. (WR, NYJ) [Questionable]",
         "George Kittle (TE, SF)",
-        "A.J. Brown (WR, NE) [Questionable]",
+        "Audric Estime (RB, NO)",
         "Jake Bates (K, DET)",
         "Houston Texans (DEF, HOU)"
       ],
       "bench": [
-        "Audric Estime (RB, NO)",
+        "J.J. McCarthy (QB, NYG)",
         "Rome Odunze (WR, CHI)",
         "Emmett Johnson (RB, KC)",
-        "Keenan Allen (WR, SF)",
         "Mike Evans (WR, SF) [Questionable]",
-        "Saquon Barkley (RB, PHI)"
+        "Saquon Barkley (RB, PHI)",
+        "A.J. Brown (WR, NE) [Questionable]"
       ],
       "ir": []
     },
@@ -480,6 +480,7 @@
     }
   ],
   "transactions": [
+    "Week 10 \u00b7 free_agent \u00b7 complete \u00b7 Thu Nov 12 07:05 AM \u00b7 THE ACE OF SPADES \u00b7 added: J.J. McCarthy (QB, NYG) to THE ACE OF SPADES \u00b7 dropped: Keenan Allen (WR, SF) from THE ACE OF SPADES",
     "Week 10 \u00b7 free_agent \u00b7 complete \u00b7 Wed Nov 11 01:22 PM \u00b7 Springfield Atoms \u00b7 added: Green Bay Packers (DEF, GB) to Springfield Atoms \u00b7 dropped: Xavier Worthy (WR, KC) from Springfield Atoms",
     "Week 10 \u00b7 free_agent \u00b7 complete \u00b7 Wed Nov 11 01:14 PM \u00b7 Young Blood \u00b7 added: Ka'imi Fairbairn (K, HOU) to Young Blood",
     "Week 10 \u00b7 free_agent \u00b7 complete \u00b7 Wed Nov 11 01:02 PM \u00b7 Young Blood \u00b7 added: Hunter Henry (TE, NE) [Questionable] to Young Blood \u00b7 dropped: Michael Mayer (TE, LV) from Young Blood",
@@ -502,6 +503,13 @@
     "Week 9 \u00b7 free_agent \u00b7 complete \u00b7 Wed Nov 04 09:19 AM \u00b7 Drunk To Taste This CHX \u00b7 added: Detroit Lions (DEF, DET) to Drunk To Taste This CHX \u00b7 dropped: Travis Hunter (WR, JAX) from Drunk To Taste This CHX"
   ],
   "dropped_unrostered": [
+    {
+      "player": "Keenan Allen (WR, SF)",
+      "dropped_by": "THE ACE OF SPADES",
+      "dropped_at": "2026-11-12T07:05:50.375000-05:00",
+      "on_waivers_until": "2026-11-14T07:05:50.375000-05:00",
+      "waiver_status": "on waivers until Sat Nov 14, 7:05 AM ET"
+    },
     {
       "player": "Xavier Worthy (WR, KC)",
       "dropped_by": "Springfield Atoms",
@@ -652,7 +660,7 @@
         "player": "Omar Cooper Jr. (WR, NYJ) [Questionable]",
         "slot": "WR",
         "points": 6.3,
-        "rank": "WR32",
+        "rank": "WR31",
         "scoring": "league"
       },
       {
@@ -663,10 +671,10 @@
         "scoring": "league"
       },
       {
-        "player": "A.J. Brown (WR, NE) [Questionable]",
+        "player": "Audric Estime (RB, NO)",
         "slot": "FLEX",
-        "points": 9.6,
-        "rank": "WR16",
+        "points": 7.0,
+        "rank": "RB32",
         "scoring": "league"
       },
       {
@@ -684,10 +692,10 @@
         "scoring": "std"
       },
       {
-        "player": "Audric Estime (RB, NO)",
+        "player": "J.J. McCarthy (QB, NYG)",
         "slot": "BN",
-        "points": 7.0,
-        "rank": "RB32",
+        "points": 21.8,
+        "rank": "QB17",
         "scoring": "league"
       },
       {
@@ -704,13 +712,6 @@
         "scoring": "league"
       },
       {
-        "player": "Keenan Allen (WR, SF)",
-        "slot": "BN",
-        "points": 3.7,
-        "rank": "WR61",
-        "scoring": "league"
-      },
-      {
         "player": "Mike Evans (WR, SF) [Questionable]",
         "slot": "BN",
         "points": null,
@@ -721,6 +722,13 @@
         "slot": "BN",
         "points": null,
         "rank": null
+      },
+      {
+        "player": "A.J. Brown (WR, NE) [Questionable]",
+        "slot": "BN",
+        "points": 9.6,
+        "rank": "WR16",
+        "scoring": "league"
       }
     ],
     "opponent": [
@@ -763,7 +771,7 @@
         "player": "Dalton Kincaid (TE, BUF) [Questionable]",
         "slot": "TE",
         "points": 6.5,
-        "rank": "TE13",
+        "rank": "TE12",
         "scoring": "league"
       },
       {
@@ -791,13 +799,6 @@
     "best_available": {
       "QB": [
         {
-          "player": "J.J. McCarthy (QB, NYG)",
-          "slot": null,
-          "points": 21.8,
-          "rank": "QB17",
-          "scoring": "league"
-        },
-        {
           "player": "Drew Lock (QB, SEA) [Questionable]",
           "slot": null,
           "points": 21.3,
@@ -810,6 +811,13 @@
           "points": 20.0,
           "rank": "QB19",
           "scoring": "league"
+        },
+        {
+          "player": "Justin Herbert (QB, LAC) [Questionable]",
+          "slot": null,
+          "points": 17.8,
+          "rank": "QB22",
+          "scoring": "league"
         }
       ],
       "RB": [
@@ -817,14 +825,14 @@
           "player": "Corey Kiner (RB, NE)",
           "slot": null,
           "points": 10.1,
-          "rank": "RB17",
+          "rank": "RB18",
           "scoring": "league"
         },
         {
           "player": "Austin Ekeler (RB, WAS)",
           "slot": null,
-          "points": 6.9,
-          "rank": "RB33",
+          "points": 6.8,
+          "rank": "RB34",
           "scoring": "league"
         },
         {
@@ -861,7 +869,7 @@
           "player": "Demarcus Robinson (WR, SF)",
           "slot": null,
           "points": 6.4,
-          "rank": "WR31",
+          "rank": "WR30",
           "scoring": "league"
         },
         {
@@ -954,128 +962,128 @@
   "trending_adds": [
     {
       "player": "Corey Kiner (RB, NE)",
-      "adds": 1683750,
+      "adds": 716352,
       "rostered_by": null
     },
     {
       "player": "Konata Mumpfield (WR, LAR)",
-      "adds": 1328067,
+      "adds": 707445,
       "rostered_by": 3
     },
     {
-      "player": "Tank Dell (WR, HOU) [Questionable]",
-      "adds": 883944,
-      "rostered_by": 4
-    },
-    {
       "player": "Tutu Atwell (WR, LAR)",
-      "adds": 866579,
+      "adds": 565145,
       "rostered_by": 12
     },
     {
       "player": "Darren Waller (TE, CAR)",
-      "adds": 665028,
+      "adds": 439515,
       "rostered_by": 9
     },
     {
-      "player": "Audric Estime (RB, NO)",
-      "adds": 602577,
-      "rostered_by": 11
-    },
-    {
       "player": "Fernando Mendoza (QB, LV)",
-      "adds": 541528,
+      "adds": 313296,
       "rostered_by": null
     },
     {
       "player": "Ashton Dulin (WR, IND)",
-      "adds": 480375,
+      "adds": 299799,
       "rostered_by": null
     },
     {
-      "player": "Baltimore Ravens (DEF, BAL)",
-      "adds": 400050,
-      "rostered_by": null
-    },
-    {
-      "player": "Kyle McCord (QB, MIA)",
-      "adds": 388460,
-      "rostered_by": null
+      "player": "Tank Dell (WR, HOU) [Questionable]",
+      "adds": 299456,
+      "rostered_by": 4
     },
     {
       "player": "Indianapolis Colts (DEF, IND)",
-      "adds": 354024,
+      "adds": 281157,
       "rostered_by": 12
     },
     {
-      "player": "Pierre Strong Jr. (RB, GB)",
-      "adds": 315873,
-      "rostered_by": null
-    },
-    {
-      "player": "Jake Bates (K, DET)",
-      "adds": 311152,
+      "player": "Audric Estime (RB, NO)",
+      "adds": 268938,
       "rostered_by": 11
     },
     {
-      "player": "Tyler Higbee (TE, LAR)",
-      "adds": 304317,
+      "player": "Jake Bates (K, DET)",
+      "adds": 246952,
+      "rostered_by": 11
+    },
+    {
+      "player": "Baltimore Ravens (DEF, BAL)",
+      "adds": 243711,
       "rostered_by": null
     },
     {
       "player": "Justice Hill (RB, BAL)",
-      "adds": 281115,
+      "adds": 221571,
       "rostered_by": null
     },
     {
       "player": "Demarcus Robinson (WR, SF)",
-      "adds": 251238,
+      "adds": 199782,
       "rostered_by": null
     },
     {
-      "player": "Aaron Rodgers (QB, PIT)",
-      "adds": 216004,
-      "rostered_by": 2
+      "player": "Tyler Higbee (TE, LAR)",
+      "adds": 193635,
+      "rostered_by": null
     },
     {
       "player": "Tyler Bass (K, BUF)",
-      "adds": 215970,
+      "adds": 168545,
       "rostered_by": 8
     },
     {
-      "player": "Jordan Addison (WR, MIN)",
-      "adds": 208683,
+      "player": "Pierre Strong Jr. (RB, GB)",
+      "adds": 168057,
+      "rostered_by": null
+    },
+    {
+      "player": "Kyle McCord (QB, MIA)",
+      "adds": 164132,
       "rostered_by": null
     },
     {
       "player": "Khalil Shakir (WR, BUF)",
-      "adds": 193032,
+      "adds": 160515,
       "rostered_by": null
     },
     {
-      "player": "Pat Bryant (WR, DEN)",
-      "adds": 157672,
+      "player": "Aaron Rodgers (QB, PIT)",
+      "adds": 153008,
+      "rostered_by": 2
+    },
+    {
+      "player": "Jordan Addison (WR, MIN)",
+      "adds": 148752,
       "rostered_by": null
     },
     {
       "player": "Jason Sanders (K, NYJ)",
-      "adds": 152640,
+      "adds": 125300,
+      "rostered_by": null
+    },
+    {
+      "player": "Chris Rodriguez Jr. (RB, JAX) [Questionable]",
+      "adds": 108882,
+      "rostered_by": 9
+    },
+    {
+      "player": "New York Giants (DEF, NYG)",
+      "adds": 102080,
       "rostered_by": null
     },
     {
       "player": "Laquon Treadwell (WR, IND)",
-      "adds": 148670,
+      "adds": 95700,
       "rostered_by": null
     },
     {
       "player": "C.J. Stroud (QB, HOU)",
-      "adds": 145698,
+      "adds": 94640,
       "rostered_by": 3
-    },
-    {
-      "player": "Chris Rodriguez Jr. (RB, JAX) [Questionable]",
-      "adds": 137817,
-      "rostered_by": 9
     }
   ]
 }
