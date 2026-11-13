@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-13T04:43:15.010100-05:00",
+  "generated": "2026-11-13T12:52:15.622586-05:00",
   "season": "2026",
   "week": 10,
   "league": {
@@ -263,7 +263,7 @@
       "waiver_position": 4,
       "faab_used": 40,
       "starters": [
-        "Geno Smith (QB, NYJ)",
+        "C.J. Stroud (QB, HOU)",
         "Derrick Henry (RB, BAL)",
         "Kyren Williams (RB, LAR)",
         "Jameson Williams (WR, DET)",
@@ -277,8 +277,8 @@
         "Ladd McConkey (WR, LAC) [Questionable]",
         "Konata Mumpfield (WR, LAR)",
         "Carnell Tate (WR, TEN) [Questionable]",
+        "Geno Smith (QB, NYJ)",
         "Josh Downs (WR, KC)",
-        "C.J. Stroud (QB, HOU)",
         "Los Angeles Rams (DEF, LAR)"
       ],
       "ir": []
@@ -593,15 +593,15 @@
       "player": "Colston Loveland (TE, CHI)",
       "dropped_by": "Team 9",
       "dropped_at": "2026-11-11T12:30:13.674000-05:00",
-      "on_waivers_until": "2026-11-13T12:30:13.674000-05:00",
-      "waiver_status": "on waivers until Fri Nov 13, 12:30 PM ET"
+      "on_waivers_until": null,
+      "waiver_status": "free agent now"
     },
     {
       "player": "Malik Willis (QB, MIA) [IR]",
       "dropped_by": "FuelTheJET",
       "dropped_at": "2026-11-11T07:29:53.179000-05:00",
-      "on_waivers_until": "2026-11-13T07:29:53.179000-05:00",
-      "waiver_status": "on waivers until Fri Nov 13, 7:29 AM ET"
+      "on_waivers_until": null,
+      "waiver_status": "free agent now"
     },
     {
       "player": "Mike Washington Jr. (RB, LV)",
@@ -689,7 +689,7 @@
       {
         "player": "Kenneth Walker III (RB, KC)",
         "slot": "RB",
-        "points": 17.4,
+        "points": 18.0,
         "rank": "RB3",
         "scoring": "league"
       },
@@ -710,8 +710,8 @@
       {
         "player": "Omar Cooper Jr. (WR, NYJ) [Questionable]",
         "slot": "WR",
-        "points": 5.9,
-        "rank": "WR34",
+        "points": 5.8,
+        "rank": "WR36",
         "scoring": "league"
       },
       {
@@ -758,8 +758,8 @@
       {
         "player": "Emmett Johnson (RB, KC)",
         "slot": "BN",
-        "points": 5.4,
-        "rank": "RB41",
+        "points": 5.0,
+        "rank": "RB46",
         "scoring": "league"
       },
       {
@@ -793,14 +793,14 @@
       {
         "player": "James Cook III (RB, BUF)",
         "slot": "RB",
-        "points": 15.3,
+        "points": 16.0,
         "rank": "RB5",
         "scoring": "league"
       },
       {
         "player": "Rico Dowdle (RB, PIT)",
         "slot": "RB",
-        "points": 7.8,
+        "points": 7.9,
         "rank": "RB25",
         "scoring": "league"
       },
@@ -821,15 +821,15 @@
       {
         "player": "Dalton Kincaid (TE, BUF) [Questionable]",
         "slot": "TE",
-        "points": 6.5,
-        "rank": "TE10",
+        "points": 6.3,
+        "rank": "TE11",
         "scoring": "league"
       },
       {
         "player": "Deebo Samuel Sr. (WR, SF) [Questionable]",
         "slot": "FLEX",
         "points": 6.7,
-        "rank": "WR28",
+        "rank": "WR26",
         "scoring": "league"
       },
       {
@@ -880,16 +880,16 @@
           "scoring": "league"
         },
         {
-          "player": "Zonovan Knight (RB, ARI) [Questionable]",
+          "player": "Kaleb Johnson (RB, GB)",
           "slot": null,
-          "points": 6.6,
+          "points": 6.7,
           "rank": "RB35",
           "scoring": "league"
         },
         {
-          "player": "Kaleb Johnson (RB, GB)",
+          "player": "Zonovan Knight (RB, ARI) [Questionable]",
           "slot": null,
-          "points": 6.5,
+          "points": 6.6,
           "rank": "RB36",
           "scoring": "league"
         },
@@ -904,7 +904,7 @@
           "player": "Dylan Sampson (RB, CLE)",
           "slot": null,
           "points": 5.4,
-          "rank": "RB42",
+          "rank": "RB41",
           "scoring": "league"
         }
       ],
@@ -912,7 +912,7 @@
         {
           "player": "Khalil Shakir (WR, BUF)",
           "slot": null,
-          "points": 6.7,
+          "points": 6.6,
           "rank": "WR27",
           "scoring": "league"
         },
@@ -921,6 +921,13 @@
           "slot": null,
           "points": 6.3,
           "rank": "WR31",
+          "scoring": "league"
+        },
+        {
+          "player": "Elic Ayomanor (WR, TEN)",
+          "slot": null,
+          "points": 6.2,
+          "rank": "WR33",
           "scoring": "league"
         },
         {
@@ -935,13 +942,6 @@
           "slot": null,
           "points": 5.6,
           "rank": "WR38",
-          "scoring": "league"
-        },
-        {
-          "player": "Ryan Flournoy (WR, DAL)",
-          "slot": null,
-          "points": 5.5,
-          "rank": "WR39",
           "scoring": "league"
         }
       ],
@@ -1014,128 +1014,128 @@
   },
   "trending_adds": [
     {
+      "player": "Darren Waller (TE, CAR)",
+      "adds": 458370,
+      "rostered_by": 9
+    },
+    {
       "player": "Konata Mumpfield (WR, LAR)",
-      "adds": 484974,
+      "adds": 418896,
       "rostered_by": 3
     },
     {
-      "player": "Darren Waller (TE, CAR)",
-      "adds": 477846,
-      "rostered_by": 9
+      "player": "Tutu Atwell (WR, LAR)",
+      "adds": 334670,
+      "rostered_by": 12
     },
     {
       "player": "Corey Kiner (RB, NE)",
-      "adds": 399042,
+      "adds": 312864,
       "rostered_by": 4
     },
     {
-      "player": "Tutu Atwell (WR, LAR)",
-      "adds": 384286,
-      "rostered_by": 12
-    },
-    {
       "player": "Justice Hill (RB, BAL)",
-      "adds": 302346,
+      "adds": 290511,
       "rostered_by": 7
     },
     {
-      "player": "Indianapolis Colts (DEF, IND)",
-      "adds": 256044,
-      "rostered_by": 12
-    },
-    {
       "player": "Chris Rodriguez Jr. (RB, JAX) [Questionable]",
-      "adds": 215865,
+      "adds": 226152,
       "rostered_by": 9
     },
     {
+      "player": "Indianapolis Colts (DEF, IND)",
+      "adds": 216426,
+      "rostered_by": 12
+    },
+    {
       "player": "Ashton Dulin (WR, IND)",
-      "adds": 214677,
-      "rostered_by": null
-    },
-    {
-      "player": "Jake Bates (K, DET)",
-      "adds": 189080,
-      "rostered_by": 11
-    },
-    {
-      "player": "Fernando Mendoza (QB, LV)",
-      "adds": 179840,
+      "adds": 178893,
       "rostered_by": null
     },
     {
       "player": "Khalil Shakir (WR, BUF)",
-      "adds": 169227,
+      "adds": 162108,
+      "rostered_by": null
+    },
+    {
+      "player": "Jake Bates (K, DET)",
+      "adds": 157704,
+      "rostered_by": 11
+    },
+    {
+      "player": "Fernando Mendoza (QB, LV)",
+      "adds": 150936,
+      "rostered_by": null
+    },
+    {
+      "player": "Jordan Addison (WR, MIN)",
+      "adds": 146907,
       "rostered_by": null
     },
     {
       "player": "Tyler Bass (K, BUF)",
-      "adds": 156770,
+      "adds": 135700,
       "rostered_by": 8
     },
     {
-      "player": "Jordan Addison (WR, MIN)",
-      "adds": 155943,
+      "player": "Jason Sanders (K, NYJ)",
+      "adds": 112630,
       "rostered_by": null
     },
     {
-      "player": "Jason Sanders (K, NYJ)",
-      "adds": 127065,
+      "player": "Mack Hollins (WR, NE)",
+      "adds": 102531,
       "rostered_by": null
+    },
+    {
+      "player": "Caleb Douglas (WR, MIA)",
+      "adds": 100048,
+      "rostered_by": 4
     },
     {
       "player": "Audric Estime (RB, NO)",
-      "adds": 126258,
+      "adds": 100035,
       "rostered_by": 11
     },
     {
       "player": "Tyler Higbee (TE, LAR) [Questionable]",
-      "adds": 122022,
+      "adds": 99603,
       "rostered_by": null
-    },
-    {
-      "player": "New York Giants (DEF, NYG)",
-      "adds": 121372,
-      "rostered_by": null
-    },
-    {
-      "player": "Baltimore Ravens (DEF, BAL)",
-      "adds": 112113,
-      "rostered_by": 2
     },
     {
       "player": "Tank Dell (WR, HOU)",
-      "adds": 111016,
+      "adds": 99192,
       "rostered_by": 4
     },
     {
-      "player": "Mack Hollins (WR, NE)",
-      "adds": 110043,
+      "player": "New York Giants (DEF, NYG)",
+      "adds": 91264,
       "rostered_by": null
     },
     {
       "player": "Aaron Rodgers (QB, PIT)",
-      "adds": 107920,
+      "adds": 91040,
       "rostered_by": 2
     },
     {
-      "player": "Austin Ekeler (RB, WAS)",
-      "adds": 94448,
-      "rostered_by": null
+      "player": "Baltimore Ravens (DEF, BAL)",
+      "adds": 90624,
+      "rostered_by": 2
     },
     {
       "player": "KC Concepcion Jr. (WR, CLE)",
-      "adds": 93042,
+      "adds": 83817,
       "rostered_by": 9
     },
     {
-      "player": "Caleb Douglas (WR, MIA)",
-      "adds": 91328,
-      "rostered_by": 4
+      "player": "Austin Ekeler (RB, WAS)",
+      "adds": 76616,
+      "rostered_by": null
     },
     {
       "player": "Brenton Strange (TE, JAX)",
-      "adds": 87723,
+      "adds": 75834,
       "rostered_by": null
     }
   ]
