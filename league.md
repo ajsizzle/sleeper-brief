@@ -1,5 +1,5 @@
 # Sleeper league state
-Generated Saturday November 14, 2026 02:17 PM ET · Season 2026 · NFL week 10
+Generated Saturday November 14, 2026 06:09 PM ET · Season 2026 · NFL week 10
 League: The Dudes Will Roll · 12 teams · waivers: FAAB (budget $200) · lineup: QB, RB, RB, WR, WR, TE, FLEX, K, DEF
 
 ## My team: THE ACE OF SPADES (roster 11)
@@ -155,12 +155,12 @@ IR: RJ Harvey (RB, DEN) [IR]
 Sleeper's weekly projections (provider: rotowire), scored with this league's scoring settings. A model, not expert consensus. Per-game bonuses (100-yard games, long plays) are mostly not projected, so they are left out. K and DEF use Sleeper's standard scoring. Rank is among every projected player at the position.
 ### My roster
 - QB: Drake Maye (QB, NE) · 29.5 projected · QB4
-- RB: Emmett Johnson (RB, KC) · 14.5 projected · RB6
+- RB: Emmett Johnson (RB, KC) · 13.5 projected · RB11
 - RB: Chase Brown (RB, CIN) · 9.5 projected · RB20
-- WR: Rashee Rice (WR, KC) · 9.6 projected · WR16
-- WR: Omar Cooper Jr. (WR, NYJ) [Questionable] · 5.8 projected · WR35
+- WR: Rashee Rice (WR, KC) · 9.5 projected · WR16
+- WR: Omar Cooper Jr. (WR, NYJ) [Questionable] · 5.8 projected · WR36
 - TE: George Kittle (TE, SF) · 10.2 projected · TE1
-- FLEX: Audric Estime (RB, NO) · 6.9 projected · RB32
+- FLEX: Audric Estime (RB, NO) · 6.8 projected · RB33
 - K: Jake Bates (K, DET) · 8.3 projected (Sleeper standard) · K11
 - DEF: Houston Texans (DEF, HOU) · 8.2 projected (Sleeper standard) · DEF5
 - BN: J.J. McCarthy (QB, NYG) · 21.3 projected · QB18
@@ -170,9 +170,9 @@ Sleeper's weekly projections (provider: rotowire), scored with this league's sco
 - BN: A.J. Brown (WR, NE) [Questionable] · 9.4 projected · WR18
 - BN: Kenneth Walker III (RB, KC) [Questionable] · no projection (bye, out, or not projected)
 ### Opponent's starters
-- QB: Joe Burrow (QB, CIN) · 30.6 projected · QB2
-- RB: James Cook III (RB, BUF) · 15.9 projected · RB4
-- RB: Corey Kiner (RB, NE) · 10.2 projected · RB18
+- QB: Joe Burrow (QB, CIN) · 30.6 projected · QB1
+- RB: James Cook III (RB, BUF) · 16.2 projected · RB4
+- RB: Corey Kiner (RB, NE) · 10.2 projected · RB17
 - WR: Amon-Ra St. Brown (WR, DET) [Questionable] · 12.1 projected · WR4
 - WR: Christian Watson (WR, GB) · 11.6 projected · WR7
 - TE: Dalton Kincaid (TE, BUF) · 6.3 projected · TE11
@@ -186,12 +186,12 @@ Sleeper's weekly projections (provider: rotowire), scored with this league's sco
 - Austin Ekeler (RB, WAS) · 6.9 projected · RB31
 - Kaleb Johnson (RB, GB) · 6.7 projected · RB35
 - Zonovan Knight (RB, ARI) · 6.6 projected · RB36
-- Emari Demercado (RB, HOU) · 6.2 projected · RB38
+- Emari Demercado (RB, HOU) · 6.2 projected · RB39
 - Lan Larison (RB, NE) · 6.2 projected · RB40
-- Khalil Shakir (WR, BUF) · 6.6 projected · WR28
-- Jordan Addison (WR, MIN) [Questionable] · 6.6 projected · WR29
+- Jordan Addison (WR, MIN) [Questionable] · 6.8 projected · WR27
+- Khalil Shakir (WR, BUF) · 6.5 projected · WR31
 - Elic Ayomanor (WR, TEN) · 6.2 projected · WR33
-- Malik Washington (WR, MIA) · 5.7 projected · WR36
+- Malik Washington (WR, MIA) · 5.7 projected · WR37
 - DeMario Douglas (WR, NE) · 5.6 projected · WR38
 - Brenton Strange (TE, JAX) · 5.9 projected · TE13 · on waivers until Sat Nov 14, 6:25 PM ET
 - Tyler Higbee (TE, LAR) · 5.3 projected · TE17
@@ -203,30 +203,30 @@ Sleeper's weekly projections (provider: rotowire), scored with this league's sco
 - New Orleans Saints (DEF, NO) · 6.3 projected (Sleeper standard) · DEF14
 
 ## Trending adds across Sleeper, last 24 hours
-- Emmett Johnson (RB, KC) · 1,578,780 adds · on my roster
-- Chimere Dike (WR, TEN) · 368,127 adds · AVAILABLE in my league
-- Darren Waller (TE, CAR) · 300,078 adds · rostered by Team 9
-- Justice Hill (RB, BAL) · 138,285 adds · rostered by Make Miami Great Again
-- Tutu Atwell (WR, LAR) · 127,085 adds · rostered by Young Blood
-- Chris Rodriguez Jr. (RB, JAX) · 111,807 adds · rostered by Team 9
-- Tyler Higbee (TE, LAR) · 109,107 adds · AVAILABLE in my league
-- Konata Mumpfield (WR, LAR) · 95,058 adds · rostered by Drunk To Taste This CHX
-- Corey Kiner (RB, NE) · 81,180 adds · rostered by Thoroughbred Cheesehead
-- Ashton Dulin (WR, IND) · 68,661 adds · AVAILABLE in my league
-- Brenton Strange (TE, JAX) · 62,181 adds · AVAILABLE in my league
-- Hunter Henry (TE, NE) · 59,727 adds · rostered by Young Blood
-- Mike Gesicki (TE, CIN) · 59,444 adds · rostered by Team 8
-- Tank Dell (WR, HOU) · 55,856 adds · rostered by Thoroughbred Cheesehead
-- Khalil Shakir (WR, BUF) · 53,262 adds · AVAILABLE in my league
-- Caleb Douglas (WR, MIA) · 51,096 adds · rostered by Thoroughbred Cheesehead
-- Indianapolis Colts (DEF, IND) · 49,956 adds · rostered by Young Blood
-- Elic Ayomanor (WR, TEN) · 49,760 adds · AVAILABLE in my league
-- Jordan Addison (WR, MIN) [Questionable] · 48,312 adds · AVAILABLE in my league
-- Zonovan Knight (RB, ARI) · 45,016 adds · AVAILABLE in my league
-- Gavin Bartholomew (TE, MIN) · 44,451 adds · AVAILABLE in my league
-- Fernando Mendoza (QB, LV) · 44,248 adds · AVAILABLE in my league
-- Darnell Washington (TE, PIT) · 39,445 adds · AVAILABLE in my league
-- CJ Daniels (WR, LAR) · 37,584 adds · AVAILABLE in my league
-- Jordyn Tyson (WR, NO) · 35,288 adds · rostered by Make Miami Great Again
+- Emmett Johnson (RB, KC) · 1,393,119 adds · on my roster
+- Chimere Dike (WR, TEN) · 426,321 adds · AVAILABLE in my league
+- Darren Waller (TE, CAR) · 210,834 adds · rostered by Team 9
+- Justice Hill (RB, BAL) · 155,610 adds · rostered by Make Miami Great Again
+- Chris Rodriguez Jr. (RB, JAX) · 126,270 adds · rostered by Team 9
+- Tutu Atwell (WR, LAR) · 110,159 adds · rostered by Young Blood
+- Tyler Higbee (TE, LAR) · 109,449 adds · AVAILABLE in my league
+- Corey Kiner (RB, NE) · 80,064 adds · rostered by Thoroughbred Cheesehead
+- Konata Mumpfield (WR, LAR) · 68,004 adds · rostered by Drunk To Taste This CHX
+- Ashton Dulin (WR, IND) · 60,651 adds · AVAILABLE in my league
+- Tank Dell (WR, HOU) · 58,512 adds · rostered by Thoroughbred Cheesehead
+- Gavin Bartholomew (TE, MIN) · 53,334 adds · AVAILABLE in my league
+- Mike Gesicki (TE, CIN) · 50,988 adds · rostered by Team 8
+- Brenton Strange (TE, JAX) · 49,743 adds · AVAILABLE in my league
+- Zonovan Knight (RB, ARI) · 49,244 adds · AVAILABLE in my league
+- Hunter Henry (TE, NE) · 48,282 adds · rostered by Young Blood
+- Indianapolis Colts (DEF, IND) · 47,946 adds · rostered by Young Blood
+- Caleb Douglas (WR, MIA) · 46,536 adds · rostered by Thoroughbred Cheesehead
+- Khalil Shakir (WR, BUF) · 46,494 adds · AVAILABLE in my league
+- Elic Ayomanor (WR, TEN) · 45,668 adds · AVAILABLE in my league
+- Jordan Addison (WR, MIN) [Questionable] · 41,814 adds · AVAILABLE in my league
+- Darnell Washington (TE, PIT) · 40,135 adds · AVAILABLE in my league
+- CJ Daniels (WR, LAR) · 39,780 adds · AVAILABLE in my league
+- Fernando Mendoza (QB, LV) · 39,264 adds · AVAILABLE in my league
+- Jordan Mason (RB, MIN) · 34,330 adds · rostered by Holla
 
 Data from the Sleeper API (sleeper.com). Injury tags in brackets are Sleeper's designations and may lag official reports.
