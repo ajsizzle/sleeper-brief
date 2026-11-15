@@ -1,5 +1,5 @@
 # Sleeper league state
-Generated Saturday November 14, 2026 09:49 PM ET · Season 2026 · NFL week 10
+Generated Sunday November 15, 2026 06:13 AM ET · Season 2026 · NFL week 10
 League: The Dudes Will Roll · 12 teams · waivers: FAAB (budget $200) · lineup: QB, RB, RB, WR, WR, TE, FLEX, K, DEF
 
 ## My team: THE ACE OF SPADES (roster 11)
@@ -85,7 +85,8 @@ Bench: Cam Skattebo (RB, NYG); Jakobi Meyers (WR, JAX); Breece Hall (RB, NYJ); J
 
 ### Strokin My Ditka · 3-6 · 941.0 pts · waiver priority 7
 Starters: Jayden Daniels (QB, WAS); Jadarian Price (RB, SEA); Jaylen Warren (RB, PIT); Jaxon Smith-Njigba (WR, SEA); Tetairoa McMillan (WR, CAR); Tyler Warren (TE, IND); Omarion Hampton (RB, LAC); Matt Gay (K, LV); Miami Dolphins (DEF, MIA)
-Bench: Bo Nix (QB, DEN); TreVeyon Henderson (RB, NE) [Out]; Stefon Diggs (WR, WAS); Chris Godwin Jr. (WR, TB); Chase McLaughlin (K, TB); Kyle Pitts Sr. (TE, ATL)
+Bench: Bo Nix (QB, DEN); Stefon Diggs (WR, WAS); Chris Godwin Jr. (WR, TB); Chase McLaughlin (K, TB); Kyle Pitts Sr. (TE, ATL); Zonovan Knight (RB, ARI)
+IR: TreVeyon Henderson (RB, NE) [Out]
 
 ### Whiskey Sippin Kings · 2-7 · 836.7 pts · waiver priority 3
 Starters: Bryce Young (QB, CAR); Chuba Hubbard (RB, CAR); Quinshon Judkins (RB, CLE); Chris Olave (WR, NO); Denzel Boston (WR, CLE) [Questionable]; Harold Fannin Jr. (TE, CLE); Ashton Jeanty (RB, LV); Evan McPherson (K, CIN); Cleveland Browns (DEF, CLE)
@@ -97,6 +98,7 @@ Bench: Jeremiyah Love (RB, ARI) [IR]; Dak Prescott (QB, DAL); Alvin Kamara (RB, 
 IR: RJ Harvey (RB, DEN) [IR]
 
 ## Transactions, weeks 9 to 10, newest first
+- Week 10 · free_agent · complete · Sat Nov 14 10:37 PM · Strokin My Ditka · added: Zonovan Knight (RB, ARI) to Strokin My Ditka
 - Week 10 · free_agent · complete · Thu Nov 12 08:10 PM · Make Miami Great Again · added: Washington Commanders (DEF, WAS) to Make Miami Great Again · dropped: Los Angeles Chargers (DEF, LAC) from Make Miami Great Again
 - Week 10 · free_agent · complete · Thu Nov 12 08:10 PM · Make Miami Great Again · added: Los Angeles Chargers (DEF, LAC) to Make Miami Great Again · dropped: Chicago Bears (DEF, CHI) from Make Miami Great Again
 - Week 10 · free_agent · complete · Thu Nov 12 08:07 PM · Make Miami Great Again · added: Justice Hill (RB, BAL) to Make Miami Great Again
@@ -184,49 +186,49 @@ Sleeper's weekly projections (provider: rotowire), scored with this league's sco
 - Michael Penix Jr. (QB, ATL) · 20.0 projected · QB19
 - Justin Herbert (QB, LAC) · 17.6 projected · QB22
 - Austin Ekeler (RB, WAS) · 6.9 projected · RB31
-- Zonovan Knight (RB, ARI) · 6.5 projected · RB35
 - Emari Demercado (RB, HOU) · 6.2 projected · RB38
 - Lan Larison (RB, NE) · 6.2 projected · RB39
 - Kaleb Johnson (RB, GB) · 5.4 projected · RB40
+- Dylan Sampson (RB, CLE) · 5.4 projected · RB41
 - Jordan Addison (WR, MIN) [Questionable] · 6.8 projected · WR27
 - Khalil Shakir (WR, BUF) · 6.5 projected · WR31
 - Elic Ayomanor (WR, TEN) · 6.2 projected · WR33
 - Malik Washington (WR, MIA) · 5.7 projected · WR37
 - DeMario Douglas (WR, NE) · 5.6 projected · WR38
-- Brenton Strange (TE, JAX) · 5.9 projected · TE14 · free agent now
-- Tyler Higbee (TE, LAR) · 5.3 projected · TE17
+- Brenton Strange (TE, JAX) · 6.0 projected · TE13 · free agent now
+- Tyler Higbee (TE, LAR) · 5.2 projected · TE17
 - Chig Okonkwo (TE, WAS) [Questionable] · 4.9 projected · TE19
-- Ryan Fitzgerald (K, CAR) · 8.3 projected (Sleeper standard) · K9
+- Ryan Fitzgerald (K, CAR) · 8.4 projected (Sleeper standard) · K9
 - Chris Boswell (K, PIT) · 8.3 projected (Sleeper standard) · K10 · free agent now
 - New York Giants (DEF, NYG) · 7.5 projected (Sleeper standard) · DEF8 · free agent now
 - Cincinnati Bengals (DEF, CIN) · 6.3 projected (Sleeper standard) · DEF13
 - New Orleans Saints (DEF, NO) · 6.3 projected (Sleeper standard) · DEF14
 
 ## Trending adds across Sleeper, last 24 hours
-- Emmett Johnson (RB, KC) · 1,335,888 adds · on my roster
-- Chimere Dike (WR, TEN) · 461,376 adds · AVAILABLE in my league
-- Darren Waller (TE, CAR) · 188,865 adds · rostered by Team 9
-- Justice Hill (RB, BAL) · 170,298 adds · rostered by Make Miami Great Again
-- Chris Rodriguez Jr. (RB, JAX) · 135,441 adds · rostered by Team 9
-- Tyler Higbee (TE, LAR) · 108,783 adds · AVAILABLE in my league
-- Tutu Atwell (WR, LAR) · 101,360 adds · rostered by Young Blood
-- Corey Kiner (RB, NE) · 81,498 adds · rostered by Thoroughbred Cheesehead
-- Tank Dell (WR, HOU) · 62,176 adds · rostered by Thoroughbred Cheesehead
-- Ashton Dulin (WR, IND) · 56,205 adds · AVAILABLE in my league
-- Konata Mumpfield (WR, LAR) · 55,548 adds · rostered by Drunk To Taste This CHX
-- Gavin Bartholomew (TE, MIN) · 55,332 adds · AVAILABLE in my league
-- Zonovan Knight (RB, ARI) · 52,216 adds · AVAILABLE in my league
-- Caleb Douglas (WR, MIA) · 49,776 adds · rostered by Thoroughbred Cheesehead
-- Indianapolis Colts (DEF, IND) · 49,629 adds · rostered by Young Blood
-- Mike Gesicki (TE, CIN) · 48,316 adds · rostered by Team 8
-- Brenton Strange (TE, JAX) · 46,449 adds · AVAILABLE in my league
-- Hunter Henry (TE, NE) · 45,591 adds · rostered by Young Blood
-- Elic Ayomanor (WR, TEN) · 44,372 adds · AVAILABLE in my league
-- Khalil Shakir (WR, BUF) · 44,118 adds · AVAILABLE in my league
-- Darnell Washington (TE, PIT) · 41,880 adds · AVAILABLE in my league
-- Jordan Addison (WR, MIN) [Questionable] · 40,329 adds · AVAILABLE in my league
-- CJ Daniels (WR, LAR) · 40,312 adds · AVAILABLE in my league
-- Fernando Mendoza (QB, LV) · 37,192 adds · AVAILABLE in my league
-- Jadarian Price (RB, SEA) · 36,504 adds · rostered by Strokin My Ditka
+- Emmett Johnson (RB, KC) · 1,345,059 adds · on my roster
+- Chimere Dike (WR, TEN) · 522,693 adds · AVAILABLE in my league
+- Justice Hill (RB, BAL) · 210,474 adds · rostered by Make Miami Great Again
+- Darren Waller (TE, CAR) · 202,464 adds · rostered by Team 9
+- Chris Rodriguez Jr. (RB, JAX) · 156,825 adds · rostered by Team 9
+- Tyler Higbee (TE, LAR) · 124,551 adds · AVAILABLE in my league
+- Tutu Atwell (WR, LAR) · 105,980 adds · rostered by Young Blood
+- Corey Kiner (RB, NE) · 90,594 adds · rostered by Thoroughbred Cheesehead
+- Tank Dell (WR, HOU) · 76,600 adds · rostered by Thoroughbred Cheesehead
+- Gavin Bartholomew (TE, MIN) · 65,376 adds · AVAILABLE in my league
+- Caleb Douglas (WR, MIA) · 62,368 adds · rostered by Thoroughbred Cheesehead
+- Ashton Dulin (WR, IND) · 62,001 adds · AVAILABLE in my league
+- Indianapolis Colts (DEF, IND) · 60,198 adds · rostered by Young Blood
+- Zonovan Knight (RB, ARI) · 58,798 adds · rostered by Strokin My Ditka
+- Brenton Strange (TE, JAX) · 53,046 adds · AVAILABLE in my league
+- Mike Gesicki (TE, CIN) · 53,044 adds · rostered by Team 8
+- Elic Ayomanor (WR, TEN) · 51,592 adds · AVAILABLE in my league
+- Konata Mumpfield (WR, LAR) · 50,931 adds · rostered by Drunk To Taste This CHX
+- Hunter Henry (TE, NE) · 50,091 adds · rostered by Young Blood
+- Khalil Shakir (WR, BUF) · 49,518 adds · AVAILABLE in my league
+- Darnell Washington (TE, PIT) · 49,275 adds · AVAILABLE in my league
+- Jordan Addison (WR, MIN) [Questionable] · 44,145 adds · AVAILABLE in my league
+- Jadarian Price (RB, SEA) · 43,029 adds · rostered by Strokin My Ditka
+- CJ Daniels (WR, LAR) · 42,928 adds · AVAILABLE in my league
+- Fernando Mendoza (QB, LV) · 39,984 adds · AVAILABLE in my league
 
 Data from the Sleeper API (sleeper.com). Injury tags in brackets are Sleeper's designations and may lag official reports.
