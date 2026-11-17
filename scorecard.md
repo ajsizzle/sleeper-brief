@@ -1,7 +1,7 @@
 # Scorecard: season to date
-Updated Monday November 16, 2026 11:38 PM ET. Rebuilt from Sleeper every run.
+Updated Tuesday November 17, 2026 09:39 AM ET. Rebuilt from Sleeper every run.
 
-Record 5-4 · 991.7 pts scored · 1058.3 optimal · lineup efficiency 93.7% · avg left on bench 7.4 · waiver claims won 17/26 · FAAB spent $200 · trades 2
+Record 5-5 · 1086.0 pts scored · 1179.2 optimal · lineup efficiency 92.1% · avg left on bench 9.3 · waiver claims won 17/26 · FAAB spent $200 · trades 2
 
 | Week | Result | Me | Opponent | Optimal | Left on bench | Pts rank (of 12) | Waivers won/lost | Trades |
 |---|---|---|---|---|---|---|---|---|
@@ -14,5 +14,6 @@ Record 5-4 · 991.7 pts scored · 1058.3 optimal · lineup efficiency 93.7% · a
 | 7 | W vs Whiskey Sippin Kings | 110.05 | 68.65 | 121.85 | 11.8 | 6 | 2/0 ($5) | 0 |
 | 8 | L vs Team 8 | 100.45 | 110.9 | 121.35 | 20.9 | 8 | 1/1 ($23) | 2 |
 | 9 | W vs Springfield Atoms | 133.95 | 98.0 | 136.75 | 2.8 | 3 | 1/0 ($0) | 0 |
+| 10 | L vs Thoroughbred Cheesehead | 94.3 | 149.65 | 120.85 | 26.55 | 11 | 0/0 | 0 |
 
 Left on bench is optimal minus actual: the cost of start/sit calls that week. Lineup efficiency is actual divided by optimal for the season. Points rank is where my score landed among all teams that week.
