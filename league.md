@@ -1,5 +1,5 @@
 # Sleeper league state
-Generated Monday November 16, 2026 05:19 PM ET · Season 2026 · NFL week 10
+Generated Monday November 16, 2026 11:38 PM ET · Season 2026 · NFL week 10
 League: The Dudes Will Roll · 12 teams · waivers: FAAB (budget $200) · lineup: QB, RB, RB, WR, WR, TE, FLEX, K, DEF
 
 ## My team: THE ACE OF SPADES (roster 11)
@@ -208,30 +208,30 @@ Sleeper's weekly projections (provider: rotowire), scored with this league's sco
 - Cincinnati Bengals (DEF, CIN) · 6.3 projected (Sleeper standard) · DEF13
 
 ## Trending adds across Sleeper, last 24 hours
-- Quentin Johnston (WR, LAC) · 268,044 adds · rostered by Drunk To Taste This CHX
-- Justice Hill (RB, BAL) · 206,163 adds · rostered by Make Miami Great Again
-- Seth McGowan (RB, IND) · 205,696 adds · AVAILABLE in my league
-- Jordyn Tyson (WR, NO) · 205,000 adds · rostered by Make Miami Great Again
-- Xavier Hutchinson (WR, HOU) [Questionable] · 195,517 adds · AVAILABLE in my league
-- Michael Mayer (TE, LV) · 182,610 adds · AVAILABLE in my league
-- Ryan Flournoy (WR, DAL) · 132,960 adds · AVAILABLE in my league
-- Emmett Johnson (RB, KC) · 119,736 adds · on my roster
-- Pat Bryant (WR, DEN) · 85,432 adds · AVAILABLE in my league
-- Fernando Mendoza (QB, LV) · 81,624 adds · AVAILABLE in my league
-- Kaelon Black (RB, SF) · 81,039 adds · rostered by FuelTheJET
-- Deshaun Watson (QB, CLE) · 77,088 adds · rostered by Team 8
-- Gavin Bartholomew (TE, MIN) · 65,673 adds · AVAILABLE in my league
-- Caleb Douglas (WR, MIA) · 63,240 adds · rostered by Thoroughbred Cheesehead
-- C.J. Stroud (QB, HOU) · 55,104 adds · rostered by Drunk To Taste This CHX
-- Tampa Bay Buccaneers (DEF, TB) · 53,880 adds · rostered by Whiskey Sippin Kings
-- Dohnte Meyers (WR, CIN) · 50,895 adds · AVAILABLE in my league
-- Elic Ayomanor (WR, TEN) · 49,268 adds · AVAILABLE in my league
-- Alvin Kamara (RB, NO) · 49,112 adds · rostered by Team 9
-- Kirk Cousins (QB, MIN) · 47,608 adds · rostered by Young Blood
-- Detroit Lions (DEF, DET) · 47,574 adds · rostered by Drunk To Taste This CHX
-- Darren Waller (TE, CAR) · 47,070 adds · rostered by Team 9
-- Mike Gesicki (TE, CIN) · 41,436 adds · rostered by Team 8
-- Brenton Strange (TE, JAX) · 40,410 adds · AVAILABLE in my league
-- Bo Nix (QB, DEN) · 35,496 adds · rostered by Strokin My Ditka
+- Xavier Hutchinson (WR, HOU) [Questionable] · 252,910 adds · AVAILABLE in my league
+- Michael Mayer (TE, LV) · 219,006 adds · AVAILABLE in my league
+- Seth McGowan (RB, IND) · 216,352 adds · AVAILABLE in my league
+- Jordyn Tyson (WR, NO) · 195,720 adds · rostered by Make Miami Great Again
+- Quentin Johnston (WR, LAC) · 161,196 adds · rostered by Drunk To Taste This CHX
+- Justice Hill (RB, BAL) · 137,880 adds · rostered by Make Miami Great Again
+- Ryan Flournoy (WR, DAL) · 135,496 adds · AVAILABLE in my league
+- Pat Bryant (WR, DEN) · 96,592 adds · AVAILABLE in my league
+- Mark Andrews (TE, BAL) · 96,219 adds · AVAILABLE in my league
+- Emmett Johnson (RB, KC) · 85,941 adds · on my roster
+- Kaelon Black (RB, SF) · 70,280 adds · rostered by FuelTheJET
+- Deshaun Watson (QB, CLE) · 69,984 adds · rostered by Team 8
+- Detroit Lions (DEF, DET) · 66,222 adds · rostered by Drunk To Taste This CHX
+- Gavin Bartholomew (TE, MIN) · 64,701 adds · AVAILABLE in my league
+- Caleb Douglas (WR, MIA) · 59,544 adds · rostered by Thoroughbred Cheesehead
+- Elic Ayomanor (WR, TEN) · 54,048 adds · AVAILABLE in my league
+- Tampa Bay Buccaneers (DEF, TB) · 50,060 adds · rostered by Whiskey Sippin Kings
+- C.J. Stroud (QB, HOU) · 49,728 adds · rostered by Drunk To Taste This CHX
+- Kirk Cousins (QB, MIN) · 47,704 adds · rostered by Young Blood
+- Brenton Strange (TE, JAX) · 39,978 adds · AVAILABLE in my league
+- Alvin Kamara (RB, NO) · 39,240 adds · rostered by Team 9
+- Darren Waller (TE, CAR) · 39,015 adds · rostered by Team 9
+- Chase McLaughlin (K, TB) · 38,880 adds · rostered by Strokin My Ditka
+- Bo Nix (QB, DEN) · 37,200 adds · rostered by Strokin My Ditka
+- Jacory Croskey-Merritt (RB, WAS) [IR] · 36,936 adds · rostered by Thoroughbred Cheesehead
 
 Data from the Sleeper API (sleeper.com). Injury tags in brackets are Sleeper's designations and may lag official reports.

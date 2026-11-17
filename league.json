@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-16T17:19:03.182224-05:00",
+  "generated": "2026-11-16T23:38:56.778404-05:00",
   "season": "2026",
   "week": 10,
   "league": {
@@ -1026,129 +1026,129 @@
   },
   "trending_adds": [
     {
-      "player": "Quentin Johnston (WR, LAC)",
-      "adds": 268044,
-      "rostered_by": 3
-    },
-    {
-      "player": "Justice Hill (RB, BAL)",
-      "adds": 206163,
-      "rostered_by": 7
-    },
-    {
-      "player": "Seth McGowan (RB, IND)",
-      "adds": 205696,
-      "rostered_by": null
-    },
-    {
-      "player": "Jordyn Tyson (WR, NO)",
-      "adds": 205000,
-      "rostered_by": 7
-    },
-    {
       "player": "Xavier Hutchinson (WR, HOU) [Questionable]",
-      "adds": 195517,
+      "adds": 252910,
       "rostered_by": null
     },
     {
       "player": "Michael Mayer (TE, LV)",
-      "adds": 182610,
+      "adds": 219006,
       "rostered_by": null
     },
     {
+      "player": "Seth McGowan (RB, IND)",
+      "adds": 216352,
+      "rostered_by": null
+    },
+    {
+      "player": "Jordyn Tyson (WR, NO)",
+      "adds": 195720,
+      "rostered_by": 7
+    },
+    {
+      "player": "Quentin Johnston (WR, LAC)",
+      "adds": 161196,
+      "rostered_by": 3
+    },
+    {
+      "player": "Justice Hill (RB, BAL)",
+      "adds": 137880,
+      "rostered_by": 7
+    },
+    {
       "player": "Ryan Flournoy (WR, DAL)",
-      "adds": 132960,
+      "adds": 135496,
+      "rostered_by": null
+    },
+    {
+      "player": "Pat Bryant (WR, DEN)",
+      "adds": 96592,
+      "rostered_by": null
+    },
+    {
+      "player": "Mark Andrews (TE, BAL)",
+      "adds": 96219,
       "rostered_by": null
     },
     {
       "player": "Emmett Johnson (RB, KC)",
-      "adds": 119736,
+      "adds": 85941,
       "rostered_by": 11
     },
     {
-      "player": "Pat Bryant (WR, DEN)",
-      "adds": 85432,
-      "rostered_by": null
-    },
-    {
-      "player": "Fernando Mendoza (QB, LV)",
-      "adds": 81624,
-      "rostered_by": null
-    },
-    {
       "player": "Kaelon Black (RB, SF)",
-      "adds": 81039,
+      "adds": 70280,
       "rostered_by": 6
     },
     {
       "player": "Deshaun Watson (QB, CLE)",
-      "adds": 77088,
+      "adds": 69984,
       "rostered_by": 8
     },
     {
+      "player": "Detroit Lions (DEF, DET)",
+      "adds": 66222,
+      "rostered_by": 3
+    },
+    {
       "player": "Gavin Bartholomew (TE, MIN)",
-      "adds": 65673,
+      "adds": 64701,
       "rostered_by": null
     },
     {
       "player": "Caleb Douglas (WR, MIA)",
-      "adds": 63240,
+      "adds": 59544,
       "rostered_by": 4
     },
     {
-      "player": "C.J. Stroud (QB, HOU)",
-      "adds": 55104,
-      "rostered_by": 3
-    },
-    {
-      "player": "Tampa Bay Buccaneers (DEF, TB)",
-      "adds": 53880,
-      "rostered_by": 1
-    },
-    {
-      "player": "Dohnte Meyers (WR, CIN)",
-      "adds": 50895,
+      "player": "Elic Ayomanor (WR, TEN)",
+      "adds": 54048,
       "rostered_by": null
     },
     {
-      "player": "Elic Ayomanor (WR, TEN)",
-      "adds": 49268,
+      "player": "Tampa Bay Buccaneers (DEF, TB)",
+      "adds": 50060,
+      "rostered_by": 1
+    },
+    {
+      "player": "C.J. Stroud (QB, HOU)",
+      "adds": 49728,
+      "rostered_by": 3
+    },
+    {
+      "player": "Kirk Cousins (QB, MIN)",
+      "adds": 47704,
+      "rostered_by": 12
+    },
+    {
+      "player": "Brenton Strange (TE, JAX)",
+      "adds": 39978,
       "rostered_by": null
     },
     {
       "player": "Alvin Kamara (RB, NO)",
-      "adds": 49112,
+      "adds": 39240,
       "rostered_by": 9
-    },
-    {
-      "player": "Kirk Cousins (QB, MIN)",
-      "adds": 47608,
-      "rostered_by": 12
-    },
-    {
-      "player": "Detroit Lions (DEF, DET)",
-      "adds": 47574,
-      "rostered_by": 3
     },
     {
       "player": "Darren Waller (TE, CAR)",
-      "adds": 47070,
+      "adds": 39015,
       "rostered_by": 9
     },
     {
-      "player": "Mike Gesicki (TE, CIN)",
-      "adds": 41436,
-      "rostered_by": 8
-    },
-    {
-      "player": "Brenton Strange (TE, JAX)",
-      "adds": 40410,
-      "rostered_by": null
+      "player": "Chase McLaughlin (K, TB)",
+      "adds": 38880,
+      "rostered_by": 10
     },
     {
       "player": "Bo Nix (QB, DEN)",
-      "adds": 35496,
+      "adds": 37200,
       "rostered_by": 10
+    },
+    {
+      "player": "Jacory Croskey-Merritt (RB, WAS) [IR]",
+      "adds": 36936,
+      "rostered_by": 4
     }
   ]
 }
