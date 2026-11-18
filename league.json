@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-17T23:33:00.981802-05:00",
+  "generated": "2026-11-18T09:16:14.371895-05:00",
   "season": "2026",
   "week": 11,
   "league": {
@@ -27,7 +27,7 @@
       "ties": 0,
       "points": 1086.0
     },
-    "waiver_position": 11,
+    "waiver_position": 12,
     "faab_used": 200,
     "starters": [
       "J.J. McCarthy (QB, NYG)",
@@ -42,8 +42,8 @@
     ],
     "bench": [
       "Drake Maye (QB, NE) [Out]",
-      "Audric Estime (RB, NO)",
       "Omar Cooper Jr. (WR, NYJ) [Out]",
+      "Seth McGowan (RB, IND)",
       "Mike Evans (WR, SF) [Out]",
       "A.J. Brown (WR, NE) [Out]",
       "Kenneth Walker III (RB, KC) [Out]"
@@ -59,7 +59,7 @@
       "ties": 0,
       "points": 1161.15
     },
-    "waiver_position": 10,
+    "waiver_position": 11,
     "faab_used": 200,
     "starters": [
       "Patrick Mahomes (QB, KC)",
@@ -67,7 +67,7 @@
       "Ollie Gordon II (RB, MIA)",
       "Ja'Marr Chase (WR, CIN)",
       "Zay Flowers (WR, BAL)",
-      "Tucker Kraft (TE, GB)",
+      "Colston Loveland (TE, CHI)",
       "Cam Skattebo (RB, NYG)",
       "Spencer Shrader (K, IND)",
       "Kansas City Chiefs (DEF, KC)"
@@ -76,9 +76,9 @@
       "Jakobi Meyers (WR, JAX)",
       "Breece Hall (RB, NYJ)",
       "Jordan Mason (RB, MIN)",
+      "Tucker Kraft (TE, GB)",
       "Aaron Rodgers (QB, PIT)",
-      "Zach Charbonnet (RB, SEA)",
-      "Baltimore Ravens (DEF, BAL)"
+      "Zach Charbonnet (RB, SEA)"
     ],
     "ir": []
   },
@@ -92,10 +92,10 @@
         "ties": 0,
         "points": 1354.4
       },
-      "waiver_position": 12,
-      "faab_used": 123,
+      "waiver_position": 10,
+      "faab_used": 133,
       "starters": [
-        "Jacoby Brissett (QB, BAL)",
+        "Cam Ward (QB, TEN)",
         "Jahmyr Gibbs (RB, DET)",
         "Jonah Coleman (RB, DEN)",
         "Parker Washington (WR, JAX)",
@@ -107,8 +107,8 @@
       ],
       "bench": [
         "Blake Corum (RB, LAR)",
+        "Ryan Flournoy (WR, DAL)",
         "Matthew Golden (WR, GB)",
-        "Germie Bernard (WR, PIT)",
         "Kaelon Black (RB, SF)",
         "Jordan Love (QB, GB)",
         "Seattle Seahawks (DEF, SEA)"
@@ -126,7 +126,7 @@
         "ties": 0,
         "points": 1325.35
       },
-      "waiver_position": 8,
+      "waiver_position": 7,
       "faab_used": 42,
       "starters": [
         "Joe Burrow (QB, CIN)",
@@ -160,7 +160,7 @@
         "ties": 0,
         "points": 1066.85
       },
-      "waiver_position": 5,
+      "waiver_position": 4,
       "faab_used": 0,
       "starters": [
         "Matthew Stafford (QB, LAR)",
@@ -226,7 +226,7 @@
         "ties": 0,
         "points": 1086.0
       },
-      "waiver_position": 11,
+      "waiver_position": 12,
       "faab_used": 200,
       "starters": [
         "J.J. McCarthy (QB, NYG)",
@@ -241,8 +241,8 @@
       ],
       "bench": [
         "Drake Maye (QB, NE) [Out]",
-        "Audric Estime (RB, NO)",
         "Omar Cooper Jr. (WR, NYJ) [Out]",
+        "Seth McGowan (RB, IND)",
         "Mike Evans (WR, SF) [Out]",
         "A.J. Brown (WR, NE) [Out]",
         "Kenneth Walker III (RB, KC) [Out]"
@@ -258,7 +258,7 @@
         "ties": 0,
         "points": 1067.4
       },
-      "waiver_position": 6,
+      "waiver_position": 5,
       "faab_used": 15,
       "starters": [
         "Kirk Cousins (QB, MIN)",
@@ -292,25 +292,26 @@
         "ties": 0,
         "points": 1035.75
       },
-      "waiver_position": 4,
-      "faab_used": 40,
+      "waiver_position": 9,
+      "faab_used": 60,
       "starters": [
         "C.J. Stroud (QB, HOU)",
         "Derrick Henry (RB, BAL)",
-        "Kyren Williams (RB, LAR)",
+        "Braelon Allen (RB, NYJ)",
         "Jameson Williams (WR, DET)",
         "Garrett Wilson (WR, NYJ)",
         "Travis Kelce (TE, KC) [Questionable]",
         "Quentin Johnston (WR, LAC)",
-        "Jason Myers (K, SEA)",
+        "(empty)",
         "Detroit Lions (DEF, DET)"
       ],
       "bench": [
-        "Braelon Allen (RB, NYJ)",
         "Ladd McConkey (WR, LAC) [Out]",
+        "Tre' Harris (WR, LAC)",
         "Konata Mumpfield (WR, LAR)",
         "Carnell Tate (WR, TEN) [Out]",
-        "Geno Smith (QB, NYJ) [Out]",
+        "Jason Myers (K, SEA)",
+        "Kyren Williams (RB, LAR)",
         "Josh Downs (WR, KC)"
       ],
       "ir": []
@@ -324,7 +325,7 @@
         "ties": 0,
         "points": 1033.1
       },
-      "waiver_position": 9,
+      "waiver_position": 8,
       "faab_used": 20,
       "starters": [
         "Josh Allen (QB, BUF)",
@@ -358,7 +359,7 @@
         "ties": 0,
         "points": 1161.15
       },
-      "waiver_position": 10,
+      "waiver_position": 11,
       "faab_used": 200,
       "starters": [
         "Patrick Mahomes (QB, KC)",
@@ -366,7 +367,7 @@
         "Ollie Gordon II (RB, MIA)",
         "Ja'Marr Chase (WR, CIN)",
         "Zay Flowers (WR, BAL)",
-        "Tucker Kraft (TE, GB)",
+        "Colston Loveland (TE, CHI)",
         "Cam Skattebo (RB, NYG)",
         "Spencer Shrader (K, IND)",
         "Kansas City Chiefs (DEF, KC)"
@@ -375,9 +376,9 @@
         "Jakobi Meyers (WR, JAX)",
         "Breece Hall (RB, NYJ)",
         "Jordan Mason (RB, MIN)",
+        "Tucker Kraft (TE, GB)",
         "Aaron Rodgers (QB, PIT)",
-        "Zach Charbonnet (RB, SEA)",
-        "Baltimore Ravens (DEF, BAL)"
+        "Zach Charbonnet (RB, SEA)"
       ],
       "ir": []
     },
@@ -390,7 +391,7 @@
         "ties": 0,
         "points": 1066.2
       },
-      "waiver_position": 7,
+      "waiver_position": 6,
       "faab_used": 0,
       "starters": [
         "Jayden Daniels (QB, WAS)",
@@ -482,6 +483,12 @@
     }
   ],
   "transactions": [
+    "Week 11 \u00b7 free_agent \u00b7 complete \u00b7 Wed Nov 18 07:17 AM \u00b7 FuelTheJET \u00b7 added: Ryan Flournoy (WR, DAL) to FuelTheJET \u00b7 dropped: Germie Bernard (WR, PIT) from FuelTheJET",
+    "Week 10 \u00b7 waiver \u00b7 complete \u00b7 Tue Nov 17 06:29 PM \u00b7 THE ACE OF SPADES \u00b7 added: Seth McGowan (RB, IND) to THE ACE OF SPADES \u00b7 dropped: Audric Estime (RB, NO) from THE ACE OF SPADES \u00b7 bid $0 \u00b7 note: Your waiver claim was processed successfully!",
+    "Week 10 \u00b7 waiver \u00b7 complete \u00b7 Tue Nov 17 01:58 PM \u00b7 Holla \u00b7 added: Colston Loveland (TE, CHI) to Holla \u00b7 dropped: Baltimore Ravens (DEF, BAL) from Holla \u00b7 bid $0 \u00b7 note: Your waiver claim was processed successfully!",
+    "Week 10 \u00b7 waiver \u00b7 failed \u00b7 Tue Nov 17 11:16 AM \u00b7 FuelTheJET \u00b7 added: Colston Loveland (TE, CHI) to FuelTheJET \u00b7 bid $0 \u00b7 note: This player was claimed by another owner.",
+    "Week 10 \u00b7 waiver \u00b7 complete \u00b7 Tue Nov 17 05:05 AM \u00b7 Drunk To Taste This CHX \u00b7 added: Tre' Harris (WR, LAC) to Drunk To Taste This CHX \u00b7 dropped: Geno Smith (QB, NYJ) [Out] from Drunk To Taste This CHX \u00b7 bid $20 \u00b7 note: Your waiver claim was processed successfully!",
+    "Week 10 \u00b7 waiver \u00b7 complete \u00b7 Mon Nov 16 05:49 PM \u00b7 FuelTheJET \u00b7 added: Cam Ward (QB, TEN) to FuelTheJET \u00b7 dropped: Jacoby Brissett (QB, BAL) from FuelTheJET \u00b7 bid $10 \u00b7 note: Your waiver claim was processed successfully!",
     "Week 10 \u00b7 free_agent \u00b7 complete \u00b7 Sun Nov 15 09:43 PM \u00b7 FuelTheJET \u00b7 added: Chicago Bears (DEF, CHI) to FuelTheJET \u00b7 dropped: New York Jets (DEF, NYJ) from FuelTheJET",
     "Week 10 \u00b7 free_agent \u00b7 complete \u00b7 Sun Nov 15 04:35 PM \u00b7 Drunk To Taste This CHX \u00b7 added: Quentin Johnston (WR, LAC) to Drunk To Taste This CHX \u00b7 dropped: Los Angeles Rams (DEF, LAR) from Drunk To Taste This CHX",
     "Week 10 \u00b7 free_agent \u00b7 complete \u00b7 Sat Nov 14 10:37 PM \u00b7 Strokin My Ditka \u00b7 added: Zonovan Knight (RB, ARI) to Strokin My Ditka",
@@ -502,6 +509,41 @@
     "Week 10 \u00b7 free_agent \u00b7 complete \u00b7 Wed Nov 11 07:29 AM \u00b7 FuelTheJET \u00b7 added: Jacoby Brissett (QB, BAL) to FuelTheJET \u00b7 dropped: Malik Willis (QB, MIA) [IR] from FuelTheJET"
   ],
   "dropped_unrostered": [
+    {
+      "player": "Germie Bernard (WR, PIT)",
+      "dropped_by": "FuelTheJET",
+      "dropped_at": "2026-11-18T07:17:39.633000-05:00",
+      "on_waivers_until": "2026-11-20T07:17:39.633000-05:00",
+      "waiver_status": "on waivers until Fri Nov 20, 7:17 AM ET"
+    },
+    {
+      "player": "Audric Estime (RB, NO)",
+      "dropped_by": "THE ACE OF SPADES",
+      "dropped_at": "2026-11-18T03:09:36.085000-05:00",
+      "on_waivers_until": "2026-11-20T03:09:36.085000-05:00",
+      "waiver_status": "on waivers until Fri Nov 20, 3:09 AM ET"
+    },
+    {
+      "player": "Baltimore Ravens (DEF, BAL)",
+      "dropped_by": "Holla",
+      "dropped_at": "2026-11-18T03:09:36.085000-05:00",
+      "on_waivers_until": "2026-11-20T03:09:36.085000-05:00",
+      "waiver_status": "on waivers until Fri Nov 20, 3:09 AM ET"
+    },
+    {
+      "player": "Geno Smith (QB, NYJ) [Out]",
+      "dropped_by": "Drunk To Taste This CHX",
+      "dropped_at": "2026-11-18T03:09:36.085000-05:00",
+      "on_waivers_until": "2026-11-20T03:09:36.085000-05:00",
+      "waiver_status": "on waivers until Fri Nov 20, 3:09 AM ET"
+    },
+    {
+      "player": "Jacoby Brissett (QB, BAL)",
+      "dropped_by": "FuelTheJET",
+      "dropped_at": "2026-11-18T03:09:36.085000-05:00",
+      "on_waivers_until": "2026-11-20T03:09:36.085000-05:00",
+      "waiver_status": "on waivers until Fri Nov 20, 3:09 AM ET"
+    },
     {
       "player": "New York Jets (DEF, NYJ)",
       "dropped_by": "FuelTheJET",
@@ -545,13 +587,6 @@
       "waiver_status": "free agent now"
     },
     {
-      "player": "Seth McGowan (RB, IND)",
-      "dropped_by": "Thoroughbred Cheesehead",
-      "dropped_at": "2026-11-12T09:55:42.176000-05:00",
-      "on_waivers_until": null,
-      "waiver_status": "free agent now"
-    },
-    {
       "player": "Keenan Allen (WR, SF)",
       "dropped_by": "THE ACE OF SPADES",
       "dropped_at": "2026-11-12T07:05:50.375000-05:00",
@@ -587,13 +622,6 @@
       "waiver_status": "free agent now"
     },
     {
-      "player": "Colston Loveland (TE, CHI)",
-      "dropped_by": "Team 9",
-      "dropped_at": "2026-11-11T12:30:13.674000-05:00",
-      "on_waivers_until": null,
-      "waiver_status": "free agent now"
-    },
-    {
       "player": "Malik Willis (QB, MIA) [IR]",
       "dropped_by": "FuelTheJET",
       "dropped_at": "2026-11-11T07:29:53.179000-05:00",
@@ -609,7 +637,7 @@
       {
         "player": "J.J. McCarthy (QB, NYG)",
         "slot": "QB",
-        "points": 18.7,
+        "points": 18.6,
         "rank": "QB19",
         "scoring": "league"
       },
@@ -623,8 +651,8 @@
       {
         "player": "Chase Brown (RB, CIN)",
         "slot": "RB",
-        "points": 10.7,
-        "rank": "RB18",
+        "points": 11.1,
+        "rank": "RB17",
         "scoring": "league"
       },
       {
@@ -652,7 +680,7 @@
         "player": "Saquon Barkley (RB, PHI)",
         "slot": "FLEX",
         "points": 10.9,
-        "rank": "RB17",
+        "rank": "RB18",
         "scoring": "league"
       },
       {
@@ -676,17 +704,17 @@
         "rank": null
       },
       {
-        "player": "Audric Estime (RB, NO)",
-        "slot": "BN",
-        "points": 3.8,
-        "rank": "RB49",
-        "scoring": "league"
-      },
-      {
         "player": "Omar Cooper Jr. (WR, NYJ) [Out]",
         "slot": "BN",
         "points": 6.6,
-        "rank": "WR29",
+        "rank": "WR30",
+        "scoring": "league"
+      },
+      {
+        "player": "Seth McGowan (RB, IND)",
+        "slot": "BN",
+        "points": 4.7,
+        "rank": "RB41",
         "scoring": "league"
       },
       {
@@ -735,27 +763,28 @@
       {
         "player": "Ja'Marr Chase (WR, CIN)",
         "slot": "WR",
-        "points": 15.0,
-        "rank": "WR2",
+        "points": 15.4,
+        "rank": "WR1",
         "scoring": "league"
       },
       {
         "player": "Zay Flowers (WR, BAL)",
         "slot": "WR",
-        "points": 9.7,
+        "points": 9.6,
         "rank": "WR14",
         "scoring": "league"
       },
       {
-        "player": "Tucker Kraft (TE, GB)",
+        "player": "Colston Loveland (TE, CHI)",
         "slot": "TE",
-        "points": null,
-        "rank": null
+        "points": 6.8,
+        "rank": "TE7",
+        "scoring": "league"
       },
       {
         "player": "Cam Skattebo (RB, NYG)",
         "slot": "FLEX",
-        "points": 13.9,
+        "points": 13.7,
         "rank": "RB10",
         "scoring": "league"
       },
@@ -777,18 +806,19 @@
     "best_available": {
       "QB": [
         {
-          "player": "Cam Ward (QB, TEN)",
-          "slot": null,
-          "points": 22.5,
-          "rank": "QB15",
-          "scoring": "league"
-        },
-        {
           "player": "Justin Herbert (QB, LAC)",
           "slot": null,
           "points": 21.8,
           "rank": "QB16",
           "scoring": "league"
+        },
+        {
+          "player": "Geno Smith (QB, NYJ) [Out]",
+          "slot": null,
+          "points": 20.9,
+          "rank": "QB18",
+          "scoring": "league",
+          "waiver_status": "on waivers until Fri Nov 20, 3:09 AM ET"
         },
         {
           "player": "Jalon Daniels (QB, TB)",
@@ -809,8 +839,8 @@
         {
           "player": "Samaje Perine (RB, CIN)",
           "slot": null,
-          "points": 5.7,
-          "rank": "RB35",
+          "points": 5.9,
+          "rank": "RB34",
           "scoring": "league"
         },
         {
@@ -828,12 +858,11 @@
           "scoring": "league"
         },
         {
-          "player": "Seth McGowan (RB, IND)",
+          "player": "Mike Washington Jr. (RB, LV)",
           "slot": null,
-          "points": 4.7,
-          "rank": "RB41",
-          "scoring": "league",
-          "waiver_status": "free agent now"
+          "points": 4.5,
+          "rank": "RB42",
+          "scoring": "league"
         }
       ],
       "WR": [
@@ -845,17 +874,10 @@
           "scoring": "league"
         },
         {
-          "player": "Ryan Flournoy (WR, DAL)",
-          "slot": null,
-          "points": 6.8,
-          "rank": "WR28",
-          "scoring": "league"
-        },
-        {
           "player": "Khalil Shakir (WR, BUF)",
           "slot": null,
-          "points": 6.6,
-          "rank": "WR30",
+          "points": 6.7,
+          "rank": "WR29",
           "scoring": "league"
         },
         {
@@ -872,22 +894,21 @@
           "rank": "WR40",
           "scoring": "league",
           "waiver_status": "free agent now"
+        },
+        {
+          "player": "Pat Bryant (WR, DEN)",
+          "slot": null,
+          "points": 5.6,
+          "rank": "WR41",
+          "scoring": "league"
         }
       ],
       "TE": [
         {
-          "player": "Colston Loveland (TE, CHI)",
-          "slot": null,
-          "points": 6.8,
-          "rank": "TE7",
-          "scoring": "league",
-          "waiver_status": "free agent now"
-        },
-        {
           "player": "Dallas Goedert (TE, PHI)",
           "slot": null,
           "points": 6.3,
-          "rank": "TE9",
+          "rank": "TE10",
           "scoring": "league"
         },
         {
@@ -896,6 +917,14 @@
           "points": 6.2,
           "rank": "TE11",
           "scoring": "league"
+        },
+        {
+          "player": "Brenton Strange (TE, JAX)",
+          "slot": null,
+          "points": 5.5,
+          "rank": "TE14",
+          "scoring": "league",
+          "waiver_status": "free agent now"
         }
       ],
       "K": [
@@ -944,128 +973,128 @@
   "trending_adds": [
     {
       "player": "Michael Mayer (TE, LV)",
-      "adds": 1798758,
+      "adds": 1959570,
       "rostered_by": null
     },
     {
       "player": "Xavier Hutchinson (WR, HOU) [Questionable]",
-      "adds": 1552145,
+      "adds": 1820000,
       "rostered_by": null
     },
     {
       "player": "Pat Bryant (WR, DEN)",
-      "adds": 933224,
-      "rostered_by": null
-    },
-    {
-      "player": "Mark Andrews (TE, BAL)",
-      "adds": 927126,
-      "rostered_by": null
-    },
-    {
-      "player": "Ryan Flournoy (WR, DAL)",
-      "adds": 908496,
-      "rostered_by": null
-    },
-    {
-      "player": "Seth McGowan (RB, IND)",
-      "adds": 834832,
+      "adds": 1138080,
       "rostered_by": null
     },
     {
       "player": "Detroit Lions (DEF, DET)",
-      "adds": 741321,
+      "adds": 1038879,
       "rostered_by": 3
     },
     {
-      "player": "Jordyn Tyson (WR, NO)",
-      "adds": 722640,
-      "rostered_by": 7
-    },
-    {
-      "player": "Elic Ayomanor (WR, TEN)",
-      "adds": 560416,
+      "player": "Mark Andrews (TE, BAL)",
+      "adds": 1020555,
       "rostered_by": null
     },
     {
+      "player": "Ryan Flournoy (WR, DAL)",
+      "adds": 951824,
+      "rostered_by": 6
+    },
+    {
+      "player": "Seth McGowan (RB, IND)",
+      "adds": 893816,
+      "rostered_by": 11
+    },
+    {
+      "player": "Elic Ayomanor (WR, TEN)",
+      "adds": 792392,
+      "rostered_by": null
+    },
+    {
+      "player": "Jordyn Tyson (WR, NO)",
+      "adds": 684568,
+      "rostered_by": 7
+    },
+    {
       "player": "Jacory Croskey-Merritt (RB, WAS) [IR]",
-      "adds": 427833,
+      "adds": 564246,
       "rostered_by": 4
     },
     {
+      "player": "Cairo Santos (K, CHI)",
+      "adds": 472101,
+      "rostered_by": null
+    },
+    {
       "player": "Bo Nix (QB, DEN)",
-      "adds": 397248,
+      "adds": 454752,
       "rostered_by": 10
     },
     {
       "player": "Chase McLaughlin (K, TB)",
-      "adds": 343696,
+      "adds": 347624,
       "rostered_by": 10
     },
     {
-      "player": "Cairo Santos (K, CHI)",
-      "adds": 340494,
-      "rostered_by": null
-    },
-    {
       "player": "Kaelon Black (RB, SF)",
-      "adds": 292803,
+      "adds": 331198,
       "rostered_by": 6
     },
     {
       "player": "David Montgomery (RB, HOU) [Out]",
-      "adds": 266628,
+      "adds": 315492,
       "rostered_by": 5
     },
     {
+      "player": "Chimere Dike (WR, TEN)",
+      "adds": 296487,
+      "rostered_by": null
+    },
+    {
       "player": "Caleb Douglas (WR, MIA)",
-      "adds": 265616,
+      "adds": 295136,
       "rostered_by": 4
     },
     {
       "player": "Justice Hill (RB, BAL)",
-      "adds": 237348,
+      "adds": 283212,
       "rostered_by": 7
     },
     {
       "player": "Adonai Mitchell (WR, NYJ)",
-      "adds": 220272,
-      "rostered_by": null
-    },
-    {
-      "player": "Gavin Bartholomew (TE, MIN)",
-      "adds": 210528,
+      "adds": 261800,
       "rostered_by": null
     },
     {
       "player": "Courtland Sutton (WR, DEN)",
-      "adds": 207864,
+      "adds": 260469,
+      "rostered_by": null
+    },
+    {
+      "player": "Gavin Bartholomew (TE, MIN)",
+      "adds": 245556,
       "rostered_by": null
     },
     {
       "player": "Tampa Bay Buccaneers (DEF, TB)",
-      "adds": 190740,
+      "adds": 221975,
       "rostered_by": 1
     },
     {
       "player": "Kyle Monangai (RB, CHI) [Out]",
-      "adds": 183054,
+      "adds": 216114,
       "rostered_by": 8
     },
     {
-      "player": "Kirk Cousins (QB, MIN)",
-      "adds": 183008,
-      "rostered_by": 12
+      "player": "Kenny Gainwell (RB, TB)",
+      "adds": 205264,
+      "rostered_by": 5
     },
     {
-      "player": "C.J. Stroud (QB, HOU)",
-      "adds": 180530,
-      "rostered_by": 3
-    },
-    {
-      "player": "Emmett Johnson (RB, KC)",
-      "adds": 172368,
-      "rostered_by": 11
+      "player": "Darren Waller (TE, CAR)",
+      "adds": 203220,
+      "rostered_by": 9
     }
   ]
 }
