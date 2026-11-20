@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-20T08:11:38.121741-05:00",
+  "generated": "2026-11-20T16:17:00.156547-05:00",
   "season": "2026",
   "week": 11,
   "league": {
@@ -578,15 +578,15 @@
       "player": "Indianapolis Colts (DEF, IND)",
       "dropped_by": "Young Blood",
       "dropped_at": "2026-11-18T09:38:08.431000-05:00",
-      "on_waivers_until": "2026-11-20T09:38:08.431000-05:00",
-      "waiver_status": "on waivers until Fri Nov 20, 9:38 AM ET"
+      "on_waivers_until": null,
+      "waiver_status": "free agent now"
     },
     {
       "player": "Ka'imi Fairbairn (K, HOU)",
       "dropped_by": "Young Blood",
       "dropped_at": "2026-11-18T09:34:38.027000-05:00",
-      "on_waivers_until": "2026-11-20T09:34:38.027000-05:00",
-      "waiver_status": "on waivers until Fri Nov 20, 9:34 AM ET"
+      "on_waivers_until": null,
+      "waiver_status": "free agent now"
     },
     {
       "player": "Germie Bernard (WR, PIT)",
@@ -702,22 +702,22 @@
       {
         "player": "J.J. McCarthy (QB, NYG)",
         "slot": "QB",
-        "points": 18.4,
+        "points": 18.6,
         "rank": "QB20",
         "scoring": "league"
       },
       {
         "player": "Emmett Johnson (RB, KC)",
         "slot": "RB",
-        "points": 8.5,
-        "rank": "RB22",
+        "points": 10.4,
+        "rank": "RB19",
         "scoring": "league"
       },
       {
         "player": "Chase Brown (RB, CIN)",
         "slot": "RB",
         "points": 10.7,
-        "rank": "RB18",
+        "rank": "RB17",
         "scoring": "league"
       },
       {
@@ -730,8 +730,8 @@
       {
         "player": "Rashee Rice (WR, KC)",
         "slot": "WR",
-        "points": 10.3,
-        "rank": "WR7",
+        "points": 12.7,
+        "rank": "WR4",
         "scoring": "league"
       },
       {
@@ -745,13 +745,13 @@
         "player": "Saquon Barkley (RB, PHI)",
         "slot": "FLEX",
         "points": 11.0,
-        "rank": "RB17",
+        "rank": "RB16",
         "scoring": "league"
       },
       {
         "player": "Jake Bates (K, DET)",
         "slot": "K",
-        "points": 8.7,
+        "points": 8.6,
         "rank": "K6",
         "scoring": "std"
       },
@@ -771,22 +771,21 @@
       {
         "player": "Omar Cooper Jr. (WR, NYJ) [Questionable]",
         "slot": "BN",
-        "points": 6.7,
-        "rank": "WR28",
-        "scoring": "league"
+        "points": null,
+        "rank": null
       },
       {
         "player": "Seth McGowan (RB, IND) [Out]",
         "slot": "BN",
         "points": 4.7,
-        "rank": "RB42",
+        "rank": "RB41",
         "scoring": "league"
       },
       {
         "player": "Mike Evans (WR, SF) [Questionable]",
         "slot": "BN",
         "points": 9.6,
-        "rank": "WR14",
+        "rank": "WR15",
         "scoring": "league"
       },
       {
@@ -798,17 +797,16 @@
       {
         "player": "Kenneth Walker III (RB, KC) [Questionable]",
         "slot": "BN",
-        "points": 15.6,
-        "rank": "RB6",
-        "scoring": "league"
+        "points": null,
+        "rank": null
       }
     ],
     "opponent": [
       {
         "player": "Patrick Mahomes (QB, KC)",
         "slot": "QB",
-        "points": 30.5,
-        "rank": "QB2",
+        "points": 38.3,
+        "rank": "QB1",
         "scoring": "league"
       },
       {
@@ -821,8 +819,8 @@
       {
         "player": "Cam Skattebo (RB, NYG)",
         "slot": "RB",
-        "points": 13.8,
-        "rank": "RB10",
+        "points": 13.9,
+        "rank": "RB9",
         "scoring": "league"
       },
       {
@@ -835,7 +833,7 @@
       {
         "player": "Zay Flowers (WR, BAL)",
         "slot": "WR",
-        "points": 9.5,
+        "points": 9.6,
         "rank": "WR16",
         "scoring": "league"
       },
@@ -849,8 +847,8 @@
       {
         "player": "Breece Hall (RB, NYJ)",
         "slot": "FLEX",
-        "points": 9.7,
-        "rank": "RB19",
+        "points": 10.5,
+        "rank": "RB18",
         "scoring": "league"
       },
       {
@@ -873,7 +871,7 @@
         {
           "player": "Geno Smith (QB, NYJ) [Questionable]",
           "slot": null,
-          "points": 21.3,
+          "points": 21.6,
           "rank": "QB17",
           "scoring": "league",
           "waiver_status": "free agent now"
@@ -881,7 +879,7 @@
         {
           "player": "Jacoby Brissett (QB, BAL)",
           "slot": null,
-          "points": 15.7,
+          "points": 15.9,
           "rank": "QB21",
           "scoring": "league",
           "waiver_status": "free agent now"
@@ -899,35 +897,35 @@
           "player": "Emari Demercado (RB, HOU)",
           "slot": null,
           "points": 6.5,
-          "rank": "RB30",
+          "rank": "RB29",
           "scoring": "league"
         },
         {
           "player": "Samaje Perine (RB, CIN)",
           "slot": null,
           "points": 5.7,
-          "rank": "RB34",
+          "rank": "RB33",
           "scoring": "league"
         },
         {
           "player": "Kimani Vidal (RB, LAC)",
           "slot": null,
           "points": 5.4,
-          "rank": "RB35",
+          "rank": "RB34",
           "scoring": "league"
         },
         {
           "player": "Tyjae Spears (RB, TEN) [Questionable]",
           "slot": null,
           "points": 5.2,
-          "rank": "RB40",
+          "rank": "RB39",
           "scoring": "league"
         },
         {
           "player": "Mike Washington Jr. (RB, LV)",
           "slot": null,
           "points": 4.4,
-          "rank": "RB43",
+          "rank": "RB42",
           "scoring": "league"
         }
       ],
@@ -936,36 +934,36 @@
           "player": "Elic Ayomanor (WR, TEN)",
           "slot": null,
           "points": 7.1,
-          "rank": "WR26",
+          "rank": "WR27",
           "scoring": "league"
+        },
+        {
+          "player": "Adonai Mitchell (WR, NYJ)",
+          "slot": null,
+          "points": 6.7,
+          "rank": "WR28",
+          "scoring": "league",
+          "waiver_status": "free agent now"
         },
         {
           "player": "Chimere Dike (WR, TEN)",
           "slot": null,
           "points": 6.3,
-          "rank": "WR30",
+          "rank": "WR31",
           "scoring": "league"
         },
         {
           "player": "Khalil Shakir (WR, BUF)",
           "slot": null,
           "points": 6.2,
-          "rank": "WR31",
+          "rank": "WR33",
           "scoring": "league"
-        },
-        {
-          "player": "Adonai Mitchell (WR, NYJ)",
-          "slot": null,
-          "points": 5.6,
-          "rank": "WR39",
-          "scoring": "league",
-          "waiver_status": "free agent now"
         },
         {
           "player": "Pat Bryant (WR, DEN)",
           "slot": null,
           "points": 5.6,
-          "rank": "WR41",
+          "rank": "WR40",
           "scoring": "league"
         }
       ],
@@ -985,9 +983,9 @@
           "scoring": "league"
         },
         {
-          "player": "Brevyn Spann-Ford (TE, DAL)",
+          "player": "Mason Taylor (TE, NYJ)",
           "slot": null,
-          "points": 4.5,
+          "points": 4.6,
           "rank": "TE19",
           "scoring": "league"
         }
@@ -999,12 +997,12 @@
           "points": 10.0,
           "rank": "K1",
           "scoring": "std",
-          "waiver_status": "on waivers until Fri Nov 20, 9:34 AM ET"
+          "waiver_status": "free agent now"
         },
         {
           "player": "Chris Boswell (K, PIT)",
           "slot": null,
-          "points": 8.3,
+          "points": 8.2,
           "rank": "K9",
           "scoring": "std",
           "waiver_status": "free agent now"
@@ -1019,7 +1017,7 @@
           "scoring": "std"
         },
         {
-          "player": "Los Angeles Chargers (DEF, LAC)",
+          "player": "Philadelphia Eagles (DEF, PHI)",
           "slot": null,
           "points": 7.0,
           "rank": "DEF11",
@@ -1027,11 +1025,12 @@
           "waiver_status": "free agent now"
         },
         {
-          "player": "Cincinnati Bengals (DEF, CIN)",
+          "player": "Los Angeles Chargers (DEF, LAC)",
           "slot": null,
-          "points": 6.5,
-          "rank": "DEF13",
-          "scoring": "std"
+          "points": 7.0,
+          "rank": "DEF12",
+          "scoring": "std",
+          "waiver_status": "free agent now"
         }
       ]
     }
@@ -1039,128 +1038,128 @@
   "trending_adds": [
     {
       "player": "Detroit Lions (DEF, DET)",
-      "adds": 621954,
+      "adds": 495612,
       "rostered_by": 3
     },
     {
       "player": "Chimere Dike (WR, TEN)",
-      "adds": 458091,
+      "adds": 454059,
       "rostered_by": null
     },
     {
       "player": "Cairo Santos (K, CHI)",
-      "adds": 413973,
+      "adds": 349818,
       "rostered_by": 9
     },
     {
-      "player": "Xavier Hutchinson (WR, HOU)",
-      "adds": 382193,
-      "rostered_by": null
-    },
-    {
       "player": "Michael Mayer (TE, LV)",
-      "adds": 263808,
-      "rostered_by": null
-    },
-    {
-      "player": "Pat Bryant (WR, DEN)",
-      "adds": 208464,
-      "rostered_by": null
-    },
-    {
-      "player": "Elic Ayomanor (WR, TEN)",
-      "adds": 205312,
-      "rostered_by": null
-    },
-    {
-      "player": "Justice Hill (RB, BAL)",
-      "adds": 204138,
-      "rostered_by": 7
-    },
-    {
-      "player": "Seth McGowan (RB, IND) [Out]",
-      "adds": 199104,
-      "rostered_by": 11
-    },
-    {
-      "player": "Mark Andrews (TE, BAL)",
-      "adds": 197343,
+      "adds": 241866,
       "rostered_by": null
     },
     {
       "player": "Chris Rodriguez Jr. (RB, JAX) [Questionable]",
-      "adds": 173655,
+      "adds": 238878,
       "rostered_by": 9
     },
     {
+      "player": "Xavier Hutchinson (WR, HOU)",
+      "adds": 233359,
+      "rostered_by": null
+    },
+    {
+      "player": "Justice Hill (RB, BAL)",
+      "adds": 211302,
+      "rostered_by": 7
+    },
+    {
+      "player": "Pat Bryant (WR, DEN)",
+      "adds": 204424,
+      "rostered_by": null
+    },
+    {
+      "player": "Mark Andrews (TE, BAL)",
+      "adds": 189684,
+      "rostered_by": null
+    },
+    {
+      "player": "Elic Ayomanor (WR, TEN)",
+      "adds": 176800,
+      "rostered_by": null
+    },
+    {
       "player": "Ryan Flournoy (WR, DAL)",
-      "adds": 167248,
+      "adds": 146240,
       "rostered_by": 6
     },
     {
       "player": "Chase McLaughlin (K, TB)",
-      "adds": 152312,
+      "adds": 138984,
       "rostered_by": 10
     },
     {
+      "player": "Adonai Mitchell (WR, NYJ)",
+      "adds": 138896,
+      "rostered_by": null
+    },
+    {
+      "player": "Seth McGowan (RB, IND) [Out]",
+      "adds": 127080,
+      "rostered_by": 11
+    },
+    {
       "player": "Bo Nix (QB, DEN)",
-      "adds": 140634,
+      "adds": 118524,
       "rostered_by": 10
     },
     {
       "player": "Tampa Bay Buccaneers (DEF, TB)",
-      "adds": 119510,
+      "adds": 105930,
       "rostered_by": 1
     },
     {
-      "player": "Samaje Perine (RB, CIN)",
-      "adds": 111664,
-      "rostered_by": null
-    },
-    {
       "player": "Jacory Croskey-Merritt (RB, WAS) [IR]",
-      "adds": 110961,
+      "adds": 105813,
       "rostered_by": 4
     },
     {
-      "player": "Jake Bates (K, DET)",
-      "adds": 106512,
-      "rostered_by": 11
-    },
-    {
       "player": "Gavin Bartholomew (TE, MIN)",
-      "adds": 105336,
+      "adds": 102627,
       "rostered_by": null
     },
     {
-      "player": "Courtland Sutton (WR, DEN)",
-      "adds": 100422,
+      "player": "Samaje Perine (RB, CIN)",
+      "adds": 100160,
       "rostered_by": null
-    },
-    {
-      "player": "Jason Sanders (K, NYJ)",
-      "adds": 95990,
-      "rostered_by": 3
     },
     {
       "player": "Brenton Strange (TE, JAX)",
-      "adds": 94383,
+      "adds": 96534,
       "rostered_by": 12
     },
     {
+      "player": "Courtland Sutton (WR, DEN)",
+      "adds": 94734,
+      "rostered_by": null
+    },
+    {
+      "player": "Jake Bates (K, DET)",
+      "adds": 93232,
+      "rostered_by": 11
+    },
+    {
       "player": "Fernando Mendoza (QB, LV)",
-      "adds": 92488,
+      "adds": 86704,
       "rostered_by": null
     },
     {
-      "player": "Joey Slye (K, TEN)",
-      "adds": 91170,
-      "rostered_by": null
+      "player": "Darren Waller (TE, CAR) [Questionable]",
+      "adds": 84789,
+      "rostered_by": 9
     },
     {
-      "player": "Adonai Mitchell (WR, NYJ)",
-      "adds": 83112,
-      "rostered_by": null
+      "player": "Jason Sanders (K, NYJ)",
+      "adds": 83055,
+      "rostered_by": 3
     }
   ]
 }
