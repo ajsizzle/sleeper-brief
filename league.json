@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-22T17:33:17.757563-05:00",
+  "generated": "2026-11-22T22:47:04.657518-05:00",
   "season": "2026",
   "week": 11,
   "league": {
@@ -829,7 +829,7 @@
       {
         "player": "Christian McCaffrey (RB, SF)",
         "slot": "RB",
-        "points": 16.3,
+        "points": 16.4,
         "rank": "RB6",
         "scoring": "league"
       },
@@ -1055,128 +1055,128 @@
   "trending_adds": [
     {
       "player": "Michael Mayer (TE, LV)",
-      "adds": 797220,
+      "adds": 776331,
       "rostered_by": null
     },
     {
       "player": "Dawson Knox (TE, BUF)",
-      "adds": 418182,
+      "adds": 396738,
       "rostered_by": null
     },
     {
       "player": "Chimere Dike (WR, TEN)",
-      "adds": 379557,
+      "adds": 350496,
       "rostered_by": null
     },
     {
       "player": "Justice Hill (RB, BAL)",
-      "adds": 308448,
+      "adds": 340182,
       "rostered_by": 7
     },
     {
       "player": "Adonai Mitchell (WR, NYJ)",
-      "adds": 284736,
+      "adds": 249056,
       "rostered_by": 8
     },
     {
       "player": "Mason Taylor (TE, NYJ)",
-      "adds": 201765,
+      "adds": 195775,
       "rostered_by": null
     },
     {
       "player": "Roman Wilson (WR, PIT)",
-      "adds": 195120,
+      "adds": 176715,
       "rostered_by": null
     },
     {
       "player": "Kenny Gainwell (RB, TB)",
-      "adds": 191016,
+      "adds": 173368,
       "rostered_by": 5
     },
     {
       "player": "Cairo Santos (K, CHI)",
-      "adds": 162771,
+      "adds": 145047,
       "rostered_by": 9
     },
     {
       "player": "Darren Waller (TE, CAR)",
-      "adds": 144252,
+      "adds": 139446,
       "rostered_by": 9
     },
     {
-      "player": "Pat Bryant (WR, DEN)",
-      "adds": 139488,
+      "player": "Samaje Perine (RB, CIN)",
+      "adds": 138756,
       "rostered_by": null
     },
     {
-      "player": "Mark Andrews (TE, BAL)",
-      "adds": 133119,
+      "player": "Mike Gesicki (TE, CIN)",
+      "adds": 131632,
+      "rostered_by": 8
+    },
+    {
+      "player": "Konata Mumpfield (WR, LAR)",
+      "adds": 121815,
+      "rostered_by": 3
+    },
+    {
+      "player": "Pat Bryant (WR, DEN)",
+      "adds": 119872,
       "rostered_by": null
     },
     {
       "player": "Chase McLaughlin (K, TB)",
-      "adds": 132008,
+      "adds": 119064,
       "rostered_by": 10
     },
     {
-      "player": "Mike Gesicki (TE, CIN)",
-      "adds": 131172,
-      "rostered_by": 8
-    },
-    {
-      "player": "Samaje Perine (RB, CIN)",
-      "adds": 131108,
+      "player": "Fernando Mendoza (QB, LV)",
+      "adds": 115232,
       "rostered_by": null
     },
     {
-      "player": "Konata Mumpfield (WR, LAR)",
-      "adds": 129582,
-      "rostered_by": 3
-    },
-    {
-      "player": "Detroit Lions (DEF, DET)",
-      "adds": 124290,
-      "rostered_by": 3
+      "player": "Mark Andrews (TE, BAL)",
+      "adds": 114498,
+      "rostered_by": null
     },
     {
       "player": "Brenton Strange (TE, JAX)",
-      "adds": 118998,
+      "adds": 111663,
       "rostered_by": 12
     },
     {
-      "player": "Gunnar Helm (TE, TEN)",
-      "adds": 97104,
-      "rostered_by": null
+      "player": "Detroit Lions (DEF, DET)",
+      "adds": 110466,
+      "rostered_by": 3
     },
     {
       "player": "Evan Engram (TE, DEN)",
-      "adds": 93760,
-      "rostered_by": null
-    },
-    {
-      "player": "Fernando Mendoza (QB, LV)",
-      "adds": 85280,
-      "rostered_by": null
-    },
-    {
-      "player": "Courtland Sutton (WR, DEN)",
-      "adds": 83610,
+      "adds": 105616,
       "rostered_by": null
     },
     {
       "player": "Treylon Burks (WR, WAS)",
-      "adds": 82537,
+      "adds": 100723,
       "rostered_by": null
+    },
+    {
+      "player": "Chris Rodriguez Jr. (RB, JAX)",
+      "adds": 98928,
+      "rostered_by": 9
+    },
+    {
+      "player": "Gunnar Helm (TE, TEN)",
+      "adds": 86863,
+      "rostered_by": null
+    },
+    {
+      "player": "San Francisco 49ers (DEF, SF)",
+      "adds": 83850,
+      "rostered_by": 12
     },
     {
       "player": "Joey Slye (K, TEN)",
-      "adds": 81558,
+      "adds": 77706,
       "rostered_by": null
-    },
-    {
-      "player": "Jason Sanders (K, NYJ)",
-      "adds": 80545,
-      "rostered_by": 3
     }
   ]
 }
