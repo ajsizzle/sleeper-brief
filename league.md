@@ -1,5 +1,5 @@
 # Sleeper league state
-Generated Sunday November 22, 2026 10:47 PM ET · Season 2026 · NFL week 11
+Generated Monday November 23, 2026 09:56 AM ET · Season 2026 · NFL week 11
 League: The Dudes Will Roll · 12 teams · waivers: FAAB (budget $200) · lineup: QB, RB, RB, WR, WR, TE, FLEX, K, DEF
 
 ## My team: THE ACE OF SPADES (roster 11)
@@ -174,7 +174,7 @@ Sleeper's weekly projections (provider: rotowire), scored with this league's sco
 - WR: Rome Odunze (WR, CHI) · 7.7 projected · WR24
 - WR: Rashee Rice (WR, KC) · 10.6 projected · WR7
 - TE: George Kittle (TE, SF) · 8.1 projected · TE3
-- FLEX: Chase Brown (RB, CIN) · 11.0 projected · RB18
+- FLEX: Chase Brown (RB, CIN) · 10.8 projected · RB18
 - K: Jake Bates (K, DET) · 8.7 projected (Sleeper standard) · K6
 - DEF: Houston Texans (DEF, HOU) · 8.8 projected (Sleeper standard) · DEF3
 - BN: Drake Maye (QB, NE) [Out] · no projection (bye, out, or not projected)
@@ -187,7 +187,7 @@ Sleeper's weekly projections (provider: rotowire), scored with this league's sco
 - QB: Patrick Mahomes (QB, KC) · 31.7 projected · QB2
 - RB: Christian McCaffrey (RB, SF) · 16.4 projected · RB6
 - RB: Cam Skattebo (RB, NYG) · 13.5 projected · RB12
-- WR: Ja'Marr Chase (WR, CIN) · 15.5 projected · WR1
+- WR: Ja'Marr Chase (WR, CIN) · 15.2 projected · WR1
 - WR: Zay Flowers (WR, BAL) · 9.7 projected · WR15
 - TE: Colston Loveland (TE, CHI) · 6.5 projected · TE6
 - FLEX: Breece Hall (RB, NYJ) · 10.6 projected · RB19
@@ -198,7 +198,7 @@ Sleeper's weekly projections (provider: rotowire), scored with this league's sco
 - Jacoby Brissett (QB, BAL) · 16.1 projected · QB21 · free agent now
 - Fernando Mendoza (QB, LV) · 15.7 projected · QB22
 - Emari Demercado (RB, HOU) · 6.5 projected · RB30
-- Samaje Perine (RB, CIN) · 5.9 projected · RB33
+- Samaje Perine (RB, CIN) · 5.8 projected · RB33
 - Mike Washington Jr. (RB, LV) · 5.7 projected · RB34
 - Kimani Vidal (RB, LAC) · 5.5 projected · RB36
 - Keaton Mitchell (RB, LAC) [Questionable] · 4.4 projected · RB43
@@ -207,7 +207,7 @@ Sleeper's weekly projections (provider: rotowire), scored with this league's sco
 - Pat Bryant (WR, DEN) · 5.6 projected · WR41
 - Malik Washington (WR, MIA) · 5.3 projected · WR42
 - Courtland Sutton (WR, DEN) · 5.3 projected · WR43
-- Dallas Goedert (TE, PHI) · 6.3 projected · TE8
+- Dallas Goedert (TE, PHI) · 6.3 projected · TE7
 - Chig Okonkwo (TE, WAS) · 6.2 projected · TE9
 - Michael Mayer (TE, LV) · 5.5 projected · TE13 · free agent now
 - Ka'imi Fairbairn (K, HOU) · 10.0 projected (Sleeper standard) · K1 · free agent now
@@ -217,30 +217,30 @@ Sleeper's weekly projections (provider: rotowire), scored with this league's sco
 - Philadelphia Eagles (DEF, PHI) · 7.0 projected (Sleeper standard) · DEF11 · free agent now
 
 ## Trending adds across Sleeper, last 24 hours
-- Michael Mayer (TE, LV) · 776,331 adds · AVAILABLE in my league
-- Dawson Knox (TE, BUF) · 396,738 adds · AVAILABLE in my league
-- Chimere Dike (WR, TEN) · 350,496 adds · AVAILABLE in my league
-- Justice Hill (RB, BAL) · 340,182 adds · rostered by Make Miami Great Again
-- Adonai Mitchell (WR, NYJ) · 249,056 adds · rostered by Team 8
-- Mason Taylor (TE, NYJ) · 195,775 adds · AVAILABLE in my league
-- Roman Wilson (WR, PIT) · 176,715 adds · AVAILABLE in my league
-- Kenny Gainwell (RB, TB) · 173,368 adds · rostered by Springfield Atoms
-- Cairo Santos (K, CHI) · 145,047 adds · rostered by Team 9
-- Darren Waller (TE, CAR) · 139,446 adds · rostered by Team 9
-- Samaje Perine (RB, CIN) · 138,756 adds · AVAILABLE in my league
-- Mike Gesicki (TE, CIN) · 131,632 adds · rostered by Team 8
-- Konata Mumpfield (WR, LAR) · 121,815 adds · rostered by Drunk To Taste This CHX
-- Pat Bryant (WR, DEN) · 119,872 adds · AVAILABLE in my league
-- Chase McLaughlin (K, TB) · 119,064 adds · rostered by Strokin My Ditka
-- Fernando Mendoza (QB, LV) · 115,232 adds · AVAILABLE in my league
-- Mark Andrews (TE, BAL) · 114,498 adds · AVAILABLE in my league
-- Brenton Strange (TE, JAX) · 111,663 adds · rostered by Young Blood
-- Detroit Lions (DEF, DET) · 110,466 adds · rostered by Drunk To Taste This CHX
-- Evan Engram (TE, DEN) · 105,616 adds · AVAILABLE in my league
-- Treylon Burks (WR, WAS) · 100,723 adds · AVAILABLE in my league
-- Chris Rodriguez Jr. (RB, JAX) · 98,928 adds · rostered by Team 9
-- Gunnar Helm (TE, TEN) · 86,863 adds · AVAILABLE in my league
-- San Francisco 49ers (DEF, SF) · 83,850 adds · rostered by Young Blood
-- Joey Slye (K, TEN) · 77,706 adds · AVAILABLE in my league
+- Michael Mayer (TE, LV) · 742,392 adds · AVAILABLE in my league
+- Justice Hill (RB, BAL) · 334,197 adds · rostered by Make Miami Great Again
+- Dawson Knox (TE, BUF) · 327,366 adds · AVAILABLE in my league
+- Chimere Dike (WR, TEN) · 269,325 adds · AVAILABLE in my league
+- Adonai Mitchell (WR, NYJ) · 187,392 adds · rostered by Team 8
+- Mason Taylor (TE, NYJ) · 181,705 adds · AVAILABLE in my league
+- Kenny Gainwell (RB, TB) · 132,208 adds · rostered by Springfield Atoms
+- Roman Wilson (WR, PIT) · 131,085 adds · AVAILABLE in my league
+- Fernando Mendoza (QB, LV) · 128,736 adds · AVAILABLE in my league
+- Samaje Perine (RB, CIN) · 124,492 adds · AVAILABLE in my league
+- Darren Waller (TE, CAR) · 123,030 adds · rostered by Team 9
+- Mike Gesicki (TE, CIN) · 119,488 adds · rostered by Team 8
+- Chris Rodriguez Jr. (RB, JAX) · 116,109 adds · rostered by Team 9
+- Evan Engram (TE, DEN) · 111,760 adds · AVAILABLE in my league
+- Cairo Santos (K, CHI) · 104,440 adds · rostered by Team 9
+- Konata Mumpfield (WR, LAR) · 99,945 adds · rostered by Drunk To Taste This CHX
+- Treylon Burks (WR, WAS) · 96,740 adds · AVAILABLE in my league
+- Brenton Strange (TE, JAX) · 96,210 adds · rostered by Young Blood
+- Pat Bryant (WR, DEN) · 93,888 adds · AVAILABLE in my league
+- Chase McLaughlin (K, TB) · 86,424 adds · rostered by Strokin My Ditka
+- Mark Andrews (TE, BAL) · 84,105 adds · AVAILABLE in my league
+- Detroit Lions (DEF, DET) · 82,395 adds · rostered by Drunk To Taste This CHX
+- San Francisco 49ers (DEF, SF) · 80,640 adds · rostered by Young Blood
+- Washington Commanders (DEF, WAS) · 75,110 adds · AVAILABLE in my league
+- Jason Sanders (K, NYJ) · 65,705 adds · rostered by Drunk To Taste This CHX
 
 Data from the Sleeper API (sleeper.com). Injury tags in brackets are Sleeper's designations and may lag official reports.
