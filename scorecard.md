@@ -1,7 +1,7 @@
 # Scorecard: season to date
-Updated Tuesday November 24, 2026 06:31 PM ET. Rebuilt from Sleeper every run.
+Updated Wednesday November 25, 2026 03:50 AM ET. Rebuilt from Sleeper every run.
 
-Record 6-5 · 1198.5 pts scored · 1307.0 optimal · lineup efficiency 91.7% · avg left on bench 9.9 · waiver claims won 18/27 · FAAB spent $200 · trades 2
+Record 6-5 · 1198.5 pts scored · 1307.0 optimal · lineup efficiency 91.7% · avg left on bench 9.9 · waiver claims won 19/28 · FAAB spent $200 · trades 2
 
 | Week | Result | Me | Opponent | Optimal | Left on bench | Pts rank (of 12) | Waivers won/lost | Trades |
 |---|---|---|---|---|---|---|---|---|
@@ -15,6 +15,6 @@ Record 6-5 · 1198.5 pts scored · 1307.0 optimal · lineup efficiency 91.7% · 
 | 8 | L vs Team 8 | 100.45 | 110.9 | 121.35 | 20.9 | 8 | 1/1 ($23) | 2 |
 | 9 | W vs Springfield Atoms | 133.95 | 98.0 | 136.75 | 2.8 | 3 | 1/0 ($0) | 0 |
 | 10 | L vs Thoroughbred Cheesehead | 94.3 | 149.65 | 120.85 | 26.55 | 11 | 1/0 ($0) | 0 |
-| 11 | W vs Holla | 112.55 | 104.6 | 127.85 | 15.3 | 3 | 0/0 | 0 |
+| 11 | W vs Holla | 112.55 | 104.6 | 127.85 | 15.3 | 3 | 1/0 ($0) | 0 |
 
 Left on bench is optimal minus actual: the cost of start/sit calls that week. Lineup efficiency is actual divided by optimal for the season. Points rank is where my score landed among all teams that week.
