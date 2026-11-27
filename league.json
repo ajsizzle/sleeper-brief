@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-26T17:26:32.410900-05:00",
+  "generated": "2026-11-27T00:09:03.564319-05:00",
   "season": "2026",
   "week": 12,
   "league": {
@@ -433,7 +433,7 @@
         "Pat Freiermuth (TE, PIT)",
         "Makai Lemon (WR, PHI)",
         "Evan McPherson (K, CIN)",
-        "Tampa Bay Buccaneers (DEF, TB)"
+        "Cleveland Browns (DEF, CLE)"
       ],
       "bench": [
         "Harold Fannin Jr. (TE, CLE) [Questionable]",
@@ -441,7 +441,7 @@
         "Tyler Shough (QB, NO)",
         "Denzel Boston (WR, CLE) [Questionable]",
         "Rhamondre Stevenson (RB, NE)",
-        "Cleveland Browns (DEF, CLE)"
+        "Tampa Bay Buccaneers (DEF, TB)"
       ],
       "ir": []
     },
@@ -702,7 +702,7 @@
       {
         "player": "Chase Brown (RB, CIN)",
         "slot": "FLEX",
-        "points": 10.7,
+        "points": 10.8,
         "rank": "RB21",
         "scoring": "league"
       },
@@ -730,21 +730,21 @@
         "player": "Omar Cooper Jr. (WR, NYJ) [Questionable]",
         "slot": "BN",
         "points": 7.3,
-        "rank": "WR27",
+        "rank": "WR26",
         "scoring": "league"
       },
       {
         "player": "Mike Evans (WR, SF) [Questionable]",
         "slot": "BN",
-        "points": 9.3,
-        "rank": "WR20",
+        "points": 9.4,
+        "rank": "WR18",
         "scoring": "league"
       },
       {
         "player": "Samaje Perine (RB, CIN)",
         "slot": "BN",
-        "points": 8.2,
-        "rank": "RB31",
+        "points": 8.1,
+        "rank": "RB32",
         "scoring": "league"
       },
       {
@@ -786,7 +786,7 @@
         "player": "George Pickens (WR, DAL)",
         "slot": "WR",
         "points": 10.3,
-        "rank": "WR14",
+        "rank": "WR15",
         "scoring": "league"
       },
       {
@@ -830,14 +830,14 @@
         {
           "player": "Geno Smith (QB, NYJ)",
           "slot": null,
-          "points": 24.2,
+          "points": 24.4,
           "rank": "QB8",
           "scoring": "league"
         },
         {
           "player": "Sam Darnold (QB, SEA)",
           "slot": null,
-          "points": 19.9,
+          "points": 20.0,
           "rank": "QB17",
           "scoring": "league"
         },
@@ -892,7 +892,7 @@
         {
           "player": "Malik Washington (WR, MIA)",
           "slot": null,
-          "points": 6.2,
+          "points": 6.1,
           "rank": "WR38",
           "scoring": "league"
         },
@@ -994,128 +994,128 @@
   "trending_adds": [
     {
       "player": "Washington Commanders (DEF, WAS)",
-      "adds": 486556,
+      "adds": 248962,
       "rostered_by": null
     },
     {
       "player": "Deshaun Watson (QB, CLE)",
-      "adds": 318912,
+      "adds": 216632,
       "rostered_by": 8
     },
     {
       "player": "Cleveland Browns (DEF, CLE)",
-      "adds": 263991,
+      "adds": 155995,
       "rostered_by": 1
     },
     {
       "player": "Chris Rodriguez Jr. (RB, JAX)",
-      "adds": 244908,
+      "adds": 147303,
       "rostered_by": 9
     },
     {
-      "player": "Konata Mumpfield (WR, LAR)",
-      "adds": 210636,
-      "rostered_by": 3
+      "player": "New England Patriots (DEF, NE)",
+      "adds": 117523,
+      "rostered_by": null
     },
     {
-      "player": "New England Patriots (DEF, NE)",
-      "adds": 178486,
+      "player": "Joe Milton (QB, PHI)",
+      "adds": 106988,
       "rostered_by": null
     },
     {
       "player": "Justice Hill (RB, BAL)",
-      "adds": 176499,
+      "adds": 98226,
       "rostered_by": 7
     },
     {
       "player": "Geno Smith (QB, NYJ)",
-      "adds": 146252,
-      "rostered_by": null
-    },
-    {
-      "player": "New York Giants (DEF, NYG)",
-      "adds": 141916,
-      "rostered_by": null
-    },
-    {
-      "player": "Samaje Perine (RB, CIN)",
-      "adds": 141072,
-      "rostered_by": 11
-    },
-    {
-      "player": "Chimere Dike (WR, TEN)",
-      "adds": 127278,
-      "rostered_by": null
-    },
-    {
-      "player": "Fernando Mendoza (QB, LV)",
-      "adds": 104000,
+      "adds": 98208,
       "rostered_by": null
     },
     {
       "player": "Evan Engram (TE, DEN)",
-      "adds": 97536,
+      "adds": 97104,
       "rostered_by": null
     },
     {
-      "player": "Ted Hurst III (WR, TB)",
-      "adds": 88896,
+      "player": "Sam Roush (TE, CHI)",
+      "adds": 91616,
       "rostered_by": null
     },
     {
-      "player": "Jacory Croskey-Merritt (RB, WAS)",
-      "adds": 77247,
-      "rostered_by": 4
+      "player": "Chimere Dike (WR, TEN)",
+      "adds": 85437,
+      "rostered_by": null
+    },
+    {
+      "player": "Samaje Perine (RB, CIN)",
+      "adds": 84800,
+      "rostered_by": 11
+    },
+    {
+      "player": "Konata Mumpfield (WR, LAR)",
+      "adds": 70749,
+      "rostered_by": 3
+    },
+    {
+      "player": "Fernando Mendoza (QB, LV)",
+      "adds": 68752,
+      "rostered_by": null
+    },
+    {
+      "player": "New York Giants (DEF, NYG)",
+      "adds": 68324,
+      "rostered_by": null
     },
     {
       "player": "Darren Waller (TE, CAR)",
-      "adds": 74925,
+      "adds": 58734,
       "rostered_by": 9
     },
     {
-      "player": "Dylan Sampson (RB, CLE)",
-      "adds": 73670,
+      "player": "Ted Hurst III (WR, TB)",
+      "adds": 58164,
       "rostered_by": null
     },
     {
-      "player": "Tampa Bay Buccaneers (DEF, TB)",
-      "adds": 72055,
-      "rostered_by": 1
-    },
-    {
       "player": "Blake Corum (RB, LAR)",
-      "adds": 71160,
+      "adds": 55352,
       "rostered_by": 6
     },
     {
+      "player": "Brenton Strange (TE, JAX)",
+      "adds": 52119,
+      "rostered_by": 12
+    },
+    {
       "player": "Jason Sanders (K, NYJ)",
-      "adds": 69340,
+      "adds": 48740,
       "rostered_by": 3
     },
     {
       "player": "J.J. McCarthy (QB, NYG)",
-      "adds": 69261,
+      "adds": 47301,
       "rostered_by": 11
+    },
+    {
+      "player": "Jacory Croskey-Merritt (RB, WAS)",
+      "adds": 46584,
+      "rostered_by": 4
+    },
+    {
+      "player": "Tampa Bay Buccaneers (DEF, TB)",
+      "adds": 45165,
+      "rostered_by": 1
+    },
+    {
+      "player": "Dylan Sampson (RB, CLE)",
+      "adds": 44570,
+      "rostered_by": null
     },
     {
       "player": "Omar Cooper Jr. (WR, NYJ) [Questionable]",
-      "adds": 69184,
+      "adds": 42792,
       "rostered_by": 11
-    },
-    {
-      "player": "Brenton Strange (TE, JAX)",
-      "adds": 62307,
-      "rostered_by": 12
-    },
-    {
-      "player": "Emmett Johnson (RB, KC)",
-      "adds": 61155,
-      "rostered_by": 11
-    },
-    {
-      "player": "Mason Rudolph (QB, PIT)",
-      "adds": 60218,
-      "rostered_by": null
     }
   ]
 }
