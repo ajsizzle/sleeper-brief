@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-27T18:34:54.269217-05:00",
+  "generated": "2026-11-28T03:03:43.760514-05:00",
   "season": "2026",
   "week": 12,
   "league": {
@@ -508,15 +508,15 @@
       "player": "Corey Kiner (RB, NE)",
       "dropped_by": "Thoroughbred Cheesehead",
       "dropped_at": "2026-11-25T18:51:05.056000-05:00",
-      "on_waivers_until": "2026-11-27T18:51:05.056000-05:00",
-      "waiver_status": "on waivers until Fri Nov 27, 6:51 PM ET"
+      "on_waivers_until": null,
+      "waiver_status": "free agent now"
     },
     {
       "player": "J.K. Dobbins (RB, DEN) [Sus]",
       "dropped_by": "Thoroughbred Cheesehead",
       "dropped_at": "2026-11-25T18:50:18.394000-05:00",
-      "on_waivers_until": "2026-11-27T18:50:18.394000-05:00",
-      "waiver_status": "on waivers until Fri Nov 27, 6:50 PM ET"
+      "on_waivers_until": null,
+      "waiver_status": "free agent now"
     },
     {
       "player": "Rachaad White (RB, WAS)",
@@ -675,7 +675,7 @@
         "player": "Saquon Barkley (RB, PHI) [Questionable]",
         "slot": "RB",
         "points": 14.0,
-        "rank": "RB11",
+        "rank": "RB10",
         "scoring": "league"
       },
       {
@@ -689,14 +689,14 @@
         "player": "Rashee Rice (WR, KC)",
         "slot": "WR",
         "points": 7.8,
-        "rank": "WR25",
+        "rank": "WR24",
         "scoring": "league"
       },
       {
         "player": "George Kittle (TE, SF)",
         "slot": "TE",
-        "points": 6.7,
-        "rank": "TE9",
+        "points": 6.4,
+        "rank": "TE10",
         "scoring": "league"
       },
       {
@@ -735,8 +735,8 @@
       {
         "player": "Mike Evans (WR, SF) [Questionable]",
         "slot": "BN",
-        "points": 8.7,
-        "rank": "WR22",
+        "points": 8.2,
+        "rank": "WR23",
         "scoring": "league"
       },
       {
@@ -806,7 +806,7 @@
         "player": "Aaron Jones Sr. (RB, MIN)",
         "slot": "FLEX",
         "points": 8.9,
-        "rank": "RB28",
+        "rank": "RB29",
         "scoring": "league"
       },
       {
@@ -836,7 +836,7 @@
         {
           "player": "Sam Darnold (QB, SEA)",
           "slot": null,
-          "points": 20.7,
+          "points": 20.8,
           "rank": "QB15",
           "scoring": "league"
         },
@@ -863,7 +863,7 @@
           "points": 6.6,
           "rank": "RB38",
           "scoring": "league",
-          "waiver_status": "on waivers until Fri Nov 27, 6:51 PM ET"
+          "waiver_status": "free agent now"
         },
         {
           "player": "Devin Singletary (RB, NYG)",
@@ -874,16 +874,16 @@
           "waiver_status": "free agent now"
         },
         {
-          "player": "Kaleb Johnson (RB, GB)",
+          "player": "Kimani Vidal (RB, LAC)",
           "slot": null,
-          "points": 5.7,
+          "points": 6.1,
           "rank": "RB43",
           "scoring": "league"
         },
         {
-          "player": "LeQuint Allen Jr. (RB, JAX)",
+          "player": "Kaleb Johnson (RB, GB)",
           "slot": null,
-          "points": 5.4,
+          "points": 5.7,
           "rank": "RB44",
           "scoring": "league"
         }
@@ -941,7 +941,7 @@
           "scoring": "league"
         },
         {
-          "player": "Mark Andrews (TE, BAL)",
+          "player": "AJ Barner (TE, SEA)",
           "slot": null,
           "points": 4.3,
           "rank": "TE22",
@@ -993,129 +993,129 @@
   },
   "trending_adds": [
     {
-      "player": "Brian Thomas Jr. (WR, JAX)",
-      "adds": 317965,
-      "rostered_by": null
-    },
-    {
       "player": "Chris Rodriguez Jr. (RB, JAX)",
-      "adds": 286137,
+      "adds": 397575,
       "rostered_by": 9
     },
     {
-      "player": "Sam Roush (TE, CHI)",
-      "adds": 243670,
+      "player": "Brian Thomas Jr. (WR, JAX)",
+      "adds": 389595,
       "rostered_by": null
     },
     {
       "player": "Josh Cameron (WR, JAX)",
-      "adds": 240916,
+      "adds": 281478,
+      "rostered_by": null
+    },
+    {
+      "player": "Sam Roush (TE, CHI)",
+      "adds": 255143,
       "rostered_by": null
     },
     {
       "player": "Deshaun Watson (QB, CLE)",
-      "adds": 228808,
+      "adds": 251976,
       "rostered_by": 8
     },
     {
+      "player": "DJ Uiagalelei (QB, LAC)",
+      "adds": 237357,
+      "rostered_by": null
+    },
+    {
       "player": "Jakobi Meyers (WR, JAX) [Questionable]",
-      "adds": 187104,
+      "adds": 217062,
       "rostered_by": 2
     },
     {
-      "player": "Joe Milton (QB, PHI)",
-      "adds": 184160,
-      "rostered_by": null
-    },
-    {
-      "player": "DJ Uiagalelei (QB, LAC)",
-      "adds": 125784,
-      "rostered_by": null
-    },
-    {
       "player": "Geno Smith (QB, NYJ)",
-      "adds": 125460,
+      "adds": 150780,
+      "rostered_by": null
+    },
+    {
+      "player": "Joe Milton (QB, PHI)",
+      "adds": 102260,
       "rostered_by": null
     },
     {
       "player": "Brenton Strange (TE, JAX)",
-      "adds": 84006,
+      "adds": 87354,
       "rostered_by": 12
     },
     {
-      "player": "Chimere Dike (WR, TEN)",
-      "adds": 81414,
-      "rostered_by": null
-    },
-    {
       "player": "J.J. McCarthy (QB, NYG)",
-      "adds": 63579,
+      "adds": 75690,
       "rostered_by": 11
     },
     {
-      "player": "Evan Engram (TE, DEN)",
-      "adds": 63328,
+      "player": "Chimere Dike (WR, TEN)",
+      "adds": 71640,
       "rostered_by": null
     },
     {
       "player": "Fernando Mendoza (QB, LV)",
-      "adds": 59152,
-      "rostered_by": null
-    },
-    {
-      "player": "Washington Commanders (DEF, WAS)",
-      "adds": 58786,
-      "rostered_by": null
-    },
-    {
-      "player": "New England Patriots (DEF, NE)",
-      "adds": 55916,
-      "rostered_by": null
-    },
-    {
-      "player": "Samaje Perine (RB, CIN)",
-      "adds": 54684,
-      "rostered_by": 11
-    },
-    {
-      "player": "Justice Hill (RB, BAL)",
-      "adds": 50670,
-      "rostered_by": 7
-    },
-    {
-      "player": "Tai Felton (WR, MIN)",
-      "adds": 44286,
+      "adds": 59816,
       "rostered_by": null
     },
     {
       "player": "Tyler Shough (QB, NO)",
-      "adds": 42688,
+      "adds": 53136,
       "rostered_by": 1
     },
     {
-      "player": "Cleveland Browns (DEF, CLE)",
-      "adds": 41398,
-      "rostered_by": 1
+      "player": "New England Patriots (DEF, NE)",
+      "adds": 49987,
+      "rostered_by": null
     },
     {
       "player": "Kirk Cousins (QB, MIN)",
-      "adds": 41232,
+      "adds": 48304,
       "rostered_by": 12
     },
     {
+      "player": "Samaje Perine (RB, CIN)",
+      "adds": 46408,
+      "rostered_by": 11
+    },
+    {
+      "player": "Tai Felton (WR, MIN)",
+      "adds": 45030,
+      "rostered_by": null
+    },
+    {
+      "player": "Mac Jones (QB, SF)",
+      "adds": 42140,
+      "rostered_by": null
+    },
+    {
+      "player": "Justice Hill (RB, BAL)",
+      "adds": 37404,
+      "rostered_by": 7
+    },
+    {
       "player": "Jacory Croskey-Merritt (RB, WAS)",
-      "adds": 38934,
+      "adds": 36945,
       "rostered_by": 4
     },
     {
-      "player": "Konata Mumpfield (WR, LAR)",
-      "adds": 37017,
-      "rostered_by": 3
+      "player": "Darren Waller (TE, CAR) [Questionable]",
+      "adds": 32148,
+      "rostered_by": 9
     },
     {
-      "player": "Darren Waller (TE, CAR) [Questionable]",
-      "adds": 35334,
-      "rostered_by": 9
+      "player": "Evan Engram (TE, DEN)",
+      "adds": 31592,
+      "rostered_by": null
+    },
+    {
+      "player": "Sam Darnold (QB, SEA)",
+      "adds": 30417,
+      "rostered_by": null
+    },
+    {
+      "player": "Adonai Mitchell (WR, NYJ)",
+      "adds": 30088,
+      "rostered_by": 8
     }
   ]
 }
