@@ -1,5 +1,5 @@
 # Sleeper league state
-Generated Saturday November 28, 2026 03:03 AM ET · Season 2026 · NFL week 12
+Generated Saturday November 28, 2026 11:58 AM ET · Season 2026 · NFL week 12
 League: The Dudes Will Roll · 12 teams · waivers: FAAB (budget $200) · lineup: QB, RB, RB, WR, WR, TE, FLEX, K, DEF
 
 ## My team: THE ACE OF SPADES (roster 11)
@@ -16,10 +16,10 @@ Record 6-5 · 1198.5 pts · waiver priority 12 · FAAB used $200
 - DEF: Houston Texans (DEF, HOU)
 ### Bench
 - Drake Maye (QB, NE) [Out]
-- Omar Cooper Jr. (WR, NYJ) [Questionable]
+- Omar Cooper Jr. (WR, NYJ) [Out]
 - Mike Evans (WR, SF) [Questionable]
 - Samaje Perine (RB, CIN)
-- A.J. Brown (WR, NE) [Doubtful]
+- A.J. Brown (WR, NE) [Out]
 - Kenneth Walker III (RB, KC) [Out]
 
 ## Week 12 matchup: vs Young Blood · 6-5
@@ -43,7 +43,7 @@ Record 6-5 · 1198.5 pts · waiver priority 12 · FAAB used $200
 
 ## All teams (by record)
 ### FuelTheJET · 10-1 · 1513.5 pts · waiver priority 10
-Starters: Jordan Love (QB, GB); Jahmyr Gibbs (RB, DET); Jonah Coleman (RB, DEN); Malik Nabers (WR, NYG); Parker Washington (WR, JAX) [Questionable]; Trey McBride (TE, ARI); Matthew Golden (WR, GB); Cam Little (K, JAX); Chicago Bears (DEF, CHI)
+Starters: Jordan Love (QB, GB); Jahmyr Gibbs (RB, DET); Jonah Coleman (RB, DEN); Malik Nabers (WR, NYG); Parker Washington (WR, JAX) [Out]; Trey McBride (TE, ARI); Matthew Golden (WR, GB); Cam Little (K, JAX); Chicago Bears (DEF, CHI)
 Bench: Blake Corum (RB, LAR); Ryan Flournoy (WR, DAL); Cam Ward (QB, TEN); Kaelon Black (RB, SF); DeVonta Smith (WR, PHI) [Questionable]; Seattle Seahawks (DEF, SEA)
 
 ### Thoroughbred Cheesehead · 8-3 · 1422.5 pts · waiver priority 7
@@ -51,13 +51,13 @@ Starters: Joe Burrow (QB, CIN); James Cook III (RB, BUF); Bucky Irving (RB, TB);
 Bench: Dalton Kincaid (TE, BUF); Marvin Harrison Jr. (WR, HOU); Caleb Douglas (WR, MIA); Deebo Samuel Sr. (WR, SF); Rico Dowdle (RB, PIT); Tank Dell (WR, HOU)
 
 ### Make Miami Great Again · 7-4 · 1158.8 pts · waiver priority 4
-Starters: Justin Herbert (QB, LAC) [Questionable]; Justice Hill (RB, BAL); Bhayshul Tuten (RB, JAX) [Questionable]; Nico Collins (WR, HOU); DK Metcalf (WR, PIT); Brock Bowers (TE, LV) [Questionable]; Luther Burden III (WR, CHI); Drew Stevens (K, WAS); Carolina Panthers (DEF, CAR)
-Bench: Emanuel Wilson (RB, SEA); MarShawn Lloyd (RB, GB); Jordyn Tyson (WR, NO); Baker Mayfield (QB, TB); Josh Jacobs (RB, GB) [Out]; Juwan Johnson (TE, NO) [Questionable]
+Starters: Justin Herbert (QB, LAC) [Out]; Justice Hill (RB, BAL); Bhayshul Tuten (RB, JAX) [Out]; Nico Collins (WR, HOU); DK Metcalf (WR, PIT); Brock Bowers (TE, LV) [Questionable]; Luther Burden III (WR, CHI); Drew Stevens (K, WAS); Carolina Panthers (DEF, CAR)
+Bench: Emanuel Wilson (RB, SEA); MarShawn Lloyd (RB, GB); Jordyn Tyson (WR, NO); Baker Mayfield (QB, TB); Josh Jacobs (RB, GB) [Out]; Juwan Johnson (TE, NO) [Out]
 IR: Brian Robinson Jr. (RB, ATL) [IR]
 
 ### THE ACE OF SPADES (me) · 6-5 · 1198.5 pts · waiver priority 12
 Starters: J.J. McCarthy (QB, NYG); Emmett Johnson (RB, KC); Saquon Barkley (RB, PHI) [Questionable]; Rome Odunze (WR, CHI); Rashee Rice (WR, KC); George Kittle (TE, SF); Chase Brown (RB, CIN); Jake Bates (K, DET); Houston Texans (DEF, HOU)
-Bench: Drake Maye (QB, NE) [Out]; Omar Cooper Jr. (WR, NYJ) [Questionable]; Mike Evans (WR, SF) [Questionable]; Samaje Perine (RB, CIN); A.J. Brown (WR, NE) [Doubtful]; Kenneth Walker III (RB, KC) [Out]
+Bench: Drake Maye (QB, NE) [Out]; Omar Cooper Jr. (WR, NYJ) [Out]; Mike Evans (WR, SF) [Questionable]; Samaje Perine (RB, CIN); A.J. Brown (WR, NE) [Out]; Kenneth Walker III (RB, KC) [Out]
 
 ### Young Blood · 6-5 · 1160.2 pts · waiver priority 5
 Starters: Caleb Williams (QB, CHI) [Questionable]; Jonathan Taylor (RB, IND); D'Andre Swift (RB, CHI); George Pickens (WR, DAL); Justin Jefferson (WR, MIN); Brenton Strange (TE, JAX); Aaron Jones Sr. (RB, MIN); Will Reichard (K, MIN); San Francisco 49ers (DEF, SF)
@@ -65,24 +65,24 @@ Bench: Jalen Coker (WR, CAR); Kirk Cousins (QB, MIN); Hunter Henry (TE, NE); Ton
 IR: Davante Adams (WR, LAR) [IR]
 
 ### Drunk To Taste This CHX · 6-5 · 1156.2 pts · waiver priority 9
-Starters: C.J. Stroud (QB, HOU); Derrick Henry (RB, BAL) [Questionable]; Kyren Williams (RB, LAR); Jameson Williams (WR, DET); Garrett Wilson (WR, NYJ); Travis Kelce (TE, KC); Josh Downs (WR, KC); Jason Sanders (K, NYJ); Detroit Lions (DEF, DET)
+Starters: C.J. Stroud (QB, HOU); Derrick Henry (RB, BAL); Kyren Williams (RB, LAR); Jameson Williams (WR, DET); Garrett Wilson (WR, NYJ); Travis Kelce (TE, KC); Josh Downs (WR, KC); Jason Sanders (K, NYJ); Detroit Lions (DEF, DET)
 Bench: Braelon Allen (RB, NYJ); Ladd McConkey (WR, LAC); Konata Mumpfield (WR, LAR); Carnell Tate (WR, TEN); Antonio Williams (WR, WAS); Jason Myers (K, SEA)
 
 ### Springfield Atoms · 6-5 · 1132.6 pts · waiver priority 8
-Starters: Josh Allen (QB, BUF); Travis Etienne Jr. (RB, NO); David Montgomery (RB, HOU); CeeDee Lamb (WR, DAL); Tre Tucker (WR, LV); Sam LaPorta (TE, DET); Isaiah Likely (TE, NYG) [Questionable]; Brandon Aubrey (K, DAL); Denver Broncos (DEF, DEN)
-Bench: Devaughn Vele (WR, NO); Woody Marks (RB, HOU) [Questionable]; Jared Goff (QB, DET); Kenny Gainwell (RB, TB); Khalil Shakir (WR, BUF); Los Angeles Rams (DEF, LAR)
+Starters: Josh Allen (QB, BUF); Travis Etienne Jr. (RB, NO); David Montgomery (RB, HOU); CeeDee Lamb (WR, DAL); Tre Tucker (WR, LV); Sam LaPorta (TE, DET); Isaiah Likely (TE, NYG); Brandon Aubrey (K, DAL); Denver Broncos (DEF, DEN)
+Bench: Devaughn Vele (WR, NO); Woody Marks (RB, HOU); Jared Goff (QB, DET); Kenny Gainwell (RB, TB); Khalil Shakir (WR, BUF); Los Angeles Rams (DEF, LAR)
 IR: Jonathon Brooks (RB, CAR) [IR]
 
 ### Team 8 · 5-6 · 1223.2 pts · waiver priority 2
-Starters: Trevor Lawrence (QB, JAX); Bijan Robinson (RB, ATL); Javonte Williams (RB, DAL); Tee Higgins (WR, CIN); Drake London (WR, ATL); Mike Gesicki (TE, CIN); Adonai Mitchell (WR, NYJ); Tyler Bass (K, BUF); Minnesota Vikings (DEF, MIN)
-Bench: Michael Wilson (WR, ARI) [IR]; Elic Ayomanor (WR, TEN); Kyle Monangai (RB, CHI); Deshaun Watson (QB, CLE); Dalton Schultz (TE, HOU) [Questionable]; T.J. Hockenson (TE, MIN)
+Starters: Trevor Lawrence (QB, JAX); Bijan Robinson (RB, ATL); Javonte Williams (RB, DAL); Tee Higgins (WR, CIN) [Questionable]; Drake London (WR, ATL); Mike Gesicki (TE, CIN); Adonai Mitchell (WR, NYJ); Tyler Bass (K, BUF); Minnesota Vikings (DEF, MIN)
+Bench: Michael Wilson (WR, ARI) [IR]; Elic Ayomanor (WR, TEN); Kyle Monangai (RB, CHI); Deshaun Watson (QB, CLE); Dalton Schultz (TE, HOU); T.J. Hockenson (TE, MIN)
 
 ### Holla · 4-7 · 1265.8 pts · waiver priority 11
 Starters: Patrick Mahomes (QB, KC); Christian McCaffrey (RB, SF); Cam Skattebo (RB, NYG); Ja'Marr Chase (WR, CIN); Zay Flowers (WR, BAL); Colston Loveland (TE, CHI) [Out]; Ollie Gordon II (RB, MIA); Ka'imi Fairbairn (K, HOU); Cincinnati Bengals (DEF, CIN)
-Bench: Jakobi Meyers (WR, JAX) [Questionable]; Breece Hall (RB, NYJ); Jordan Mason (RB, MIN); Tucker Kraft (TE, GB); Zach Charbonnet (RB, SEA); Kansas City Chiefs (DEF, KC)
+Bench: Jakobi Meyers (WR, JAX); Breece Hall (RB, NYJ); Jordan Mason (RB, MIN); Tucker Kraft (TE, GB); Zach Charbonnet (RB, SEA); Kansas City Chiefs (DEF, KC)
 
 ### Strokin My Ditka · 4-7 · 1134.7 pts · waiver priority 6
-Starters: Jayden Daniels (QB, WAS); Omarion Hampton (RB, LAC); Jaylen Warren (RB, PIT); Stefon Diggs (WR, WAS); Tetairoa McMillan (WR, CAR) [Questionable]; Tyler Warren (TE, IND); Jaxon Smith-Njigba (WR, SEA) [Questionable]; Chase McLaughlin (K, TB); Miami Dolphins (DEF, MIA)
+Starters: Jayden Daniels (QB, WAS); Omarion Hampton (RB, LAC); Jaylen Warren (RB, PIT); Stefon Diggs (WR, WAS); Tetairoa McMillan (WR, CAR) [Questionable]; Tyler Warren (TE, IND); Jaxon Smith-Njigba (WR, SEA); Chase McLaughlin (K, TB); Miami Dolphins (DEF, MIA)
 Bench: Bo Nix (QB, DEN); Jadarian Price (RB, SEA); Chris Godwin Jr. (WR, TB); Austin Ekeler (RB, WAS); Kyle Pitts Sr. (TE, ATL); Zonovan Knight (RB, ARI)
 IR: TreVeyon Henderson (RB, NE) [IR]
 
@@ -91,7 +91,7 @@ Starters: Bryce Young (QB, CAR); Chuba Hubbard (RB, CAR); Ashton Jeanty (RB, LV)
 Bench: Harold Fannin Jr. (TE, CLE); Quinshon Judkins (RB, CLE); Tyler Shough (QB, NO); Denzel Boston (WR, CLE) [Questionable]; Rhamondre Stevenson (RB, NE); Tampa Bay Buccaneers (DEF, TB)
 
 ### Team 9 · 2-9 · 1027.7 pts · waiver priority 1
-Starters: Brock Purdy (QB, SF) [Questionable]; Chris Rodriguez Jr. (RB, JAX); Tyler Allgeier (RB, ARI); Jaylen Waddle (WR, DEN); DJ Moore (WR, BUF); Darren Waller (TE, CAR) [Questionable]; Alvin Kamara (RB, NO); Cairo Santos (K, CHI); Buffalo Bills (DEF, BUF)
+Starters: Brock Purdy (QB, SF) [Out]; Chris Rodriguez Jr. (RB, JAX); Tyler Allgeier (RB, ARI); Jaylen Waddle (WR, DEN); DJ Moore (WR, BUF); Darren Waller (TE, CAR) [Questionable]; Alvin Kamara (RB, NO); Cairo Santos (K, CHI); Buffalo Bills (DEF, BUF)
 Bench: Keon Coleman (WR, BUF); Jeremiyah Love (RB, ARI) [IR]; KC Concepcion Jr. (WR, CLE); Dak Prescott (QB, DAL); Puka Nacua (WR, LAR) [IR]
 IR: RJ Harvey (RB, DEN) [IR]
 
@@ -108,7 +108,7 @@ IR: RJ Harvey (RB, DEN) [IR]
 - Week 11 · free_agent · complete · Sun Nov 22 10:00 AM · Team 8 · added: Adonai Mitchell (WR, NYJ) to Team 8 · dropped: Jake Ferguson (TE, DAL) [Out] from Team 8
 - Week 11 · free_agent · complete · Sun Nov 22 09:59 AM · Team 8 · added: Elic Ayomanor (WR, TEN) to Team 8 · dropped: Wan'Dale Robinson (WR, TEN) [IR] from Team 8
 - Week 11 · free_agent · complete · Thu Nov 19 07:28 PM · Springfield Atoms · added: Los Angeles Rams (DEF, LAR) to Springfield Atoms · dropped: Green Bay Packers (DEF, GB) from Springfield Atoms
-- Week 11 · free_agent · complete · Thu Nov 19 02:16 PM · Make Miami Great Again · added: Justin Herbert (QB, LAC) [Questionable] to Make Miami Great Again · dropped: Matthew Stafford (QB, LAR) from Make Miami Great Again
+- Week 11 · free_agent · complete · Thu Nov 19 02:16 PM · Make Miami Great Again · added: Justin Herbert (QB, LAC) [Out] to Make Miami Great Again · dropped: Matthew Stafford (QB, LAR) from Make Miami Great Again
 - Week 11 · free_agent · complete · Thu Nov 19 02:16 PM · Make Miami Great Again · added: Drew Stevens (K, WAS) to Make Miami Great Again · dropped: Brandon McManus (K, LAR) from Make Miami Great Again
 - Week 11 · free_agent · complete · Thu Nov 19 02:15 PM · Make Miami Great Again · added: Carolina Panthers (DEF, CAR) to Make Miami Great Again · dropped: Washington Commanders (DEF, WAS) from Make Miami Great Again
 - Week 11 · free_agent · complete · Thu Nov 19 02:15 PM · Make Miami Great Again · added: Baker Mayfield (QB, TB) to Make Miami Great Again · dropped: Devin Singletary (RB, NYG) from Make Miami Great Again
@@ -150,19 +150,19 @@ Sleeper's weekly projections (provider: rotowire), scored with this league's sco
 - RB: Saquon Barkley (RB, PHI) [Questionable] · 14.0 projected · RB10
 - WR: Rome Odunze (WR, CHI) · 8.8 projected · WR20
 - WR: Rashee Rice (WR, KC) · 7.8 projected · WR24
-- TE: George Kittle (TE, SF) · 6.4 projected · TE10
+- TE: George Kittle (TE, SF) · 6.7 projected · TE9
 - FLEX: Chase Brown (RB, CIN) · 10.5 projected · RB23
 - K: Jake Bates (K, DET) · 8.4 projected (Sleeper standard) · K9
 - DEF: Houston Texans (DEF, HOU) · 8.3 projected (Sleeper standard) · DEF5
 - BN: Drake Maye (QB, NE) [Out] · no projection (bye, out, or not projected)
-- BN: Omar Cooper Jr. (WR, NYJ) [Questionable] · no projection (bye, out, or not projected)
-- BN: Mike Evans (WR, SF) [Questionable] · 8.2 projected · WR23
+- BN: Omar Cooper Jr. (WR, NYJ) [Out] · no projection (bye, out, or not projected)
+- BN: Mike Evans (WR, SF) [Questionable] · 8.7 projected · WR22
 - BN: Samaje Perine (RB, CIN) · 7.9 projected · RB32
-- BN: A.J. Brown (WR, NE) [Doubtful] · no projection (bye, out, or not projected)
+- BN: A.J. Brown (WR, NE) [Out] · no projection (bye, out, or not projected)
 - BN: Kenneth Walker III (RB, KC) [Out] · no projection (bye, out, or not projected)
 ### Opponent's starters
 - QB: Caleb Williams (QB, CHI) [Questionable] · 27.9 projected · QB6
-- RB: Jonathan Taylor (RB, IND) · 13.6 projected · RB12
+- RB: Jonathan Taylor (RB, IND) · 13.6 projected · RB11
 - RB: D'Andre Swift (RB, CHI) · 12.2 projected · RB15
 - WR: George Pickens (WR, DAL) · 10.3 projected · WR14
 - WR: Justin Jefferson (WR, MIN) · 12.1 projected · WR6
@@ -172,12 +172,12 @@ Sleeper's weekly projections (provider: rotowire), scored with this league's sco
 - DEF: San Francisco 49ers (DEF, SF) · 6.3 projected (Sleeper standard) · DEF17
 ### Best available by projection (on no roster in my league)
 - Geno Smith (QB, NYJ) · 24.8 projected · QB8
-- Sam Darnold (QB, SEA) · 20.8 projected · QB15
+- Sam Darnold (QB, SEA) · 21.2 projected · QB15
 - Matthew Stafford (QB, LAR) · 19.4 projected · QB19 · free agent now
 - Dylan Sampson (RB, CLE) · 6.8 projected · RB37
 - Corey Kiner (RB, NE) · 6.6 projected · RB38 · free agent now
-- Devin Singletary (RB, NYG) · 6.2 projected · RB40 · free agent now
-- Kimani Vidal (RB, LAC) · 6.1 projected · RB43
+- Kimani Vidal (RB, LAC) · 6.4 projected · RB40
+- Devin Singletary (RB, NYG) · 6.2 projected · RB41 · free agent now
 - Kaleb Johnson (RB, GB) · 5.7 projected · RB44
 - Josh Cameron (WR, JAX) · 6.8 projected · WR31
 - Malik Washington (WR, MIA) · 6.1 projected · WR37
@@ -186,7 +186,7 @@ Sleeper's weekly projections (provider: rotowire), scored with this league's sco
 - Brian Thomas Jr. (WR, JAX) · 5.2 projected · WR44
 - Dallas Goedert (TE, PHI) [Out] · 6.8 projected · TE7
 - Chig Okonkwo (TE, WAS) · 6.2 projected · TE13
-- AJ Barner (TE, SEA) · 4.3 projected · TE22
+- AJ Barner (TE, SEA) · 4.4 projected · TE22
 - Dominic Zvada (K, NYG) · 8.8 projected (Sleeper standard) · K5
 - Spencer Shrader (K, IND) · 8.8 projected (Sleeper standard) · K6 · free agent now
 - New England Patriots (DEF, NE) · 8.2 projected (Sleeper standard) · DEF6
@@ -194,30 +194,30 @@ Sleeper's weekly projections (provider: rotowire), scored with this league's sco
 - Dallas Cowboys (DEF, DAL) · 8.1 projected (Sleeper standard) · DEF9
 
 ## Trending adds across Sleeper, last 24 hours
-- Chris Rodriguez Jr. (RB, JAX) · 397,575 adds · rostered by Team 9
-- Brian Thomas Jr. (WR, JAX) · 389,595 adds · AVAILABLE in my league
-- Josh Cameron (WR, JAX) · 281,478 adds · AVAILABLE in my league
-- Sam Roush (TE, CHI) · 255,143 adds · AVAILABLE in my league
-- Deshaun Watson (QB, CLE) · 251,976 adds · rostered by Team 8
-- DJ Uiagalelei (QB, LAC) · 237,357 adds · AVAILABLE in my league
-- Jakobi Meyers (WR, JAX) [Questionable] · 217,062 adds · rostered by Holla
-- Geno Smith (QB, NYJ) · 150,780 adds · AVAILABLE in my league
-- Joe Milton (QB, PHI) · 102,260 adds · AVAILABLE in my league
-- Brenton Strange (TE, JAX) · 87,354 adds · rostered by Young Blood
-- J.J. McCarthy (QB, NYG) · 75,690 adds · on my roster
-- Chimere Dike (WR, TEN) · 71,640 adds · AVAILABLE in my league
-- Fernando Mendoza (QB, LV) · 59,816 adds · AVAILABLE in my league
-- Tyler Shough (QB, NO) · 53,136 adds · rostered by Whiskey Sippin Kings
-- New England Patriots (DEF, NE) · 49,987 adds · AVAILABLE in my league
-- Kirk Cousins (QB, MIN) · 48,304 adds · rostered by Young Blood
-- Samaje Perine (RB, CIN) · 46,408 adds · on my roster
-- Tai Felton (WR, MIN) · 45,030 adds · AVAILABLE in my league
-- Mac Jones (QB, SF) · 42,140 adds · AVAILABLE in my league
-- Justice Hill (RB, BAL) · 37,404 adds · rostered by Make Miami Great Again
-- Jacory Croskey-Merritt (RB, WAS) · 36,945 adds · rostered by Thoroughbred Cheesehead
-- Darren Waller (TE, CAR) [Questionable] · 32,148 adds · rostered by Team 9
-- Evan Engram (TE, DEN) · 31,592 adds · AVAILABLE in my league
-- Sam Darnold (QB, SEA) · 30,417 adds · AVAILABLE in my league
-- Adonai Mitchell (WR, NYJ) · 30,088 adds · rostered by Team 8
+- Chris Rodriguez Jr. (RB, JAX) · 443,286 adds · rostered by Team 9
+- Brian Thomas Jr. (WR, JAX) · 335,915 adds · AVAILABLE in my league
+- DJ Uiagalelei (QB, LAC) · 284,787 adds · AVAILABLE in my league
+- Deshaun Watson (QB, CLE) · 256,696 adds · rostered by Team 8
+- Sam Roush (TE, CHI) · 243,649 adds · AVAILABLE in my league
+- Josh Cameron (WR, JAX) · 240,894 adds · AVAILABLE in my league
+- Jakobi Meyers (WR, JAX) · 175,146 adds · rostered by Holla
+- Geno Smith (QB, NYJ) · 158,564 adds · AVAILABLE in my league
+- Joe Milton (QB, PHI) · 82,332 adds · AVAILABLE in my league
+- Brenton Strange (TE, JAX) · 79,812 adds · rostered by Young Blood
+- J.J. McCarthy (QB, NYG) · 79,389 adds · on my roster
+- Fernando Mendoza (QB, LV) · 61,048 adds · AVAILABLE in my league
+- Tyler Shough (QB, NO) · 56,488 adds · rostered by Whiskey Sippin Kings
+- New England Patriots (DEF, NE) · 52,640 adds · AVAILABLE in my league
+- Kirk Cousins (QB, MIN) · 49,896 adds · rostered by Young Blood
+- Chimere Dike (WR, TEN) · 49,635 adds · AVAILABLE in my league
+- Mac Jones (QB, SF) · 45,761 adds · AVAILABLE in my league
+- Samaje Perine (RB, CIN) · 43,328 adds · on my roster
+- Tai Felton (WR, MIN) · 42,222 adds · AVAILABLE in my league
+- Jacory Croskey-Merritt (RB, WAS) · 35,127 adds · rostered by Thoroughbred Cheesehead
+- Justice Hill (RB, BAL) · 32,985 adds · rostered by Make Miami Great Again
+- Darren Waller (TE, CAR) [Questionable] · 32,310 adds · rostered by Team 9
+- Sam Darnold (QB, SEA) · 32,286 adds · AVAILABLE in my league
+- C.J. Stroud (QB, HOU) · 29,736 adds · rostered by Drunk To Taste This CHX
+- Dylan Sampson (RB, CLE) · 28,310 adds · AVAILABLE in my league
 
 Data from the Sleeper API (sleeper.com). Injury tags in brackets are Sleeper's designations and may lag official reports.

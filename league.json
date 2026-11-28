@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-28T03:03:43.760514-05:00",
+  "generated": "2026-11-28T11:58:41.988005-05:00",
   "season": "2026",
   "week": 12,
   "league": {
@@ -42,10 +42,10 @@
     ],
     "bench": [
       "Drake Maye (QB, NE) [Out]",
-      "Omar Cooper Jr. (WR, NYJ) [Questionable]",
+      "Omar Cooper Jr. (WR, NYJ) [Out]",
       "Mike Evans (WR, SF) [Questionable]",
       "Samaje Perine (RB, CIN)",
-      "A.J. Brown (WR, NE) [Doubtful]",
+      "A.J. Brown (WR, NE) [Out]",
       "Kenneth Walker III (RB, KC) [Out]"
     ],
     "ir": []
@@ -101,7 +101,7 @@
         "Jahmyr Gibbs (RB, DET)",
         "Jonah Coleman (RB, DEN)",
         "Malik Nabers (WR, NYG)",
-        "Parker Washington (WR, JAX) [Questionable]",
+        "Parker Washington (WR, JAX) [Out]",
         "Trey McBride (TE, ARI)",
         "Matthew Golden (WR, GB)",
         "Cam Little (K, JAX)",
@@ -161,9 +161,9 @@
       "waiver_position": 4,
       "faab_used": 0,
       "starters": [
-        "Justin Herbert (QB, LAC) [Questionable]",
+        "Justin Herbert (QB, LAC) [Out]",
         "Justice Hill (RB, BAL)",
-        "Bhayshul Tuten (RB, JAX) [Questionable]",
+        "Bhayshul Tuten (RB, JAX) [Out]",
         "Nico Collins (WR, HOU)",
         "DK Metcalf (WR, PIT)",
         "Brock Bowers (TE, LV) [Questionable]",
@@ -177,7 +177,7 @@
         "Jordyn Tyson (WR, NO)",
         "Baker Mayfield (QB, TB)",
         "Josh Jacobs (RB, GB) [Out]",
-        "Juwan Johnson (TE, NO) [Questionable]"
+        "Juwan Johnson (TE, NO) [Out]"
       ],
       "ir": [
         "Brian Robinson Jr. (RB, ATL) [IR]"
@@ -207,10 +207,10 @@
       ],
       "bench": [
         "Drake Maye (QB, NE) [Out]",
-        "Omar Cooper Jr. (WR, NYJ) [Questionable]",
+        "Omar Cooper Jr. (WR, NYJ) [Out]",
         "Mike Evans (WR, SF) [Questionable]",
         "Samaje Perine (RB, CIN)",
-        "A.J. Brown (WR, NE) [Doubtful]",
+        "A.J. Brown (WR, NE) [Out]",
         "Kenneth Walker III (RB, KC) [Out]"
       ],
       "ir": []
@@ -262,7 +262,7 @@
       "faab_used": 60,
       "starters": [
         "C.J. Stroud (QB, HOU)",
-        "Derrick Henry (RB, BAL) [Questionable]",
+        "Derrick Henry (RB, BAL)",
         "Kyren Williams (RB, LAR)",
         "Jameson Williams (WR, DET)",
         "Garrett Wilson (WR, NYJ)",
@@ -299,13 +299,13 @@
         "CeeDee Lamb (WR, DAL)",
         "Tre Tucker (WR, LV)",
         "Sam LaPorta (TE, DET)",
-        "Isaiah Likely (TE, NYG) [Questionable]",
+        "Isaiah Likely (TE, NYG)",
         "Brandon Aubrey (K, DAL)",
         "Denver Broncos (DEF, DEN)"
       ],
       "bench": [
         "Devaughn Vele (WR, NO)",
-        "Woody Marks (RB, HOU) [Questionable]",
+        "Woody Marks (RB, HOU)",
         "Jared Goff (QB, DET)",
         "Kenny Gainwell (RB, TB)",
         "Khalil Shakir (WR, BUF)",
@@ -330,7 +330,7 @@
         "Trevor Lawrence (QB, JAX)",
         "Bijan Robinson (RB, ATL)",
         "Javonte Williams (RB, DAL)",
-        "Tee Higgins (WR, CIN)",
+        "Tee Higgins (WR, CIN) [Questionable]",
         "Drake London (WR, ATL)",
         "Mike Gesicki (TE, CIN)",
         "Adonai Mitchell (WR, NYJ)",
@@ -342,7 +342,7 @@
         "Elic Ayomanor (WR, TEN)",
         "Kyle Monangai (RB, CHI)",
         "Deshaun Watson (QB, CLE)",
-        "Dalton Schultz (TE, HOU) [Questionable]",
+        "Dalton Schultz (TE, HOU)",
         "T.J. Hockenson (TE, MIN)"
       ],
       "ir": []
@@ -370,7 +370,7 @@
         "Cincinnati Bengals (DEF, CIN)"
       ],
       "bench": [
-        "Jakobi Meyers (WR, JAX) [Questionable]",
+        "Jakobi Meyers (WR, JAX)",
         "Breece Hall (RB, NYJ)",
         "Jordan Mason (RB, MIN)",
         "Tucker Kraft (TE, GB)",
@@ -397,7 +397,7 @@
         "Stefon Diggs (WR, WAS)",
         "Tetairoa McMillan (WR, CAR) [Questionable]",
         "Tyler Warren (TE, IND)",
-        "Jaxon Smith-Njigba (WR, SEA) [Questionable]",
+        "Jaxon Smith-Njigba (WR, SEA)",
         "Chase McLaughlin (K, TB)",
         "Miami Dolphins (DEF, MIA)"
       ],
@@ -457,7 +457,7 @@
       "waiver_position": 1,
       "faab_used": 0,
       "starters": [
-        "Brock Purdy (QB, SF) [Questionable]",
+        "Brock Purdy (QB, SF) [Out]",
         "Chris Rodriguez Jr. (RB, JAX)",
         "Tyler Allgeier (RB, ARI)",
         "Jaylen Waddle (WR, DEN)",
@@ -492,7 +492,7 @@
     "Week 11 \u00b7 free_agent \u00b7 complete \u00b7 Sun Nov 22 10:00 AM \u00b7 Team 8 \u00b7 added: Adonai Mitchell (WR, NYJ) to Team 8 \u00b7 dropped: Jake Ferguson (TE, DAL) [Out] from Team 8",
     "Week 11 \u00b7 free_agent \u00b7 complete \u00b7 Sun Nov 22 09:59 AM \u00b7 Team 8 \u00b7 added: Elic Ayomanor (WR, TEN) to Team 8 \u00b7 dropped: Wan'Dale Robinson (WR, TEN) [IR] from Team 8",
     "Week 11 \u00b7 free_agent \u00b7 complete \u00b7 Thu Nov 19 07:28 PM \u00b7 Springfield Atoms \u00b7 added: Los Angeles Rams (DEF, LAR) to Springfield Atoms \u00b7 dropped: Green Bay Packers (DEF, GB) from Springfield Atoms",
-    "Week 11 \u00b7 free_agent \u00b7 complete \u00b7 Thu Nov 19 02:16 PM \u00b7 Make Miami Great Again \u00b7 added: Justin Herbert (QB, LAC) [Questionable] to Make Miami Great Again \u00b7 dropped: Matthew Stafford (QB, LAR) from Make Miami Great Again",
+    "Week 11 \u00b7 free_agent \u00b7 complete \u00b7 Thu Nov 19 02:16 PM \u00b7 Make Miami Great Again \u00b7 added: Justin Herbert (QB, LAC) [Out] to Make Miami Great Again \u00b7 dropped: Matthew Stafford (QB, LAR) from Make Miami Great Again",
     "Week 11 \u00b7 free_agent \u00b7 complete \u00b7 Thu Nov 19 02:16 PM \u00b7 Make Miami Great Again \u00b7 added: Drew Stevens (K, WAS) to Make Miami Great Again \u00b7 dropped: Brandon McManus (K, LAR) from Make Miami Great Again",
     "Week 11 \u00b7 free_agent \u00b7 complete \u00b7 Thu Nov 19 02:15 PM \u00b7 Make Miami Great Again \u00b7 added: Carolina Panthers (DEF, CAR) to Make Miami Great Again \u00b7 dropped: Washington Commanders (DEF, WAS) from Make Miami Great Again",
     "Week 11 \u00b7 free_agent \u00b7 complete \u00b7 Thu Nov 19 02:15 PM \u00b7 Make Miami Great Again \u00b7 added: Baker Mayfield (QB, TB) to Make Miami Great Again \u00b7 dropped: Devin Singletary (RB, NYG) from Make Miami Great Again",
@@ -695,8 +695,8 @@
       {
         "player": "George Kittle (TE, SF)",
         "slot": "TE",
-        "points": 6.4,
-        "rank": "TE10",
+        "points": 6.7,
+        "rank": "TE9",
         "scoring": "league"
       },
       {
@@ -727,7 +727,7 @@
         "rank": null
       },
       {
-        "player": "Omar Cooper Jr. (WR, NYJ) [Questionable]",
+        "player": "Omar Cooper Jr. (WR, NYJ) [Out]",
         "slot": "BN",
         "points": null,
         "rank": null
@@ -735,8 +735,8 @@
       {
         "player": "Mike Evans (WR, SF) [Questionable]",
         "slot": "BN",
-        "points": 8.2,
-        "rank": "WR23",
+        "points": 8.7,
+        "rank": "WR22",
         "scoring": "league"
       },
       {
@@ -747,7 +747,7 @@
         "scoring": "league"
       },
       {
-        "player": "A.J. Brown (WR, NE) [Doubtful]",
+        "player": "A.J. Brown (WR, NE) [Out]",
         "slot": "BN",
         "points": null,
         "rank": null
@@ -771,7 +771,7 @@
         "player": "Jonathan Taylor (RB, IND)",
         "slot": "RB",
         "points": 13.6,
-        "rank": "RB12",
+        "rank": "RB11",
         "scoring": "league"
       },
       {
@@ -836,7 +836,7 @@
         {
           "player": "Sam Darnold (QB, SEA)",
           "slot": null,
-          "points": 20.8,
+          "points": 21.2,
           "rank": "QB15",
           "scoring": "league"
         },
@@ -866,19 +866,19 @@
           "waiver_status": "free agent now"
         },
         {
+          "player": "Kimani Vidal (RB, LAC)",
+          "slot": null,
+          "points": 6.4,
+          "rank": "RB40",
+          "scoring": "league"
+        },
+        {
           "player": "Devin Singletary (RB, NYG)",
           "slot": null,
           "points": 6.2,
-          "rank": "RB40",
+          "rank": "RB41",
           "scoring": "league",
           "waiver_status": "free agent now"
-        },
-        {
-          "player": "Kimani Vidal (RB, LAC)",
-          "slot": null,
-          "points": 6.1,
-          "rank": "RB43",
-          "scoring": "league"
         },
         {
           "player": "Kaleb Johnson (RB, GB)",
@@ -943,7 +943,7 @@
         {
           "player": "AJ Barner (TE, SEA)",
           "slot": null,
-          "points": 4.3,
+          "points": 4.4,
           "rank": "TE22",
           "scoring": "league"
         }
@@ -994,128 +994,128 @@
   "trending_adds": [
     {
       "player": "Chris Rodriguez Jr. (RB, JAX)",
-      "adds": 397575,
+      "adds": 443286,
       "rostered_by": 9
     },
     {
       "player": "Brian Thomas Jr. (WR, JAX)",
-      "adds": 389595,
+      "adds": 335915,
       "rostered_by": null
     },
     {
-      "player": "Josh Cameron (WR, JAX)",
-      "adds": 281478,
-      "rostered_by": null
-    },
-    {
-      "player": "Sam Roush (TE, CHI)",
-      "adds": 255143,
+      "player": "DJ Uiagalelei (QB, LAC)",
+      "adds": 284787,
       "rostered_by": null
     },
     {
       "player": "Deshaun Watson (QB, CLE)",
-      "adds": 251976,
+      "adds": 256696,
       "rostered_by": 8
     },
     {
-      "player": "DJ Uiagalelei (QB, LAC)",
-      "adds": 237357,
+      "player": "Sam Roush (TE, CHI)",
+      "adds": 243649,
       "rostered_by": null
     },
     {
-      "player": "Jakobi Meyers (WR, JAX) [Questionable]",
-      "adds": 217062,
+      "player": "Josh Cameron (WR, JAX)",
+      "adds": 240894,
+      "rostered_by": null
+    },
+    {
+      "player": "Jakobi Meyers (WR, JAX)",
+      "adds": 175146,
       "rostered_by": 2
     },
     {
       "player": "Geno Smith (QB, NYJ)",
-      "adds": 150780,
+      "adds": 158564,
       "rostered_by": null
     },
     {
       "player": "Joe Milton (QB, PHI)",
-      "adds": 102260,
+      "adds": 82332,
       "rostered_by": null
     },
     {
       "player": "Brenton Strange (TE, JAX)",
-      "adds": 87354,
+      "adds": 79812,
       "rostered_by": 12
     },
     {
       "player": "J.J. McCarthy (QB, NYG)",
-      "adds": 75690,
+      "adds": 79389,
       "rostered_by": 11
     },
     {
-      "player": "Chimere Dike (WR, TEN)",
-      "adds": 71640,
-      "rostered_by": null
-    },
-    {
       "player": "Fernando Mendoza (QB, LV)",
-      "adds": 59816,
+      "adds": 61048,
       "rostered_by": null
     },
     {
       "player": "Tyler Shough (QB, NO)",
-      "adds": 53136,
+      "adds": 56488,
       "rostered_by": 1
     },
     {
       "player": "New England Patriots (DEF, NE)",
-      "adds": 49987,
+      "adds": 52640,
       "rostered_by": null
     },
     {
       "player": "Kirk Cousins (QB, MIN)",
-      "adds": 48304,
+      "adds": 49896,
       "rostered_by": 12
     },
     {
-      "player": "Samaje Perine (RB, CIN)",
-      "adds": 46408,
-      "rostered_by": 11
-    },
-    {
-      "player": "Tai Felton (WR, MIN)",
-      "adds": 45030,
+      "player": "Chimere Dike (WR, TEN)",
+      "adds": 49635,
       "rostered_by": null
     },
     {
       "player": "Mac Jones (QB, SF)",
-      "adds": 42140,
+      "adds": 45761,
       "rostered_by": null
     },
     {
-      "player": "Justice Hill (RB, BAL)",
-      "adds": 37404,
-      "rostered_by": 7
+      "player": "Samaje Perine (RB, CIN)",
+      "adds": 43328,
+      "rostered_by": 11
+    },
+    {
+      "player": "Tai Felton (WR, MIN)",
+      "adds": 42222,
+      "rostered_by": null
     },
     {
       "player": "Jacory Croskey-Merritt (RB, WAS)",
-      "adds": 36945,
+      "adds": 35127,
       "rostered_by": 4
     },
     {
+      "player": "Justice Hill (RB, BAL)",
+      "adds": 32985,
+      "rostered_by": 7
+    },
+    {
       "player": "Darren Waller (TE, CAR) [Questionable]",
-      "adds": 32148,
+      "adds": 32310,
       "rostered_by": 9
     },
     {
-      "player": "Evan Engram (TE, DEN)",
-      "adds": 31592,
-      "rostered_by": null
-    },
-    {
       "player": "Sam Darnold (QB, SEA)",
-      "adds": 30417,
+      "adds": 32286,
       "rostered_by": null
     },
     {
-      "player": "Adonai Mitchell (WR, NYJ)",
-      "adds": 30088,
-      "rostered_by": 8
+      "player": "C.J. Stroud (QB, HOU)",
+      "adds": 29736,
+      "rostered_by": 3
+    },
+    {
+      "player": "Dylan Sampson (RB, CLE)",
+      "adds": 28310,
+      "rostered_by": null
     }
   ]
 }
